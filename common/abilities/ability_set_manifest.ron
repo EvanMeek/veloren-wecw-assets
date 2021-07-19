@@ -15,6 +15,14 @@
             (Some(Sword(UnlockSpin)), "common.abilities.sword.spingreat"),
         ],
     ),
+    Custom("gayabergSword"): (
+        primary: "common.abilities.sword.triplestrikegreat",
+        secondary: "common.abilities.sword.dashgreat",
+        abilities: [
+            (Some(Sword(UnlockSpin)), "common.abilities.sword.spingreat"),
+            (None, "common.abilities.sword.Sword_Frozen"),
+        ],
+    ),
     Custom("Swordepic"): (
         primary: "common.abilities.sword.triplestrikeepic",
         secondary: "common.abilities.sword.dash",
