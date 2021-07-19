@@ -23,6 +23,16 @@
             (None, "common.abilities.sword.Sword_Frozen"),
         ],
     ),
+    Custom("riventheexile"): (
+        primary: "common.abilities.sword.triplestrikegreat",
+        secondary: "common.abilities.sword.dashgreat",
+        abilities: [
+            (Some(Sword(UnlockSpin)), "common.abilities.sword.spingreat"),
+            // (None, "common.abilities.custom.mindflayer.necroticsphere"),
+            (Some(Staff(UnlockShockwave)), "common.abilities.staff.mindflayershock"),
+            // (Some(Sceptre(UnlockAura)), "common.abilities.sceptre.wardingauraexg"),
+        ],
+    ),
     Custom("Swordepic"): (
         primary: "common.abilities.sword.triplestrikeepic",
         secondary: "common.abilities.sword.dash",
