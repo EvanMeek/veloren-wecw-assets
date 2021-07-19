@@ -1,0 +1,20 @@
+ItemDef(
+    name: "紫水晶棒(特殊纪念品)",
+    description: "上面镶嵌着最接近完美的紫水晶",
+    kind: Tool((
+        kind: Sceptre,
+        hands: Two,
+        stats: Direct((
+            equip_time_secs: 0.4,
+            power: 1.8,
+            effect_power: 1.5,
+            speed: 1.2,
+            crit_chance: 0.1,
+            range: 1.0,
+            energy_efficiency: 1.0,
+            buff_strength: 1.0,
+        )),
+    )),
+    quality: Epic,
+    tags: [],
+)

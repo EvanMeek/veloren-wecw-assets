@@ -1,0 +1,18 @@
+ItemDef(
+    name: "旅行者背包",
+    description: "能装下不少物品，但背着这么个大家伙会影响行动，也许战斗的时候应该脱下？",
+    kind: Armor((
+        kind: Back("Backpack"),
+        stats: (
+            protection: Normal(0.0),
+            poise_resilience: Normal(-20.0),
+            energy_max: 0,
+            energy_reward: 0.0,
+            crit_power: 0.0,
+            stealth: 0.0,
+        ),
+    )),
+    quality: High,
+    tags: [Bag],
+    slots: 32,
+)

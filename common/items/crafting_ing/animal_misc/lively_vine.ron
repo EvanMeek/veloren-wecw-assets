@@ -1,0 +1,9 @@
+ItemDef(
+    name: "活性葡萄藤",
+    description: "我觉得它动了.",
+    kind: Ingredient(
+        kind: "LivelyVine",
+    ),
+    quality: Common,
+    tags: [],
+)

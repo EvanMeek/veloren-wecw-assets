@@ -1,0 +1,14 @@
+EntityConfig (
+    name: Name("Merchant"),
+    body: RandomWith("humanoid"),
+    alignment: Alignment(Npc),
+
+    // considering giving some gold/gems/materials?
+    loot: Uninit,
+
+    hands: TwoHanded(Item("common.items.weapons.bow.eldwood-0")),
+
+    meta: [
+        SkillSetAsset("common.skillset.village.merchant"),
+    ],
+)

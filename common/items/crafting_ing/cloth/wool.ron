@@ -1,0 +1,9 @@
+ItemDef(
+    name: "软绒毛",
+    description: "动物身上的软毛.",
+    kind: Ingredient(
+        kind: "Wool",
+    ),
+    quality: Common,
+    tags: [Textile],
+)

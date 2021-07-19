@@ -1,0 +1,9 @@
+ItemDef(
+    name: "金矿",
+    description: "一种珍贵的黄色金属.（可以在合成表出售换成金币）",
+    kind: Ingredient(
+        kind: "GoldOre",
+    ),
+    quality: Epic,
+    tags: [],
+)

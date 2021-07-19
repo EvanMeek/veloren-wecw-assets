@@ -1,0 +1,11 @@
+EntityConfig (
+    name: Name("憎恶"),
+    body: RandomWith("husk_brute"),
+    alignment: Alignment(Enemy),
+
+    loot: LootTable("common.loot_tables.dungeon.tier-5.miniboss"),
+
+    hands: Uninit,
+
+    meta: [],
+)

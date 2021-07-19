@@ -1,0 +1,22 @@
+ItemDef(
+    name: "苹果",
+    description: "红色多汁，源自于林地果树上.",
+    kind: Consumable(
+        kind: Food,
+        effects: [
+            Buff((
+                kind: Saturation,
+                data: (
+                    strength: 20.0,
+                    duration: Some((
+                            secs: 5,
+                            nanos: 0,
+                        )),
+                    ),
+                cat_ids: [Natural],
+            )),
+        ]
+    ),
+    quality: Common,
+    tags: [Food],
+)

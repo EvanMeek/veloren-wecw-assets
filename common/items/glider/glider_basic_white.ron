@@ -1,0 +1,11 @@
+ItemDef(
+    name: "白布滑翔翼",
+    description: "简单，但有品位.",
+    kind: Glider(
+        (
+            kind: "PlainCloth",
+        ),
+    ),
+    quality: Moderate,
+    tags: [],
+)

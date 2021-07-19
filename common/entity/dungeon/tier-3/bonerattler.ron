@@ -1,0 +1,11 @@
+EntityConfig (
+    name: Name("响尾骨兽"),
+    body: RandomWith("bonerattler"),
+    alignment: Alignment(Enemy),
+
+    loot: LootTable("common.loot_tables.creature.quad_medium.carapace"),
+
+    hands: Uninit,
+
+    meta: [],
+)

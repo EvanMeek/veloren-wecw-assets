@@ -1,0 +1,14 @@
+[
+    (0.01, Item("common.items.WECW.bow")),
+    (0.4, Item("common.items.armor.misc.bag.heavy_seabag")),
+    (0.01, Item("common.items.WECW.neck.epicneck")),
+    (0.01, Item("common.items.WECW.ring.skullg")),
+    (0.3, ItemQuantity("common.items.boss_drops.potions", 5, 20)),
+    (0.3, ItemQuantity("common.items.boss_drops.exp_flask", 5, 20)),
+    (2.0, ItemQuantity("common.items.WECW.coins2", 1, 80)),
+    (0.1, Item("common.items.WECW.neck.highneck")),
+    (0.1, Item("common.items.WECW.neck.highneck2")),
+    (0.5, Item("common.items.lantern.blue_0")),
+    (0.3, Item("common.items.crafting_ing.mindflayer_bag_damaged")),
+    (0.05, Item("common.items.glider.glider_purp")),
+]

@@ -1,0 +1,9 @@
+ItemDef(
+    name: "蓝宝石",
+    description: "五颜六色的钴宝石，通常存在于矿洞中（可以在合成表出售换成金币）.",
+    kind: Ingredient(
+        kind: "Sapphire",
+    ),
+    quality: High,
+    tags: [],
+)

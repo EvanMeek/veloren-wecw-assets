@@ -1,0 +1,10 @@
+ItemDef(
+    name: "炸弹",
+    description: "Boom!",
+    kind: Throwable(
+        kind: Bomb,
+		amount: 10,
+    ),
+    quality: Common,
+    tags: [Utility],
+)

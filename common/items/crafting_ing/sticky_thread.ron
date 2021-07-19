@@ -1,0 +1,9 @@
+ItemDef(
+    name: "粘液网",
+    description: "一种凌乱的蜘蛛提取物，但裁缝可能会用到它.",
+    kind: Ingredient(
+        kind: "StickyThread",
+    ),
+    quality: Common,
+    tags: [],
+)

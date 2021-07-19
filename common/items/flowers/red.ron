@@ -1,0 +1,9 @@
+ItemDef(
+    name: "红花",
+    description: "可作为染色剂使用，林地中常见的花.",
+    kind: Ingredient(
+        kind: "FlowerRed",
+    ),
+    quality: Common,
+    tags: [],
+)

@@ -1,0 +1,9 @@
+ItemDef(
+    name: "锡矿石",
+    description: "银色的矿石. 青铜的组成部分之一.",
+    kind: Ingredient(
+        kind: "TinOre",
+    ),
+    quality: Low,
+    tags: [],
+)

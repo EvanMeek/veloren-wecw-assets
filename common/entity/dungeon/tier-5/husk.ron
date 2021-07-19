@@ -1,0 +1,13 @@
+EntityConfig (
+    name: Name("邪教膜拜者"),
+    body: RandomWith("husk"),
+    alignment: Alignment(Enemy),
+
+    loot: LootTable("common.loot_tables.dungeon.tier-5.minion"),
+
+    hands: Uninit,
+
+    meta: [
+        LoadoutAsset("common.loadout.dungeon.tier-5.husk"),
+    ],
+)

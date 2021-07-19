@@ -1,0 +1,17 @@
+Shockwave(
+    energy_cost: 650,
+    buildup_duration: 0.2,
+    swing_duration: 0.2,
+    recover_duration: 0.2,
+    damage: 1000,
+    poise_damage: 1000,
+    knockback: (strength: 10.0, direction: Away),
+    shockwave_angle: 60.0,
+    shockwave_vertical_angle: 90.0,
+    shockwave_speed: 30.0,
+    shockwave_duration: 0.6,
+    requires_ground: true,
+    move_efficiency: 0.3,
+    damage_kind: Crushing,
+    specifier: Ground,
+)

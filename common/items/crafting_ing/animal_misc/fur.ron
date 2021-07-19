@@ -1,0 +1,9 @@
+ItemDef(
+    name: "柔软的皮毛",
+    description: "动物的软毛.",
+    kind: Ingredient(
+        kind: "Fur",
+    ),
+    quality: Common,
+    tags: [],
+)

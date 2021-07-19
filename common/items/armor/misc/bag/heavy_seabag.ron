@@ -1,0 +1,20 @@
+ItemDef(
+    name: "重型海洋袋",
+    description: "水手常用的袋子.",
+    kind: Armor(
+        (
+            kind: Bag("BluePouch"),
+            stats: (
+                protection: Normal(0.0),
+                poise_resilience: Normal(0.0),
+                energy_max: 0,
+                energy_reward: 0.0,
+                crit_power: 0.0,
+                stealth: 0.0,
+            ),            
+        )
+    ),
+    quality: Epic,
+    tags: [Bag],
+    slots: 30,
+)

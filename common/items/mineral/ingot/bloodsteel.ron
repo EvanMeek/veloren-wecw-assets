@@ -1,0 +1,9 @@
+ItemDef(
+    name: "血钢锭",
+    description: "血石和铁的合金.",
+    kind: Ingredient(
+        kind: "BloodsteelIngot",
+    ),
+    quality: Epic,
+    tags: [MetalIngot],
+)

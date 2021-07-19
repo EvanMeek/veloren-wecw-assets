@@ -1,0 +1,22 @@
+ItemDef(
+    name: "巨大的熟鸡腿",
+    description: "是一顿传奇的大餐.",
+    kind: Consumable(
+        kind: Food,
+        effects: [
+            Buff((
+                kind: Saturation,
+                data: (
+                    strength: 55.0,
+                    duration: Some((
+                            secs: 15,
+                            nanos: 0,
+                        )),
+                    ),
+                cat_ids: [Natural],
+            )),
+        ]
+    ),
+    quality: Common,
+    tags: [Food],
+)

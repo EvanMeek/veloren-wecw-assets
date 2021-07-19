@@ -1,0 +1,14 @@
+EntityConfig (
+    name: Name("邪教术士"),
+    body: RandomWith("cultist_warlock"),
+    alignment: Alignment(Enemy),
+
+    loot: LootTable("common.loot_tables.dungeon.tier-5.enemy"),
+
+    hands: TwoHanded(Choice([
+        (1.5, Some(Item("common.items.npc_weapons.staff.bipedlarge-cultist"))),
+        (1.0, Some(Item("common.items.npc_weapons.bow.bipedlarge-velorite"))),
+    ])),
+
+    meta: [],
+)

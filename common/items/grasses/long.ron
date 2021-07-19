@@ -1,0 +1,9 @@
+ItemDef(
+    name: "Long Grass",
+    description: "Greener than an orc's snout.",
+    kind: Ingredient(
+        kind: "Grass",
+    ),
+    quality: Common,
+    tags: [],
+)

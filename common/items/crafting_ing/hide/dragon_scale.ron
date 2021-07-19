@@ -1,0 +1,9 @@
+ItemDef(
+    name: "龙鳞",
+    description: "传奇巨兽的坚韧鳞片.",
+    kind: Ingredient(
+        kind: "DragonScale",
+    ),
+    quality: Legendary,
+    tags: [],
+)

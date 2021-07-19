@@ -1,0 +1,9 @@
+ItemDef(
+    name: "粗骨",
+    description: "坚硬到可以用来制作的骨头.",
+    kind: Ingredient(
+        kind: "Bone",
+    ),
+    quality: Common,
+    tags: [],
+)

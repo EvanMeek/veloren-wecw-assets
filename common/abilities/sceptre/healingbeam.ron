@@ -1,0 +1,11 @@
+HealingBeam(
+    buildup_duration: 0.25,
+    recover_duration: 0.25,
+    beam_duration: 0.75,
+    heal: 25,
+    tick_rate: 2.5,
+    range: 25.0,
+    max_angle: 1.0,
+    energy_cost: 150,
+    specifier: HealingBeam,
+)

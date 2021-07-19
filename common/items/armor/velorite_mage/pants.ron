@@ -1,0 +1,19 @@
+ItemDef(
+    name: "Velorite Battlemage Kilt",
+    description: "",
+    kind: Armor((
+        kind: Pants("VeloriteMage"),
+        stats: (
+            protection: Normal(23.0),
+            poise_resilience: Normal(0.0),
+            energy_max: 0,
+            energy_reward: 0.0,
+            crit_power: 0.0,
+            stealth: 0.0,
+        ),
+    )),
+    quality: High,
+    tags: [
+        Material(Velorite),
+    ],
+)

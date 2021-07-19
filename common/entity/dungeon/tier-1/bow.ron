@@ -1,0 +1,14 @@
+EntityConfig (
+    name: Name("蛛网怪追踪者"),
+    body: RandomWith("adlet"),
+    alignment: Alignment(Enemy),
+
+    loot: LootTable("common.loot_tables.dungeon.tier-1.enemy"),
+
+    hands: TwoHanded(Item("common.items.npc_weapons.biped_small.adlet.adlet_bow")),
+
+    meta: [
+        LoadoutAsset("common.loadout.dungeon.tier-1.adlet_bow"),
+        SkillSetAsset("common.skillset.dungeon.tier-1.bow"),
+    ],
+)

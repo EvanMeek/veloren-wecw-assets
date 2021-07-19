@@ -1,0 +1,758 @@
+({
+    (Pig, Male): (
+        head: (
+            offset: (-5.0, 0.0, -4.0),
+            central: ("npc.pig.male.head"),
+        ),
+        chest: (
+            offset: (-5.0, -5.0, -3.5),
+            central: ("npc.pig.male.chest"),
+        ),
+        tail: (
+            offset: (-2.0, -3.0, -0.0),
+            central: ("npc.pig.male.tail"),
+        ),
+    ),
+    (Pig, Female):(
+        head: (
+            offset: (-5.0, 0.0, -4.0),
+            central: ("npc.pig.male.head"),
+        ),
+        chest: (
+            offset: (-5.0, -5.0, -3.5),
+            central: ("npc.pig.male.chest"),
+        ),
+        tail: (
+            offset: (-2.0, -3.0, -0.0),
+            central: ("npc.pig.male.tail"),
+        ),
+    ),
+    (Fox, Male):(
+        head: (
+            offset: (-4.5, 0.0, -3.5),
+            central: ("npc.fox.male.head"),
+        ),
+        chest: (
+            offset: (-2.5, -5.5, -2.5),
+            central: ("npc.fox.male.chest"),
+        ),
+        tail: (
+            offset: (-1.5, -11.0, -6.0),
+            central: ("npc.fox.male.tail"),
+        ),
+    ),
+    (Fox, Female):(
+        head: (
+            offset: (-4.5, 0.0, -3.5),
+            central: ("npc.fox.female.head"),
+        ),
+        chest: (
+            offset: (-2.5, -5.5, -3.0),
+            central: ("npc.fox.female.chest"),
+        ),
+        tail: (
+            offset: (-1.5, -11.0, -6.0),
+            central: ("npc.fox.female.tail"),
+        ),
+    ),
+    (Sheep, Male):(
+        head: (
+            offset: (-5.0, 0.0, -5.0),
+            central: ("npc.sheep.male.head"),
+        ),
+        chest: (
+            offset: (-5.0, -5.5, -3.5),
+            central: ("npc.sheep.male.chest"),
+        ),
+        tail: (
+            offset: (-2.0, -2.0, -1.5),
+            central: ("npc.sheep.male.tail"),
+        ),
+    ),
+    (Sheep, Female):(
+        head: (
+            offset: (-5.0, 0.0, -3.5),
+            central: ("npc.sheep.female.head"),
+        ),
+        chest: (
+            offset: (-5.0, -5.5, -3.5),
+            central: ("npc.sheep.female.chest"),
+        ),
+        tail: (
+            offset: (-2.0, -2.0, -1.5),
+            central: ("npc.sheep.female.tail"),
+        ),
+    ),
+    (Boar, Male):(
+        head: (
+            offset: (-4.5, 0.0, -5.0),
+            central: ("npc.boar.male.head"),
+        ),
+        chest: (
+            offset: (-4.5, -7.5, -5.5),
+            central: ("npc.boar.male.chest"),
+        ),
+        tail: (
+            offset: (-1.5, -5.0, -7.0),
+            central: ("npc.boar.male.tail"),
+        ),
+    ),
+    (Boar, Female):(
+        head: (
+            offset: (-4.5, 0.0, -4.5),
+            central: ("npc.boar.female.head"),
+        ),
+        chest: (
+            offset: (-4.5, -7.5, -5.0),
+            central: ("npc.boar.female.chest"),
+        ),
+        tail: (
+            offset: (-1.5, -5.0, -7.0),
+            central: ("npc.boar.female.tail"),
+        ),
+    ),
+    (Jackalope, Male):(
+        head: (
+            offset: (-3.5, 0.0, -4.0),
+            central: ("npc.jackalope.male.head"),
+        ),
+        chest: (
+            offset: (-2.5, -5.0, -3.5),
+            central: ("npc.jackalope.male.chest"),
+        ),
+        tail: (
+            offset: (-1.5, -2.0, -3.0),
+            central: ("npc.jackalope.male.tail"),
+        ),
+    ),
+    (Jackalope, Female):(
+        head: (
+            offset: (-3.5, 0.0, -4.0),
+            central: ("npc.jackalope.male.head"),
+        ),
+        chest: (
+            offset: (-2.5, -5.0, -3.5),
+            central: ("npc.jackalope.male.chest"),
+        ),
+        tail: (
+            offset: (-1.5, -2.0, -3.0),
+            central: ("npc.jackalope.male.tail"),
+        ),
+    ),
+    (Skunk, Male):(
+        head: (
+            offset: (-3.0,0.0, -2.5),
+            central: ("npc.skunk.male.head"),
+        ),
+        chest: (
+            offset: (-4.0, -5.5, -3.0),
+            central: ("npc.skunk.male.chest"),
+        ),
+        tail: (
+            offset: (-5.0, -11.0, -4.0),
+            central: ("npc.skunk.male.tail"),
+        ),
+    ),
+    (Skunk, Female):(
+        head: (
+            offset: (-3.0, 0.0, -2.5),
+            central: ("npc.skunk.male.head"),
+        ),
+        chest: (
+            offset: (-4.0, -5.5, -3.0),
+            central: ("npc.skunk.male.chest"),
+        ),
+        tail: (
+            offset: (-5.0, -11.0, -4.0),
+            central: ("npc.skunk.male.tail"),
+        ),
+    ),
+    (Cat, Male):(
+        head: (
+            offset: (-4.5, 0.0, -3.5),
+            central: ("npc.cat.male.head"),
+        ),
+        chest: (
+            offset: (-2.5, -4.5, -2.0),
+            central: ("npc.cat.male.chest"),
+        ),
+        tail: (
+            offset: (-0.5, -7.0, -5.0),
+            central: ("npc.cat.male.tail"),
+        ),
+    ),
+    (Cat, Female):(
+        head: (
+            offset: (-4.5, 0.0, -3.5),
+            central: ("npc.cat.female.head"),
+        ),
+        chest: (
+            offset: (-2.5, -4.5, -2.0),
+            central: ("npc.cat.female.chest"),
+        ),
+        tail: (
+            offset: (-0.5, -7.0, -5.0),
+            central: ("npc.cat.female.tail"),
+        ),
+    ),
+    (Batfox, Male):(
+        head: (
+            offset: (-7.5, 0.0, -3.0),
+            central: ("npc.batfox.male.head"),
+        ),
+        chest: (
+            offset: (-2.5, -7.0, -3.0),
+            central: ("npc.batfox.male.chest"),
+        ),
+        tail: (
+            offset: (-1.5, -7.5, -2.5),
+            central: ("armor.empty"),
+        ),
+    ),
+    (Batfox, Female):(
+        head: (
+            offset: (-7.5, 0.0, -3.0),
+            central: ("npc.batfox.male.head"),
+        ),
+        chest: (
+            offset: (-2.5, -7.0, -3.0),
+            central: ("npc.batfox.male.chest"),
+        ),
+        tail: (
+            offset: (-1.5, -7.5, -2.5),
+            central: ("armor.empty"),
+        ),
+    ),
+    (Raccoon, Male):(
+        head: (
+            offset: (-5.0, 0.0, -4.0),
+            central: ("npc.raccoon.male.head"),
+        ),
+        chest: (
+            offset: (-4.0, -6.0, -3.5),
+            central: ("npc.raccoon.male.chest"),
+        ),
+        tail: (
+            offset: (-2.0, -11.0, -2.5),
+            central: ("npc.raccoon.male.tail"),
+        ),
+    ),
+    (Raccoon, Female):(
+        head: (
+            offset: (-5.0, 0.0, -4.0),
+            central: ("npc.raccoon.male.head"),
+        ),
+        chest: (
+            offset: (-4.0, -6.0, -3.5),
+            central: ("npc.raccoon.male.chest"),
+        ),
+        tail: (
+            offset: (-2.0, -11.0, -2.5),
+            central: ("npc.raccoon.male.tail"),
+        ),
+    ),
+    (Quokka, Male):(
+        head: (
+            offset: (-4.5, 0.0, -3.5),
+            central: ("npc.quokka.male.head"),
+        ),
+        chest: (
+            offset: (-3.5, -6.5, -4.0),
+            central: ("npc.quokka.male.chest"),
+        ),
+        tail: (
+            offset: (-1.5, -8.0, -3.5),
+            central: ("npc.quokka.male.tail"),
+        ),
+    ),
+    (Quokka, Female):(
+        head: (
+            offset: (-4.5, 0.0, -3.5),
+            central: ("npc.quokka.male.head"),
+        ),
+        chest: (
+            offset: (-3.5, -6.5, -4.0),
+            central: ("npc.quokka.male.chest"),
+        ),
+        tail: (
+            offset: (-1.5, -8.0, -3.5),
+            central: ("npc.quokka.male.tail"),
+        ),
+    ),
+    (Dodarock, Male):(
+        head: (
+            offset: (-4.5, 0.0, -2.5),
+            central: ("npc.dodarock.male.head"),
+        ),
+        chest: (
+            offset: (-4.5, -8.0, -4.5),
+            central: ("npc.dodarock.male.chest"),
+        ),
+        tail: (
+            offset: (-1.5, -7.5, -2.5),
+            central: ("armor.empty"),
+        ),
+    ),
+    (Dodarock, Female):(
+        head: (
+            offset: (-4.5, 0.0, -2.5),
+            central: ("npc.dodarock.male.head"),
+        ),
+        chest: (
+            offset: (-4.5, -8.0, -4.5),
+            central: ("npc.dodarock.male.chest"),
+        ),
+        tail: (
+            offset: (-1.5, -7.5, -2.5),
+            central: ("armor.empty"),
+        ),
+    ),
+    (Holladon, Male):(
+        head: (
+            offset: (-3.5, 0.0, -4.0),
+            central: ("npc.holladon.male.head"),
+        ),
+        chest: (
+            offset: (-4.5, -8.0, -5.0),
+            central: ("npc.holladon.male.chest"),
+        ),
+        tail: (
+            offset: (-1.5, -7.5, -2.5),
+            central: ("armor.empty"),
+        ),
+    ),
+    (Holladon, Female):(
+        head: (
+            offset: (-3.5, 0.0, -4.0),
+            central: ("npc.holladon.male.head"),
+        ),
+        chest: (
+            offset: (-4.5, -8.0, -5.0),
+            central: ("npc.holladon.male.chest"),
+        ),
+        tail: (
+            offset: (-1.5, -7.5, -2.5),
+            central: ("armor.empty"),
+        ),
+    ),
+    (Hyena, Male):(
+        head: (
+            offset: (-4.0, 0.0, -4.0),
+            central: ("npc.hyena.male.head"),
+        ),
+        chest: (
+            offset: (-3.0, -8.0, -4.5),
+            central: ("npc.hyena.male.chest"),
+        ),
+        tail: (
+            offset: (-1.0, -4.0, -6.0),
+            central: ("npc.hyena.male.tail"),
+        ),
+    ),
+    (Hyena, Female):(
+        head: (
+            offset: (-4.0, 0.0, -4.0),
+            central: ("npc.hyena.male.head"),
+        ),
+        chest: (
+            offset: (-3.0, -8.0, -4.5),
+            central: ("npc.hyena.male.chest"),
+        ),
+        tail: (
+            offset: (-1.0, -4.0, -6.0),
+            central: ("npc.hyena.male.tail"),
+        ),
+    ),
+    (Rabbit, Male):(
+        head: (
+            offset: (-3.5, 0.0, -3.0),
+            central: ("npc.rabbit.male.head"),
+        ),
+        chest: (
+            offset: (-2.5, -5.5, -3.0),
+            central: ("npc.rabbit.male.chest"),
+        ),
+        tail: (
+            offset: (-1.5, -2.0, -1.0),
+            central: ("npc.rabbit.male.tail"),
+        ),
+    ),
+    (Rabbit, Female):(
+        head: (
+            offset: (-3.5, 0.0, -3.0),
+            central: ("npc.rabbit.male.head"),
+        ),
+        chest: (
+            offset: (-2.5, -5.5, -3.0),
+            central: ("npc.rabbit.male.chest"),
+        ),
+        tail: (
+            offset: (-1.5, -2.0, -1.0),
+            central: ("npc.rabbit.male.tail"),
+        ),
+    ),
+    (Truffler, Male):(
+        head: (
+            offset: (-8.5, 0.0, -4.5),
+            central: ("npc.truffler.male.head"),
+        ),
+        chest: (
+            offset: (-10.5, -11.0, -15.0),
+            central: ("npc.truffler.male.chest"),
+        ),
+        tail: (
+            offset: (0.0, 0.0, 0.0),
+            central: ("armor.empty"),
+        ),
+    ),
+    (Truffler, Female):(
+        head: (
+            offset: (-8.5, 0.0, -4.5),
+            central: ("npc.truffler.male.head"),
+        ),
+        chest: (
+            offset: (-10.5, -11.0, -15.0),
+            central: ("npc.truffler.male.chest"),
+        ),
+        tail: (
+            offset: (0.0, 0.0, 0.0),
+            central: ("armor.empty"),
+        ),
+    ),
+    (Frog, Male):(
+        head: (
+            offset: (-3.5, 0.0, -3.0),
+            central: ("npc.frog.male.head"),
+        ),
+        chest: (
+            offset: (-3.5, -5.0, -3.0),
+            central: ("npc.frog.male.chest"),
+        ),
+        tail: (
+            offset: (0.0, 0.0, 0.0),
+            central: ("armor.empty"),
+        ),
+    ),
+    (Frog, Female):(
+        head: (
+            offset: (-3.5, 0.0, -3.0),
+            central: ("npc.frog.male.head"),
+        ),
+        chest: (
+            offset: (-3.5, -5.0, -3.0),
+            central: ("npc.frog.male.chest"),
+        ),
+        tail: (
+            offset: (0.0, 0.0, 0.0),
+            central: ("armor.empty"),
+        ),
+    ),
+    (Rat, Male):(
+        head: (
+            offset: (-4.5, 0.0, -3.0),
+            central: ("npc.rat.male.head"),
+        ),
+        chest: (
+            offset: (-3.5, -5.5, -3.5),
+            central: ("npc.rat.male.chest"),
+        ),
+        tail: (
+            offset: (-0.5, -12.0, -3.0),
+            central: ("npc.rat.male.tail"),
+        ),
+    ),
+    (Rat, Female):(
+        head: (
+            offset: (-4.5, 0.0, -3.0),
+            central: ("npc.rat.male.head"),
+        ),
+        chest: (
+            offset: (-3.5, -5.5, -3.5),
+            central: ("npc.rat.male.chest"),
+        ),
+        tail: (
+            offset: (-0.5, -12.0, -3.0),
+            central: ("npc.rat.male.tail"),
+        ),
+    ),
+    (Axolotl, Male):(
+        head: (
+            offset: (-5.5, 0.0, -3.0),
+            central: ("npc.axolotl.male.head"),
+        ),
+        chest: (
+            offset: (-2.5, -5.0, -2.5),
+            central: ("npc.axolotl.male.chest"),
+        ),
+        tail: (
+            offset: (-1.5, -10.0, -2.5),
+            central: ("npc.axolotl.male.tail"),
+        ),
+    ),
+    (Axolotl, Female):(
+        head: (
+            offset: (-5.5, 0.0, -3.0),
+            central: ("npc.axolotl.male.head"),
+        ),
+        chest: (
+            offset: (-2.5, -5.0, -3.5),
+            central: ("npc.axolotl.male.chest"),
+        ),
+        tail: (
+            offset: (-1.5, -10.0, -2.5),
+            central: ("npc.axolotl.male.tail"),
+        ),
+    ),
+    (Gecko, Male):(
+        head: (
+            offset: (-2.5, 0.0, -2.0),
+            central: ("npc.gecko.male.head"),
+        ),
+        chest: (
+            offset: (-2.5, -5.0, -1.5),
+            central: ("npc.gecko.male.chest"),
+        ),
+        tail: (
+            offset: (-1.5, -12.0, -1.5),
+            central: ("npc.gecko.male.tail"),
+        ),
+    ),
+    (Gecko, Female):(
+        head: (
+            offset: (-2.5, 0.0, -2.0),
+            central: ("npc.gecko.male.head"),
+        ),
+        chest: (
+            offset: (-2.5, -5.0, -1.5),
+            central: ("npc.gecko.male.chest"),
+        ),
+        tail: (
+            offset: (-1.5, -12.0, -1.5),
+            central: ("npc.gecko.male.tail"),
+        ),
+    ),
+    (Turtle, Male):(
+        head: (
+            offset: (-2.5, 0.0, -1.5),
+            central: ("npc.turtle.male.head"),
+        ),
+        chest: (
+            offset: (-6.5, -7.0, -4.0),
+            central: ("npc.turtle.male.chest"),
+        ),
+        tail: (
+            offset: (-1.5, -6.0, -1.0),
+            central: ("npc.turtle.male.tail"),
+        ),
+    ),
+    (Turtle, Female):(
+        head: (
+            offset: (-2.5, 0.0, -1.5),
+            central: ("npc.turtle.male.head"),
+        ),
+        chest: (
+            offset: (-6.5, -7.0, -4.0),
+            central: ("npc.turtle.male.chest"),
+        ),
+        tail: (
+            offset: (-1.5, -6.0, -1.0),
+            central: ("npc.turtle.male.tail"),
+        ),
+    ),
+    (Squirrel, Male):(
+        head: (
+            offset: (-2.5, 0.0, -2.5),
+            central: ("npc.squirrel.male.head"),
+        ),
+        chest: (
+            offset: (-2.5, -4.0, -2.5),
+            central: ("npc.squirrel.male.chest"),
+        ),
+        tail: (
+            offset: (-2.5, -8.0, -2.0),
+            central: ("npc.squirrel.male.tail"),
+        ),
+    ),
+    (Squirrel, Female):(
+        head: (
+            offset: (-2.5, 0.0, -2.5),
+            central: ("npc.squirrel.male.head"),
+        ),
+        chest: (
+            offset: (-2.5, -4.0, -2.5),
+            central: ("npc.squirrel.male.chest"),
+        ),
+        tail: (
+            offset: (-2.5, -8.0, -2.0),
+            central: ("npc.squirrel.male.tail"),
+        ),
+    ),
+    (Fungome, Male):(
+        head: (
+            offset: (-3.0, 0.0, -2.0),
+            central: ("npc.fungome.male.head"),
+        ),
+        chest: (
+            offset: (-7.0, -7.0, -4.0),
+            central: ("npc.fungome.male.chest"),
+        ),
+        tail: (
+            offset: (-1.0, -5.0, -1.0),
+            central: ("npc.fungome.male.tail"),
+        ),
+    ),
+    (Fungome, Female):(
+        head: (
+            offset: (-3.0, 0.0, -2.0),
+            central: ("npc.fungome.male.head"),
+        ),
+        chest: (
+            offset: (-7.0, -7.0, -4.0),
+            central: ("npc.fungome.male.chest"),
+        ),
+        tail: (
+            offset: (-1.0, -5.0, -1.0),
+            central: ("npc.fungome.male.tail"),
+        ),
+    ),
+    (Porcupine, Male):(
+        head: (
+            offset: (-2.5, 0.0, -7.0),
+            central: ("npc.porcupine.male.head"),
+        ),
+        chest: (
+            offset: (-7.5, -10.0, -8.0),
+            central: ("npc.porcupine.male.chest"),
+        ),
+        tail: (
+            offset: (0.0, 0.0, 0.0),
+            central: ("armor.empty"),
+        ),
+    ),
+    (Porcupine, Female):(
+        head: (
+            offset: (-2.5, 0.0, -7.0),
+            central: ("npc.porcupine.male.head"),
+        ),
+        chest: (
+            offset: (-7.5, -10.0, -8.0),
+            central: ("npc.porcupine.male.chest"),
+        ),
+        tail: (
+            offset: (0.0, 0.0, 0.0),
+            central: ("armor.empty"),
+        ),
+    ),
+    (Beaver, Male):(
+        head: (
+            offset: (-4.0, 0.0, -3.0),
+            central: ("npc.beaver.male.head"),
+        ),
+        chest: (
+            offset: (-4.0, -6.0, -4.0),
+            central: ("npc.beaver.male.chest"),
+        ),
+        tail: (
+            offset: (-3.0, -9.0, -2.0),
+            central: ("npc.beaver.male.tail"),
+        ),
+    ),
+    (Beaver, Female):(
+        head: (
+            offset: (-4.0, 0.0, -3.0),
+            central: ("npc.beaver.male.head"),
+        ),
+        chest: (
+            offset: (-4.0, -6.0, -4.0),
+            central: ("npc.beaver.male.chest"),
+        ),
+        tail: (
+            offset: (-3.0, -9.0, -2.0),
+            central: ("npc.beaver.male.tail"),
+        ),
+    ),
+    (Hare, Male):(
+        head: (
+            offset: (-3.5, 0.0, -3.0),
+            central: ("npc.hare.male.head"),
+        ),
+        chest: (
+            offset: (-2.5, -5.0, -3.0),
+            central: ("npc.hare.male.chest"),
+        ),
+        tail: (
+            offset: (-1.5, -11.0, -2.0),
+            central: ("npc.hare.male.tail"),
+        ),
+    ),
+    (Hare, Female):(
+        head: (
+            offset: (-3.5, 0.0, -3.0),
+            central: ("npc.hare.female.head"),
+        ),
+        chest: (
+            offset: (-3.5, -6.5, -4.0),
+            central: ("npc.hare.female.chest"),
+        ),
+        tail: (
+            offset: (-2.5, -5.0, -3.0),
+            central: ("npc.hare.female.tail"),
+        ),
+    ),
+    (Dog, Male):(
+        head: (
+            offset: (-3.5, 0.0, -4.0),
+            central: ("npc.dog.male.head"),
+        ),
+        chest: (
+            offset: (-2.5, -5.5, -3.5),
+            central: ("npc.dog.male.chest"),
+        ),
+        tail: (
+            offset: (-1.5, -7.0, -1.0),
+            central: ("npc.dog.male.tail"),
+        ),
+    ),
+    (Dog, Female):(
+        head: (
+            offset: (-3.5, 0.0, -4.0),
+            central: ("npc.dog.female.head"),
+        ),
+        chest: (
+            offset: (-2.5, -5.5, -3.5),
+            central: ("npc.dog.female.chest"),
+        ),
+        tail: (
+            offset: (-1.5, -7.0, -1.0),
+            central: ("npc.dog.female.tail"),
+        ),
+    ),
+    (Goat, Male):(
+        head: (
+            offset: (-6.0, 0.0, -5.5),
+            central: ("npc.goat.male.head"),
+        ),
+        chest: (
+            offset: (-4.0, -5.5, -3.5),
+            central: ("npc.goat.male.chest"),
+        ),
+        tail: (
+            offset: (-1.0, -2.0, -1.5),
+            central: ("npc.goat.male.tail"),
+        ),
+    ),
+    (Goat, Female):(
+        head: (
+            offset: (-6.0, 0.0, -5.5),
+            central: ("npc.goat.male.head"),
+        ),
+        chest: (
+            offset: (-4.0, -5.5, -3.5),
+            central: ("npc.goat.male.chest"),
+        ),
+        tail: (
+            offset: (-1.0, -2.0, -1.5),
+            central: ("npc.goat.male.tail"),
+        ),
+    ),
+})

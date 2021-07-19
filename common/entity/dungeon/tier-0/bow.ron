@@ -1,0 +1,14 @@
+EntityConfig (
+    name: Name("凶残的跟踪者"),
+    body: RandomWith("gnarling"),
+    alignment: Alignment(Enemy),
+
+    loot: LootTable("common.loot_tables.dungeon.tier-0.enemy"),
+
+    hands: TwoHanded(Item("common.items.npc_weapons.biped_small.gnarling.adlet_bow")),
+
+    meta: [
+        LoadoutAsset("common.loadout.dungeon.tier-0.gnarling"),
+        SkillSetAsset("common.skillset.dungeon.tier-0.bow"),
+    ],
+)

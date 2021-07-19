@@ -1,0 +1,14 @@
+ItemDef(
+    name: "紫色晶簇",
+    description: "发出平静的光芒",
+    kind: Lantern(
+        (
+            kind: "GeodePurp",
+            color: (r: 144, g: 88, b: 181),
+            strength_thousandths: 10000,
+            flicker_thousandths: 1200,
+        ),
+    ),
+    quality: Legendary,
+    tags: [],
+)

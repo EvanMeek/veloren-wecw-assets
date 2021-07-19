@@ -1,0 +1,9 @@
+ItemDef(
+    name: "黄花",
+    description: "像太阳一样发光.",
+    kind: Ingredient(
+        kind: "Flower",
+    ),
+    quality: Common,
+    tags: [],
+)

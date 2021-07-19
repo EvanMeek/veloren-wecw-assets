@@ -1,0 +1,11 @@
+EntityConfig (
+    name: Name("理智摧残者"),
+    body: RandomWith("mindflayer"),
+    alignment: Alignment(Enemy),
+
+    loot: LootTable("common.loot_tables.dungeon.tier-5.boss"),
+
+    hands: Uninit,
+
+    meta: [],
+)

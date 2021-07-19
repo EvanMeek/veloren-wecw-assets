@@ -1,0 +1,9 @@
+ItemDef(
+    name: "凤凰羽毛",
+    description: "据说有魔力.",
+    kind: Ingredient(
+        kind: "PhoenixFeather",
+    ),
+    quality: Common,
+    tags: [],
+)

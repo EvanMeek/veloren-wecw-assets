@@ -1,0 +1,9 @@
+ItemDef(
+    name: "煤",
+    description: "一种黑色的可燃能源.",
+    kind: Ingredient(
+        kind: "Coal",
+    ),
+    quality: Common,
+    tags: [],
+)

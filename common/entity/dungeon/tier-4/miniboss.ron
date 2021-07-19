@@ -1,0 +1,13 @@
+EntityConfig (
+    name: Name("无头骑士"),
+    body: RandomWith("dullahan"),
+    alignment: Alignment(Enemy),
+
+    loot: LootTable("common.loot_tables.dungeon.tier-4.miniboss"),
+
+    hands: Uninit,
+
+    meta: [
+        LoadoutAsset("common.loadout.dungeon.tier-4.myrmidon"),
+    ],
+)

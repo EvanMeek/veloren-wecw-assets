@@ -1,0 +1,11 @@
+EntityConfig (
+    name: Name("潮汐勇士"),
+    body: RandomWith("tidalwarrior"),
+    alignment: Alignment(Enemy),
+
+    loot: LootTable("common.loot_tables.dungeon.tier-2.boss"),
+
+    hands: Uninit,
+
+    meta: [],
+)

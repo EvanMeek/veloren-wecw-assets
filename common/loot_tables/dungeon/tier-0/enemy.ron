@@ -1,0 +1,6 @@
+[
+    (1.0, LootTable("common.loot_tables.humanoids")),
+    (1.0, LootTable("common.loot_tables.armor.cloth")),
+    (0.25, LootTable("common.loot_tables.weapons.tier-0")),
+    (5.0, ItemQuantity("common.items.utility.coins", 5, 25)),
+]

@@ -1,0 +1,9 @@
+ItemDef(
+    name: "丝绸",
+    description: "蛛丝蜘蛛产生的一种细而强的纤维.",
+    kind: Ingredient(
+        kind: "Silk",
+    ),
+    quality: Moderate,
+    tags: [Textile],
+)

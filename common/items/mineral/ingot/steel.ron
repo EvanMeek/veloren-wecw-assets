@@ -1,0 +1,9 @@
+ItemDef(
+    name: "钢锭",
+    description: "一种铁和煤的合金，比它的成分坚硬得多.",
+    kind: Ingredient(
+        kind: "SteelIngot",
+    ),
+    quality: Moderate,
+    tags: [MetalIngot],
+)

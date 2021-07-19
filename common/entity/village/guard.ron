@@ -1,0 +1,13 @@
+EntityConfig (
+    name: Name("Guard"),
+    body: RandomWith("humanoid"),
+    alignment: Alignment(Npc),
+
+    loot: Uninit,
+
+    hands: TwoHanded(Item("common.items.weapons.sword.iron-4")),
+
+    meta: [
+        SkillSetAsset("common.skillset.village.guard"),
+    ],
+)

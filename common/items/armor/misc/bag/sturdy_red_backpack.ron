@@ -1,0 +1,20 @@
+ItemDef(
+    name: "结实的红色马鞍包",
+    description: "用大量染色的布片制成.",
+    kind: Armor(
+        (
+            kind: Bag("RedLarge"),
+            stats: (
+                protection: Normal(0.0),
+                poise_resilience: Normal(0.0),
+                energy_max: 0,
+                energy_reward: 0.0,
+                crit_power: 0.0,
+                stealth: 0.0,
+            ),            
+        )
+    ),
+    quality: High,
+    tags: [Bag],
+    slots: 24,
+)

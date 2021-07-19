@@ -1,0 +1,19 @@
+ItemDef(
+    name: "Bronze Chestguard",
+    description: "Heavy and dull, but it can take a punch.",
+    kind: Armor((
+        kind: Chest("Bronze"),
+        stats: (
+            protection: Normal(12.0),
+            poise_resilience: Normal(3.0),
+            energy_max: -70,
+            energy_reward: -0.3,
+            crit_power: 0.0,
+            stealth: -5.0,
+        ),
+    )),
+    quality: Low,
+    tags: [
+        Material(Bronze),
+    ],
+)

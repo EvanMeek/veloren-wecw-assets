@@ -1,0 +1,9 @@
+ItemDef(
+    name: "轻皮革",
+    description: "轻便灵活.",
+    kind: Ingredient(
+        kind: "SimpleLeather",
+    ),
+    quality: Low,
+    tags: [BaseMaterial, Leather],
+)

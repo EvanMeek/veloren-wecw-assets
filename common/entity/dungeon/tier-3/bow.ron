@@ -1,0 +1,14 @@
+EntityConfig (
+    name: Name("埴轮射手"),
+    body: RandomWith("haniwa"),
+    alignment: Alignment(Enemy),
+
+    loot: LootTable("common.loot_tables.dungeon.tier-3.enemy"),
+
+    hands: TwoHanded(Item("common.items.npc_weapons.biped_small.haniwa.adlet_bow")),
+
+    meta: [
+        LoadoutAsset("common.loadout.dungeon.tier-3.haniwa"),
+        SkillSetAsset("common.skillset.dungeon.tier-3.bow"),
+    ],
+)

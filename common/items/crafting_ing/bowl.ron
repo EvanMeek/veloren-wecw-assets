@@ -1,0 +1,9 @@
+ItemDef(
+    name: "碗",
+    description: "准备饭菜的简单碗.",
+    kind: Ingredient(
+        kind: "Bowl",
+    ),
+    quality: Common,
+    tags: [],
+)

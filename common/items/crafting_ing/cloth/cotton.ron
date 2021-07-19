@@ -1,0 +1,9 @@
+ItemDef(
+    name: "棉花",
+    description: "易于使用和多功能.",
+    kind: Ingredient(
+        kind: "Cotton",
+    ),
+    quality: Low,
+    tags: [Textile],
+)

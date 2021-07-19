@@ -1,0 +1,9 @@
+ItemDef(
+    name: "亚麻布",
+    description: "用亚麻纤维制成的纺织品.",
+    kind: Ingredient(
+        kind: "Linen",
+    ),
+    quality: Low,
+    tags: [Textile],
+)

@@ -1,0 +1,9 @@
+ItemDef(
+    name: "甲壳",
+    description: "坚硬的甲壳.",
+    kind: Ingredient(
+        kind: "Carapace",
+    ),
+    quality: High,
+    tags: [],
+)

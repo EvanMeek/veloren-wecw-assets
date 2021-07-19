@@ -1,0 +1,19 @@
+([
+    Group(Weapon(Sword)),
+
+    // TripleStrike
+    Skill((Sword(TsCombo), None)),
+    Skill((Sword(TsDamage), Some(1))),
+    Skill((Sword(TsRegen), Some(2))),
+
+    // Dash
+    Skill((Sword(DDamage), Some(1))),
+    Skill((Sword(DCost), Some(2))),
+    Skill((Sword(DDrain), Some(2))),
+
+    // Spin of death
+    Skill((Sword(UnlockSpin), None)),
+    Skill((Sword(SDamage), Some(0))),
+    Skill((Sword(SSpins), Some(2))),
+    Skill((Sword(SCost), Some(2))),
+])

@@ -1,0 +1,9 @@
+ItemDef(
+    name: "奥里查库姆矿锭",
+    description: "用精制的奥里查库姆矿制成的锭.",
+    kind: Ingredient(
+        kind: "OrichalcumIngot",
+    ),
+    quality: Legendary,
+    tags: [MetalIngot],
+)

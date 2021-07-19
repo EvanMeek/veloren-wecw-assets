@@ -1,0 +1,11 @@
+EntityConfig (
+    name: Name("雪兽"),
+    body: RandomWith("yeti"),
+    alignment: Alignment(Enemy),
+
+    loot: LootTable("common.loot_tables.dungeon.tier-1.boss"),
+
+    hands: Uninit,
+
+    meta: [],
+)

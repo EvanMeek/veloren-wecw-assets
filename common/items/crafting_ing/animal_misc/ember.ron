@@ -1,0 +1,9 @@
+ItemDef(
+    name: "灰烬",
+    description: "火焰生物留下的闪烁的余烬.",
+    kind: Ingredient(
+        kind: "Ember",
+    ),
+    quality: Common,
+    tags: [],
+)

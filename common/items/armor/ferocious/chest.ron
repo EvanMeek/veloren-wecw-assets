@@ -1,0 +1,19 @@
+ItemDef(
+    name: "Ferocious Shirt",
+    description: "The dark side of nature",
+    kind: Armor((
+        kind: Chest("Ferocious"),
+        stats: (
+            protection: Normal(500.0),
+            poise_resilience: Normal(300.0),
+            energy_max: 2000,
+            energy_reward: 5.0,
+            crit_power: 0.2,
+            stealth: 0.5,
+        ),
+    )),
+    quality: Epic,
+    tags: [
+        Material(Linen),
+    ],
+)

@@ -1,0 +1,19 @@
+ItemDef(
+    name: "Cultist Mantle",
+    description: "Ceremonial attire used by members.",
+    kind: Armor((
+        kind: Shoulder("Cultist"),
+        stats: (
+            protection: Normal(0.0),
+            poise_resilience: Normal(0.0),
+            energy_max: 0,
+            energy_reward: 0.0,
+            crit_power: 0.0,
+            stealth: 0.0,
+        ),
+    )),
+    quality: Epic,
+    tags: [
+        Cultist,
+    ],
+)

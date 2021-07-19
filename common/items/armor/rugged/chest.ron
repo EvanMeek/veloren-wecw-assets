@@ -1,0 +1,19 @@
+ItemDef(
+    name: "Rugged Shirt",
+    description: "Smells like Adventure.",
+    kind: Armor((
+        kind: Chest("Rugged"),
+        stats: (
+            protection: Normal(3.0),
+            poise_resilience: Normal(0.0),
+            energy_max: 0,
+            energy_reward: 0.0,
+            crit_power: 0.0,
+            stealth: 0.0,
+        ),
+    )),
+    quality: Low,
+    tags: [
+        Material(Linen),
+    ],
+)

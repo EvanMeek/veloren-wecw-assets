@@ -1,0 +1,14 @@
+ItemDef(
+    name: "魔法提灯",
+    description: "照亮了最黑暗的地牢\n一个巨大的怪物因为这个物品而被杀死.",
+    kind: Lantern(
+        (
+            kind: "Green0",
+            color: (r: 128, g: 26, b: 255),
+            strength_thousandths: 8500,
+            flicker_thousandths: 300,
+        ),
+    ),
+    quality: Epic,
+    tags: [Utility],
+)

@@ -1,0 +1,17 @@
+ItemDef(
+    name: "Harvester Shirt",
+    description: "Made of sunflowers.",
+    kind: Armor((
+        kind: Chest("Harvester"),
+        stats: (
+            protection: Normal(300.0),
+            poise_resilience: Normal(100.0),
+            energy_max: 0,
+            energy_reward: 0.0,
+            crit_power: 0.2,
+            stealth: 0.0,
+        ),
+    )),
+    quality: Legendary,
+    tags: [],
+)

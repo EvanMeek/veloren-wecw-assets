@@ -1,0 +1,19 @@
+ItemDef(
+    name: "Admin's Tabard",
+    description: "With great power comes\ngreat responsibility.",
+    kind: Armor(
+        (
+            kind: Tabard("Admin"),
+            stats: (
+                protection: Invincible,
+                poise_resilience: Invincible,
+                energy_max: 9000,
+                energy_reward: 9.0,
+                crit_power: 0.0,
+                stealth: 1000.0,
+            ),
+        )
+    ),
+    quality: Debug,
+    tags: [],
+)

@@ -1,0 +1,19 @@
+ItemDef(
+    name: "Bronze Pantalons",
+    description: "'Heavy and dull, but it can take a punch.'",
+    kind: Armor((
+        kind: Pants("Bronze"),
+        stats: (
+            protection: Normal(8.0),
+            poise_resilience: Normal(2.0),
+            energy_max: -70,
+            energy_reward: -0.3,
+            crit_power: 0.0,
+            stealth: -5.0,
+        ),
+    )),
+    quality: Low,
+    tags: [
+        Material(Bronze),
+    ],
+)

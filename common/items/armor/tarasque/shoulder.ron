@@ -1,0 +1,19 @@
+ItemDef(
+    name: "Tarasque Shoulder Pad",
+    description: "Spiky tarasque shell fragments formed to fit as shoulder guards.",
+    kind: Armor((
+        kind: Shoulder("Tarasque"),
+        stats: (
+            protection: Normal(16.0),
+            poise_resilience: Normal(0.0),
+            energy_max: 0,
+            energy_reward: 0.0,
+            crit_power: 0.0,
+            stealth: 0.0,
+        ),
+    )),
+    quality: High,
+    tags: [
+        Material(Carapace),
+    ],
+)

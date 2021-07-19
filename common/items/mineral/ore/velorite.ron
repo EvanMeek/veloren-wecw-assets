@@ -1,0 +1,9 @@
+ItemDef(
+    name: "Velorite",
+    description: "这种魔法矿物只要轻轻一碰，你就会感觉到古代的知识.",
+    kind: Ingredient(
+        kind: "Velorite",      
+    ),
+    quality: High,
+    tags: [],
+)

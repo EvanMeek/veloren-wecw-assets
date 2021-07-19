@@ -1,0 +1,9 @@
+ItemDef(
+    name: "油",
+    description: "一种粘稠的油.",
+    kind: Ingredient(
+        kind: "Oil",
+    ),
+    quality: Common,
+    tags: [],
+)

@@ -1,0 +1,11 @@
+EntityConfig (
+    name: Name("哈库拉克"),
+    body: RandomWith("hakulaq"),
+    alignment: Alignment(Enemy),
+
+    loot: LootTable("common.loot_tables.creature.quad_low.fanged"),
+
+    hands: Uninit,
+
+    meta: [],
+)

@@ -1,0 +1,9 @@
+ItemDef(
+    name: "热水华",
+    description: "触摸会感觉很温暖，采摘后很久也是.",
+    kind: Ingredient(
+        kind: "Pyrebloom",
+    ),
+    quality: Common,
+    tags: [],
+)

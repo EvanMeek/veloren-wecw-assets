@@ -1,0 +1,9 @@
+ItemDef(
+    name: "发光的破布",
+    description: "源自于一个邪恶的存在.\n\n通过一些处理，也许能做出什么不得了的玩意.",
+    kind: Ingredient(
+        kind: "FlayerBagDamaged",
+    ),
+    quality: Epic,
+    tags: [],
+)

@@ -1,0 +1,9 @@
+ItemDef(
+    name: "植物纤维",
+    description: "一段植物原料.",
+    kind: Ingredient(
+        kind: "PlantFiber",
+    ),
+    quality: Common,
+    tags: [],
+)

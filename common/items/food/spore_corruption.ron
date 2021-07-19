@@ -1,0 +1,33 @@
+ItemDef(
+    name: "腐败的孢子",
+    description: "你感觉到一股邪恶的力量在你体内跳动。\n坚持太久可能是不明智的。。。",
+    kind: Consumable(
+        kind: ComplexFood,
+        effects: [
+            Buff((
+                kind: Frenzied,
+                data: (
+                    strength: 0.4,
+                    duration: Some((
+                            secs: 60,
+                            nanos: 0,
+                        )),
+                    ),
+                cat_ids: [Natural],
+            )),
+            Buff((
+                kind: Cursed,
+                data: (
+                    strength: 0.35,
+                    duration: Some((
+                            secs: 60,
+                            nanos: 0,
+                        )),
+                    ),
+                cat_ids: [Natural],
+            )),
+        ]
+    ),
+    quality: Epic,
+    tags: [Food],
+)

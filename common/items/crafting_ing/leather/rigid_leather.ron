@@ -1,0 +1,9 @@
+ItemDef(
+    name: "硬皮革",
+    description: "轻但分层，完美的保护.",
+    kind: Ingredient(
+        kind: "RigidLeather",
+    ),
+    quality: Epic,
+    tags: [BaseMaterial, Leather],
+)

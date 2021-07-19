@@ -1,0 +1,33 @@
+ItemDef(
+    name: "蘑菇咖喱",
+    description: "谁能拒绝它呢？",
+    kind: Consumable(
+        kind: ComplexFood,
+        effects: [
+            Buff((
+                kind: Saturation,
+                data: (
+                    strength: 100.0,
+                    duration: Some((
+                            secs: 5,
+                            nanos: 0,
+                        )),
+                    ),
+                cat_ids: [Natural],
+            )),
+            Buff((
+                kind: Regeneration,
+                data: (
+                    strength: 10.0,
+                    duration: Some((
+                            secs: 70,
+                            nanos: 0,
+                        )),
+                    ),
+                cat_ids: [Natural],
+            )),
+        ]
+    ),
+    quality: Moderate,
+    tags: [Food],
+)

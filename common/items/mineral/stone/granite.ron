@@ -1,0 +1,9 @@
+ItemDef(
+    name: "花岗岩",
+    description: "浅色火成岩.",
+    kind: Ingredient(
+        kind: "Granite",
+    ),
+    quality: Common,
+    tags: [],
+)

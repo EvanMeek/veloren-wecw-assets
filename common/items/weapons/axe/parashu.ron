@@ -1,0 +1,20 @@
+ItemDef(
+    name: "帕拉舒",
+    description: "据说能劈开天空.",
+    kind: Tool((
+        kind: Axe,
+        hands: Two,
+        stats: Direct((
+            equip_time_secs: 0.4,
+            power: 3.0,
+            effect_power: 2.0,
+            speed: 0.8,
+            crit_chance: 0.15,
+            range: 1.0,
+            energy_efficiency: 1.0,
+            buff_strength: 1.0,
+        )),
+    )),
+    quality: Epic,
+    tags: [],
+)

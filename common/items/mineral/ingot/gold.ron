@@ -1,0 +1,9 @@
+ItemDef(
+    name: "金锭",
+    description: "用精炼的金属金制成的锭.",
+    kind: Ingredient(
+        kind: "GoldIngot",
+    ),
+    quality: Epic,
+    tags: [MetalIngot],
+)

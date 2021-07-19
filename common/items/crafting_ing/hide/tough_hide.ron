@@ -1,0 +1,11 @@
+ItemDef(
+    name: "坚韧兽皮",
+    description: "猛兽的兽皮。成为皮革.",
+    kind: Ingredient(
+        kind: "ToughHide",
+    ),
+    quality: Common,
+    tags: [
+        Material(Leather)
+        ],
+)

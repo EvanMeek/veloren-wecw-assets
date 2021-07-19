@@ -1,0 +1,164 @@
+((
+    default: (
+        vox_spec: ("armor.misc.foot.none", (-2.5, -3.5, -2.0)),
+        color: None
+    ),
+    map: {
+        "Warlord": (
+          vox_spec: ("armor.warlord.foot", (-2.5, -3.5, -2.0)),
+          color: None
+        ),
+        "soul": (
+          vox_spec: ("armor.warlordG.skullfoot", (-2.5, -3.5, -2.0)),
+          color: None
+        ),
+        "Velorite": (
+          vox_spec: ("armor.warlordG.vfoot", (-2.5, -3.5, -2.0)),
+          color: None
+        ),
+        "Dark": (
+            vox_spec: ("armor.misc.foot.dark", (-2.5, -3.5, -2.0)),
+            color: None
+        ),
+        "Assassin": (
+            vox_spec: ("armor.assassin.foot", (-2.5, -3.5, -2.0)),
+            color: None
+        ),
+        "Jester": (
+            vox_spec: ("armor.misc.foot.dark_jester_elf", (-2.5, -3.0, -2.0)),
+            color: None
+        ),
+        "ClothPurple": (
+            vox_spec: ("armor.cloth_purple.foot", (-2.5, -3.5, -2.0)),
+            color: None
+        ),
+        "Ferocious": (
+            vox_spec: ("armor.ferocious.foot", (-2.5, -3.5, -2.0)),
+            color: None
+        ),
+        "ClothBlue": (
+            vox_spec: ("armor.cloth_blue.foot", (-2.5, -3.5, -2.0)),
+            color: None
+        ),
+        "ClothGreen": (
+            vox_spec: ("armor.cloth_green.foot", (-2.5, -3.5, -2.0)),
+            color: None
+        ),
+        "Sandal": (
+            vox_spec: ("armor.misc.foot.cloth_sandal", (-2.5, -3.5, -2.0)),
+            color: None
+        ),
+        "Cultist": (
+            vox_spec: ("armor.cultist.foot", (-2.5, -3.5, -2.0)),
+            color: None
+        ),
+        "LeatherPlate": (
+            vox_spec: ("armor.leather_plate.foot", (-2.5, -3.5, -2.0)),
+            color: None
+        ),
+        "Jackalope": (
+            vox_spec: ("armor.misc.foot.jackalope", (-2.5, -3.5, -2.0)),
+            color: None
+        ),
+        "Twigs": (
+            vox_spec: ("armor.twigs.foot", (-2.5, -3.5, -2.0)),
+            color: None
+        ),
+        "TwigsLeaves": (
+            vox_spec: ("armor.twigsleaves.foot", (-2.5, -3.5, -2.0)),
+            color: None
+        ),
+        "TwigsFlowers": (
+            vox_spec: ("armor.twigsflowers.foot", (-2.5, -3.5, -2.0)),
+            color: None
+        ),
+        "Tarasque":(
+            vox_spec: ("armor.tarasque.foot", (-2.5, -3.5, -2.0)),
+            color: None
+        ),
+        "Bonerattler":(
+            vox_spec: ("armor.bonerattler.foot", (-2.5, -3.5, -2.0)),
+            color: None
+        ),
+        "VeloriteMage": (
+          vox_spec: ("armor.velorite_battlemage.foot", (-2.5, -3.5, -2.0)),
+          color: None
+        ),
+        "Rawhide": (
+            vox_spec: ("armor.hide.rawhide.foot", (-2.5, -3.5, -2.0)),
+            color: None
+        ),
+        "Leather": (
+            vox_spec: ("armor.hide.leather.foot", (-2.5, -3.5, -2.0)),
+            color: None
+        ),
+        "Scale": (
+          vox_spec: ("armor.hide.scale.foot", (-2.5, -3.5, -2.0)),
+          color: None
+        ),
+        "Carapace": (
+          vox_spec: ("armor.hide.carapace.foot", (-2.5, -3.5, -2.0)),
+          color: None
+        ),
+        "Primal": (
+          vox_spec: ("armor.hide.primal.foot", (-2.5, -3.5, -2.0)),
+          color: None
+        ),
+        "Dragonscale": (
+          vox_spec: ("armor.hide.dragonscale.foot", (-2.5, -5.5, -2.0)),
+          color: None
+        ),
+        "Savage": (
+          vox_spec: ("armor.savage.foot", (-2.5, -3.5, -2.0)),
+          color: None
+        ),
+        "Linen": (
+          vox_spec: ("armor.cloth.linen.foot", (-2.5, -3.5, -2.0)),
+          color: None
+        ),
+        "Woolen": (
+          vox_spec: ("armor.cloth.woolen.foot", (-2.5, -3.5, -2.0)),
+          color: None
+        ),
+        "Silken": (
+          vox_spec: ("armor.cloth.silken.foot", (-2.5, -3.5, -2.0)),
+          color: None
+        ),
+        "Druid": (
+          vox_spec: ("armor.cloth.druid.foot", (-2.5, -3.5, -2.0)),
+          color: None
+        ),
+        "Moonweave": (
+          vox_spec: ("armor.cloth.moonweave.foot", (-2.5, -3.5, -2.0)),
+          color: None
+        ),
+        "Sunsilk": (
+          vox_spec: ("armor.cloth.sunsilk.foot", (-2.5, -3.5, -2.0)),
+          color: None
+        ),
+        "Bronze": (
+          vox_spec: ("armor.mail.bronze.foot", (-2.5, -3.5, -2.0)),
+          color: None
+        ),
+        "Iron": (
+          vox_spec: ("armor.mail.iron.foot", (-2.5, -3.5, -2.0)),
+          color: None
+        ),
+        "Steel": (
+          vox_spec: ("armor.mail.steel.foot", (-2.5, -3.5, -2.0)),
+          color: None
+        ),
+        "Cobalt": (
+          vox_spec: ("armor.mail.cobalt.foot", (-2.5, -3.5, -2.0)),
+          color: None
+        ),
+        "Bloodsteel": (
+          vox_spec: ("armor.mail.bloodsteel.foot", (-2.5, -3.5, -2.0)),
+          color: None
+        ),
+        "Orichalcum": (
+          vox_spec: ("armor.mail.orichalcum.foot", (-2.5, -3.5, -2.0)),
+          color: None
+        ),
+    },
+))

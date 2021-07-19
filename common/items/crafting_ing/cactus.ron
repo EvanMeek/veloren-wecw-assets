@@ -1,0 +1,9 @@
+ItemDef(
+    name: "仙人掌",
+    description: "生长在温暖干燥的地方.",
+    kind: Ingredient(
+        kind: "Cactus",
+    ),
+    quality: Common,
+    tags: [],
+)

@@ -1,0 +1,11 @@
+EntityConfig (
+    name: Name("黑暗猎犬"),
+    body: RandomWith("darkhound"),
+    alignment: Alignment(Enemy),
+
+    loot: LootTable("common.loot_tables.dungeon.tier-5.minion"),
+
+    hands: Uninit,
+
+    meta: [],
+)

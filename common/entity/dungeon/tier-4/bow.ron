@@ -1,0 +1,14 @@
+EntityConfig (
+    name: Name("蚁人神射手"),
+    body: RandomWith("myrmidon"),
+    alignment: Alignment(Enemy),
+
+    loot: LootTable("common.loot_tables.dungeon.tier-4.enemy"),
+
+    hands: TwoHanded(Item("common.items.npc_weapons.biped_small.myrmidon.adlet_bow")),
+
+    meta: [
+        LoadoutAsset("common.loadout.dungeon.tier-4.myrmidon"),
+        SkillSetAsset("common.skillset.dungeon.tier-4.bow"),
+    ],
+)

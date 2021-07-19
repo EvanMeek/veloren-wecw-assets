@@ -1,0 +1,9 @@
+ItemDef(
+    name: "皮革碎片",
+    description: "常见的材料，通常从动物身上剥取.",
+    kind: Ingredient(
+        kind: "LeatherStrips",
+    ),
+    quality: Common,
+    tags: [BaseMaterial],
+)

@@ -1,0 +1,9 @@
+ItemDef(
+    name: "活性布",
+    description: "一种具有特殊性能的织物.",
+    kind: Ingredient(
+        kind: "Lifecloth",
+    ),
+    quality: High,
+    tags: [Textile],
+)

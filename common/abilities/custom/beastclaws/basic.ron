@@ -1,0 +1,18 @@
+BasicMelee(
+    energy_cost: 0,
+    buildup_duration: 0.25,
+    swing_duration: 0.1,
+    recover_duration: 0.25,
+    knockback: ( strength: 25.0, direction: Away),
+    base_damage: 200,
+    base_poise_damage: 40,
+    range: 5.0,
+    max_angle: 120.0,
+    damage_effect: Some(Buff((
+        kind: Bleeding,
+        dur_secs: 10.0,
+        strength: DamageFraction(0.1),
+        chance: 0.1,
+    ))),
+    damage_kind: Slashing,
+)

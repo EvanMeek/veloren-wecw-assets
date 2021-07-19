@@ -1,0 +1,9 @@
+ItemDef(
+    name: "粉红色花",
+    description: "看起来像棒棒糖.",
+    kind: Ingredient(
+        kind: "Flower",
+    ),
+    quality: Common,
+    tags: [],
+)

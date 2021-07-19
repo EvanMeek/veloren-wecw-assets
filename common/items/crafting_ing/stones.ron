@@ -1,0 +1,9 @@
+ItemDef(
+    name: "石头",
+    description: "随处可见的玩意.",
+    kind: Ingredient(
+        kind: "Stones",
+    ),
+    quality: Common,
+    tags: [],
+)

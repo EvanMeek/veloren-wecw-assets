@@ -1,0 +1,9 @@
+ItemDef(
+    name: "铜矿石",
+    description: "棕色的矿石. 是青铜的关键材料.",
+    kind: Ingredient(
+        kind: "CopperOre",
+    ),
+    quality: Low,
+    tags: [],
+)

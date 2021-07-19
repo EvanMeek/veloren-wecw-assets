@@ -1,0 +1,20 @@
+ItemDef(
+    name: "诅咒的灵魂守护者",
+    description: "感觉这玩意有点邪恶啊......",
+    kind: Armor(
+        (
+            kind: Bag("RedFace"),
+            stats: (
+                protection: Normal(0.0),
+                poise_resilience: Normal(0.0),
+                energy_max: 0,
+                energy_reward: 0.0,
+                crit_power: 0.0,
+                stealth: 0.0,
+            ),            
+        )
+    ),
+    quality: Legendary,
+    tags: [Bag],
+    slots: 64,
+)

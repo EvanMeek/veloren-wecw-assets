@@ -1,0 +1,11 @@
+ItemDef(
+    name: "雪原之鹰",
+    description: "用捕食者的翅膀飞翔.",
+    kind: Glider(
+        (
+            kind: "SnowRaptor",
+        ),
+    ),
+    quality: High,
+    tags: [],
+)

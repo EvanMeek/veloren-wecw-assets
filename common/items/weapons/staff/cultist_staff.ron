@@ -1,0 +1,21 @@
+ItemDef(
+    name: "术士之杖",
+    description: "属于强大的邪教术士.\n特效（术士）：大火球得到强化.",
+    kind: Tool((
+        kind: Staff,
+        hands: Two,
+        stats: Direct((
+            equip_time_secs: 0.3,
+            power: 2.5,
+            effect_power: 2.5,
+            speed: 1.2,
+            crit_chance: 0.2,
+            range: 1.0,
+            energy_efficiency: 1.0,
+            buff_strength: 1.0,
+        )),
+    )),
+    quality: Epic,
+    tags: [],
+    ability_spec: Some(Custom("Staffepic")),
+)

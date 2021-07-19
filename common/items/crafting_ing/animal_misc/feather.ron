@@ -1,0 +1,9 @@
+ItemDef(
+    name: "羽毛",
+    description: "鸟的羽毛.",
+    kind: Ingredient(
+        kind: "Feather",
+    ),
+    quality: Common,
+    tags: [],
+)

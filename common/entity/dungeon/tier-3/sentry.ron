@@ -1,0 +1,11 @@
+EntityConfig (
+    name: Name("埴轮哨兵"),
+    body: Exact(Object(HaniwaSentry)),
+    alignment: Alignment(Enemy),
+
+    loot: Item("common.items.crafting_ing.stones"),
+
+    hands: Uninit,
+
+    meta: [],
+)

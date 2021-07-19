@@ -1,0 +1,14 @@
+EntityConfig (
+    name: Name("鱼人狙击手"),
+    body: RandomWith("sahagin"),
+    alignment: Alignment(Enemy),
+
+    loot: LootTable("common.loot_tables.dungeon.tier-2.enemy"),
+
+    hands: TwoHanded(Item("common.items.npc_weapons.biped_small.sahagin.adlet_bow")),
+
+    meta: [
+        LoadoutAsset("common.loadout.dungeon.tier-2.sahagin"),
+        SkillSetAsset("common.skillset.dungeon.tier-2.bow"),
+    ],
+)

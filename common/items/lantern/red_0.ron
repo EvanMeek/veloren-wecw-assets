@@ -1,0 +1,14 @@
+ItemDef(
+    name: "红色提灯",
+    description: "保证内部温暖.",
+    kind: Lantern(
+        (
+            kind: "Red0",
+            color: (r: 255, g: 128, b: 26),
+            strength_thousandths: 5000,
+            flicker_thousandths: 250,
+        ),
+    ),
+    quality: Moderate,
+    tags: [Utility],
+)

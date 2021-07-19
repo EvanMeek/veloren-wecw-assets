@@ -1,0 +1,13 @@
+EntityConfig (
+    name: Name("蛛网怪萨满"),
+    body: RandomWith("adlet"),
+    alignment: Alignment(Enemy),
+
+    loot: LootTable("common.loot_tables.dungeon.tier-1.enemy"),
+
+    hands: TwoHanded(Item("common.items.npc_weapons.biped_small.adlet.gnoll_staff")),
+
+    meta: [
+        LoadoutAsset("common.loadout.dungeon.tier-1.adlet_spear"),
+    ],
+)

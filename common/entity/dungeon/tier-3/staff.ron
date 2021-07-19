@@ -1,0 +1,13 @@
+EntityConfig (
+    name: Name("埴轮巫师"),
+    body: RandomWith("haniwa"),
+    alignment: Alignment(Enemy),
+
+    loot: LootTable("common.loot_tables.dungeon.tier-3.enemy"),
+
+    hands: TwoHanded(Item("common.items.npc_weapons.biped_small.haniwa.gnoll_staff")),
+
+    meta: [
+        LoadoutAsset("common.loadout.dungeon.tier-3.haniwa"),
+    ],
+)

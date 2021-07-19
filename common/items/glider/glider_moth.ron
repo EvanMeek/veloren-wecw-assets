@@ -1,0 +1,11 @@
+ItemDef(
+    name: "绿带翠凤蝶",
+    description: "又名深山凤蝶，为凤蝶科凤蝶属下的一种，娇嫩的翅膀微微颤动.",
+    kind: Glider(
+        (
+            kind: "MothLuna",
+        ),
+    ),
+    quality: High,
+    tags: [],
+)

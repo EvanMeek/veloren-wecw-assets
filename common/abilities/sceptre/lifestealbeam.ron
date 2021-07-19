@@ -1,0 +1,15 @@
+BasicBeam(
+    buildup_duration: 0.20,
+    recover_duration: 0.20,
+    beam_duration: 0.75,
+    damage: 15,
+    tick_rate: 2.5,
+    range: 25.0,
+    max_angle: 1.0,
+    damage_effect: Some(Lifesteal(0.25)),
+    energy_regen: 40,
+    energy_drain: 0,
+    orientation_behavior: Normal,
+    ori_rate: 0.6,
+    specifier: LifestealBeam
+)

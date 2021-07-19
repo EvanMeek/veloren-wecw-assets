@@ -1,0 +1,21 @@
+ItemDef(
+    name: "Frost Saw",
+    description: "Forged from a single piece of eternal ice.",
+    kind: Tool((
+        kind: Sword,
+        hands: Two,
+        stats: Direct((
+            equip_time_secs: 0.5,
+            power: 1.95,
+            effect_power: 1.0,
+            speed: 1.0,
+            crit_chance: 0.14182693,
+            range: 1.0,
+            energy_efficiency: 1.0,
+            buff_strength: 1.0,
+        )),
+    )),
+    quality: Epic,
+    tags: [],
+    ability_spec: None,
+)

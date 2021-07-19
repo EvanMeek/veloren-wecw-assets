@@ -1,0 +1,19 @@
+ItemDef(
+    name: "Blue Linen Belt",
+    description: "A stylish rough fabric belt, dyed blue.",
+    kind: Armor((
+        kind: Belt("ClothBlue"),
+        stats: (
+            protection: Normal(1.0),
+            poise_resilience: Normal(0.0),
+            energy_max: 0,
+            energy_reward: 0.0,
+            crit_power: 0.0,
+            stealth: 0.0,
+        ),
+    )),
+    quality: Common,
+    tags: [
+        Material(Linen),
+    ],
+)

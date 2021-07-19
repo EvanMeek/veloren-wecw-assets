@@ -1,0 +1,4 @@
+[
+    (0.5, Item("common.items.mineral.ore.veloritefrag")),
+    (0.25, Item("common.items.mineral.ore.velorite")),
+]

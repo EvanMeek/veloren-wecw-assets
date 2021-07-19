@@ -1,0 +1,731 @@
+({
+    (Crocodile, Male): (
+        upper: (
+            offset: (-4.0, 0.0, -3.0),
+            central: ("npc.crocodile.male.head_upper"),
+        ),
+        lower: (
+            offset: (-4.0, -4.0, -3.0),
+            central: ("npc.crocodile.male.head_lower"),
+        ),
+        jaw: (
+            offset: (-4.0, 0.0, -1.5),
+            central: ("npc.crocodile.male.jaw"),
+        ),
+        chest: (
+            offset: (-5.0, -7.5, -3.0),
+            central: ("npc.crocodile.male.chest"),
+        ),
+        tail_rear: (
+            offset: (-1.0, -9.0, -1.5),//full length of y dimension
+            central: ("npc.crocodile.male.tail_rear"),
+        ),
+		tail_front: (
+            offset: (-3.0, -13.0, -2.5),//full length of y dimension
+            central: ("npc.crocodile.male.tail_front"),
+        ),
+    ),
+    (Crocodile, Female): (
+        upper: (
+            offset: (-4.0, 0.0, -3.0),
+            central: ("npc.crocodile.male.head_upper"),
+        ),
+        lower: (
+            offset: (-4.0, -4.0, -3.0),
+            central: ("npc.crocodile.male.head_lower"),
+        ),
+        jaw: (
+            offset: (-4.0, 0.0, -1.5),
+            central: ("npc.crocodile.male.jaw"),
+        ),
+        chest: (
+            offset: (-5.0, -7.5, -3.0),
+            central: ("npc.crocodile.male.chest"),
+        ),
+        tail_rear: (
+            offset: (-1.0, -9.0, -1.5),
+            central: ("npc.crocodile.male.tail_rear"),
+        ),
+		tail_front: (
+            offset: (-3.0, -13.0, -2.5),
+            central: ("npc.crocodile.male.tail_front"),
+        ),
+    ),
+    (Alligator, Male): (
+        upper: (
+            offset: (-4.0, -0.0, -2.5),
+            central: ("npc.alligator.male.head_upper"),
+        ),
+        lower: (
+            offset: (-4.0, -4.0, -3.5),
+            central: ("npc.alligator.male.head_lower"),
+        ),
+        jaw: (
+            offset: (-4.0, 0.0, -2.5),
+            central: ("npc.alligator.male.jaw"),
+        ),
+        chest: (
+            offset: (-6.0, -7.5, -3.5),
+            central: ("npc.alligator.male.chest"),
+        ),
+        tail_rear: (
+            offset: (-2.0, -9.0, -1.5),
+            central: ("npc.alligator.male.tail_rear"),
+        ),
+		tail_front: (
+            offset: (-4.0, -13.0, -2.5),
+            central: ("npc.alligator.male.tail_front"),
+        ),
+    ),
+    (Alligator, Female): (
+        upper: (
+            offset: (-4.0, -0.0, -2.5),
+            central: ("npc.alligator.male.head_upper"),
+        ),
+        lower: (
+            offset: (-4.0, -4.0, -3.5),
+            central: ("npc.alligator.male.head_lower"),
+        ),
+        jaw: (
+            offset: (-4.0, 0.0, -2.5),
+            central: ("npc.alligator.male.jaw"),
+        ),
+        chest: (
+            offset: (-6.0, -7.5, -3.5),
+            central: ("npc.alligator.male.chest"),
+        ),
+        tail_rear: (
+            offset: (-2.0, -9.0, -1.5),
+            central: ("npc.alligator.male.tail_rear"),
+        ),
+		tail_front: (
+            offset: (-4.0, -13.0, -2.5),
+            central: ("npc.alligator.male.tail_front"),
+        ),
+    ),
+    (Salamander, Male): (
+        upper: (
+            offset: (-6.5, 0.0, -2.0),
+            central: ("npc.salamander.male.head_upper"),
+        ),
+        lower: (
+            offset: (-4.5, -1.5, -3.0),
+            central: ("npc.salamander.male.head_lower"),
+        ),
+        jaw: (
+            offset: (-6.5, 0.0, -3.0),
+            central: ("npc.salamander.male.jaw"),
+        ),
+        chest: (
+            offset: (-6.5, -8.5, -3.0),
+            central: ("npc.salamander.male.chest"),
+        ),
+        tail_rear: (
+            offset: (-3.5, -13.0, -3.0),
+            central: ("npc.salamander.male.tail_rear"),
+        ),
+		tail_front: (
+            offset: (-4.5, -9.0, -3.0),
+            central: ("npc.salamander.male.tail_front"),
+        ),
+    ),
+    (Salamander, Female): (
+        upper: (
+            offset: (-9.5, 0.0, -2.0),
+            central: ("npc.salamander.female.head_upper"),
+        ),
+        lower: (
+            offset: (-4.5, -1.5, -3.0),
+            central: ("npc.salamander.female.head_lower"),
+        ),
+        jaw: (
+            offset: (-6.5, 0.0, -2.0),
+            central: ("npc.salamander.female.jaw"),
+        ),
+        chest: (
+            offset: (-8.5, -8.5, -3.0),
+            central: ("npc.salamander.female.chest"),
+        ),
+        tail_rear: (
+            offset: (-6.5, -13.0, -2.5),
+            central: ("npc.salamander.female.tail_rear"),
+        ),
+		tail_front: (
+            offset: (-5.5, -8.0, -3.0),
+            central: ("npc.salamander.female.tail_front"),
+        ),
+    ),
+    (Monitor, Male): (
+        upper: (
+            offset: (-3.0, 0.0, -3.0),
+            central: ("npc.monitor.male.head_upper"),
+        ),
+        lower: (
+            offset: (-3.0, 0.0, -2.0),
+            central: ("npc.monitor.male.head_lower"),
+        ),
+        jaw: (
+            offset: (-3.0, 0.0, -1.0),
+            central: ("npc.monitor.male.jaw"),
+        ),
+        chest: (
+            offset: (-4.0, -7.0, -3.0),
+            central: ("npc.monitor.male.chest"),
+        ),
+        tail_rear: (
+            offset: (-1.0, -11.0, -2.0),
+            central: ("npc.monitor.male.tail_rear"),
+        ),
+
+		tail_front: (
+            offset: (-2.0, -13.0, -2.0),
+            central: ("npc.monitor.male.tail_front"),
+        ),
+    ),
+    (Monitor, Female): (
+        upper: (
+            offset: (-3.0, 0.0, -3.0),
+            central: ("npc.monitor.male.head_upper"),
+        ),
+        lower: (
+            offset: (-3.0, 0.0, -2.0),
+            central: ("npc.monitor.male.head_lower"),
+        ),
+        jaw: (
+            offset: (-3.0, 0.0, -1.0),
+            central: ("npc.monitor.male.jaw"),
+        ),
+        chest: (
+            offset: (-4.0, -7.0, -3.0),
+            central: ("npc.monitor.male.chest"),
+        ),
+        tail_rear: (
+            offset: (-1.0, -11.0, -2.0),
+            central: ("npc.monitor.male.tail_rear"),
+        ),
+		tail_front: (
+            offset: (-2.0, -13.0, -2.0),
+            central: ("npc.monitor.male.tail_front"),
+        ),
+    ),
+    (Asp, Male): (
+        upper: (
+            offset: (-5.0, 0.0, -5.0),
+            central: ("npc.asp.male.head_upper"),
+        ),
+        lower: (
+            offset: (-6.0, -0.0, -2.0),
+            central: ("npc.asp.male.head_lower"),
+        ),
+        jaw: (
+            offset: (-2.0, 0.0, -1.0),
+            central: ("npc.asp.male.jaw"),
+        ),
+        chest: (
+            offset: (-5.0, -7.5, -5.0),
+            central: ("npc.asp.male.chest"),
+        ),
+        tail_rear: (
+            offset: (-1.0, -14.0, -2.0),
+            central: ("npc.asp.male.tail_rear"),
+        ),
+		tail_front: (
+            offset: (-3.0, -14.0, -4.0),
+            central: ("npc.asp.male.tail_front"),
+        ),
+    ),
+    (Asp, Female): (
+        upper: (
+            offset: (-5.0, 0.0, -5.0),
+            central: ("npc.asp.male.head_upper"),
+        ),
+        lower: (
+            offset: (-6.0, -0.0, -2.0),
+            central: ("npc.asp.male.head_lower"),
+        ),
+        jaw: (
+            offset: (-2.0, 0.0, -1.0),
+            central: ("npc.asp.male.jaw"),
+        ),
+        chest: (
+            offset: (-5.0, -7.5, -5.0),
+            central: ("npc.asp.male.chest"),
+        ),
+        tail_rear: (
+            offset: (-1.0, -14.0, -2.0),
+            central: ("npc.asp.male.tail_rear"),
+        ),
+		tail_front: (
+            offset: (-3.0, -14.0, -4.0),
+            central: ("npc.asp.male.tail_front"),
+        ),
+    ),
+    (Tortoise, Male): (
+        upper: (
+            offset: (-2.5, -4.0, -3.0),
+            central: ("npc.tortoise.male.head_upper"),
+        ),
+        lower: (
+            offset: (-2.5, -3.5, -2.0),
+            central: ("npc.tortoise.male.head_lower"),
+        ),
+        jaw: (
+            offset: (-1.5, 0.0, -1.0),
+            central: ("npc.tortoise.male.jaw"),
+        ),
+        chest: (
+            offset: (-10.5, -12.5, -7.0),
+            central: ("npc.tortoise.male.chest"),
+        ),
+        tail_rear: (
+            offset: (0.0, 0.0, 0.0),
+            central: ("armor.empty"),
+        ),
+		tail_front: (
+            offset: (-1.5, -3.5, -1.5),
+            central: ("npc.tortoise.male.tail_front"),
+        ),
+    ),
+    (Tortoise, Female): (
+        upper: (
+            offset: (-2.5, -4.0, -3.0),
+            central: ("npc.tortoise.male.head_upper"),
+        ),
+        lower: (
+            offset: (-2.5, -3.5, -2.0),
+            central: ("npc.tortoise.male.head_lower"),
+        ),
+        jaw: (
+            offset: (-1.5, 0.0, -1.0),
+            central: ("npc.tortoise.male.jaw"),
+        ),
+        chest: (
+            offset: (-10.5, -12.5, -7.0),
+            central: ("npc.tortoise.male.chest"),
+        ),
+        tail_rear: (
+            offset: (0.0, 0.0, 0.0),
+            central: ("armor.empty"),
+        ),
+		tail_front: (
+            offset: (-1.5, -3.5, -1.5),
+            central: ("npc.tortoise.male.tail_front"),
+        ),
+    ),
+    (Rocksnapper, Male): (
+        upper: (
+            offset: (-3.5, -4.5, -3.0),
+            central: ("npc.rocksnapper.male.head_upper"),
+        ),
+        lower: (
+            offset: (-3.5, -5.0, -3.5),
+            central: ("npc.rocksnapper.male.head_lower"),
+        ),
+        jaw: (
+            offset: (-6.5, 0.0, -2.5),
+            central: ("npc.rocksnapper.male.jaw"),
+        ),
+        chest: (
+            offset: (-15.5, -18.5, -13.5),
+            central: ("npc.rocksnapper.male.chest"),
+        ),
+        tail_rear: (
+            offset: (-1.5, -11.0, -2.5),
+            central: ("npc.rocksnapper.male.tail_rear"),
+        ),
+		tail_front: (
+            offset: (-2.5, -15.0, -4.5),
+            central: ("npc.rocksnapper.male.tail_front"),
+        ),
+    ),
+    (Rocksnapper, Female): (
+        upper: (
+            offset: (-3.5, -4.5, -3.0),
+            central: ("npc.rocksnapper.male.head_upper"),
+        ),
+        lower: (
+            offset: (-3.5, -5.0, -3.5),
+            central: ("npc.rocksnapper.male.head_lower"),
+        ),
+        jaw: (
+            offset: (-6.5, 0.0, -2.5),
+            central: ("npc.rocksnapper.male.jaw"),
+        ),
+        chest: (
+            offset: (-15.5, -18.5, -13.5),
+            central: ("npc.rocksnapper.male.chest"),
+        ),
+        tail_rear: (
+            offset: (-1.5, -11.0, -2.5),
+            central: ("npc.rocksnapper.male.tail_rear"),
+        ),
+		tail_front: (
+            offset: (-2.5, -15.0, -4.5),
+            central: ("npc.rocksnapper.male.tail_front"),
+        ),
+    ),
+    (Pangolin, Male): (
+        upper: (
+            offset: (-2.5, 0.0, -3.0),
+            central: ("npc.pangolin.male.head_upper"),
+        ),
+        lower: (
+            offset: (0.0, 0.0, 0.0),
+            central: ("armor.empty"),
+        ),
+        jaw: (
+            offset: (0.0, 0.0, 0.0),
+            central: ("armor.empty"),
+        ),
+        chest: (
+            offset: (-6.5, -8.0, -4.5),
+            central: ("npc.pangolin.male.chest"),
+        ),
+        tail_rear: (
+            offset: (-3.5, -16.0, -1.5),
+            central: ("npc.pangolin.male.tail_rear"),
+        ),
+        tail_front: (
+            offset: (-4.5, -8.0, -4.0),
+            central: ("npc.pangolin.male.tail_front"),
+        ),
+    ),
+    (Pangolin, Female): (
+        upper: (
+            offset: (-2.5, 0.0, -3.0),
+            central: ("npc.pangolin.male.head_upper"),
+        ),
+        lower: (
+            offset: (0.0, 0.0, 0.0),
+            central: ("armor.empty"),
+        ),
+        jaw: (
+            offset: (0.0, 0.0, 0.0),
+            central: ("armor.empty"),
+        ),
+        chest: (
+            offset: (-6.5, -8.0, -4.5),
+            central: ("npc.pangolin.male.chest"),
+        ),
+        tail_rear: (
+            offset: (-3.5, -16.0, -1.5),
+            central: ("npc.pangolin.male.tail_rear"),
+        ),
+        tail_front: (
+            offset: (-4.5, -8.0, -4.0),
+            central: ("npc.pangolin.male.tail_front"),
+        ),
+    ),
+    (Maneater, Male): (
+        upper: (
+            offset: (-5.5, 0.0, 0.0),
+            central: ("npc.maneater.male.head_upper"),
+        ),
+        lower: (
+            offset: (-14.5, -5.5, -0.0),
+            central: ("npc.maneater.male.head_lower"),
+        ),
+        jaw: (
+            offset: (-7.5, 0.0, -19.0),
+            central: ("npc.maneater.male.jaw"),
+        ),
+        chest: (
+            offset: (-6.5, -6.5, -6.0),
+            central: ("npc.maneater.male.chest"),
+        ),
+        tail_rear: (
+            offset: (-0.5, -14.0, -6.5),
+            central: ("npc.maneater.male.tail_rear"),
+        ),
+        tail_front: (
+            offset: (-4.5, -15.0, -0.0),
+            central: ("npc.maneater.male.tail_front"),
+        ),
+    ),
+    (Maneater, Female): (
+        upper: (
+            offset: (-5.5, 0.0, 0.0),
+            central: ("npc.maneater.male.head_upper"),
+        ),
+        lower: (
+            offset: (-14.5, -5.5, -0.0),
+            central: ("npc.maneater.male.head_lower"),
+        ),
+        jaw: (
+            offset: (-7.5, 0.0, -19.0),
+            central: ("npc.maneater.male.jaw"),
+        ),
+        chest: (
+            offset: (-6.5, -6.5, -6.0),
+            central: ("npc.maneater.male.chest"),
+        ),
+        tail_rear: (
+            offset: (-0.5, -14.0, -6.5),
+            central: ("npc.maneater.male.tail_rear"),
+        ),
+        tail_front: (
+            offset: (-4.5, -15.0, -0.0),
+            central: ("npc.maneater.male.tail_front"),
+        ),
+    ),
+    (Hakulaq, Male): (
+        upper: (
+            offset: (-2.5, -8.5, -5.0),
+            central: ("npc.hakulaq.male.head_upper"),
+        ),
+        lower: (
+            offset: (-2.5, -3.5, -8.5),
+            central: ("npc.hakulaq.male.head_lower"),
+        ),
+        jaw: (
+            offset: (-2.5, 0.0, -2.0),
+            central: ("npc.hakulaq.male.jaw"),
+        ),
+        chest: (
+            offset: (-4.5, -8.0, -8.5),
+            central: ("npc.hakulaq.male.chest"),
+        ),
+        tail_rear: (
+            offset: (-1.5, -18.0, -2.0),
+            central: ("npc.hakulaq.male.tail_rear"),
+        ),
+		tail_front: (
+            offset: (-2.5, -10.0, -4.0),
+            central: ("npc.hakulaq.male.tail_front"),
+        ),
+    ),
+    (Hakulaq, Female): (
+        upper: (
+            offset: (-2.5, -8.5, -5.0),
+            central: ("npc.hakulaq.male.head_upper"),
+        ),
+        lower: (
+            offset: (-2.5, -3.5, -8.5),
+            central: ("npc.hakulaq.male.head_lower"),
+        ),
+        jaw: (
+            offset: (-2.5, 0.0, -2.0),
+            central: ("npc.hakulaq.male.jaw"),
+        ),
+        chest: (
+            offset: (-4.5, -8.0, -8.5),
+            central: ("npc.hakulaq.male.chest"),
+        ),
+        tail_rear: (
+            offset: (-1.5, -18.0, -2.0),
+            central: ("npc.hakulaq.male.tail_rear"),
+        ),
+		tail_front: (
+            offset: (-2.5, -10.0, -4.0),
+            central: ("npc.hakulaq.male.tail_front"),
+        ),
+    ),
+    (Sandshark, Male): (
+        upper: (
+            offset: (-5.5, -8.0, -5.0),
+            central: ("npc.sandshark.male.head_upper"),
+        ),
+        lower: (
+            offset: (-4.5, -2.5, -6.5),
+            central: ("npc.sandshark.male.head_lower"),
+        ),
+        jaw: (
+            offset: (-5.5, 0.0, -2.5),
+            central: ("npc.sandshark.male.jaw"),
+        ),
+        chest: (
+            offset: (-9.5, -15.0, -17.0),
+            central: ("npc.sandshark.male.chest"),
+        ),
+        tail_rear: (
+            offset: (-1.5, -19.0, -4.5),
+            central: ("npc.sandshark.male.tail_rear"),
+        ),
+		tail_front: (
+            offset: (-3.5, -11.0, -4.0),
+            central: ("npc.sandshark.male.tail_front"),
+        ),
+    ),
+    (Sandshark, Female): (
+        upper: (
+            offset: (-5.5, -8.0, -5.0),
+            central: ("npc.sandshark.male.head_upper"),
+        ),
+        lower: (
+            offset: (-4.5, -2.5, -6.5),
+            central: ("npc.sandshark.male.head_lower"),
+        ),
+        jaw: (
+            offset: (-5.5, 0.0, -2.5),
+            central: ("npc.sandshark.male.jaw"),
+        ),
+        chest: (
+            offset: (-9.5, -15.0, -17.0),
+            central: ("npc.sandshark.male.chest"),
+        ),
+        tail_rear: (
+            offset: (-1.5, -19.0, -4.5),
+            central: ("npc.sandshark.male.tail_rear"),
+        ),
+		tail_front: (
+            offset: (-3.5, -11.0, -4.0),
+            central: ("npc.sandshark.male.tail_front"),
+        ),
+    ),
+    (Lavadrake, Male): (
+        upper: (
+            offset: (-6.5, -2.0, -6.0),
+            central: ("npc.lavadrake.male.head_upper"),
+        ),
+        lower: (
+            offset: (-6.5, -1.0, -3.0),
+            central: ("npc.lavadrake.male.head_lower"),
+        ),
+        jaw: (
+            offset: (-3.5, 0.0, -5.0),
+            central: ("npc.lavadrake.male.jaw"),
+        ),
+        chest: (
+            offset: (-9.5, -11.5, -11.5),
+            central: ("npc.lavadrake.male.chest"),
+        ),
+        tail_rear: (
+            offset: (-6.5, -24.0, -3.5),
+            central: ("npc.lavadrake.male.tail_rear"),
+        ),
+		tail_front: (
+            offset: (-5.5, -12.0, -6.5),
+            central: ("npc.lavadrake.male.tail_front"),
+        ),
+    ),
+    (Lavadrake, Female): (
+        upper: (
+            offset: (-6.5, -2.0, -6.0),
+            central: ("npc.lavadrake.male.head_upper"),
+        ),
+        lower: (
+            offset: (-6.5, -1.0, -3.0),
+            central: ("npc.lavadrake.male.head_lower"),
+        ),
+        jaw: (
+            offset: (-3.5, 0.0, -5.0),
+            central: ("npc.lavadrake.male.jaw"),
+        ),
+        chest: (
+            offset: (-9.5, -11.5, -11.5),
+            central: ("npc.lavadrake.male.chest"),
+        ),
+        tail_rear: (
+            offset: (-6.5, -24.0, -3.5),
+            central: ("npc.lavadrake.male.tail_rear"),
+        ),
+		tail_front: (
+            offset: (-5.5, -12.0, -6.5),
+            central: ("npc.lavadrake.male.tail_front"),
+        ),
+    ),
+    (Basilisk, Male): (
+        upper: (
+            offset: (-5.5, 0.0, -5.0),
+            central: ("npc.basilisk.male.head_upper"),
+        ),
+        lower: (
+            offset: (-12.5, -6.5, -6.0),
+            central: ("npc.basilisk.male.head_lower"),
+        ),
+        jaw: (
+            offset: (-5.5, 0.0, -3.0),
+            central: ("npc.basilisk.male.jaw"),
+        ),
+        chest: (
+            offset: (-12.5, -11.0, -12.0),
+            central: ("npc.basilisk.male.chest"),
+        ),
+        tail_rear: (
+            offset: (-3.5, -19.0, -5.0),
+            central: ("npc.basilisk.male.tail_rear"),
+        ),
+		tail_front: (
+            offset: (-5.5, -12.0, -7.5),
+            central: ("npc.basilisk.male.tail_front"),
+        ),
+    ),
+    (Basilisk, Female): (
+        upper: (
+            offset: (-5.5, 0.0, -5.0),
+            central: ("npc.basilisk.male.head_upper"),
+        ),
+        lower: (
+            offset: (-12.5, -6.5, -6.0),
+            central: ("npc.basilisk.male.head_lower"),
+        ),
+        jaw: (
+            offset: (-5.5, 0.0, -3.0),
+            central: ("npc.basilisk.male.jaw"),
+        ),
+        chest: (
+            offset: (-12.5, -11.0, -12.0),
+            central: ("npc.basilisk.male.chest"),
+        ),
+        tail_rear: (
+            offset: (-3.5, -19.0, -5.0),
+            central: ("npc.basilisk.male.tail_rear"),
+        ),
+		tail_front: (
+            offset: (-5.5, -12.0, -7.5),
+            central: ("npc.basilisk.male.tail_front"),
+        ),
+    ),
+    (Deadwood, Male): (
+        upper: (
+            offset: (-3.5, -3.5, -4.0),
+            central: ("npc.deadwood.male.head_upper"),
+        ),
+        lower: (
+            offset: (0.0, 0.0, 0.0),
+            central: ("armor.empty"),
+        ),
+        jaw: (
+            offset: (0.0, 0.0, 0.0),
+            central: ("armor.empty"),
+        ),
+        chest: (
+            offset: (-12.5, -11.0, -9.0),
+            central: ("npc.deadwood.male.chest"),
+        ),
+        tail_rear: (
+            offset: (0.0, 0.0, 0.0),
+            central: ("armor.empty"),
+        ),
+        tail_front: (
+            offset: (0.0, 0.0, 0.0),
+            central: ("armor.empty"),
+        ),
+    ),
+    (Deadwood, Female): (
+        upper: (
+            offset: (-3.5, -3.5, -4.0),
+            central: ("npc.deadwood.male.head_upper"),
+        ),
+        lower: (
+            offset: (0.0, 0.0, 0.0),
+            central: ("armor.empty"),
+        ),
+        jaw: (
+            offset: (0.0, 0.0, 0.0),
+            central: ("armor.empty"),
+        ),
+        chest: (
+            offset: (-12.5, -11.0, -9.0),
+            central: ("npc.deadwood.male.chest"),
+        ),
+        tail_rear: (
+            offset: (0.0, 0.0, 0.0),
+            central: ("armor.empty"),
+        ),
+        tail_front: (
+            offset: (0.0, 0.0, 0.0),
+            central: ("armor.empty"),
+        ),
+    ),
+})

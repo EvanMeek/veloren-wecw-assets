@@ -1,0 +1,9 @@
+ItemDef(
+    name: "岩块",
+    description: "由多种矿物质组成的固体.",
+    kind: Ingredient(
+        kind: "Rock",
+    ),
+    quality: Low,
+    tags: [],
+)

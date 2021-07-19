@@ -1,0 +1,14 @@
+ItemDef(
+    name: "清凉的蓝提灯",
+    description: "这盏提灯点着时冷得出奇.",
+    kind: Lantern(
+        (
+            kind: "Blue0",
+            color: (r: 55, g: 100, b: 255),
+            strength_thousandths: 6000,
+            flicker_thousandths: 250,
+        ),
+    ),
+    quality: High,
+    tags: [Utility],
+)

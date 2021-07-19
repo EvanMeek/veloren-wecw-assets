@@ -1,0 +1,9 @@
+ItemDef(
+    name: "红色亚麻布",
+    description: "一种亚麻纤维织物，染色后引人注目.",
+    kind: Ingredient(
+        kind: "LinenRed",
+    ),
+    quality: Low,
+    tags: [Textile],
+)

@@ -1,0 +1,22 @@
+ItemDef(
+    name: "向日葵冰茶",
+    description: "由新鲜去皮的葵花籽酿制而成.",
+    kind: Consumable(
+        kind: Drink,
+        effects: [
+            Buff((
+                kind: Saturation,
+                data: (
+                    strength: 100.0,
+                    duration: Some((
+                            secs: 5,
+                            nanos: 0,
+                        )),
+                    ),
+                cat_ids: [Natural],
+            )),
+        ]
+    ),
+    quality: Moderate,
+    tags: [Food],
+)

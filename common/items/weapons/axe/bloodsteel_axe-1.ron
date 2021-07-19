@@ -1,0 +1,20 @@
+ItemDef(
+    name: "刽子手斧",
+    description: "黑暗的仪式要求在动物尸体的血液中形成金属合金，以确保产生的斧头渴望未来的杀戮.",
+    kind: Tool((
+        kind: Axe,
+        hands: Two,
+        stats: Direct((
+            equip_time_secs: 0.4,
+            power: 1.8,
+            effect_power: 1.0,
+            speed: 1.0,
+            crit_chance: 0.14,
+            range: 1.0,
+            energy_efficiency: 1.0,
+            buff_strength: 1.0,
+        )),
+    )),
+    quality: High,
+    tags: [],
+)

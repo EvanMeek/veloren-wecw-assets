@@ -1,0 +1,9 @@
+ItemDef(
+    name: "空瓶",
+    description: "普普通通的空瓶子，你可以在里面储存些液体.",
+    kind: Ingredient(
+        kind: "EmptyVial",
+    ),
+    quality: Common,
+    tags: [],
+)

@@ -1,0 +1,1430 @@
+({
+    (Ogre, Male): (
+        shoulder_l: (
+            offset: (-6.0, -3.5, -6.5),
+            lateral: ("npc.ogre.male.shoulder_l"),
+        ),
+        shoulder_r: (
+            offset: (-6.0, -4.5, -6.5),
+            lateral: ("npc.ogre.male.shoulder_r"),
+        ),
+        hand_l: (
+            offset: (-5.5, -3.5, -13.0),
+            lateral: ("npc.ogre.male.hand_l"),
+        ),
+        hand_r: (
+            offset: (-5.5, -3.5, -13.0),
+            lateral: ("npc.ogre.male.hand_r"),
+        ),
+        leg_l: (
+            offset: (-6.0, -3.5, -8.0),
+            lateral: ("npc.ogre.male.leg_l"),
+        ),
+        leg_r: (
+            offset: (0.0, -3.5, -8.0),
+            lateral: ("npc.ogre.male.leg_r"),
+        ),
+        foot_l: (
+            offset: (-3.0, -5.0, -8.0),
+            lateral: ("npc.ogre.male.foot_l"),
+        ),
+        foot_r: (
+            offset: (-3.0, -5.5, -8.0),
+            lateral: ("npc.ogre.male.foot_r"),
+        ),
+    ),
+    (Ogre, Female): (
+        shoulder_l: (
+            offset: (-3.0, -3.0, -5.5),
+            lateral: ("npc.ogre.female.shoulder_l"),
+        ),
+        shoulder_r: (
+            offset: (-3.0, -3.0, -5.5),
+            lateral: ("npc.ogre.female.shoulder_r"),
+        ),
+        hand_l: (
+            offset: (-3.0, -3.0, -8.0),
+            lateral: ("npc.ogre.female.hand_l"),
+        ),
+        hand_r: (
+            offset: (-3.0, -3.0, -8.0),
+            lateral: ("npc.ogre.female.hand_r"),
+        ),
+        leg_l: (
+            offset: (-7.0, -3.5, -11.0),
+            lateral: ("npc.ogre.female.leg_l"),
+        ),
+        leg_r: (
+            offset: (0.0, -3.5, -11.0),
+            lateral: ("npc.ogre.female.leg_r"),
+        ),
+        foot_l: (
+            offset: (-3.0, -5.0, -8.0),
+            lateral: ("npc.ogre.female.foot_l"),
+        ),
+        foot_r: (
+            offset: (-3.0, -5.0, -8.0),
+            lateral: ("npc.ogre.female.foot_r"),
+        ),
+    ),
+    (Cyclops, Male): (
+        shoulder_l: (
+            offset: (-6.5, -7.5, -7.0),
+            lateral: ("npc.cyclops.male.shoulder_l"),
+        ),
+        shoulder_r: (
+            offset: (-6.5, -7.5, -7.0),
+            lateral: ("npc.cyclops.male.shoulder_r"),
+        ),
+        hand_l: (
+            offset: (-10.5, -5.5, -15.0),
+            lateral: ("npc.cyclops.male.hand_l"),
+        ),
+        hand_r: (
+            offset: (-3.5, -5.5, -15.0),
+            lateral: ("npc.cyclops.male.hand_r"),
+        ),
+        leg_l: (
+            offset: (-3.0, -3.5, -3.5),
+            lateral: ("npc.cyclops.male.leg_l"),
+        ),
+        leg_r: (
+            offset: (-3.0, -3.5, -3.5),
+            lateral: ("npc.cyclops.male.leg_r"),
+        ),
+        foot_l: (
+            offset: (-3.0, -5.5, -6.0),
+            lateral: ("npc.cyclops.male.foot_l"),
+        ),
+        foot_r: (
+            offset: (-3.0, -5.5, -6.0),
+            lateral: ("npc.cyclops.male.foot_r"),
+        ),
+    ),
+    (Cyclops, Female): (
+        shoulder_l: (
+            offset: (-6.5, -7.5, -7.0),
+            lateral: ("npc.cyclops.male.shoulder_l"),
+        ),
+        shoulder_r: (
+            offset: (-6.5, -7.5, -7.0),
+            lateral: ("npc.cyclops.male.shoulder_r"),
+        ),
+        hand_l: (
+            offset: (-10.5, -5.5, -15.0),
+            lateral: ("npc.cyclops.male.hand_l"),
+        ),
+        hand_r: (
+            offset: (-3.5, -5.5, -15.0),
+            lateral: ("npc.cyclops.male.hand_r"),
+        ),
+        leg_l: (
+            offset: (-3.0, -3.5, -3.5),
+            lateral: ("npc.cyclops.male.leg_l"),
+        ),
+        leg_r: (
+            offset: (-3.0, -3.5, -3.5),
+            lateral: ("npc.cyclops.male.leg_r"),
+        ),
+        foot_l: (
+            offset: (-3.0, -5.5, -6.0),
+            lateral: ("npc.cyclops.male.foot_l"),
+        ),
+        foot_r: (
+            offset: (-3.0, -5.5, -6.0),
+            lateral: ("npc.cyclops.male.foot_r"),
+        ),
+    ),
+    (Wendigo, Male): (
+        shoulder_l: (
+            offset: (-3.0, -4.0, -8.5),
+            lateral: ("npc.wendigo.male.shoulder_l"),
+        ),
+        shoulder_r: (
+            offset: (-3.0, -4.0, -8.5),
+            lateral: ("npc.wendigo.male.shoulder_r"),
+        ),
+        hand_l: (
+            offset: (-4.0, -3.5, -15.0),
+            lateral: ("npc.wendigo.male.hand_l"),
+        ),
+        hand_r: (
+            offset: (-4.0, -3.5, -15.0),
+            lateral: ("npc.wendigo.male.hand_r"),
+        ),
+        leg_l: (
+            offset: (-4.0, -2.5, -9.0),
+            lateral: ("npc.wendigo.male.leg_l"),
+        ),
+        leg_r: (
+            offset: (0.0, -2.5, -9.0),
+            lateral: ("npc.wendigo.male.leg_r"),
+        ),
+        foot_l: (
+            offset: (-4.0, -5.0, -5.5),
+            lateral: ("npc.wendigo.male.foot_l"),
+        ),
+        foot_r: (
+            offset: (-4.0, -5.0, -5.5),
+            lateral: ("npc.wendigo.male.foot_r"),
+        ),
+    ),
+    (Wendigo, Female): (
+        shoulder_l: (
+            offset: (-3.0, -4.0, -8.5),
+            lateral: ("npc.wendigo.male.shoulder_l"),
+        ),
+        shoulder_r: (
+            offset: (-3.0, -4.0, -8.5),
+            lateral: ("npc.wendigo.male.shoulder_r"),
+        ),
+        hand_l: (
+            offset: (-4.0, -3.5, -15.0),
+            lateral: ("npc.wendigo.male.hand_l"),
+        ),
+        hand_r: (
+            offset: (-4.0, -3.5, -15.0),
+            lateral: ("npc.wendigo.male.hand_r"),
+        ),
+        leg_l: (
+            offset: (-4.0, -2.5, -9.0),
+            lateral: ("npc.wendigo.male.leg_l"),
+        ),
+        leg_r: (
+            offset: (0.0, -2.5, -9.0),
+            lateral: ("npc.wendigo.male.leg_r"),
+        ),
+        foot_l: (
+            offset: (-4.0, -5.0, -5.5),
+            lateral: ("npc.wendigo.male.foot_l"),
+        ),
+        foot_r: (
+            offset: (-4.0, -5.0, -5.5),
+            lateral: ("npc.wendigo.male.foot_r"),
+        ),
+    ),
+    (Cavetroll, Male): (
+        shoulder_l: (
+            offset: (-5.5, -4.0, -8.0),
+            lateral: ("npc.troll_cave.male.shoulder_l"),
+        ),
+        shoulder_r: (
+            offset: (-5.5, -4.0, -8.0),
+            lateral: ("npc.troll_cave.male.shoulder_r"),
+        ),
+        hand_l: (
+            offset: (-4.5, -4.0, -14.0),
+            lateral: ("npc.troll_cave.male.hand_l"),
+        ),
+        hand_r: (
+            offset: (-4.5, -4.0, -14.0),
+            lateral: ("npc.troll_cave.male.hand_r"),
+        ),
+        leg_l: (
+            offset: (-3.0, -3.0, -4.0),
+            lateral: ("npc.troll_cave.male.leg_l"),
+        ),
+        leg_r: (
+            offset: (-3.0, -3.0, -4.0),
+            lateral: ("npc.troll_cave.male.leg_r"),
+        ),
+        foot_l: (
+            offset: (-3.0, -5.0, -2.5),
+            lateral: ("npc.troll_cave.male.foot_l"),
+        ),
+        foot_r: (
+            offset: (-3.0, -5.0, -2.5),
+            lateral: ("npc.troll_cave.male.foot_r"),
+        ),
+    ),
+    (Cavetroll, Female): (
+        shoulder_l: (
+            offset: (-5.5, -4.0, -8.0),
+            lateral: ("npc.troll_cave.male.shoulder_l"),
+        ),
+        shoulder_r: (
+            offset: (-5.5, -4.0, -8.0),
+            lateral: ("npc.troll_cave.male.shoulder_r"),
+        ),
+        hand_l: (
+            offset: (-4.5, -4.0, -14.0),
+            lateral: ("npc.troll_cave.male.hand_l"),
+        ),
+        hand_r: (
+            offset: (-4.5, -4.0, -14.0),
+            lateral: ("npc.troll_cave.male.hand_r"),
+        ),
+        leg_l: (
+            offset: (-3.0, -3.0, -4.0),
+            lateral: ("npc.troll_cave.male.leg_l"),
+        ),
+        leg_r: (
+            offset: (-3.0, -3.0, -4.0),
+            lateral: ("npc.troll_cave.male.leg_r"),
+        ),
+        foot_l: (
+            offset: (-3.0, -5.0, -2.5),
+            lateral: ("npc.troll_cave.male.foot_l"),
+        ),
+        foot_r: (
+            offset: (-3.0, -5.0, -2.5),
+            lateral: ("npc.troll_cave.male.foot_r"),
+        ),
+    ),
+    (Mountaintroll, Male): (
+        shoulder_l: (
+            offset: (-6.5, -5.0, -8.5),
+            lateral: ("npc.troll_mountain.male.shoulder_l"),
+        ),
+        shoulder_r: (
+            offset: (-6.5, -5.0, -8.5),
+            lateral: ("npc.troll_mountain.male.shoulder_r"),
+        ),
+        hand_l: (
+            offset: (-5.0, -4.5, -14.0),
+            lateral: ("npc.troll_mountain.male.hand_l"),
+        ),
+        hand_r: (
+            offset: (-5.0, -4.5, -14.0),
+            lateral: ("npc.troll_mountain.male.hand_r"),
+        ),
+        leg_l: (
+            offset: (-3.0, -3.0, -4.0),
+            lateral: ("npc.troll_mountain.male.leg_l"),
+        ),
+        leg_r: (
+            offset: (-3.0, -3.0, -4.0),
+            lateral: ("npc.troll_mountain.male.leg_r"),
+        ),
+        foot_l: (
+            offset: (-3.0, -5.0, -2.5),
+            lateral: ("npc.troll_mountain.male.foot_l"),
+        ),
+        foot_r: (
+            offset: (-3.0, -5.0, -2.5),
+            lateral: ("npc.troll_mountain.male.foot_r"),
+        ),
+    ),
+    (Mountaintroll, Female): (
+        shoulder_l: (
+            offset: (-6.5, -5.0, -8.5),
+            lateral: ("npc.troll_mountain.male.shoulder_l"),
+        ),
+        shoulder_r: (
+            offset: (-6.5, -5.0, -8.5),
+            lateral: ("npc.troll_mountain.male.shoulder_r"),
+        ),
+        hand_l: (
+            offset: (-5.0, -4.5, -14.0),
+            lateral: ("npc.troll_mountain.male.hand_l"),
+        ),
+        hand_r: (
+            offset: (-5.0, -4.5, -14.0),
+            lateral: ("npc.troll_mountain.male.hand_r"),
+        ),
+        leg_l: (
+            offset: (-3.0, -3.0, -4.0),
+            lateral: ("npc.troll_mountain.male.leg_l"),
+        ),
+        leg_r: (
+            offset: (-3.0, -3.0, -4.0),
+            lateral: ("npc.troll_mountain.male.leg_r"),
+        ),
+        foot_l: (
+            offset: (-3.0, -5.0, -2.5),
+            lateral: ("npc.troll_mountain.male.foot_l"),
+        ),
+        foot_r: (
+            offset: (-3.0, -5.0, -2.5),
+            lateral: ("npc.troll_mountain.male.foot_r"),
+        ),
+    ),
+    (Swamptroll, Male): (
+        shoulder_l: (
+            offset: (-5.5, -5.0, -8.5),
+            lateral: ("npc.troll_swamp.male.shoulder_l"),
+        ),
+        shoulder_r: (
+            offset: (-5.5, -5.0, -8.5),
+            lateral: ("npc.troll_swamp.male.shoulder_r"),
+        ),
+        hand_l: (
+            offset: (-5.0, -4.0, -16.0),
+            lateral: ("npc.troll_swamp.male.hand_l"),
+        ),
+        hand_r: (
+            offset: (-5.0, -4.0, -16.0),
+            lateral: ("npc.troll_swamp.male.hand_r"),
+        ),
+        leg_l: (
+            offset: (-3.0, -3.0, -4.0),
+            lateral: ("npc.troll_swamp.male.leg_l"),
+        ),
+        leg_r: (
+            offset: (-3.0, -3.0, -4.0),
+            lateral: ("npc.troll_swamp.male.leg_r"),
+        ),
+        foot_l: (
+            offset: (-3.0, -5.0, -2.5),
+            lateral: ("npc.troll_swamp.male.foot_l"),
+        ),
+        foot_r: (
+            offset: (-3.0, -5.0, -2.5),
+            lateral: ("npc.troll_swamp.male.foot_r"),
+        ),
+    ),
+    (Swamptroll, Female): (
+        shoulder_l: (
+            offset: (-5.5, -5.0, -8.5),
+            lateral: ("npc.troll_swamp.male.shoulder_l"),
+        ),
+        shoulder_r: (
+            offset: (-5.5, -5.0, -8.5),
+            lateral: ("npc.troll_swamp.male.shoulder_r"),
+        ),
+        hand_l: (
+            offset: (-5.0, -4.0, -16.0),
+            lateral: ("npc.troll_swamp.male.hand_l"),
+        ),
+        hand_r: (
+            offset: (-5.0, -4.0, -16.0),
+            lateral: ("npc.troll_swamp.male.hand_r"),
+        ),
+        leg_l: (
+            offset: (-3.0, -3.0, -4.0),
+            lateral: ("npc.troll_swamp.male.leg_l"),
+        ),
+        leg_r: (
+            offset: (-3.0, -3.0, -4.0),
+            lateral: ("npc.troll_swamp.male.leg_r"),
+        ),
+        foot_l: (
+            offset: (-3.0, -5.0, -2.5),
+            lateral: ("npc.troll_swamp.male.foot_l"),
+        ),
+        foot_r: (
+            offset: (-3.0, -5.0, -2.5),
+            lateral: ("npc.troll_swamp.male.foot_r"),
+        ),
+    ),
+    (Dullahan, Male): (
+        shoulder_l: (
+            offset: (-7.5, -5.5, -6.0),
+            lateral: ("npc.dullahan.male.shoulder_l"),
+        ),
+        shoulder_r: (
+            offset: (-7.5, -5.5, -6.0),
+            lateral: ("npc.dullahan.male.shoulder_r"),
+        ),
+        hand_l: (
+            offset: (-4.5, -4.5, -15.0),
+            lateral: ("npc.dullahan.male.hand_l"),
+        ),
+        hand_r: (
+            offset: (-4.5, -4.5, -15.0),
+            lateral: ("npc.dullahan.male.hand_r"),
+        ),
+        leg_l: (
+            offset: (-6.0, -3.0, -7.0),
+            lateral: ("npc.dullahan.male.leg_l"),
+        ),
+        leg_r: (
+            offset: (0.0, -3.0, -7.0),
+            lateral: ("npc.dullahan.male.leg_r"),
+        ),
+        foot_l: (
+            offset: (-3.0, -5.0, -8.0),
+            lateral: ("npc.dullahan.male.foot_l"),
+        ),
+        foot_r: (
+            offset: (-3.0, -5.0, -8.0),
+            lateral: ("npc.dullahan.male.foot_r"),
+        ),
+    ),
+    (Dullahan, Female): (
+        shoulder_l: (
+            offset: (-7.5, -5.5, -6.0),
+            lateral: ("npc.dullahan.male.shoulder_l"),
+        ),
+        shoulder_r: (
+            offset: (-7.5, -5.5, -6.0),
+            lateral: ("npc.dullahan.male.shoulder_r"),
+        ),
+        hand_l: (
+            offset: (-4.5, -4.5, -15.0),
+            lateral: ("npc.dullahan.male.hand_l"),
+        ),
+        hand_r: (
+            offset: (-4.5, -4.5, -15.0),
+            lateral: ("npc.dullahan.male.hand_r"),
+        ),
+        leg_l: (
+            offset: (-6.0, -3.0, -7.0),
+            lateral: ("npc.dullahan.male.leg_l"),
+        ),
+        leg_r: (
+            offset: (0.0, -3.0, -7.0),
+            lateral: ("npc.dullahan.male.leg_r"),
+        ),
+        foot_l: (
+            offset: (-3.0, -5.0, -8.0),
+            lateral: ("npc.dullahan.male.foot_l"),
+        ),
+        foot_r: (
+            offset: (-3.0, -5.0, -8.0),
+            lateral: ("npc.dullahan.male.foot_r"),
+        ),
+    ),
+    (Werewolf, Male): (
+        shoulder_l: (
+            offset: (-4.0, -6.0, -8.0),
+            lateral: ("npc.werewolf.male.shoulder_l"),
+        ),
+        shoulder_r: (
+            offset: (-4.0, -6.0, -8.0),
+            lateral: ("npc.werewolf.male.shoulder_r"),
+        ),
+        hand_l: (
+            offset: (-3.0, -3.0, -13.0),
+            lateral: ("npc.werewolf.male.hand_l"),
+        ),
+        hand_r: (
+            offset: (-3.0, -3.0, -13.0),
+            lateral: ("npc.werewolf.male.hand_r"),
+        ),
+        leg_l: (
+            offset: (-2.5, -4.0, -4.5),
+            lateral: ("npc.werewolf.male.leg_l"),
+        ),
+        leg_r: (
+            offset: (-2.5, -4.0, -4.5),
+            lateral: ("npc.werewolf.male.leg_r"),
+        ),
+        foot_l: (
+            offset: (-3.5, -6.0, -9.0),
+            lateral: ("npc.werewolf.male.foot_l"),
+        ),
+        foot_r: (
+            offset: (-3.5, -6.0, -9.0),
+            lateral: ("npc.werewolf.male.foot_r"),
+        ),
+    ),
+    (Werewolf, Female): (
+        shoulder_l: (
+            offset: (-4.0, -6.0, -8.0),
+            lateral: ("npc.werewolf.male.shoulder_l"),
+        ),
+        shoulder_r: (
+            offset: (-4.0, -6.0, -8.0),
+            lateral: ("npc.werewolf.male.shoulder_r"),
+        ),
+        hand_l: (
+            offset: (-3.0, -3.0, -13.0),
+            lateral: ("npc.werewolf.male.hand_l"),
+        ),
+        hand_r: (
+            offset: (-3.0, -3.0, -13.0),
+            lateral: ("npc.werewolf.male.hand_r"),
+        ),
+        leg_l: (
+            offset: (-2.5, -4.0, -4.5),
+            lateral: ("npc.werewolf.male.leg_l"),
+        ),
+        leg_r: (
+            offset: (-2.5, -4.0, -4.5),
+            lateral: ("npc.werewolf.male.leg_r"),
+        ),
+        foot_l: (
+            offset: (-3.5, -6.0, -9.0),
+            lateral: ("npc.werewolf.male.foot_l"),
+        ),
+        foot_r: (
+            offset: (-3.5, -6.0, -9.0),
+            lateral: ("npc.werewolf.male.foot_r"),
+        ),
+    ),
+    (Occultsaurok, Male): (
+        shoulder_l: (
+            offset: (-3.5, -3.5, -6.5),
+            lateral: ("npc.saurok_occult.male.shoulder_l"),
+        ),
+        shoulder_r: (
+            offset: (-3.5, -3.5, -6.5),
+            lateral: ("npc.saurok_occult.male.shoulder_r"),
+        ),
+        hand_l: (
+            offset: (-2.0, -2.0, -10.0),
+            lateral: ("npc.saurok_occult.male.hand_l"),
+        ),
+        hand_r: (
+            offset: (-2.0, -2.0, -10.0),
+            lateral: ("npc.saurok_occult.male.hand_r"),
+        ),
+        leg_l: (
+            offset: (-2.0, -1.5, -6.5),
+            lateral: ("npc.saurok_occult.male.leg_l"),
+        ),
+        leg_r: (
+            offset: (-2.0, -1.5, -6.5),
+            lateral: ("npc.saurok_occult.male.leg_r"),
+        ),
+        foot_l: (
+            offset: (-2.5, -5.5, -9.0),
+            lateral: ("npc.saurok_occult.male.foot_l"),
+        ),
+        foot_r: (
+            offset: (-2.5, -5.5, -9.0),
+            lateral: ("npc.saurok_occult.male.foot_r"),
+        ),
+    ),
+    (Occultsaurok, Female): (
+        shoulder_l: (
+            offset: (-3.5, -3.5, -6.5),
+            lateral: ("npc.saurok_occult.female.shoulder_l"),
+        ),
+        shoulder_r: (
+            offset: (-3.5, -3.5, -6.5),
+            lateral: ("npc.saurok_occult.female.shoulder_r"),
+        ),
+        hand_l: (
+            offset: (-2.0, -2.0, -10.0),
+            lateral: ("npc.saurok_occult.female.hand_l"),
+        ),
+        hand_r: (
+            offset: (-2.0, -2.0, -10.0),
+            lateral: ("npc.saurok_occult.female.hand_r"),
+        ),
+        leg_l: (
+            offset: (-2.0, -1.5, -6.5),
+            lateral: ("npc.saurok_occult.female.leg_l"),
+        ),
+        leg_r: (
+            offset: (-2.0, -1.5, -6.5),
+            lateral: ("npc.saurok_occult.female.leg_r"),
+        ),
+        foot_l: (
+            offset: (-2.5, -5.5, -9.0),
+            lateral: ("npc.saurok_occult.female.foot_l"),
+        ),
+        foot_r: (
+            offset: (-2.5, -5.5, -9.0),
+            lateral: ("npc.saurok_occult.female.foot_r"),
+        ),
+    ),
+    (Mightysaurok, Male): (
+        shoulder_l: (
+            offset: (-3.5, -3.5, -6.5),
+            lateral: ("npc.saurok_mighty.male.shoulder_l"),
+        ),
+        shoulder_r: (
+            offset: (-3.5, -3.5, -6.5),
+            lateral: ("npc.saurok_mighty.male.shoulder_r"),
+        ),
+        hand_l: (
+            offset: (-2.0, -2.0, -10.0),
+            lateral: ("npc.saurok_mighty.male.hand_l"),
+        ),
+        hand_r: (
+            offset: (-2.0, -2.0, -10.0),
+            lateral: ("npc.saurok_mighty.male.hand_r"),
+        ),
+        leg_l: (
+            offset: (-2.0, -1.5, -6.5),
+            lateral: ("npc.saurok_mighty.male.leg_l"),
+        ),
+        leg_r: (
+            offset: (-2.0, -1.5, -6.5),
+            lateral: ("npc.saurok_mighty.male.leg_r"),
+        ),
+        foot_l: (
+            offset: (-2.5, -5.5, -9.0),
+            lateral: ("npc.saurok_mighty.male.foot_l"),
+        ),
+        foot_r: (
+            offset: (-2.5, -5.5, -9.0),
+            lateral: ("npc.saurok_mighty.male.foot_r"),
+        ),
+    ),
+    (Mightysaurok, Female): (
+        shoulder_l: (
+            offset: (-3.5, -3.5, -6.5),
+            lateral: ("npc.saurok_mighty.female.shoulder_l"),
+        ),
+        shoulder_r: (
+            offset: (-3.5, -3.5, -6.5),
+            lateral: ("npc.saurok_mighty.female.shoulder_r"),
+        ),
+        hand_l: (
+            offset: (-2.0, -2.0, -10.0),
+            lateral: ("npc.saurok_mighty.female.hand_l"),
+        ),
+        hand_r: (
+            offset: (-2.0, -2.0, -10.0),
+            lateral: ("npc.saurok_mighty.female.hand_r"),
+        ),
+        leg_l: (
+            offset: (-2.0, -1.5, -6.5),
+            lateral: ("npc.saurok_mighty.female.leg_l"),
+        ),
+        leg_r: (
+            offset: (-2.0, -1.5, -6.5),
+            lateral: ("npc.saurok_mighty.female.leg_r"),
+        ),
+        foot_l: (
+            offset: (-2.5, -5.5, -9.0),
+            lateral: ("npc.saurok_mighty.female.foot_l"),
+        ),
+        foot_r: (
+            offset: (-2.5, -5.5, -9.0),
+            lateral: ("npc.saurok_mighty.female.foot_r"),
+        ),
+    ),
+    (Slysaurok, Male): (
+        shoulder_l: (
+            offset: (-3.5, -3.5, -6.5),
+            lateral: ("npc.saurok_sly.male.shoulder_l"),
+        ),
+        shoulder_r: (
+            offset: (-3.5, -3.5, -6.5),
+            lateral: ("npc.saurok_sly.male.shoulder_r"),
+        ),
+        hand_l: (
+            offset: (-2.0, -2.0, -10.0),
+            lateral: ("npc.saurok_sly.male.hand_l"),
+        ),
+        hand_r: (
+            offset: (-2.0, -2.0, -10.0),
+            lateral: ("npc.saurok_sly.male.hand_r"),
+        ),
+        leg_l: (
+            offset: (-2.0, -1.5, -6.5),
+            lateral: ("npc.saurok_sly.male.leg_l"),
+        ),
+        leg_r: (
+            offset: (-2.0, -1.5, -6.5),
+            lateral: ("npc.saurok_sly.male.leg_r"),
+        ),
+        foot_l: (
+            offset: (-2.5, -5.5, -9.0),
+            lateral: ("npc.saurok_sly.male.foot_l"),
+        ),
+        foot_r: (
+            offset: (-2.5, -5.5, -9.0),
+            lateral: ("npc.saurok_sly.male.foot_r"),
+        ),
+    ),
+    (Slysaurok, Female): (
+        shoulder_l: (
+            offset: (-3.5, -3.5, -6.5),
+            lateral: ("npc.saurok_sly.female.shoulder_l"),
+        ),
+        shoulder_r: (
+            offset: (-3.5, -3.5, -6.5),
+            lateral: ("npc.saurok_sly.female.shoulder_r"),
+        ),
+        hand_l: (
+            offset: (-2.0, -2.0, -10.0),
+            lateral: ("npc.saurok_sly.female.hand_l"),
+        ),
+        hand_r: (
+            offset: (-2.0, -2.0, -10.0),
+            lateral: ("npc.saurok_sly.female.hand_r"),
+        ),
+        leg_l: (
+            offset: (-2.0, -1.5, -6.5),
+            lateral: ("npc.saurok_sly.female.leg_l"),
+        ),
+        leg_r: (
+            offset: (-2.0, -1.5, -6.5),
+            lateral: ("npc.saurok_sly.female.leg_r"),
+        ),
+        foot_l: (
+            offset: (-2.5, -5.5, -9.0),
+            lateral: ("npc.saurok_sly.female.foot_l"),
+        ),
+        foot_r: (
+            offset: (-2.5, -5.5, -9.0),
+            lateral: ("npc.saurok_sly.female.foot_r"),
+        ),
+    ),
+    (Mindflayer, Male): (
+        shoulder_l: (
+            offset: (-4.5, -3.0, -4.0),
+            lateral: ("npc.mindflayer.male.shoulder_l"),
+        ),
+        shoulder_r: (
+            offset: (-4.5, -3.0, -4.0),
+            lateral: ("npc.mindflayer.male.shoulder_r"),
+        ),
+        hand_l: (
+            offset: (-4.5, -4.0, -12.0),
+            lateral: ("npc.mindflayer.male.hand_l"),
+        ),
+        hand_r: (
+            offset: (-4.5, -4.0, -12.0),
+            lateral: ("npc.mindflayer.male.hand_r"),
+        ),
+        leg_l: (
+            offset: (-6.5, -10.0, -16.0),
+            lateral: ("armor.empty"),
+        ),
+        leg_r: (
+            offset: (-6.5, -10.0, -16.0),
+            lateral: ("armor.empty"),
+        ),
+        foot_l: (
+            offset: (-2.0, -4.5, -4.0),
+            lateral: ("npc.mindflayer.male.foot_l"),
+        ),
+        foot_r: (
+            offset: (-2.0, -4.5, -4.0),
+            lateral: ("npc.mindflayer.male.foot_r"),
+        )
+    ),
+    (Mindflayer, Female): (
+        shoulder_l: (
+            offset: (-4.5, -3.0, -4.0),
+            lateral: ("npc.mindflayer.male.shoulder_l"),
+        ),
+        shoulder_r: (
+            offset: (-4.5, -3.0, -4.0),
+            lateral: ("npc.mindflayer.male.shoulder_r"),
+        ),
+        hand_l: (
+            offset: (-4.5, -4.0, -12.0),
+            lateral: ("npc.mindflayer.male.hand_l"),
+        ),
+        hand_r: (
+            offset: (-4.5, -4.0, -12.0),
+            lateral: ("npc.mindflayer.male.hand_r"),
+        ),
+        leg_l: (
+            offset: (-6.5, -10.0, -16.0),
+            lateral: ("armor.empty"),
+        ),
+        leg_r: (
+            offset: (-6.5, -10.0, -16.0),
+            lateral: ("armor.empty"),
+        ),
+        foot_l: (
+            offset: (-2.0, -4.5, -4.0),
+            lateral: ("npc.mindflayer.male.foot_l"),
+        ),
+        foot_r: (
+            offset: (-2.0, -4.5, -4.0),
+            lateral: ("npc.mindflayer.male.foot_r"),
+        )
+    ),
+    (Minotaur, Male): (
+        shoulder_l: (
+            offset: (-3.5, -3.5, -7.5),
+            lateral: ("npc.minotaur.male.shoulder_l"),
+        ),
+        shoulder_r: (
+            offset: (-3.5, -3.5, -7.5),
+            lateral: ("npc.minotaur.male.shoulder_r"),
+        ),
+        hand_l: (
+            offset: (-4.0, -4.5, -14.0),
+            lateral: ("npc.minotaur.male.hand_l"),
+        ),
+        hand_r: (
+            offset: (-4.0, -4.5, -14.0),
+            lateral: ("npc.minotaur.male.hand_r"),
+        ),
+        leg_l: (
+            offset: (-2.5, -4.0, -3.5),
+            lateral: ("npc.minotaur.male.leg_l"),
+        ),
+        leg_r: (
+            offset: (-2.5, -4.0, -3.5),
+            lateral: ("npc.minotaur.male.leg_r"),
+        ),
+        foot_l: (
+            offset: (-3.5, -9.0, -5.0),
+            lateral: ("npc.minotaur.male.foot_l"),
+        ),
+        foot_r: (
+            offset: (-3.5, -9.0, -5.0),
+            lateral: ("npc.minotaur.male.foot_r"),
+        )
+    ),
+    (Minotaur, Female): (
+        shoulder_l: (
+            offset: (-3.5, -3.5, -7.5),
+            lateral: ("npc.minotaur.male.shoulder_l"),
+        ),
+        shoulder_r: (
+            offset: (-3.5, -3.5, -7.5),
+            lateral: ("npc.minotaur.male.shoulder_r"),
+        ),
+        hand_l: (
+            offset: (-4.0, -4.5, -14.0),
+            lateral: ("npc.minotaur.male.hand_l"),
+        ),
+        hand_r: (
+            offset: (-4.0, -4.5, -14.0),
+            lateral: ("npc.minotaur.male.hand_r"),
+        ),
+        leg_l: (
+            offset: (-2.5, -4.0, -3.5),
+            lateral: ("npc.minotaur.male.leg_l"),
+        ),
+        leg_r: (
+            offset: (-2.5, -4.0, -3.5),
+            lateral: ("npc.minotaur.male.leg_r"),
+        ),
+        foot_l: (
+            offset: (-3.5, -9.0, -5.0),
+            lateral: ("npc.minotaur.male.foot_l"),
+        ),
+        foot_r: (
+            offset: (-3.5, -9.0, -5.0),
+            lateral: ("npc.minotaur.male.foot_r"),
+        )
+    ),
+    (Tidalwarrior, Male): (
+        shoulder_l: (
+            offset: (-5.5, -5.5, -6.5),
+            lateral: ("npc.tidalwarrior.male.shoulder_l"),
+        ),
+        shoulder_r: (
+            offset: (-5.5, -5.5, -6.5),
+            lateral: ("npc.tidalwarrior.male.shoulder_r"),
+        ),
+        hand_l: (
+            offset: (-6.0, -3.5, -18.0),
+            lateral: ("npc.tidalwarrior.male.hand_l"),
+        ),
+        hand_r: (
+            offset: (-6.0, -3.5, -18.0),
+            lateral: ("npc.tidalwarrior.male.hand_r"),
+        ),
+        leg_l: (
+            offset: (-2.5, -3.0, -3.5),
+            lateral: ("npc.tidalwarrior.male.leg_l"),
+        ),
+        leg_r: (
+            offset: (-2.5, -3.0, -3.5),
+            lateral: ("npc.tidalwarrior.male.leg_r"),
+        ),
+        foot_l: (
+            offset: (-2.5, -4.5, -4.5),
+            lateral: ("npc.tidalwarrior.male.foot_l"),
+        ),
+        foot_r: (
+            offset: (-2.5, -4.5, -4.5),
+            lateral: ("npc.tidalwarrior.male.foot_r"),
+        )
+    ),
+    (Tidalwarrior, Female): (
+        shoulder_l: (
+            offset: (-5.5, -5.5, -6.5),
+            lateral: ("npc.tidalwarrior.male.shoulder_l"),
+        ),
+        shoulder_r: (
+            offset: (-5.5, -5.5, -6.5),
+            lateral: ("npc.tidalwarrior.male.shoulder_r"),
+        ),
+        hand_l: (
+            offset: (-6.0, -3.5, -18.0),
+            lateral: ("npc.tidalwarrior.male.hand_l"),
+        ),
+        hand_r: (
+            offset: (-6.0, -3.5, -18.0),
+            lateral: ("npc.tidalwarrior.male.hand_r"),
+        ),
+        leg_l: (
+            offset: (-2.5, -3.0, -3.5),
+            lateral: ("npc.tidalwarrior.male.leg_l"),
+        ),
+        leg_r: (
+            offset: (-2.5, -3.0, -3.5),
+            lateral: ("npc.tidalwarrior.male.leg_r"),
+        ),
+        foot_l: (
+            offset: (-2.5, -4.5, -4.5),
+            lateral: ("npc.tidalwarrior.male.foot_l"),
+        ),
+        foot_r: (
+            offset: (-2.5, -4.5, -4.5),
+            lateral: ("npc.tidalwarrior.male.foot_r"),
+        )
+    ),
+    (Yeti, Male): (
+        shoulder_l: (
+            offset: (-3.5, -3.5, -4.5),
+            lateral: ("npc.yeti.male.shoulder_l"),
+        ),
+        shoulder_r: (
+            offset: (-3.5, -3.5, -4.5),
+            lateral: ("npc.yeti.male.shoulder_r"),
+        ),
+        hand_l: (
+            offset: (-4.0, -4.0, -12.0),
+            lateral: ("npc.yeti.male.hand_l"),
+        ),
+        hand_r: (
+            offset: (-4.0, -4.0, -12.0),
+            lateral: ("npc.yeti.male.hand_r"),
+        ),
+        leg_l: (
+            offset: (-2.5, -4.0, -3.5),
+            lateral: ("npc.yeti.male.leg_l"),
+        ),
+        leg_r: (
+            offset: (-2.5, -4.0, -3.5),
+            lateral: ("npc.yeti.male.leg_r"),
+        ),
+        foot_l: (
+            offset: (-3.0, -4.5, -4.0),
+            lateral: ("npc.yeti.male.foot_l"),
+        ),
+        foot_r: (
+            offset: (-3.0, -4.5, -4.0),
+            lateral: ("npc.yeti.male.foot_r"),
+        )
+    ),
+    (Yeti, Female): (
+        shoulder_l: (
+            offset: (-3.5, -3.5, -4.5),
+            lateral: ("npc.yeti.male.shoulder_l"),
+        ),
+        shoulder_r: (
+            offset: (-3.5, -3.5, -4.5),
+            lateral: ("npc.yeti.male.shoulder_r"),
+        ),
+        hand_l: (
+            offset: (-4.0, -4.0, -12.0),
+            lateral: ("npc.yeti.male.hand_l"),
+        ),
+        hand_r: (
+            offset: (-4.0, -4.0, -12.0),
+            lateral: ("npc.yeti.male.hand_r"),
+        ),
+        leg_l: (
+            offset: (-2.5, -4.0, -3.5),
+            lateral: ("npc.yeti.male.leg_l"),
+        ),
+        leg_r: (
+            offset: (-2.5, -4.0, -3.5),
+            lateral: ("npc.yeti.male.leg_r"),
+        ),
+        foot_l: (
+            offset: (-3.0, -4.5, -4.0),
+            lateral: ("npc.yeti.male.foot_l"),
+        ),
+        foot_r: (
+            offset: (-3.0, -4.5, -4.0),
+            lateral: ("npc.yeti.male.foot_r"),
+        )
+    ),
+    (Harvester, Male): (
+        shoulder_l: (
+            offset: (-3.0, -2.5, -4.0),
+            lateral: ("npc.harvester.male.shoulder_l"),
+        ),
+        shoulder_r: (
+            offset: (-3.0, -2.5, -4.0),
+            lateral: ("npc.harvester.male.shoulder_r"),
+        ),
+        hand_l: (
+            offset: (-4.0, -2.0, -10.0),
+            lateral: ("npc.harvester.male.hand_l"),
+        ),
+        hand_r: (
+            offset: (-4.0, -2.0, -10.0),
+            lateral: ("npc.harvester.male.hand_r"),
+        ),
+        leg_l: (
+            offset: (-2.5, -3.0, -3.0),
+            lateral: ("npc.harvester.male.leg_l"),
+        ),
+        leg_r: (
+            offset: (-2.5, -3.0, -3.0),
+            lateral: ("npc.harvester.male.leg_r"),
+        ),
+        foot_l: (
+            offset: (-3.5, -4.0, -4.0),
+            lateral: ("npc.harvester.male.foot_l"),
+        ),
+        foot_r: (
+            offset: (-3.5, -4.0, -4.0),
+            lateral: ("npc.harvester.male.foot_r"),
+        )
+    ),
+    (Harvester, Female): (
+        shoulder_l: (
+            offset: (-3.0, -2.5, -4.0),
+            lateral: ("npc.harvester.male.shoulder_l"),
+        ),
+        shoulder_r: (
+            offset: (-3.0, -2.5, -4.0),
+            lateral: ("npc.harvester.male.shoulder_r"),
+        ),
+        hand_l: (
+            offset: (-4.0, -2.0, -10.0),
+            lateral: ("npc.harvester.male.hand_l"),
+        ),
+        hand_r: (
+            offset: (-4.0, -2.0, -10.0),
+            lateral: ("npc.harvester.male.hand_r"),
+        ),
+        leg_l: (
+            offset: (-2.5, -3.0, -3.0),
+            lateral: ("npc.harvester.male.leg_l"),
+        ),
+        leg_r: (
+            offset: (-2.5, -3.0, -3.0),
+            lateral: ("npc.harvester.male.leg_r"),
+        ),
+        foot_l: (
+            offset: (-3.5, -4.0, -4.0),
+            lateral: ("npc.harvester.male.foot_l"),
+        ),
+        foot_r: (
+            offset: (-3.5, -4.0, -4.0),
+            lateral: ("npc.harvester.male.foot_r"),
+        )
+    ),
+    (Blueoni, Male): (
+        shoulder_l: (
+            offset: (-4.0, -4.5, -5.0),
+            lateral: ("npc.oni_blue.male.shoulder_l"),
+        ),
+        shoulder_r: (
+            offset: (-4.0, -4.5, -5.0),
+            lateral: ("npc.oni_blue.male.shoulder_r"),
+        ),
+        hand_l: (
+            offset: (-4.5, -4.0, -12.0),
+            lateral: ("npc.oni_blue.male.hand_l"),
+        ),
+        hand_r: (
+            offset: (-4.5, -4.0, -12.0),
+            lateral: ("npc.oni_blue.male.hand_r"),
+        ),
+        leg_l: (
+            offset: (-2.5, -4.0, -3.5),
+            lateral: ("npc.oni_blue.male.leg_l"),
+        ),
+        leg_r: (
+            offset: (-2.5, -4.0, -3.5),
+            lateral: ("npc.oni_blue.male.leg_r"),
+        ),
+        foot_l: (
+            offset: (-3.0, -5.0, -4.5),
+            lateral: ("npc.oni_blue.male.foot_l"),
+        ),
+        foot_r: (
+            offset: (-3.0, -5.0, -4.5),
+            lateral: ("npc.oni_blue.male.foot_r"),
+        )
+    ),
+    (Blueoni, Female): (
+        shoulder_l: (
+            offset: (-4.0, -4.5, -5.0),
+            lateral: ("npc.oni_blue.male.shoulder_l"),
+        ),
+        shoulder_r: (
+            offset: (-4.0, -4.5, -5.0),
+            lateral: ("npc.oni_blue.male.shoulder_r"),
+        ),
+        hand_l: (
+            offset: (-4.5, -4.0, -12.0),
+            lateral: ("npc.oni_blue.male.hand_l"),
+        ),
+        hand_r: (
+            offset: (-4.5, -4.0, -12.0),
+            lateral: ("npc.oni_blue.male.hand_r"),
+        ),
+        leg_l: (
+            offset: (-2.5, -4.0, -3.5),
+            lateral: ("npc.oni_blue.male.leg_l"),
+        ),
+        leg_r: (
+            offset: (-2.5, -4.0, -3.5),
+            lateral: ("npc.oni_blue.male.leg_r"),
+        ),
+        foot_l: (
+            offset: (-3.0, -5.0, -4.5),
+            lateral: ("npc.oni_blue.male.foot_l"),
+        ),
+        foot_r: (
+            offset: (-3.0, -5.0, -4.5),
+            lateral: ("npc.oni_blue.male.foot_r"),
+        )
+    ),
+    (Redoni, Male): (
+        shoulder_l: (
+            offset: (-4.0, -4.5, -5.0),
+            lateral: ("npc.oni_red.male.shoulder_l"),
+        ),
+        shoulder_r: (
+            offset: (-4.0, -4.5, -5.0),
+            lateral: ("npc.oni_red.male.shoulder_r"),
+        ),
+        hand_l: (
+            offset: (-4.5, -4.0, -12.0),
+            lateral: ("npc.oni_red.male.hand_l"),
+        ),
+        hand_r: (
+            offset: (-4.5, -4.0, -12.0),
+            lateral: ("npc.oni_red.male.hand_r"),
+        ),
+        leg_l: (
+            offset: (-2.5, -4.0, -3.5),
+            lateral: ("npc.oni_red.male.leg_l"),
+        ),
+        leg_r: (
+            offset: (-2.5, -4.0, -3.5),
+            lateral: ("npc.oni_red.male.leg_r"),
+        ),
+        foot_l: (
+            offset: (-3.0, -5.0, -4.5),
+            lateral: ("npc.oni_red.male.foot_l"),
+        ),
+        foot_r: (
+            offset: (-3.0, -5.0, -4.5),
+            lateral: ("npc.oni_red.male.foot_r"),
+        )
+    ),
+    (Redoni, Female): (
+        shoulder_l: (
+            offset: (-4.0, -4.5, -5.0),
+            lateral: ("npc.oni_red.male.shoulder_l"),
+        ),
+        shoulder_r: (
+            offset: (-4.0, -4.5, -5.0),
+            lateral: ("npc.oni_red.male.shoulder_r"),
+        ),
+        hand_l: (
+            offset: (-4.5, -4.0, -12.0),
+            lateral: ("npc.oni_red.male.hand_l"),
+        ),
+        hand_r: (
+            offset: (-4.5, -4.0, -12.0),
+            lateral: ("npc.oni_red.male.hand_r"),
+        ),
+        leg_l: (
+            offset: (-2.5, -4.0, -3.5),
+            lateral: ("npc.oni_red.male.leg_l"),
+        ),
+        leg_r: (
+            offset: (-2.5, -4.0, -3.5),
+            lateral: ("npc.oni_red.male.leg_r"),
+        ),
+        foot_l: (
+            offset: (-3.0, -5.0, -4.5),
+            lateral: ("npc.oni_red.male.foot_l"),
+        ),
+        foot_r: (
+            offset: (-3.0, -5.0, -4.5),
+            lateral: ("npc.oni_red.male.foot_r"),
+        )
+    ),
+    (Cultistwarlord, Male): (
+        shoulder_l: (
+            offset: (-6.0, -5.5, -6.0),
+            lateral: ("npc.cultist_warlord.male.shoulder_l"),
+        ),
+        shoulder_r: (
+            offset: (-6.0, -5.5, -6.0),
+            lateral: ("npc.cultist_warlord.male.shoulder_r"),
+        ),
+        hand_l: (
+            offset: (-3.5, -3.5, -10.0),
+            lateral: ("npc.cultist_warlord.male.hand_l"),
+        ),
+        hand_r: (
+            offset: (-3.5, -3.5, -10.0),
+            lateral: ("npc.cultist_warlord.male.hand_r"),
+        ),
+        leg_l: (
+            offset: (-1.5, -2.0, -2.5),
+            lateral: ("npc.cultist_warlord.male.leg_l"),
+        ),
+        leg_r: (
+            offset: (-1.5, -2.0, -2.5),
+            lateral: ("npc.cultist_warlord.male.leg_r"),
+        ),
+        foot_l: (
+            offset: (-2.5, -4.0, -4.0),
+            lateral: ("npc.cultist_warlord.male.foot_l"),
+        ),
+        foot_r: (
+            offset: (-2.5, -4.0, -4.0),
+            lateral: ("npc.cultist_warlord.male.foot_r"),
+        )
+    ),
+    (Cultistwarlord, Female): (
+        shoulder_l: (
+            offset: (-6.0, -5.5, -6.0),
+            lateral: ("npc.cultist_warlord.male.shoulder_l"),
+        ),
+        shoulder_r: (
+            offset: (-6.0, -5.5, -6.0),
+            lateral: ("npc.cultist_warlord.male.shoulder_r"),
+        ),
+        hand_l: (
+            offset: (-3.5, -3.5, -10.0),
+            lateral: ("npc.cultist_warlord.male.hand_l"),
+        ),
+        hand_r: (
+            offset: (-3.5, -3.5, -10.0),
+            lateral: ("npc.cultist_warlord.male.hand_r"),
+        ),
+        leg_l: (
+            offset: (-1.5, -2.0, -2.5),
+            lateral: ("npc.cultist_warlord.male.leg_l"),
+        ),
+        leg_r: (
+            offset: (-1.5, -2.0, -2.5),
+            lateral: ("npc.cultist_warlord.male.leg_r"),
+        ),
+        foot_l: (
+            offset: (-2.5, -4.0, -4.0),
+            lateral: ("npc.cultist_warlord.male.foot_l"),
+        ),
+        foot_r: (
+            offset: (-2.5, -4.0, -4.0),
+            lateral: ("npc.cultist_warlord.male.foot_r"),
+        )
+    ),
+    (Cultistwarlock, Male): (
+        shoulder_l: (
+            offset: (-3.5, -3.5, -3.0),
+            lateral: ("npc.cultist_warlock.male.shoulder_l"),
+        ),
+        shoulder_r: (
+            offset: (-3.5, -3.5, -3.0),
+            lateral: ("npc.cultist_warlock.male.shoulder_r"),
+        ),
+        hand_l: (
+            offset: (-3.5, -3.5, -10.0),
+            lateral: ("npc.cultist_warlock.male.hand_l"),
+        ),
+        hand_r: (
+            offset: (-3.5, -3.5, -10.0),
+            lateral: ("npc.cultist_warlock.male.hand_r"),
+        ),
+        leg_l: (
+            offset: (-1.5, -2.0, -2.5),
+            lateral: ("npc.cultist_warlock.male.leg_l"),
+        ),
+        leg_r: (
+            offset: (-1.5, -2.0, -2.5),
+            lateral: ("npc.cultist_warlock.male.leg_r"),
+        ),
+        foot_l: (
+            offset: (-2.5, -4.0, -4.0),
+            lateral: ("npc.cultist_warlock.male.foot_l"),
+        ),
+        foot_r: (
+            offset: (-2.5, -4.0, -4.0),
+            lateral: ("npc.cultist_warlock.male.foot_r"),
+        )
+    ),
+    (Cultistwarlock, Female): (
+        shoulder_l: (
+            offset: (-3.5, -3.5, -3.0),
+            lateral: ("npc.cultist_warlock.male.shoulder_l"),
+        ),
+        shoulder_r: (
+            offset: (-3.5, -3.5, -3.0),
+            lateral: ("npc.cultist_warlock.male.shoulder_r"),
+        ),
+        hand_l: (
+            offset: (-3.5, -3.5, -10.0),
+            lateral: ("npc.cultist_warlock.male.hand_l"),
+        ),
+        hand_r: (
+            offset: (-3.5, -3.5, -10.0),
+            lateral: ("npc.cultist_warlock.male.hand_r"),
+        ),
+        leg_l: (
+            offset: (-1.5, -2.0, -2.5),
+            lateral: ("npc.cultist_warlock.male.leg_l"),
+        ),
+        leg_r: (
+            offset: (-1.5, -2.0, -2.5),
+            lateral: ("npc.cultist_warlock.male.leg_r"),
+        ),
+        foot_l: (
+            offset: (-2.5, -4.0, -4.0),
+            lateral: ("npc.cultist_warlock.male.foot_l"),
+        ),
+        foot_r: (
+            offset: (-2.5, -4.0, -4.0),
+            lateral: ("npc.cultist_warlock.male.foot_r"),
+        )
+    ),
+    (Huskbrute, Male): (
+        shoulder_l: (
+            offset: (-4.0, -4.5, -4.0),
+            lateral: ("npc.husk_brute.male.shoulder_l"),
+        ),
+        shoulder_r: (
+            offset: (-4.0, -4.5, -4.0),
+            lateral: ("npc.husk_brute.male.shoulder_r"),
+        ),
+        hand_l: (
+            offset: (-4.0, -3.5, -17.0),
+            lateral: ("npc.husk_brute.male.hand_l"),
+        ),
+        hand_r: (
+            offset: (-4.0, -3.5, -17.0),
+            lateral: ("npc.husk_brute.male.hand_r"),
+        ),
+        leg_l: (
+            offset: (-2.0, -2.5, -3.5),
+            lateral: ("npc.husk_brute.male.leg_l"),
+        ),
+        leg_r: (
+            offset: (-2.0, -2.5, -3.5),
+            lateral: ("npc.husk_brute.male.leg_r"),
+        ),
+        foot_l: (
+            offset: (-2.5, -3.5, -3.5),
+            lateral: ("npc.husk_brute.male.foot_l"),
+        ),
+        foot_r: (
+            offset: (-2.5, -3.5, -3.5),
+            lateral: ("npc.husk_brute.male.foot_r"),
+        )
+    ),
+    (Huskbrute, Female): (
+        shoulder_l: (
+            offset: (-4.0, -4.5, -4.0),
+            lateral: ("npc.husk_brute.male.shoulder_l"),
+        ),
+        shoulder_r: (
+            offset: (-4.0, -4.5, -4.0),
+            lateral: ("npc.husk_brute.male.shoulder_r"),
+        ),
+        hand_l: (
+            offset: (-4.0, -3.5, -17.0),
+            lateral: ("npc.husk_brute.male.hand_l"),
+        ),
+        hand_r: (
+            offset: (-4.0, -3.5, -17.0),
+            lateral: ("npc.husk_brute.male.hand_r"),
+        ),
+        leg_l: (
+            offset: (-2.0, -2.5, -3.5),
+            lateral: ("npc.husk_brute.male.leg_l"),
+        ),
+        leg_r: (
+            offset: (-2.0, -2.5, -3.5),
+            lateral: ("npc.husk_brute.male.leg_r"),
+        ),
+        foot_l: (
+            offset: (-2.5, -3.5, -3.5),
+            lateral: ("npc.husk_brute.male.foot_l"),
+        ),
+        foot_r: (
+            offset: (-2.5, -3.5, -3.5),
+            lateral: ("npc.husk_brute.male.foot_r"),
+        )
+    ),
+})

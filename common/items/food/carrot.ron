@@ -1,0 +1,22 @@
+ItemDef(
+    name: "胡萝卜",
+    description: "有着橙色根的蔬菜.他们说这会改善你的视力！",
+    kind: Consumable(
+        kind: Food,
+        effects: [
+            Buff((
+                kind: Saturation,
+                data: (
+                    strength: 10.0,
+                    duration: Some((
+                            secs: 5,
+                            nanos: 0,
+                        )),
+                    ),
+                cat_ids: [Natural],
+            )),
+        ]
+    ),
+    quality: Common,
+    tags: [Food],
+)

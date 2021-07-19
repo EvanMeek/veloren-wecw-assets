@@ -1,0 +1,10 @@
+ItemDef(
+    name: "套绳",
+    description: "临时驯服周围5格半径内的友好野生动物",
+    kind: Utility(
+        kind: Collar,
+    ),
+    amount: 1,
+    quality: Moderate,
+    tags: [Utility],
+)

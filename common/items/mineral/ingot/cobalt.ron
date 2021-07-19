@@ -1,0 +1,9 @@
+ItemDef(
+    name: "钴锭",
+    description: "一块引人注目的蓝色铸锭.",
+    kind: Ingredient(
+        kind: "CobaltIngot",
+    ),
+    quality: High,
+    tags: [MetalIngot],
+)

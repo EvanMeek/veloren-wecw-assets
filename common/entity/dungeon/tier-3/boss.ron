@@ -1,0 +1,11 @@
+EntityConfig (
+    name: Name("土魔像"),
+    body: RandomWith("claygolem"),
+    alignment: Alignment(Enemy),
+
+    loot: LootTable("common.loot_tables.dungeon.tier-3.boss"),
+
+    hands: Uninit,
+
+    meta: [],
+)
