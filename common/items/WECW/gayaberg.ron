@@ -1,15 +1,16 @@
+// todo 自嗨剑 伽耶伯格 · 寒霜，暂未配置模型与技能
 ItemDef(
     name: "伽耶伯格 · 寒霜",
-    description: "冰封于雪境的巨刃，闪烁着冰冷的锋芒.\n特效（巨型武器）：攻击距离提升，获得寒冰吐息！",
+    description: "冰封于雪境的巨刃，闪烁着冰冷的锋芒.\n特效： 寒冰附魔，获得寒冰吐息！",
     kind: Tool((
         kind: Sword,
         hands: Two,
         stats: Direct((
             equip_time_secs: 0.5,
-            power: 2.5,
+            power: 3.0,
             effect_power: 3.0,
-            speed: 1.0,
-            crit_chance: 0.40,
+            speed: 1.2,
+            crit_chance: 0.75,
             range: 1.25,
             energy_efficiency: 1.0,
             buff_strength: 1.0,
