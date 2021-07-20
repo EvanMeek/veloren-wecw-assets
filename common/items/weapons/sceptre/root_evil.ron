@@ -1,6 +1,6 @@
 ItemDef(
     name: "恶魔之根",
-    description: "'一切都是有代价的......'\n特效（魔能领域）：治疗领域替换为魔能领域，提高范围内盟友耐力/法力值上限.",
+    description: "'一切都是有代价的......'\n特效（魔能领域）：假死替换为魔能领域，提高范围内盟友耐力/法力值上限.",
     kind: Tool((
         kind: Sceptre,
         hands: Two,
@@ -12,7 +12,7 @@ ItemDef(
             crit_chance: 0.2,
             range: 1.0,
             energy_efficiency: 1.0,
-            buff_strength: 1.0,
+            buff_strength: 1.3,
         )),
     )),
     quality: Legendary,

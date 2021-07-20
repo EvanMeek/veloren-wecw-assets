@@ -1,6 +1,6 @@
 ItemDef(
     name: "神使权杖",
-    description: "由数条蛇盘踞而成权杖，蛇似乎还活着.....\n特效（活力领域）：治疗领域替换为活力领域，提高范围内盟友生命值上限.",
+    description: "由数条蛇盘踞而成权杖，蛇似乎还活着.....\n特效（活力领域）：假死替换为活力领域，提高范围内盟友生命值上限.",
     kind: Tool((
         kind: Sceptre,
         hands: Two,
@@ -12,7 +12,7 @@ ItemDef(
             crit_chance: 0.2,
             range: 1.0,
             energy_efficiency: 1.0,
-            buff_strength: 1.0,
+            buff_strength: 1.3,
         )),
     )),
     quality: Legendary,

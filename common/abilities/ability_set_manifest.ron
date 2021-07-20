@@ -185,15 +185,7 @@
         secondary: "common.abilities.staff.flamethrower",
         abilities: [
             (Some(Staff(UnlockShockwave)), "common.abilities.staff.fireshockwave"),
-            (Some(Staff(UnlockShockwave)), "common.abilities.staff.firebombbig"),
-        ],
-    ),
-    Custom("Staffepic"): (
-        primary: "common.abilities.staff.firebomb",
-        secondary: "common.abilities.staff.flamethrower",
-        abilities: [
-            (Some(Staff(UnlockShockwave)), "common.abilities.staff.fireshockwave"),
-            (Some(Staff(UnlockShockwave)), "common.abilities.staff.firebombbigex"),
+            (Some(Bow(UnlockShotgun)), "common.abilities.bow.died"),
         ],
     ),
     Custom("Staffp"): (
@@ -201,7 +193,7 @@
         secondary: "common.abilities.staff.flamethrower",
         abilities: [
             (Some(Staff(UnlockShockwave)), "common.abilities.staff.fireshockwaveg"),
-            (Some(Staff(UnlockShockwave)), "common.abilities.staff.firebombbig"),
+            (Some(Bow(UnlockShotgun)), "common.abilities.bow.died"),
         ],
     ),
     Custom("Staffl"): (
@@ -209,7 +201,7 @@
         secondary: "common.abilities.staff.flamethrowerg",
         abilities: [
             (Some(Staff(UnlockShockwave)), "common.abilities.staff.fireshockwave"),
-            (Some(Staff(UnlockShockwave)), "common.abilities.staff.firebombbig"),
+            (Some(Bow(UnlockShotgun)), "common.abilities.bow.died"),
         ],
     ),
     Custom("Staffex"): (
@@ -225,15 +217,15 @@
         secondary: "common.abilities.sceptre.healingaura",
         abilities: [
             (Some(Sceptre(UnlockAura)), "common.abilities.sceptre.wardingaura"),
-            (Some(Sceptre(UnlockAura)), "common.abilities.sceptre.wardingauraex"),
+            (Some(Bow(UnlockShotgun)), "common.abilities.bow.died"),
         ],
     ),
     Custom("Sceptreepic"): (
         primary: "common.abilities.sceptre.lifestealbeam",
-        secondary: "common.abilities.sceptre.healingaura",
+        secondary: "common.abilities.sceptre.healingauraepic",
         abilities: [
             (Some(Sceptre(UnlockAura)), "common.abilities.sceptre.wardingaura"),
-            (Some(Sceptre(UnlockAura)), "common.abilities.sceptre.wardingauraexepic"),
+            (Some(Bow(UnlockShotgun)), "common.abilities.bow.died"),
         ],
     ),
     Custom("Sceptreepic2"): (
@@ -241,7 +233,7 @@
         secondary: "common.abilities.sceptre.healingaura",
         abilities: [
             (Some(Sceptre(UnlockAura)), "common.abilities.sceptre.wardingauraepic"),
-            (Some(Sceptre(UnlockAura)), "common.abilities.sceptre.wardingauraex"),
+            (Some(Bow(UnlockShotgun)), "common.abilities.bow.died"),
         ],
     ),
     Custom("Sceptreex"): (
