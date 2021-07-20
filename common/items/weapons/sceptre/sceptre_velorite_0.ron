@@ -1,6 +1,6 @@
 ItemDef(
     name: "Velorite魔法权杖",
-    description: "用神秘的Velorite魔法治愈你的盟友.\n特效（自然之力）：Velorite是生命与魔法的根源，治疗领域消耗更少法力值.",
+    description: "用神秘的Velorite魔法治愈你的盟友.\n特效（魔能领域）：假死替换为魔能领域，提高范围内盟友耐力/法力值上限.",
     kind: Tool((
         kind: Sceptre,
         hands: Two,
@@ -17,5 +17,5 @@ ItemDef(
     )),
     quality: Epic,
     tags: [],
-    ability_spec: Some(Custom("Sceptreepic")),
+    ability_spec: Some(Custom("Sceptremp")),
 )

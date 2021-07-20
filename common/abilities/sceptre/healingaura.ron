@@ -1,12 +1,12 @@
 BasicAura(
-    buildup_duration: 0.3,
+    buildup_duration: 0.4,
     cast_duration: 0.5,
     recover_duration: 0.3,
     targets: InGroup,
     aura: (
         kind: Regeneration,
         strength: 2.0,
-        duration: Some(10.0),
+        duration: Some(6.0),
         category: Magical,
     ),
     aura_duration: 1.0,
