@@ -1,6 +1,6 @@
 [
     (0.05, Item("common.items.weapons.staff.phoenix")),
-    (0.05, Item("common.items.weapons.staff.laevateinn")),
+    (0.03, Item("common.items.weapons.staff.laevateinn")),
     (0.01, Item("common.items.WECW.mind")),
     (0.01, Item("common.items.WECW.darksteel")),
     (0.01, Item("common.items.WECW.darkaxe")),
@@ -8,9 +8,9 @@
     (0.01, Item("common.items.WECW.ring.skullg")),
     (0.5, Item("common.items.crafting_ing.hide.dragon_scale")),
     (1.0, Item("common.items.crafting_ing.mindflayer_bag_damaged")),
-    (0.2, Item("common.items.boss_drops.lantern")),
-    (0.2, Item("common.items.glider.glider_purp")),
+    (0.1, Item("common.items.boss_drops.lantern")),
+    (0.1, Item("common.items.glider.glider_purp")),
     (1.0, ItemQuantity("common.items.WECW.coins2",50,100)),
-    (0.2, ItemQuantity("common.items.boss_drops.potions",30,80)),
-    (0.2, ItemQuantity("common.items.boss_drops.exp_flask",30,80)),
+    (0.3, ItemQuantity("common.items.boss_drops.potions",30,80)),
+    (0.3, ItemQuantity("common.items.boss_drops.exp_flask",30,80)),
 ]
