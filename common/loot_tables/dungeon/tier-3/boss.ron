@@ -1,5 +1,4 @@
 [
-    (0.01, Item("common.items.WECW.darksteel2")),
     (0.01, Item("common.items.WECW.stormgreatsword")),
     (0.1, LootTable("common.loot_tables.weapons.cave")),
     (0.5, LootTable("common.loot_tables.weapons.tier-5")),

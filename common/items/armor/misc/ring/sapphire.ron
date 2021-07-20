@@ -1,6 +1,6 @@
 ItemDef(
-    name: "Sapphire Ring",
-    description: "An iron ring with a sapphire gem.",
+    name: "蓝宝石戒指",
+    description: "镶有蓝宝石的铁环.",
     kind: Armor((
         kind: Ring("Sapphire"),
         stats: (

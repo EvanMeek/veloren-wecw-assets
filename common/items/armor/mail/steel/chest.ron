@@ -1,6 +1,6 @@
 ItemDef(
-    name: "Steel Cuirass",
-    description: "The metal alloy provides a somewhat lighter and stronger cuirass.",
+    name: "钢 胸凯",
+    description: "金属合金提供了更轻更强的铁甲.",
     kind: Armor((
         kind: Chest("Steel"),
         stats: (

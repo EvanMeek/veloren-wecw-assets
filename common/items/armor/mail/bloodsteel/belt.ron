@@ -1,6 +1,6 @@
 ItemDef(
-    name: "Bloodsteel Girdle",
-    description: "Forged to preserve life, at the cost of another.",
+    name: "血钢 腰带",
+    description: "为了保全生命，不惜牺牲他人.",
     kind: Armor((
         kind: Belt("Bloodsteel"),
         stats: (

@@ -1,6 +1,6 @@
 ItemDef(
-    name: "Scale Leggings",
-    description: "Each embedded scale provides protection.",
+    name: "鳞甲 长裤",
+    description: "每个嵌入式的鳞片提供额外的保护.",
     kind: Armor((
         kind: Pants("Scale"),
         stats: (

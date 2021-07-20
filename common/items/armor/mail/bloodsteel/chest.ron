@@ -1,6 +1,6 @@
 ItemDef(
-    name: "Bloodsteel Chest",
-    description: "Forged to preserve life, at the cost of another.",
+    name: "血钢 胸铠",
+    description: "为了保全生命，不惜牺牲他人.",
     kind: Armor((
         kind: Chest("Bloodsteel"),
         stats: (

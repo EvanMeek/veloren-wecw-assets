@@ -1,6 +1,6 @@
 ItemDef(
-    name: "Orichalcum Mantle",
-    description: "An ancient alloy. Myths remain of heroes who wore this armor.",
+    name: "奥里查库姆 肩铠",
+    description: "一个古老的合金。关于穿着这种盔甲的英雄的神话仍在流传.",
     kind: Armor((
         kind: Shoulder("Orichalcum"),
         stats: (

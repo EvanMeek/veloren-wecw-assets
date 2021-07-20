@@ -1,6 +1,6 @@
 ItemDef(
-    name: "Dragonscale Sash",
-    description: "Power pulses through it.",
+    name: "龙鳞 腰带",
+    description: "通过龙鳞的魔力强化.",
     kind: Armor((
         kind: Belt("Dragonscale"),
         stats: (

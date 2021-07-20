@@ -1,6 +1,6 @@
 ItemDef(
-    name: "Silken Skirt",
-    description: "Weaved with care by a skilled tailor.",
+    name: "丝绸 裙甲",
+    description: "由一个熟练的裁缝精心编织.",
     kind: Armor((
         kind: Pants("Silken"),
         stats: (

@@ -1,6 +1,6 @@
 ItemDef(
-    name: "Dragonscale Chestplate",
-    description: "Power pulses through it.",
+    name: "龙鳞 胸甲",
+    description: "通过龙鳞的魔力强化.",
     kind: Armor((
         kind: Chest("Dragonscale"),
         stats: (

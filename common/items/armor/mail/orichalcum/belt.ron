@@ -1,6 +1,6 @@
 ItemDef(
-    name: "Orichalcum Belt",
-    description: "An ancient alloy. Myths remain of heroes who wore this metal.",
+    name: "奥里查库姆 腰带",
+    description: "一个古老的合金。关于佩戴这种金属的英雄的神话至今仍在流传.",
     kind: Armor((
         kind: Belt("Orichalcum"),
         stats: (

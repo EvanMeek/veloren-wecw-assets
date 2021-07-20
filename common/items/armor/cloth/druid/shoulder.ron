@@ -1,6 +1,6 @@
 ItemDef(
-    name: "Druid Shoulderpads",
-    description: "Incredibly light, with the essence of nature.",
+    name: "德鲁伊 护肩",
+    description: "令人难以置信的轻，带有自然的本质.",
     kind: Armor((
         kind: Shoulder("Druid"),
         stats: (

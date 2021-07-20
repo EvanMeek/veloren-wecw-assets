@@ -264,14 +264,6 @@
         "voxel.armor.warlordG.darksteel",
         (1.0, -1.0, 0.0), (-135.0, 90.0, 0.0), 1.1,
     ),
-    Tool("common.items.WECW.gayaberg"): VoxTrans(
-        "voxel.armor.warlordG.gayaberg",
-        (1.0, -1.0, 0.0), (-135.0, 90.0, 0.0), 1.1,
-    ),
-    Tool("common.items.WECW.riventheexile"): VoxTrans(
-        "voxel.armor.warlordG.riventheexile",
-        (1.0, -1.0, 0.0), (-135.0, 90.0, 0.0), 1.1,
-    ),
     Tool("common.items.WECW.darksteel2"): VoxTrans(
         "voxel.armor.warlordG.darksteel2",
         (1.0, -1.0, 0.0), (-135.0, 90.0, 0.0), 1.1,
@@ -282,6 +274,14 @@
     ),
     Tool("common.items.WECW.caladbolgG"): VoxTrans(
         "voxel.armor.warlordG.caladbolgG",
+        (1.0, -1.0, 0.0), (-135.0, 90.0, 0.0), 1.1,
+    ),
+    Tool("common.items.WECW.caladbolgEXG"): VoxTrans(
+        "voxel.armor.warlordG.goldsword",
+        (1.0, -1.0, 0.0), (-135.0, 90.0, 0.0), 1.1,
+    ),
+    Tool("common.items.WECW.caladbolgex"): VoxTrans(
+        "voxel.armor.warlordG.HGX",
         (1.0, -1.0, 0.0), (-135.0, 90.0, 0.0), 1.1,
     ),
     Tool("common.items.WECW.darkhammer"): VoxTrans(

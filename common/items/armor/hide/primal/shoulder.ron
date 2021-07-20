@@ -1,6 +1,6 @@
 ItemDef(
-    name: "Primal Shoulders",
-    description: "Smithed from hide tougher than steel.",
+    name: "硬皮 护肩",
+    description: "由比钢还坚硬的皮锻造而成.",
     kind: Armor((
         kind: Shoulder("Primal"),
         stats: (

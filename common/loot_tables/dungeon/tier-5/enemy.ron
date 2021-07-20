@@ -1,8 +1,6 @@
 [
-    (0.1, LootTable("common.loot_tables.weapons.tier-5")),
+    (0.05, LootTable("common.loot_tables.weapons.tier-5")),
     (0.05, Item("common.items.glider.glider_blue")),
-    (0.05, Item("common.items.armor.misc.ring.skull")),
-    (0.05, Item("common.items.armor.misc.back.dungeon_purple")),
     (0.005, Item("common.items.armor.misc.back.backpack")),
     (0.1, Item("common.items.boss_drops.potions")),
     (0.1, Item("common.items.boss_drops.exp_flask")),

@@ -1,6 +1,6 @@
 ItemDef(
-    name: "Bloodsteel Sabatons",
-    description: "Forged to preserve life, at the cost of another.",
+    name: "血钢 长靴",
+    description: "为了保全生命，不惜牺牲他人.",
     kind: Armor((
         kind: Foot("Bloodsteel"),
         stats: (

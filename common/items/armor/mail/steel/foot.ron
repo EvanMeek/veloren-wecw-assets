@@ -1,6 +1,6 @@
 ItemDef(
-    name: "Steel Boots",
-    description: "Metal alloy boots providing a more comfortable and durable protection.",
+    name: "钢 长靴",
+    description: "金属合金靴子提供更舒适和耐用的保护.",
     kind: Armor((
         kind: Foot("Steel"),
         stats: (

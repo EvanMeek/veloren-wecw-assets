@@ -1,6 +1,6 @@
 ItemDef(
-    name: "Carapace Belt",
-    description: "Shell that once shielded a beast.",
+    name: "甲壳 腰带",
+    description: "曾经保护野兽的甲壳.",
     kind: Armor((
         kind: Belt("Carapace"),
         stats: (

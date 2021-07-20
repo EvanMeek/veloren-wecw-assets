@@ -1,6 +1,6 @@
 ItemDef(
-    name: "Steel Shoulders",
-    description: "The metal alloy plates provide better protection and comfort.",
+    name: "钢 肩凯",
+    description: "金属合金板提供更好的保护和舒适.",
     kind: Armor((
         kind: Shoulder("Steel"),
         stats: (

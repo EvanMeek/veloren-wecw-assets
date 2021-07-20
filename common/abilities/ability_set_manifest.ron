@@ -15,22 +15,18 @@
             (Some(Sword(UnlockSpin)), "common.abilities.sword.spingreat"),
         ],
     ),
-    Custom("gayabergSword"): (
-        primary: "common.abilities.sword.triplestrikegreat",
-        secondary: "common.abilities.sword.dashgreat",
+    Custom("EXSword"): (
+        primary: "common.abilities.sword.triplestrikegreatEX",
+        secondary: "common.abilities.sword.dashgreatEX",
         abilities: [
-            (Some(Sword(UnlockSpin)), "common.abilities.sword.spingreat"),
-            (None, "common.abilities.sword.Sword_Frozen"),
+            (Some(Sword(UnlockSpin)), "common.abilities.sword.spingreatEX"),
         ],
     ),
-    Custom("riventheexile"): (
+    Custom("windSword"): (
         primary: "common.abilities.sword.triplestrikegreat",
-        secondary: "common.abilities.sword.dashgreat",
+        secondary: "common.abilities.sword.dash",
         abilities: [
-            (Some(Sword(UnlockSpin)), "common.abilities.sword.spingreat"),
-            // (None, "common.abilities.custom.mindflayer.necroticsphere"),
-            (Some(Staff(UnlockShockwave)), "common.abilities.staff.mindflayershock"),
-            // (Some(Sceptre(UnlockAura)), "common.abilities.sceptre.wardingauraexg"),
+            (Some(Sword(UnlockSpin)), "common.abilities.sword.spinwind"),
         ],
     ),
     Custom("Swordepic"): (

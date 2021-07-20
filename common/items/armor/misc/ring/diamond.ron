@@ -1,6 +1,6 @@
 ItemDef(
-    name: "Diamond Ring",
-    description: "A gold ring with an expensive diamond.",
+    name: "钻石戒指",
+    description: "镶着昂贵钻石的金戒指.",
     kind: Armor((
         kind: Ring("Diamond"),
         stats: (
@@ -12,6 +12,6 @@ ItemDef(
             stealth: 0.0,
         ),
     )),
-    quality: Epic,
+    quality: High,
     tags: [],
 )

@@ -1,6 +1,6 @@
 ItemDef(
-    name: "Scale Girdle",
-    description: "Each embedded scale provides protection.",
+    name: "鳞甲 腰带",
+    description: "每个嵌入式刻度提供保护.",
     kind: Armor((
         kind: Belt("Scale"),
         stats: (

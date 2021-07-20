@@ -1,6 +1,6 @@
 ItemDef(
-    name: "Scale Chestpiece",
-    description: "Each embedded scale provides protection.",
+    name: "鳞甲 胸甲",
+    description: "每个嵌入式刻度提供保护.",
     kind: Armor((
         kind: Chest("Scale"),
         stats: (

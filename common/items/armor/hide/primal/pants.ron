@@ -1,6 +1,6 @@
 ItemDef(
-    name: "Primal Legs",
-    description: "Smithed from hide tougher than steel.",
+    name: "硬皮 长裤",
+    description: "由比钢还坚硬的皮锻造而成.",
     kind: Armor((
         kind: Pants("Primal"),
         stats: (

@@ -1,6 +1,6 @@
 ItemDef(
-    name: "Steel Gauntlets",
-    description: "The metal alloy provides better protection and lighter weight, a quite comfortable gauntlet.",
+    name: "钢 手套",
+    description: "金属合金提供更好的保护和更轻的重量，一个相当舒适的手套.",
     kind: Armor((
         kind: Hand("Steel"),
         stats: (

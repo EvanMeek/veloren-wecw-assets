@@ -1,6 +1,6 @@
 ItemDef(
-    name: "Carapace Cuirass",
-    description: "Shell that once shielded a beast.",
+    name: "甲壳 皮甲",
+    description: "曾经保护野兽的甲壳.",
     kind: Armor((
         kind: Chest("Carapace"),
         stats: (

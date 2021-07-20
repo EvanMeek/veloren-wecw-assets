@@ -1,6 +1,6 @@
 ItemDef(
-    name: "Steel Belt",
-    description: "Metal alloy interlocking plates to improve protection.",
+    name: "钢 腰带",
+    description: "金属合金联锁板，提高保护.",
     kind: Armor((
         kind: Belt("Steel"),
         stats: (

@@ -1,6 +1,6 @@
 ItemDef(
-    name: "Bloodsteel Gauntlets",
-    description: "Forged to preserve life, at the cost of another.",
+    name: "血钢 手甲",
+    description: "为了保全生命，不惜牺牲他人.",
     kind: Armor((
         kind: Hand("Bloodsteel"),
         stats: (

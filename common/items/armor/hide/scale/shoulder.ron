@@ -1,6 +1,6 @@
 ItemDef(
-    name: "Scale Shoulderguards",
-    description: "Each embedded scale provides protection.",
+    name: "鳞甲 护肩",
+    description: "每个嵌入式的鳞片提供额外的保护.",
     kind: Armor((
         kind: Shoulder("Scale"),
         stats: (

@@ -1,6 +1,6 @@
 ItemDef(
-    name: "Druid Handwraps",
-    description: "Incredibly light, with the essence of nature.",
+    name: "德鲁伊 手套",
+    description: "令人难以置信的轻，带有自然的本质.",
     kind: Armor((
         kind: Hand("Druid"),
         stats: (

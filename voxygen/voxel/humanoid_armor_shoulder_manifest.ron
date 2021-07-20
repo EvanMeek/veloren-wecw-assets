@@ -433,11 +433,11 @@
         ),
         "Bloodsteel": (
             left: (
-                vox_spec: ("armor.mail.bloodsteel.shoulder", (-6.5, -5.0 , -3.0)),
+                vox_spec: ("armor.mail.bloodsteel.shoulder", (-7.0, -5.0 , -2.0)),
                 color: None
             ),
             right: (
-                vox_spec: ("armor.mail.bloodsteel.shoulder", (-2.5, -5.0, -3.0)),
+                vox_spec: ("armor.mail.bloodsteel.shoulder", (-2.0, -5.0, -2.0)),
                 color: None
             )
         ),

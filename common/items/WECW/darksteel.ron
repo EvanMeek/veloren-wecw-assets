@@ -1,6 +1,6 @@
 ItemDef(
     name: "萨顿的末日战刃",
-    description: "破坏者萨顿的战刀，由工匠Drackouns在暗黑祭坛用暗金锻造，锋利且剑身不可思议的轻巧，削铁如泥.\n特效（巨型武器）：攻击距离提升，更容易击晕敌人！",
+    description: "破坏者萨顿的战刀，由工匠Drackouns在暗黑祭坛用暗金锻造，削铁如泥.\n特效（巨型武器）：攻击距离提升，更容易击晕敌人！",
     kind: Tool((
         kind: Sword,
         hands: Two,
@@ -10,7 +10,7 @@ ItemDef(
             effect_power: 3.0,
             speed: 1.0,
             crit_chance: 0.75,
-            range: 1.25,
+            range: 1.0,
             energy_efficiency: 1.0,
             buff_strength: 1.0,
         )),

@@ -1,6 +1,6 @@
 ItemDef(
-    name: "Dragonscale Cape",
-    description: "Power pulses through it.",
+    name: "龙鳞 披风",
+    description: "通过龙鳞的魔力强化.",
     kind: Armor((
         kind: Back("Dragonscale"),
         stats: (

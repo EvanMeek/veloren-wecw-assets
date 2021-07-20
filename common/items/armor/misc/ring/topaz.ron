@@ -1,6 +1,6 @@
 ItemDef(
-    name: "Topaz Ring",
-    description: "A copper ring with a topaz gem.",
+    name: "黄玉戒指",
+    description: "镶有黄玉宝石的铜戒指.",
     kind: Armor((
         kind: Ring("Topaz"),
         stats: (

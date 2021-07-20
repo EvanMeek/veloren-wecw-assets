@@ -1,6 +1,6 @@
 ItemDef(
-    name: "Steel Chausses",
-    description: "The metal alloy provides improvements to fit, durability, and lightness.",
+    name: "钢 腿凯",
+    description: "金属合金提供了改进的适用性，耐久性和轻便性.",
     kind: Armor((
         kind: Pants("Steel"),
         stats: (

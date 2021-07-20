@@ -1,6 +1,6 @@
 ItemDef(
-    name: "Scale Cape",
-    description: "Each embedded scale provides protection.",
+    name: "鳞甲 披风",
+    description: "每个嵌入式的鳞片提供额外的保护.",
     kind: Armor((
         kind: Back("Scale"),
         stats: (
