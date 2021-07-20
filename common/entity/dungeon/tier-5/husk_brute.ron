@@ -1,5 +1,5 @@
 EntityConfig (
-    name: Name("憎恶"),
+    name: Name("(精英) 憎恶"),
     body: RandomWith("husk_brute"),
     alignment: Alignment(Enemy),
 
