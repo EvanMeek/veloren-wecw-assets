@@ -1,8 +1,7 @@
 [
     (1.0, LootTable("common.loot_tables.armor.cloth")),
-    (1.0, LootTable("common.loot_tables.weapons.tier-0")),
     (1.0, LootTable("common.loot_tables.weapons.tier-2")),
     (1.0, LootTable("common.loot_tables.weapons.tier-3")),
     (2.0, LootTable("common.loot_tables.consumable.potion")),
-    (3.0, ItemQuantity("common.items.utility.coins", 10, 500)),
+    (3.0, ItemQuantity("common.items.utility.coins", 500, 2000)),
 ]
