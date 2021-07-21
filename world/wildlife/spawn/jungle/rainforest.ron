@@ -19,8 +19,8 @@ SpawnEntry (
         ),
         Pack(
             groups: [
-                (1, (1, 3, "common.entity.wild.aggressive.tiger")),
-                (1, (1, 3, "common.entity.wild.aggressive.maneater")),
+                (1, (3, 6, "common.entity.wild.aggressive.tiger")),
+                (1, (3, 6, "common.entity.wild.aggressive.maneater")),
                 (1, (1, 3, "common.entity.wild.aggressive.cockatrice")),
             ],
             is_underwater: false,

@@ -37,7 +37,7 @@ SpawnEntry (
         Pack(
             groups: [
                 // Solitary
-                (1, (1, 1, "common.entity.wild.aggressive.batfox")),
+                (1, (3, 6, "common.entity.wild.aggressive.batfox")),
                 (5, (1, 1, "common.entity.wild.peaceful.forest_fox")),
                 (5, (1, 1, "common.entity.wild.peaceful.raccoon")),
                 // Pack
