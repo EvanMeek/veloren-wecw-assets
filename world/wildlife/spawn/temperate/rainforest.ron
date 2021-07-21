@@ -29,7 +29,7 @@ SpawnEntry (
                 (2, (1, 4, "common.entity.wild.peaceful.catoblepas")),
                 (2, (1, 4, "common.entity.wild.peaceful.turtle")),
                 (2, (1, 4, "common.entity.wild.peaceful.hirdrasil")),
-                (1, (1, 1, "common.entity.wild.peaceful.truffler")),
+                (2, (1, 4, "common.entity.wild.peaceful.truffler")),
             ],
             is_underwater: false,
             day_period: [Morning, Noon, Evening],
