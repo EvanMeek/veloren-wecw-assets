@@ -15,7 +15,7 @@
 
     // Leap
     Skill((Axe(UnlockLeap), None)),
-    Skill((Axe(LDamage), Some(3))),
-    Skill((Axe(LKnockback), Some(2))),
+    Skill((Axe(LDamage), Some(5))),
+    Skill((Axe(LKnockback), Some(3))),
     Skill((Axe(LDistance), Some(2))),
 ])

@@ -8,14 +8,14 @@
     Skill((Hammer(SsRegen), Some(2))),
 
     // Charged
-    Skill((Hammer(CKnockback), Some(3))),
-    Skill((Hammer(CDamage), Some(3))),
+    Skill((Hammer(CKnockback), Some(6))),
+    Skill((Hammer(CDamage), Some(5))),
     Skill((Hammer(CDrain), Some(2))),
 
     // Leap
     Skill((Hammer(UnlockLeap), None)),
-    Skill((Hammer(LDamage), Some(3))),
-    Skill((Hammer(LDistance), Some(2))),
-    Skill((Hammer(LKnockback), Some(2))),
+    Skill((Hammer(LDamage), Some(6))),
+    Skill((Hammer(LDistance), Some(4))),
+    Skill((Hammer(LKnockback), Some(6))),
     Skill((Hammer(LRange), Some(3))),
 ])

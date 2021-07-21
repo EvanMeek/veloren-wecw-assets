@@ -2,11 +2,11 @@
     Group(Weapon(Bow)),
 
     // Charged
-    Skill((Bow(CDamage), Some(1))),
+    Skill((Bow(CDamage), Some(5))),
     Skill((Bow(CRegen), Some(2))),
-    Skill((Bow(CKnockback), Some(2))),
-    Skill((Bow(CSpeed), Some(2))),
-    Skill((Bow(CMove), Some(2))),
+    Skill((Bow(CKnockback), Some(3))),
+    Skill((Bow(CSpeed), Some(3))),
+    Skill((Bow(CMove), Some(5))),
 
     // Repeater
     Skill((Bow(RDamage), Some(1))),
@@ -14,8 +14,8 @@
 
     // Shotgun
     Skill((Bow(UnlockShotgun), None)),
-    Skill((Bow(SDamage), Some(1))),
-    Skill((Bow(SSpread), Some(1))),
+    Skill((Bow(SDamage), Some(2))),
+    Skill((Bow(SSpread), Some(4))),
     Skill((Bow(SArrows), Some(5))),
     Skill((Bow(SCost), Some(2))),
 ])
