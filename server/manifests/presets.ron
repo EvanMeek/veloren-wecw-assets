@@ -121,6 +121,7 @@
         (Sceptre(HHeal), 3),
         (Sceptre(HCost), 2),
         (Sceptre(HRange), 2),
+        (Sceptre(HDuration), 2),
 
         (Sceptre(UnlockAura), 1),
         (Sceptre(AStrength), 2),
