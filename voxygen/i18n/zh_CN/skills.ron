@@ -64,7 +64,7 @@
         "hud.skill.sc_heal_duration": "法术持续的时间延长20%{SP}",
         "hud.skill.sc_heal_range_title": "范围提升",
         "hud.skill.sc_heal_range": "法术覆盖范围扩大20%{SP}",
-        "hud.skill.sc_wardaura_unlock_title": "守护领域/治疗领域",
+        "hud.skill.sc_wardaura_unlock_title": "守护领域/假死",
         "hud.skill.sc_wardaura_unlock": "守护领域:施展一个强大的魔法领域,守护你的盟友\n(初始可用);\n假死:装死，短时间脱离敌人注意力\n(初始可用)\n(消耗70MP释放){SP}",
         "hud.skill.sc_wardaura_strength_title": "效果提升",
         "hud.skill.sc_wardaura_strength": "领域提供的效果加强15%{SP}",

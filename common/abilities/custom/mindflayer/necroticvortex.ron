@@ -6,7 +6,7 @@ SpinMelee(
     base_poise_damage: 0.0,
     knockback: ( strength: 5.0, direction: Towards),
     range: 17.5,
-    damage_effect: Some(Lifesteal(1.0)),
+    damage_effect: Some(Lifesteal(1.5)),
     energy_cost: 0.0,
     is_infinite: true,
     movement_behavior: Stationary,

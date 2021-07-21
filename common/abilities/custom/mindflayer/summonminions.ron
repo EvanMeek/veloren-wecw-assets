@@ -15,7 +15,7 @@ BasicSummon(
         skillset_config: None,
     ),
     duration: Some((
-        secs: 60,
+        secs: 90,
         nanos: 0,
     )),
 )
