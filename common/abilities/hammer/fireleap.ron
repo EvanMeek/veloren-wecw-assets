@@ -6,7 +6,7 @@ LeapMelee(
     recover_duration: 0.2,
     base_damage: 120,
     base_poise_damage: 80,
-    knockback: 10.0,
+    knockback: 6.0,
     range: 3.5,
     max_angle: 360.0,
     forward_leap_strength: 20.0,

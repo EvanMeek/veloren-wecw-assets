@@ -4,7 +4,7 @@ DashMelee(
     scaled_damage: 160,
     base_poise_damage: 40,
     scaled_poise_damage: 0,
-    base_knockback: 8.0,
+    base_knockback: 6.0,
     scaled_knockback: 7.0,
     range: 4.0,
     angle: 30.0,
