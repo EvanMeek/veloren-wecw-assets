@@ -1,5 +1,5 @@
 ItemDef(
-    name: "钴 长靴",
+    name: "锰钢 长靴",
     description: "这种金属具有装饰性和渗透性，永远不会变钝.",
     kind: Armor((
         kind: Foot("Cobalt"),

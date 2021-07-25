@@ -1,5 +1,5 @@
 ItemDef(
-    name: "钴 肩凯",
+    name: "锰钢 肩凯",
     description: "这种金属具有装饰性和渗透性，永远不会变钝.",
     kind: Armor((
         kind: Shoulder("Cobalt"),
