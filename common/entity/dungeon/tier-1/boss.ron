@@ -1,5 +1,5 @@
 EntityConfig (
-    name: Name("雪兽"),
+    name: Name("雪怪"),
     body: RandomWith("yeti"),
     alignment: Alignment(Enemy),
 
