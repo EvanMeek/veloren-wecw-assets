@@ -83,7 +83,7 @@
         "hud.skill.st_shockwave_knockback" : "冲击波击退的效果提高30%{SP}",
         "hud.skill.st_shockwave_damage_title" : "伤害提升",
         "hud.skill.st_shockwave_damage" : "冲击波造成的伤害提高30%{SP}",
-        "hud.skill.st_shockwave_unlock_title" : "烈焰花环/大火球",
+        "hud.skill.st_shockwave_unlock_title" : "烈焰花环/假死",
         "hud.skill.st_shockwave_unlock" : "释放强大的火焰冲击波,伤害并击退周遭敌人\n(初始可用);\n假死:装死，短时间脱离敌人注意力\n(初始可用)\n(消耗70MP释放)",
         "hud.skill.st_flamethrower_title" : "火焰吐息",
         "hud.skill.st_flamethrower" : "释放烈焰持续灼烧你的敌人",
