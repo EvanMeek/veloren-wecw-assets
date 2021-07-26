@@ -472,6 +472,15 @@
         craft_sprite: Some(Cauldron),
         is_recycling: false,
     ),
+    "potion_big": (
+        output: ("common.items.consumable.potion_big", 1),
+        inputs: [
+            (Item("common.items.consumable.potion_med"), 2),
+            (Item("common.items.mineral.ore.veloritefrag"), 4),
+        ],
+        craft_sprite: Some(Cauldron),
+        is_recycling: false,
+    ),
     "potion_exg": (
         output: ("common.items.boss_drops.xp_potion", 1),
         inputs: [
