@@ -7,7 +7,7 @@ BasicMelee(
     base_poise_damage: 0.04,
     knockback: ( strength: 20.0, direction: Away),
     range: 6.0,
-    max_angle: 60.0,
+    max_angle: 45.0,
     damage_effect: None,
     damage_kind: Crushing,
 )
