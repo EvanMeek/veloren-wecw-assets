@@ -21,6 +21,7 @@
         "gameinput.help": "切换帮助窗口",
         "gameinput.toggleinterface": "切换显示界面",
         "gameinput.toggledebug": "切换FPS和调试信息",
+        "gameinput.togglechat": "切换聊天",
         "gameinput.screenshot": "截图",
         "gameinput.toggleingameui": "切换名称标签",
         "gameinput.fullscreen": "切换全屏",

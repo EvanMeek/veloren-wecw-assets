@@ -18,6 +18,9 @@ SpawnEntry (
             groups: [
                 (5, (1, 2, "common.entity.wild.peaceful.quokka")),
                 (1, (1, 1, "common.entity.wild.peaceful.tortoise")),
+                (1, (1, 3, "common.entity.dungeon.tier-0.spear")),
+                (1, (1, 3, "common.entity.dungeon.tier-0.bow")),
+                (1, (1, 3, "common.entity.dungeon.tier-0.staff")),
             ],
             is_underwater: false,
             day_period: [Night],

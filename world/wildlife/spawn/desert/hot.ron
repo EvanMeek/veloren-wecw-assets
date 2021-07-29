@@ -17,6 +17,8 @@ SpawnEntry (
                 (1, (1, 4, "common.entity.wild.peaceful.holladon")),
                 (1, (1, 4, "common.entity.wild.peaceful.porcupine")),
                 (1, (1, 4, "common.entity.wild.peaceful.pangolin")),
+                (1, (1, 5, "common.entity.dungeon.tier-0.spear")),
+                (1, (1, 5, "common.entity.dungeon.tier-0.bow")),
             ],
             is_underwater: false,
             day_period: [Night],

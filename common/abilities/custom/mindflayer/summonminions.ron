@@ -2,20 +2,17 @@ BasicSummon(
     buildup_duration: 0.4,
     cast_duration: 0.4,
     recover_duration: 0.4,
-    summon_amount: 6,
+    summon_amount: 2,
     summon_distance: (3, 3),
     summon_info: (
-        body: BipedSmall((
-            species: Husk,
+        body: BipedLarge((
+            species: Huskbrute,
             body_type: Male,
         )),
         scale: None,
-        health_scaling: Some(580),
+        health_scaling: Some(0),
         loadout_config: Some(HuskSummon),
         skillset_config: None,
     ),
-    duration: Some((
-        secs: 90,
-        nanos: 0,
-    )),
+    duration: None,
 )
