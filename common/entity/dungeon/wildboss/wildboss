@@ -3,7 +3,7 @@ EntityConfig (
     body: RandomWith("stonegolem"),
     alignment: Alignment(Enemy),
 
-    loot: LootTable("common.loot_tables.dungeon.wildboss.wildboss"),
+    loot: LootTable("common.loot_tables.dungeon.wildboss.miniboss"),
 
     hands: Uninit,
 
