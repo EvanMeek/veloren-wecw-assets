@@ -228,6 +228,14 @@
             "I have destroyed my enemy!",
             "Finally at peace!",
             "... now what was I doing?",
-        ]
+        ],
+        "npc.speech.menacing": [
+            "I'm warning you!",
+            "Any closer and I'll attack!",
+            "You don't scare me!",
+            "Get away from here!",
+            "Turn around if you want to live!",
+            "You're not welcome here!",
+        ],
     }
 )

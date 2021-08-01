@@ -1,5 +1,5 @@
 BasicBeam(
-    buildup_duration: 0.5,
+    buildup_duration: 0.4,
     recover_duration: 0.4,
     beam_duration: 0.25,
     damage: 70,

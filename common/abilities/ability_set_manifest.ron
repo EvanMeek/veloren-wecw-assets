@@ -112,7 +112,7 @@
         secondary: "common.abilities.bow.repeater",
         abilities: [
             (Some(Bow(UnlockShotgun)), "common.abilities.bow.shotgun"),
-            (Some(Bow(UnlockShotgun)), "common.abilities.bow.died"),
+            (Some(Bow(UnlockShotgun)), "common.abilities.bow.wolf"),
         ],
     ),
     Custom("Bowepic"): (
@@ -120,7 +120,7 @@
         secondary: "common.abilities.bow.repeater",
         abilities: [
             (Some(Bow(UnlockShotgun)), "common.abilities.bow.shotgunepic"),
-            (Some(Bow(UnlockShotgun)), "common.abilities.bow.died"),
+            (Some(Bow(UnlockShotgun)), "common.abilities.bow.wolf"),
         ],
     ),
     Custom("Bowex"): (
@@ -128,7 +128,7 @@
         secondary: "common.abilities.bow.repeater",
         abilities: [
             (Some(Bow(UnlockShotgun)), "common.abilities.bow.shotgunexg"),
-            (Some(Bow(UnlockShotgun)), "common.abilities.bow.died"),
+            (Some(Bow(UnlockShotgun)), "common.abilities.bow.wolf"),
         ],
     ),
     Custom("Bowexg"): (
@@ -185,7 +185,6 @@
         secondary: "common.abilities.staff.flamethrower",
         abilities: [
             (Some(Staff(UnlockShockwave)), "common.abilities.staff.fireshockwave"),
-            (Some(Bow(UnlockShotgun)), "common.abilities.bow.died"),
         ],
     ),
     Custom("Staffp"): (
@@ -193,7 +192,6 @@
         secondary: "common.abilities.staff.flamethrower",
         abilities: [
             (Some(Staff(UnlockShockwave)), "common.abilities.staff.fireshockwaveg"),
-            (Some(Bow(UnlockShotgun)), "common.abilities.bow.died"),
         ],
     ),
     Custom("Staffl"): (
@@ -201,7 +199,6 @@
         secondary: "common.abilities.staff.flamethrowerg",
         abilities: [
             (Some(Staff(UnlockShockwave)), "common.abilities.staff.fireshockwave"),
-            (Some(Bow(UnlockShotgun)), "common.abilities.bow.died"),
         ],
     ),
     Custom("Staffex"): (
@@ -217,7 +214,7 @@
         secondary: "common.abilities.sceptre.healingaura",
         abilities: [
             (Some(Sceptre(UnlockAura)), "common.abilities.sceptre.wardingaura"),
-            (Some(Bow(UnlockShotgun)), "common.abilities.bow.died"),
+            (Some(Sceptre(UnlockAura)), "common.abilities.sceptre.bear"),
         ],
     ),
     Custom("Sceptreepic"): (
@@ -225,7 +222,7 @@
         secondary: "common.abilities.sceptre.healingauraepic",
         abilities: [
             (Some(Sceptre(UnlockAura)), "common.abilities.sceptre.wardingaura"),
-            (Some(Bow(UnlockShotgun)), "common.abilities.bow.died"),
+            (Some(Sceptre(UnlockAura)), "common.abilities.sceptre.bear"),
         ],
     ),
     Custom("Sceptreepic2"): (
@@ -233,7 +230,7 @@
         secondary: "common.abilities.sceptre.healingaura",
         abilities: [
             (Some(Sceptre(UnlockAura)), "common.abilities.sceptre.wardingauraepic"),
-            (Some(Bow(UnlockShotgun)), "common.abilities.bow.died"),
+            (Some(Sceptre(UnlockAura)), "common.abilities.sceptre.bear"),
         ],
     ),
     Custom("Sceptreex"): (

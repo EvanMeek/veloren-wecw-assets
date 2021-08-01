@@ -1,9 +1,9 @@
 [
+    (0.01, Item("common.items.WECW.bow")),
     (0.05, Item("common.items.weapons.staff.phoenix")),
     (0.03, Item("common.items.weapons.staff.laevateinn")),
     (0.01, Item("common.items.WECW.mind")),
     (0.01, Item("common.items.WECW.darksteel")),
-    (0.01, Item("common.items.WECW.darkaxe")),
     (0.01, Item("common.items.WECW.neck.epicneck")),
     (0.01, Item("common.items.WECW.ring.skullg")),
     (0.5, Item("common.items.crafting_ing.hide.dragon_scale")),

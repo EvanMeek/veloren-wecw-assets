@@ -1,8 +1,8 @@
 ChargedRanged(
     energy_cost: 0,
     energy_drain: 0,
-    initial_regen: 20,
-    scaled_regen: 120,
+    initial_regen: 10,
+    scaled_regen: 100,
     initial_damage: 20,
     scaled_damage: 100,
     initial_knockback: 0.0,
