@@ -112,7 +112,6 @@
         secondary: "common.abilities.bow.repeater",
         abilities: [
             (Some(Bow(UnlockShotgun)), "common.abilities.bow.shotgun"),
-            (Some(Bow(UnlockShotgun)), "common.abilities.bow.wolf"),
         ],
     ),
     Custom("Bowepic"): (
@@ -120,7 +119,6 @@
         secondary: "common.abilities.bow.repeater",
         abilities: [
             (Some(Bow(UnlockShotgun)), "common.abilities.bow.shotgunepic"),
-            (Some(Bow(UnlockShotgun)), "common.abilities.bow.wolf"),
         ],
     ),
     Custom("Bowex"): (
@@ -128,7 +126,6 @@
         secondary: "common.abilities.bow.repeater",
         abilities: [
             (Some(Bow(UnlockShotgun)), "common.abilities.bow.shotgunexg"),
-            (Some(Bow(UnlockShotgun)), "common.abilities.bow.wolf"),
         ],
     ),
     Custom("Bowexg"): (
@@ -214,7 +211,6 @@
         secondary: "common.abilities.sceptre.healingaura",
         abilities: [
             (Some(Sceptre(UnlockAura)), "common.abilities.sceptre.wardingaura"),
-            (Some(Sceptre(UnlockAura)), "common.abilities.sceptre.bear"),
         ],
     ),
     Custom("Sceptreepic"): (
@@ -222,7 +218,6 @@
         secondary: "common.abilities.sceptre.healingauraepic",
         abilities: [
             (Some(Sceptre(UnlockAura)), "common.abilities.sceptre.wardingaura"),
-            (Some(Sceptre(UnlockAura)), "common.abilities.sceptre.bear"),
         ],
     ),
     Custom("Sceptreepic2"): (
@@ -230,7 +225,6 @@
         secondary: "common.abilities.sceptre.healingaura",
         abilities: [
             (Some(Sceptre(UnlockAura)), "common.abilities.sceptre.wardingauraepic"),
-            (Some(Sceptre(UnlockAura)), "common.abilities.sceptre.bear"),
         ],
     ),
     Custom("Sceptreex"): (

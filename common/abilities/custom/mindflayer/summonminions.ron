@@ -14,5 +14,8 @@ BasicSummon(
         loadout_config: Some(HuskSummon),
         skillset_config: None,
     ),
-    duration: None,
+    duration: Some((
+              secs: 90,
+              nanos: 0,
+                  )),
 )
