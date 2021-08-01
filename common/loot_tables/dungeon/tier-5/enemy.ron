@@ -8,5 +8,5 @@
     (0.001, Item("common.items.crafting_ing.hide.dragon_scale")),
     (0.001, ItemQuantity("common.items.boss_drops.potions",10,25)),
     (0.001, ItemQuantity("common.items.boss_drops.exp_flask",10,25)),
-    (3.5, ItemQuantity("common.items.utility.coins",100,900)),
+    (3.5, ItemQuantity("common.items.utility.coins",300,900)),
 ]

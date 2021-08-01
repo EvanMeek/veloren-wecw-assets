@@ -10,5 +10,5 @@
     (0.1, LootTable("common.loot_tables.food.prepared")),
     (0.1, Item("common.items.boss_drops.potions")),
     (0.1, Item("common.items.boss_drops.exp_flask")),
-    (3.5, ItemQuantity("common.items.utility.coins", 100, 500)),
+    (3.5, ItemQuantity("common.items.utility.coins", 200, 500)),
 ]

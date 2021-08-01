@@ -500,7 +500,7 @@
             (Item("common.items.WECW.coins2"), 1),
             (Item("common.items.utility.coins"), 500),
         ],
-        craft_sprite: Some(Cauldron),
+        craft_sprite: None,
         is_recycling: false,
     ),
     "buy_potion_m": (
@@ -509,7 +509,7 @@
             (Item("common.items.WECW.coins2"), 3),
             (Item("common.items.utility.coins"), 500),
         ],
-        craft_sprite: Some(Cauldron),
+        craft_sprite: None,
         is_recycling: false,
     ),
     "crafting_hammer": (

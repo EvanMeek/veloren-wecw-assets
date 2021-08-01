@@ -2,7 +2,7 @@
     General(HealthIncrease): Some(30),
     General(EnergyIncrease): Some(5),
     Sword(TsDamage): Some(3),
-    Sword(TsRegen): Some(2),
+    Sword(TsRegen): Some(3),
     Sword(TsSpeed): Some(3),
     Sword(DCost): Some(2),
     Sword(DDrain): Some(2),
