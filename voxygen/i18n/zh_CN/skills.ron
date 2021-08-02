@@ -11,8 +11,8 @@
         // General
         "hud.skill.inc_health_title": "增强生命",
         "hud.skill.inc_health": "最大生命值提高5{SP}",
-        "hud.skill.inc_stam_title": "增强耐力/法力",
-        "hud.skill.inc_stam": "最大耐力提升5{SP}",
+        "hud.skill.inc_energy_title": "增强耐力/法力",
+        "hud.skill.inc_energy": "最大耐力提升5{SP}",
         "hud.skill.unlck_sword_title": "解锁双手剑专精",
         "hud.skill.unlck_sword": "解锁双手剑技能树{SP}",
         "hud.skill.unlck_axe_title": "解锁双手斧专精",

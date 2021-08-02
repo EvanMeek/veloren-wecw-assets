@@ -11,8 +11,8 @@
         // General
         "hud.skill.inc_health_title": "Increase Health",
         "hud.skill.inc_health": "Increases max health by {boost}{SP}",
-        "hud.skill.inc_stam_title": "Increase Stamina",
-        "hud.skill.inc_stam": "Increases max stamina by {boost}{SP}",
+        "hud.skill.inc_energy_title": "Increase Stamina",
+        "hud.skill.inc_energy": "Increases max stamina by {boost}{SP}",
         "hud.skill.unlck_sword_title": "Unlock Sword",
         "hud.skill.unlck_sword": "Unlocks sword skill tree{SP}",
         "hud.skill.unlck_axe_title": "Unlock Axe",
