@@ -1109,7 +1109,7 @@
         craft_sprite: Some(CraftingBench),
         is_recycling: false,
     ),
-    "rawhide feet": (
+    "rawhide foot": (
         output: ("common.items.armor.hide.rawhide.foot", 1),
         inputs: [
             (Item("common.items.crafting_ing.leather.simple_leather"), 3),
@@ -1173,7 +1173,7 @@
         craft_sprite: Some(CraftingBench),
         is_recycling: false,
     ),
-    "leather feet": (
+    "leather foot": (
         output: ("common.items.armor.hide.leather.foot", 1),
         inputs: [
             (Item("common.items.crafting_ing.leather.thick_leather"), 3),
@@ -1237,7 +1237,7 @@
         craft_sprite: Some(CraftingBench),
         is_recycling: false,
     ),
-    "scale feet": (
+    "scale foot": (
         output: ("common.items.armor.hide.scale.foot", 1),
         inputs: [
             (Item("common.items.crafting_ing.hide.scales"), 3),
@@ -1277,6 +1277,7 @@
     "carapace back": (
         output: ("common.items.armor.hide.carapace.back", 1),
         inputs: [
+            (Item("common.items.armor.hide.scale.back"), 1),
             (Item("common.items.crafting_ing.hide.carapace"), 3),
             (Item("common.items.mineral.ingot.steel"), 1),
             (Item("common.items.crafting_ing.leather.leather_strips"), 2),
@@ -1288,6 +1289,7 @@
     "carapace belt": (
         output: ("common.items.armor.hide.carapace.belt", 1),
         inputs: [
+            (Item("common.items.armor.hide.scale.belt"), 1),
             (Item("common.items.crafting_ing.hide.carapace"), 2),
             (Item("common.items.mineral.ingot.steel"), 1),
             (Item("common.items.crafting_ing.leather.leather_strips"), 2),
@@ -1299,6 +1301,7 @@
     "carapace chest": (
         output: ("common.items.armor.hide.carapace.chest", 1),
         inputs: [
+            (Item("common.items.armor.hide.scale.chest"), 1),
             (Item("common.items.crafting_ing.hide.carapace"), 10),
             (Item("common.items.mineral.ingot.steel"), 2),
             (Item("common.items.crafting_ing.leather.leather_strips"), 4),
@@ -1307,9 +1310,10 @@
         craft_sprite: Some(CraftingBench),
         is_recycling: false,
     ),
-    "carapace feet": (
+    "carapace foot": (
         output: ("common.items.armor.hide.carapace.foot", 1),
         inputs: [
+            (Item("common.items.armor.hide.scale.foot"), 1),
             (Item("common.items.crafting_ing.hide.carapace"), 3),
             (Item("common.items.mineral.ingot.steel"), 1),
             (Item("common.items.crafting_ing.leather.leather_strips"), 2),
@@ -1321,6 +1325,7 @@
     "carapace hands": (
         output: ("common.items.armor.hide.carapace.hand", 1),
         inputs: [
+            (Item("common.items.armor.hide.scale.hands"), 1),
             (Item("common.items.crafting_ing.hide.carapace"), 3),
             (Item("common.items.mineral.ingot.steel"), 1),
             (Item("common.items.crafting_ing.leather.leather_strips"), 2),
@@ -1332,6 +1337,7 @@
     "carapace pants": (
         output: ("common.items.armor.hide.carapace.pants", 1),
         inputs: [
+            (Item("common.items.armor.hide.scale.pants"), 1),
             (Item("common.items.crafting_ing.hide.carapace"), 8),
             (Item("common.items.mineral.ingot.steel"), 1),
             (Item("common.items.crafting_ing.leather.leather_strips"), 4),
@@ -1343,6 +1349,7 @@
     "carapace shoulder": (
         output: ("common.items.armor.hide.carapace.shoulder", 1),
         inputs: [
+            (Item("common.items.armor.hide.scale.shoulder"), 1),
             (Item("common.items.crafting_ing.hide.carapace"), 8),
             (Item("common.items.mineral.ingot.steel"), 1),
             (Item("common.items.crafting_ing.leather.leather_strips"), 6),
@@ -1355,6 +1362,7 @@
     "primal back": (
         output: ("common.items.armor.hide.primal.back", 1),
         inputs: [
+            (Item("common.items.armor.hide.carapace.back"), 1),
             (Item("common.items.crafting_ing.hide.plate"), 3),
             (Item("common.items.crafting_ing.animal_misc.large_horn"), 1),
             (Item("common.items.crafting_ing.cloth.lifecloth"), 1),
@@ -1367,6 +1375,7 @@
     "primal belt": (
         output: ("common.items.armor.hide.primal.belt", 1),
         inputs: [
+            (Item("common.items.armor.hide.carapace.belt"), 1),
             (Item("common.items.crafting_ing.hide.plate"), 2),
             (Item("common.items.crafting_ing.cloth.lifecloth"), 1),
             (Item("common.items.crafting_ing.leather.rigid_leather"), 2),
@@ -1378,6 +1387,7 @@
     "primal chest": (
         output: ("common.items.armor.hide.primal.chest", 1),
         inputs: [
+            (Item("common.items.armor.hide.carapace.chest"), 1),
             (Item("common.items.crafting_ing.hide.plate"), 10),
             (Item("common.items.crafting_ing.animal_misc.large_horn"), 1),
             (Item("common.items.crafting_ing.cloth.lifecloth"), 2),
@@ -1387,9 +1397,10 @@
         craft_sprite: Some(CraftingBench),
         is_recycling: false,
     ),
-    "primal feet": (
+    "primal foot": (
         output: ("common.items.armor.hide.primal.foot", 1),
         inputs: [
+            (Item("common.items.armor.hide.carapace.foot"), 1),
             (Item("common.items.crafting_ing.hide.plate"), 3),
             (Item("common.items.crafting_ing.cloth.lifecloth"), 1),
             (Item("common.items.crafting_ing.leather.rigid_leather"), 2),
@@ -1401,6 +1412,7 @@
     "primal hands": (
         output: ("common.items.armor.hide.primal.hand", 1),
         inputs: [
+            (Item("common.items.armor.hide.carapace.hands"), 1),
             (Item("common.items.crafting_ing.hide.plate"), 3),
             (Item("common.items.crafting_ing.cloth.lifecloth"), 1),
             (Item("common.items.crafting_ing.leather.rigid_leather"), 2),
@@ -1412,6 +1424,7 @@
     "primal pants": (
         output: ("common.items.armor.hide.primal.pants", 1),
         inputs: [
+            (Item("common.items.armor.hide.carapace.pants"), 1),
             (Item("common.items.crafting_ing.hide.plate"), 8),
             (Item("common.items.crafting_ing.animal_misc.large_horn"), 1),
             (Item("common.items.crafting_ing.cloth.lifecloth"), 2),
@@ -1424,6 +1437,7 @@
     "primal shoulder": (
         output: ("common.items.armor.hide.primal.shoulder", 1),
         inputs: [
+            (Item("common.items.armor.hide.carapace.shoulder"), 1),
             (Item("common.items.crafting_ing.hide.plate"), 8),
             (Item("common.items.crafting_ing.animal_misc.large_horn"), 2),
             (Item("common.items.crafting_ing.cloth.lifecloth"), 2),
@@ -1469,7 +1483,7 @@
         craft_sprite: Some(CraftingBench),
         is_recycling: false,
     ),
-    "dragonscale feet": (
+    "dragonscale foot": (
         output: ("common.items.armor.hide.dragonscale.foot", 1),
         inputs: [
             (Item("common.items.armor.hide.primal.foot"), 1),
@@ -1540,7 +1554,7 @@
         craft_sprite: Some(Loom),
         is_recycling: false,
     ),
-    "linen feet": (
+    "linen foot": (
         output: ("common.items.armor.cloth.linen.foot", 1),
         inputs: [
             (Item("common.items.crafting_ing.cloth.linen"), 3),
@@ -1606,7 +1620,7 @@
         craft_sprite: Some(Loom),
         is_recycling: false,
     ),
-    "woolen feet": (
+    "woolen foot": (
         output: ("common.items.armor.cloth.woolen.foot", 1),
         inputs: [
             (Item("common.items.crafting_ing.cloth.wool"), 2),
@@ -1679,7 +1693,7 @@
         craft_sprite: Some(Loom),
         is_recycling: false,
     ),
-    "silken feet": (
+    "silken foot": (
         output: ("common.items.armor.cloth.silken.foot", 1),
         inputs: [
             (Item("common.items.crafting_ing.cloth.silk"), 3),
@@ -1721,6 +1735,7 @@
     "druid back": (
         output: ("common.items.armor.cloth.druid.back", 1),
         inputs: [
+            (Item("common.items.armor.cloth.silken.back"), 1),
             (Item("common.items.crafting_ing.cloth.lifecloth"), 3),
             (Item("common.items.mineral.ore.veloritefrag"), 2),
             (Item("common.items.crafting_tools.sewing_set"), 0),
@@ -1732,6 +1747,7 @@
     "druid belt": (
         output: ("common.items.armor.cloth.druid.belt", 1),
         inputs: [
+            (Item("common.items.armor.cloth.silken.belt"), 1),
             (Item("common.items.crafting_ing.cloth.lifecloth"), 2),
             (Item("common.items.mineral.ore.veloritefrag"), 1),
             (Item("common.items.crafting_tools.sewing_set"), 0),
@@ -1743,6 +1759,7 @@
     "druid chest": (
         output: ("common.items.armor.cloth.druid.chest", 1),
         inputs: [
+            (Item("common.items.armor.cloth.silken.chest"), 1),
             (Item("common.items.crafting_ing.cloth.lifecloth"), 10),
             (Item("common.items.mineral.ore.veloritefrag"), 3),
             (Item("common.items.crafting_tools.sewing_set"), 0),
@@ -1751,9 +1768,10 @@
         craft_sprite: Some(Loom),
         is_recycling: false,
     ),
-    "druid feet": (
+    "druid foot": (
         output: ("common.items.armor.cloth.druid.foot", 1),
         inputs: [
+            (Item("common.items.armor.cloth.silken.foot"), 1),
             (Item("common.items.crafting_ing.cloth.lifecloth"), 3),
             (Item("common.items.mineral.ore.veloritefrag"), 2),
             (Item("common.items.crafting_tools.sewing_set"), 0),
@@ -1765,6 +1783,7 @@
     "druid hands": (
         output: ("common.items.armor.cloth.druid.hand", 1),
         inputs: [
+            (Item("common.items.armor.cloth.silken.hands"), 1),
             (Item("common.items.crafting_ing.cloth.lifecloth"), 3),
             (Item("common.items.mineral.ore.veloritefrag"), 2),
             (Item("common.items.crafting_tools.sewing_set"), 0),
@@ -1776,6 +1795,7 @@
     "druid pants": (
         output: ("common.items.armor.cloth.druid.pants", 1),
         inputs: [
+            (Item("common.items.armor.cloth.silken.pants"), 1),
             (Item("common.items.crafting_ing.cloth.lifecloth"), 8),
             (Item("common.items.mineral.ore.veloritefrag"), 2),
             (Item("common.items.crafting_tools.sewing_set"), 0),
@@ -1787,6 +1807,7 @@
     "druid shoulder": (
         output: ("common.items.armor.cloth.druid.shoulder", 1),
         inputs: [
+            (Item("common.items.armor.cloth.silken.shoulder"), 1),
             (Item("common.items.crafting_ing.cloth.lifecloth"), 8),
             (Item("common.items.mineral.ore.veloritefrag"), 2),
             (Item("common.items.crafting_tools.sewing_set"), 0),
@@ -1799,6 +1820,7 @@
     "moonweave back": (
         output: ("common.items.armor.cloth.moonweave.back", 1),
         inputs: [
+            (Item("common.items.armor.cloth.moonweave.back"), 1),
             (Item("common.items.crafting_ing.cloth.moonweave"), 3),
             (Item("common.items.crafting_ing.hide.leather_troll"), 3),
             (Item("common.items.mineral.ingot.silver"), 1),
@@ -1811,6 +1833,7 @@
     "moonweave belt": (
         output: ("common.items.armor.cloth.moonweave.belt", 1),
         inputs: [
+            (Item("common.items.armor.cloth.moonweave.belt"), 1),
             (Item("common.items.crafting_ing.cloth.moonweave"), 2),
             (Item("common.items.crafting_ing.hide.leather_troll"), 2),
             (Item("common.items.mineral.ingot.cobalt"), 2),
@@ -1822,6 +1845,7 @@
     "moonweave chest": (
         output: ("common.items.armor.cloth.moonweave.chest", 1),
         inputs: [
+            (Item("common.items.armor.cloth.moonweave.chest"), 1),
             (Item("common.items.crafting_ing.cloth.moonweave"), 10),
             (Item("common.items.crafting_ing.hide.leather_troll"), 5),
             (Item("common.items.mineral.ingot.silver"), 1),
@@ -1831,9 +1855,10 @@
         craft_sprite: Some(Loom),
         is_recycling: false,
     ),
-    "moonweave feet": (
+    "moonweave foot": (
         output: ("common.items.armor.cloth.moonweave.foot", 1),
         inputs: [
+            (Item("common.items.armor.cloth.moonweave.foot"), 1),
             (Item("common.items.crafting_ing.cloth.moonweave"), 3),
             (Item("common.items.crafting_ing.hide.leather_troll"), 2),
             (Item("common.items.mineral.ingot.cobalt"), 2),
@@ -1845,6 +1870,7 @@
     "moonweave hands": (
         output: ("common.items.armor.cloth.moonweave.hand", 1),
         inputs: [
+            (Item("common.items.armor.cloth.moonweave.hands"), 1),
             (Item("common.items.crafting_ing.cloth.moonweave"), 3),
             (Item("common.items.crafting_ing.hide.leather_troll"), 2),
             (Item("common.items.mineral.ingot.cobalt"), 2),
@@ -1856,6 +1882,7 @@
     "moonweave pants": (
         output: ("common.items.armor.cloth.moonweave.pants", 1),
         inputs: [
+            (Item("common.items.armor.cloth.moonweave.pants"), 1),
             (Item("common.items.crafting_ing.cloth.moonweave"), 8),
             (Item("common.items.crafting_ing.hide.leather_troll"), 3),
             (Item("common.items.mineral.ingot.cobalt"), 3),
@@ -1867,6 +1894,7 @@
     "moonweave shoulder": (
         output: ("common.items.armor.cloth.moonweave.shoulder", 1),
         inputs: [
+            (Item("common.items.armor.cloth.moonweave.shoulder"), 1),
             (Item("common.items.crafting_ing.cloth.moonweave"), 8),
             (Item("common.items.crafting_ing.hide.leather_troll"), 3),
             (Item("common.items.mineral.ingot.cobalt"), 3),
@@ -1983,7 +2011,7 @@
         craft_sprite: Some(Anvil),
         is_recycling: false,
     ),
-    "bronze feet": (
+    "bronze foot": (
         output: ("common.items.armor.mail.bronze.foot", 1),
         inputs: [
             (Item("common.items.mineral.ingot.bronze"), 3),
@@ -2047,7 +2075,7 @@
         craft_sprite: Some(Anvil),
         is_recycling: false,
     ),
-    "iron feet": (
+    "iron foot": (
         output: ("common.items.armor.mail.iron.foot", 1),
         inputs: [
             (Item("common.items.mineral.ingot.iron"), 3),
@@ -2111,7 +2139,7 @@
         craft_sprite: Some(Anvil),
         is_recycling: false,
     ),
-    "steel feet": (
+    "steel foot": (
         output: ("common.items.armor.mail.steel.foot", 1),
         inputs: [
             (Item("common.items.mineral.ingot.steel"), 3),
@@ -2151,6 +2179,7 @@
     "cobalt back": (
         output: ("common.items.armor.mail.cobalt.back", 1),
         inputs: [
+            (Item("common.items.armor.mail.steel.back"), 1),
             (Item("common.items.mineral.ingot.cobalt"), 3),
             (Item("common.items.crafting_ing.cloth.silk"), 4),
             (Item("common.items.mineral.gem.sapphire"), 2),
@@ -2162,6 +2191,7 @@
     "cobalt belt": (
         output: ("common.items.armor.mail.cobalt.belt", 1),
         inputs: [
+            (Item("common.items.armor.mail.steel.belt"), 1),
             (Item("common.items.mineral.ingot.cobalt"), 2),
             (Item("common.items.crafting_ing.cloth.silk"), 2),
             (Item("common.items.mineral.gem.sapphire"), 1),
@@ -2173,6 +2203,7 @@
     "cobalt chest": (
         output: ("common.items.armor.mail.cobalt.chest", 1),
         inputs: [
+            (Item("common.items.armor.mail.steel.chest"), 1),
             (Item("common.items.mineral.ingot.cobalt"), 10),
             (Item("common.items.crafting_ing.cloth.silk"), 3),
             (Item("common.items.mineral.gem.sapphire"), 3),
@@ -2181,9 +2212,10 @@
         craft_sprite: Some(Anvil),
         is_recycling: false,
     ),
-    "cobalt feet": (
+    "cobalt foot": (
         output: ("common.items.armor.mail.cobalt.foot", 1),
         inputs: [
+            (Item("common.items.armor.mail.steel.foot"), 1),
             (Item("common.items.mineral.ingot.cobalt"), 3),
             (Item("common.items.crafting_ing.cloth.silk"), 3),
             (Item("common.items.lantern.blue_0"), 1),
@@ -2194,6 +2226,7 @@
     "cobalt hands": (
         output: ("common.items.armor.mail.cobalt.hand", 1),
         inputs: [
+            (Item("common.items.armor.mail.steel.hands"), 1),
             (Item("common.items.mineral.ingot.cobalt"), 3),
             (Item("common.items.crafting_ing.cloth.silk"), 3),
             (Item("common.items.lantern.blue_0"), 1),
@@ -2204,6 +2237,7 @@
     "cobalt pants": (
         output: ("common.items.armor.mail.cobalt.pants", 1),
         inputs: [
+            (Item("common.items.armor.mail.steel.pants"), 1),
             (Item("common.items.mineral.ingot.cobalt"), 8),
             (Item("common.items.crafting_ing.cloth.silk"), 3),
             (Item("common.items.mineral.gem.sapphire"), 2),
@@ -2215,6 +2249,7 @@
     "cobalt shoulder": (
         output: ("common.items.armor.mail.cobalt.shoulder", 1),
         inputs: [
+            (Item("common.items.armor.mail.steel.shoulder"), 1),
             (Item("common.items.mineral.ingot.cobalt"), 8),
             (Item("common.items.crafting_ing.cloth.silk"), 3),
             (Item("common.items.mineral.gem.sapphire"), 2),
@@ -2227,6 +2262,7 @@
     "bloodsteel back": (
         output: ("common.items.armor.mail.bloodsteel.back", 1),
         inputs: [
+            (Item("common.items.armor.mail.cobalt.back"), 1),
             (Item("common.items.mineral.ingot.bloodsteel"), 3),
             (Item("common.items.crafting_ing.hide.carapace"), 1),
             (Item("common.items.crafting_ing.cloth.lifecloth"), 3),
@@ -2238,6 +2274,7 @@
     "bloodsteel belt": (
         output: ("common.items.armor.mail.bloodsteel.belt", 1),
         inputs: [
+            (Item("common.items.armor.mail.cobalt.belt"), 1),
             (Item("common.items.mineral.ingot.bloodsteel"), 2),
             (Item("common.items.crafting_ing.hide.carapace"), 2),
         ],
@@ -2247,6 +2284,7 @@
     "bloodsteel chest": (
         output: ("common.items.armor.mail.bloodsteel.chest", 1),
         inputs: [
+            (Item("common.items.armor.mail.cobalt.chest"), 1),
             (Item("common.items.mineral.ingot.bloodsteel"), 10),
             (Item("common.items.crafting_ing.hide.carapace"), 4),
             (Item("common.items.mineral.gem.diamond"), 2),
@@ -2255,9 +2293,10 @@
         craft_sprite: Some(Anvil),
         is_recycling: false,
     ),
-    "bloodsteel feet": (
+    "bloodsteel foot": (
         output: ("common.items.armor.mail.bloodsteel.foot", 1),
         inputs: [
+            (Item("common.items.armor.mail.cobalt.foot"), 1),
             (Item("common.items.mineral.ingot.bloodsteel"), 3),
             (Item("common.items.crafting_ing.hide.carapace"), 2),
         ],
@@ -2267,6 +2306,7 @@
     "bloodsteel hands": (
         output: ("common.items.armor.mail.bloodsteel.hand", 1),
         inputs: [
+            (Item("common.items.armor.mail.cobalt.hands"), 1),
             (Item("common.items.mineral.ingot.bloodsteel"), 3),
             (Item("common.items.crafting_ing.hide.carapace"), 2),
         ],
@@ -2276,6 +2316,7 @@
     "bloodsteel pants": (
         output: ("common.items.armor.mail.bloodsteel.pants", 1),
         inputs: [
+            (Item("common.items.armor.mail.cobalt.pants"), 1),
             (Item("common.items.mineral.ingot.bloodsteel"), 8),
             (Item("common.items.crafting_ing.hide.carapace"), 3),
             (Item("common.items.mineral.gem.ruby"), 2),
@@ -2286,6 +2327,7 @@
     "bloodsteel shoulder": (
         output: ("common.items.armor.mail.bloodsteel.shoulder", 1),
         inputs: [
+            (Item("common.items.armor.mail.cobalt.shoulder"), 1),
             (Item("common.items.mineral.ingot.bloodsteel"), 8),
             (Item("common.items.crafting_ing.hide.carapace"), 4),
             (Item("common.items.mineral.gem.ruby"), 2),
@@ -2331,7 +2373,7 @@
         craft_sprite: Some(Anvil),
         is_recycling: false,
     ),
-    "orichalcum feet": (
+    "orichalcum foot": (
         output: ("common.items.armor.mail.orichalcum.foot", 1),
         inputs: [
             (Item("common.items.armor.mail.bloodsteel.foot"), 1),
