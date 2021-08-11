@@ -48,15 +48,15 @@
         secondary: "common.abilities.axe.spin",
         abilities: [
             (Some(Axe(UnlockLeap)), "common.abilities.axe.leap"),
-            (Some(Axe(UnlockLeap)), "common.abilities.axe.cripplingstrike"),
+            (Some(Axe(UnlockLeap)), "common.abilities.axe.FQ"),
         ],
     ),
     Custom("Axeepic"): (
         primary: "common.abilities.axe.doublestrike",
         secondary: "common.abilities.axe.spin",
         abilities: [
-            (Some(Axe(UnlockLeap)), "common.abilities.axe.leap"),
-            (Some(Axe(UnlockLeap)), "common.abilities.axe.cripplingstrikeex"),
+            (Some(Axe(UnlockLeap)), "common.abilities.axe.leapex"),
+            (Some(Axe(UnlockLeap)), "common.abilities.axe.FQ"),
         ],
     ),
     Custom("greatAxe"): (
@@ -64,7 +64,7 @@
         secondary: "common.abilities.axe.spingreat",
         abilities: [
             (Some(Axe(UnlockLeap)), "common.abilities.axe.leapgreat"),
-            (Some(Axe(UnlockLeap)), "common.abilities.axe.cripplingstrikegreat"),
+            (Some(Axe(UnlockLeap)), "common.abilities.axe.FQ"),
         ],
     ),
     Tool(Hammer): (

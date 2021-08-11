@@ -4,12 +4,12 @@ ItemDef(
     kind: Armor((
         kind: Belt("Bloodsteel"),
         stats: (
-            protection: Normal(10.0),
-            poise_resilience: Normal(2.5),
+            protection: Normal(15.0),
+            poise_resilience: Normal(10.0),
             energy_max: -60,
-            energy_reward: 0.0,
-            crit_power: 0.0,
-            stealth: -1.0,
+            energy_reward: -0.05,
+            crit_power: -0.05,
+            stealth: -5.0,
         ),
     )),
     quality: Epic,

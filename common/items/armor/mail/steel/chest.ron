@@ -4,12 +4,12 @@ ItemDef(
     kind: Armor((
         kind: Chest("Steel"),
         stats: (
-            protection: Normal(36.0),
-            poise_resilience: Normal(9.0),
+            protection: Normal(45.0),
+            poise_resilience: Normal(10.0),
             energy_max: -30,
             energy_reward: -0.25,
-            crit_power: 0.0,
-            stealth: -3.0,
+            crit_power: -0.1,
+            stealth: -5.0,
         ),
     )),
     quality: Moderate,

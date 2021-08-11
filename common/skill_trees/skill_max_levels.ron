@@ -48,7 +48,7 @@
     Bow(SCost): Some(2),
     Bow(SArrows): Some(5),
     Bow(SSpread): Some(8),
-    Staff(BDamage): Some(3),
+    Staff(BDamage): Some(5),
     Staff(BRegen): Some(2),
     Staff(BRadius): Some(3),
     Staff(FRange): Some(2),

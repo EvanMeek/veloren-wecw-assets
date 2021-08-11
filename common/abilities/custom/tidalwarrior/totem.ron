@@ -1,6 +1,6 @@
 BasicSummon(
-    buildup_duration: 0.4,
-    cast_duration: 0.4,
+    buildup_duration: 0.3,
+    cast_duration: 0.3,
     recover_duration: 0.3,
     summon_amount: 1,
     summon_distance: (1, 1),

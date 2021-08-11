@@ -4,12 +4,12 @@ ItemDef(
     kind: Armor((
         kind: Chest("Orichalcum"),
         stats: (
-            protection: Normal(72.0),
-            poise_resilience: Normal(18.0),
+            protection: Normal(90.0),
+            poise_resilience: Normal(20.0),
             energy_max: -70,
-            energy_reward: -0.15,
-            crit_power: 0.0,
-            stealth: 0.0,
+            energy_reward: -0.2,
+            crit_power: -0.1,
+            stealth: -5.0,
         ),
     )),
     quality: Legendary,

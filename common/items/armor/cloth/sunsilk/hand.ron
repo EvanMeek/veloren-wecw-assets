@@ -5,7 +5,7 @@ ItemDef(
         kind: Hand("Sunsilk"),
         stats: (
             protection: Normal(8.0),
-            poise_resilience: Normal(-0.5),
+            poise_resilience: Normal(-1.0),
             energy_max: 100,
             energy_reward: 0.1,
             crit_power: 0.0,
