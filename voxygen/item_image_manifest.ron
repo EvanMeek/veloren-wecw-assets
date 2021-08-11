@@ -156,6 +156,10 @@
         "voxel.armor.warlordG.darkhammerex",
         (1.0, -1.0, 0.0), (-135.0, 90.0, 0.0), 1.1,
     ),
+    Tool("common.items.WECW.holyhammer"): VoxTrans(
+        "voxel.armor.warlordG.holyhammer",
+        (1.0, -1.0, 0.0), (-135.0, 90.0, 0.0), 1.1,
+    ),
     Tool("common.items.WECW.icehammer"): VoxTrans(
         "voxel.armor.warlordG.icehammer",
         (1.0, -1.0, 0.0), (-135.0, 90.0, 0.0), 1.1,

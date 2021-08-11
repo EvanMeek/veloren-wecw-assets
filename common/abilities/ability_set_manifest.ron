@@ -83,6 +83,14 @@
             (Some(Hammer(UnlockLeap)), "common.abilities.hammer.fireshockwave"),
         ],
     ),
+    Custom("holyHammer"): (
+        primary: "common.abilities.hammer.singlestrikeholy",
+        secondary: "common.abilities.hammer.chargedgreat",
+        abilities: [
+            (Some(Hammer(UnlockLeap)), "common.abilities.hammer.leap"),
+            (Some(Hammer(UnlockLeap)), "common.abilities.hammer.holy"),
+        ],
+    ),
     Custom("greatHammer"): (
         primary: "common.abilities.hammer.greatsinglestrike",
         secondary: "common.abilities.hammer.greatcharged",
