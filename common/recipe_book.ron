@@ -193,6 +193,23 @@
         craft_sprite: Some(Anvil),
         is_recycling: false,
     ),
+        "holyhammer": (
+        output: ("common.items.WECW.holyhammer", 1),
+        inputs: [
+            (Item("common.items.weapons.hammer.bloodsteel_axe-0"), 1),
+            (Item("common.items.weapons.hammer.bloodsteel_axe-1"), 1),
+            (Item("common.items.mineral.ingot.gold"), 5),
+            (Item("common.items.mineral.ingot.silver"), 5),
+            (Item("common.items.mineral.ingot.cobalt"), 10),
+            (Item("common.items.crafting_ing.hide.leather_troll"), 15),
+            (Item("common.items.mineral.gem.diamond"), 8),
+            (Item("common.items.crafting_ing.mindflayer_bag_damaged"), 6),
+            (Item("common.items.WECW.coins2"), 200),
+            (Item("common.items.tool.craftsman_hammer"), 0),
+        ],
+        craft_sprite: Some(Anvil),
+        is_recycling: false,
+    ),
     "epicbow": (
         output: ("common.items.weapons.bow.sagitta", 1),
         inputs: [
