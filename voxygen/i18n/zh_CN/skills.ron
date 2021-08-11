@@ -104,7 +104,6 @@
         "hud.skill.st_damage_title" : "伤害提升",
         "hud.skill.st_damage" : "火球造成的伤害提高20%{SP}",
         // Bow
-        // Bow
         "hud.skill.bow_projectile_speed_title" : "神射手",
         "hud.skill.bow_projectile_speed" : "箭矢速度和最大射程提高30%{SP}",
         "hud.skill.bow_repeater_title" : "集中射击",
@@ -231,8 +230,8 @@
         "hud.skill.axe_spin_speed": "旋风斩旋转的速度加快25%{SP}",
         "hud.skill.axe_spin_cost_title": "耐力节省",
         "hud.skill.axe_spin_cost": "每段旋风斩需要消耗的耐力减少25%{SP}",
-        "hud.skill.axe_unlock_leap_title": "飞身一击/致残打击",
-        "hud.skill.axe_unlock_leap": "飞身一击:飞身施展强力一劈\n(初始可用);\n致残打击:猛烈劈砍敌人四肢,让敌人行动力大幅降低并造成大出血\n(初始可用)\n(消耗50MP释放){SP}",
+        "hud.skill.axe_unlock_leap_title": "致残打击/嘲讽",
+        "hud.skill.axe_unlock_leap": "致残打击:猛烈劈砍敌人四肢,让敌人行动力大幅降低并造成大出血\n(初始可用)\n(消耗50MP释放)\n嘲讽:持续嘲讽吸引敌人注意力以掩护队友(瞄准敌人长按施放)\n(初始可用){SP}",
         "hud.skill.axe_leap_damage_title": "伤害提升",
         "hud.skill.axe_leap_damage": "飞身一击造成的伤害提升35%{SP}",
         "hud.skill.axe_leap_knockback_title": "冲击强化",
