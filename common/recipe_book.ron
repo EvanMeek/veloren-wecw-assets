@@ -1325,7 +1325,7 @@
     "carapace hands": (
         output: ("common.items.armor.hide.carapace.hand", 1),
         inputs: [
-            (Item("common.items.armor.hide.scale.hands"), 1),
+            (Item("common.items.armor.hide.scale.hand"), 1),
             (Item("common.items.crafting_ing.hide.carapace"), 3),
             (Item("common.items.mineral.ingot.steel"), 1),
             (Item("common.items.crafting_ing.leather.leather_strips"), 2),
@@ -1412,7 +1412,7 @@
     "primal hands": (
         output: ("common.items.armor.hide.primal.hand", 1),
         inputs: [
-            (Item("common.items.armor.hide.carapace.hands"), 1),
+            (Item("common.items.armor.hide.carapace.hand"), 1),
             (Item("common.items.crafting_ing.hide.plate"), 3),
             (Item("common.items.crafting_ing.cloth.lifecloth"), 1),
             (Item("common.items.crafting_ing.leather.rigid_leather"), 2),
@@ -1783,7 +1783,7 @@
     "druid hands": (
         output: ("common.items.armor.cloth.druid.hand", 1),
         inputs: [
-            (Item("common.items.armor.cloth.silken.hands"), 1),
+            (Item("common.items.armor.cloth.silken.hand"), 1),
             (Item("common.items.crafting_ing.cloth.lifecloth"), 3),
             (Item("common.items.mineral.ore.veloritefrag"), 2),
             (Item("common.items.crafting_tools.sewing_set"), 0),
@@ -1870,7 +1870,7 @@
     "moonweave hands": (
         output: ("common.items.armor.cloth.moonweave.hand", 1),
         inputs: [
-            (Item("common.items.armor.cloth.moonweave.hands"), 1),
+            (Item("common.items.armor.cloth.moonweave.hand"), 1),
             (Item("common.items.crafting_ing.cloth.moonweave"), 3),
             (Item("common.items.crafting_ing.hide.leather_troll"), 2),
             (Item("common.items.mineral.ingot.cobalt"), 2),
@@ -2226,7 +2226,7 @@
     "cobalt hands": (
         output: ("common.items.armor.mail.cobalt.hand", 1),
         inputs: [
-            (Item("common.items.armor.mail.steel.hands"), 1),
+            (Item("common.items.armor.mail.steel.hand"), 1),
             (Item("common.items.mineral.ingot.cobalt"), 3),
             (Item("common.items.crafting_ing.cloth.silk"), 3),
             (Item("common.items.lantern.blue_0"), 1),
@@ -2306,7 +2306,7 @@
     "bloodsteel hands": (
         output: ("common.items.armor.mail.bloodsteel.hand", 1),
         inputs: [
-            (Item("common.items.armor.mail.cobalt.hands"), 1),
+            (Item("common.items.armor.mail.cobalt.hand"), 1),
             (Item("common.items.mineral.ingot.bloodsteel"), 3),
             (Item("common.items.crafting_ing.hide.carapace"), 2),
         ],
