@@ -59,6 +59,14 @@
         vox_spec: ("armor.warlordG.goldsword", (-2.5, -5.5, -6.8)),
         color: None
     ),
+    "common.items.WECW.Sci-fi_shield": (
+        vox_spec: ("weapon.shield.Sci-fi_shield", (-5.0, -5.5, -13.0)),
+        color: None
+    ),
+    "common.items.WECW.gayaberg": (
+        vox_spec: ("armor.warlordG.gayaberg", (-2.5, -4.5, -8.0)),
+        color: None
+    ),
     "common.items.WECW.caladbolgex": (
         vox_spec: ("armor.warlordG.HGX", (-2.5, -5.5, -6.5)),
         color: None

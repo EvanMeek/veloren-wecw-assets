@@ -1,0 +1,25 @@
+//  附带流血流血强度伤害的20%，加强击退附加引力漩涡
+SpinMelee(
+    buildup_duration: 0.05,
+    swing_duration: 0.6,
+    recover_duration: 0.4,
+    base_damage: 170,
+    base_poise_damage: 75,
+    knockback: ( strength: 13.0, direction: Away),
+    range: 5.0,
+    damage_effect: Some(Buff((
+       kind: Bleeding,
+       dur_secs: 10.0,
+       strength: DamageFraction(0.2),
+       chance: 1.0,
+    ))),
+    energy_cost: 150,
+    is_infinite: false,
+    specifier: Some(CultistVortex),
+    movement_behavior: AxeHover,
+    is_interruptible: true,
+    forward_speed: 1.0,
+    num_spins: 3,
+    target: Some(OutOfGroup),
+    damage_kind: Slashing,
+)

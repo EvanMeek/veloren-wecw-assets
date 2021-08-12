@@ -1,0 +1,18 @@
+// 单体嗜血
+BasicAura(
+    buildup_duration: 0.2,
+    cast_duration: 0.4,
+    recover_duration: 0.2,
+    targets: InGroup,
+    aura: (
+        kind: Frenzied,
+        strength: 0.06,
+        duration: Some(180.0),
+        category: Magical,
+    ),
+    aura_duration: 0.0,
+    range: 0.1,
+    energy_cost: 200,
+    scales_with_combo: false,
+    specifier: WardingAura,
+)

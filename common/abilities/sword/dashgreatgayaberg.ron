@@ -1,0 +1,27 @@
+//  冲刺附带灼烧，加强范围
+DashMelee(
+    energy_cost: 100,
+    base_damage: 80,
+    scaled_damage: 160,
+    base_poise_damage: 100,
+    scaled_poise_damage: 10,
+    base_knockback: 6.0,
+    scaled_knockback: 10.0,
+    range: 5.0,
+    angle: 120.0,
+    energy_drain: 300,
+    forward_speed: 2.0,
+    buildup_duration: 0.3,
+    charge_duration: 2.0,
+    swing_duration: 0.1,
+    recover_duration: 0.5,
+    charge_through: true,
+    is_interruptible: true,
+    damage_kind: Piercing,
+    damage_effect: Some(Buff((
+        kind: Burning,
+        dur_secs: 15.0,
+        strength: DamageFraction(1.0),
+        chance: 1.0,
+    ))),
+)

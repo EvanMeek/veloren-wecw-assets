@@ -172,6 +172,14 @@
         "voxel.armor.warlordG.bow",
         (1.0, -1.0, 0.0), (-135.0, 90.0, 0.0), 1.1,
     ),
+    Tool("common.items.WECW.Sci-fi_shield"): VoxTrans(
+    "voxel.weapon.shield.Sci-fi_shield",
+    (0.0, 0.0, 0.0), (-90.0, 90.0, 0.0), 1.0,
+    ),
+    Tool("common.items.WECW.gayaberg"): VoxTrans(
+    "voxel.armor.warlordG.gayaberg",
+    (1.0, -1.0, 0.0), (-135.0, 90.0, 0.0), 1.1,
+    ),
     Tool("common.items.WECW.exbow"): VoxTrans(
         "voxel.armor.warlordG.exbow",
         (1.0, -1.0, 0.0), (-135.0, 90.0, 0.0), 1.1,

@@ -1,0 +1,19 @@
+// 单体血量上限
+BasicAura(
+    buildup_duration: 0.05,
+    cast_duration: 0.6,
+    recover_duration: 0.5,
+    targets: InGroup,
+    aura: (
+        kind: IncreaseMaxHealth,
+        strength: 1500,
+        duration: Some(100.0),
+        category: Magical,
+    ),
+    aura_duration: 1.0,
+    range: 30.0,
+    energy_cost: 750,
+    scales_with_combo: false,
+    // target: Some(OutOfGroup),
+    specifier: WardingAura,
+)

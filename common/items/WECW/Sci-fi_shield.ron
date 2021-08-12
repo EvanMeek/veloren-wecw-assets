@@ -1,0 +1,22 @@
+//  预计左键3连击，右键2个身位的冲锋，1技能血条上限单体，2技能缓慢回血
+ItemDef(
+    name: "科幻大盾",
+    description: "传闻是空间大魔法师Eavan偶然间在异空间漩涡获得的未来产物...",
+    kind: Tool((
+        kind: Shield,
+        hands: One,
+        stats: Direct((
+            equip_time_secs: 0.4,
+            power: 1.0,
+            effect_power: 6.5,
+            speed: 1.0,
+            crit_chance: 0.3,
+            range: 1.0,
+            energy_efficiency: 1.0,
+            buff_strength: 1.0,
+        )),
+    )),
+    quality: Legendary,
+    tags: [],
+    ability_spec: Some(Custom("Sci-fi_shield")),
+)

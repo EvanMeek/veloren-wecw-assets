@@ -22,5 +22,5 @@ DashMelee(
        dur_secs: 60.0,
        strength: Value(10.0),
        chance: 1.0,
-        ))),
+    ))),
 )

@@ -1,0 +1,27 @@
+//  冲刺附打滑
+DashMelee(
+    energy_cost: 45,
+    base_damage: 80,
+    scaled_damage: 160,
+    base_poise_damage: 150,
+    scaled_poise_damage: 60,
+    base_knockback: 20.0,
+    scaled_knockback: 30.0,
+    range: 5.0,
+    angle: 120.0,
+    energy_drain: 200,
+    forward_speed: 2.0,
+    buildup_duration: 0.3,
+    charge_duration: 2.0,
+    swing_duration: 0.1,
+    recover_duration: 0.5,
+    charge_through: true,
+    is_interruptible: true,
+    damage_kind: Piercing,
+    damage_effect: Some(Buff((
+        kind: Wet ,
+        dur_secs: 10.0,
+        strength: DamageFraction(0.1),
+        chance: 0.9,
+    ))),
+)

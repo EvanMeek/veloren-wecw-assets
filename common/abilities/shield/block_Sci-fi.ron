@@ -1,8 +1,8 @@
-//  格挡
+//  格挡-盾墙
 BasicBlock(
     buildup_duration: 0.1,
     recover_duration: 0.1,
-    max_angle: 90.0,
-    block_strength: 0.8,
+    max_angle: 120.0,
+    block_strength: 2.0,
     energy_cost: 0.0,
 )
