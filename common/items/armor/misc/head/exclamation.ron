@@ -1,6 +1,6 @@
 ItemDef(
-    name: "Exclamation hat",
-    description: "You feel like bestowing quests.",
+    name: "感叹的帽子",
+    description: "你想要分配任务.",
     kind: Armor((
         kind: Head("Exclamation"),
         stats: (
