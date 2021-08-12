@@ -1,6 +1,6 @@
 ItemDef(
-    name: "悬浮水晶",
-    description: "悬浮的水晶,看起来充满了攻击性.",
+    name: "阿布霍斯 · 噬魂",
+    description: "吸收亡者灵魂与罪恶的魔具庇护宿主与黑暗之中并提供源源不断的力量.",
     kind: Armor((
         kind: Head("Suspension_crystal"),
         stats: (
