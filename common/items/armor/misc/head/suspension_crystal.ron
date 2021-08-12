@@ -1,0 +1,18 @@
+ItemDef(
+    name: "悬浮水晶",
+    description: "悬浮的水晶,看起来充满了攻击性.",
+    kind: Armor((
+        kind: Head("Suspension_crystal"),
+        stats: (
+            protection: Normal(40.0),
+            poise_resilience: Normal(15.0),
+            energy_max: 100,
+            energy_reward: 0.5,
+            crit_power: 0.2,
+            stealth: 10.0,
+        ),
+    )),
+    quality: Artifact,
+    tags: [Bag],
+    slots: 20,
+)

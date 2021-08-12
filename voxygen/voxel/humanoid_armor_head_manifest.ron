@@ -20,6 +20,10 @@
             vox_spec: ("armor.misc.head.exclamation", (-11.0, -12.0, 18.0)),
             color: None
         ),
+        (Orc, "Suspension_crystal"): (
+            vox_spec: ("armor.misc.head.suspension_crystal", (-11.0, -25.0, -10.0)),
+            color: None
+        ),
         (Undead, "Exclamation"): (
             vox_spec: ("armor.misc.head.exclamation", (-14.0, -11.0, 18.0)),
             color: None

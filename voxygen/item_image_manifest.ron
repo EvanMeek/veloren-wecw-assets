@@ -2465,9 +2465,13 @@
         "voxel.armor.misc.head.assa_mask-0",
         (0.0, 0.0, 0.0), (-90.0, 180.0, 0.0), 1.0,
     ),
-        Armor(Head("Exclamation")): VoxTrans(
+    Armor(Head("Exclamation")): VoxTrans(
         "voxel.armor.misc.head.exclamation",
         (0.0, 15.0, 0.0), (-75.0, 135.0, 0.0), 3.0,
+    ),
+    Armor(Head("Suspension_crystal")): VoxTrans(
+        "voxel.armor.misc.head.suspension_crystal",
+        (0.0, 6.0, 0.0), (-90.0, 0.0, 0.0), 1.5,
     ),
 
     // Bags
