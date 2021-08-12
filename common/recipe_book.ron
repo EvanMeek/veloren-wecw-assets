@@ -1838,7 +1838,7 @@
     "moonweave back": (
         output: ("common.items.armor.cloth.moonweave.back", 1),
         inputs: [
-            (Item("common.items.armor.cloth.moonweave.back"), 1),
+            (Item("common.items.armor.cloth.druid.back"), 1),
             (Item("common.items.crafting_ing.cloth.moonweave"), 3),
             (Item("common.items.crafting_ing.hide.leather_troll"), 3),
             (Item("common.items.mineral.ingot.silver"), 1),
@@ -1851,7 +1851,7 @@
     "moonweave belt": (
         output: ("common.items.armor.cloth.moonweave.belt", 1),
         inputs: [
-            (Item("common.items.armor.cloth.moonweave.belt"), 1),
+            (Item("common.items.armor.cloth.druid.belt"), 1),
             (Item("common.items.crafting_ing.cloth.moonweave"), 2),
             (Item("common.items.crafting_ing.hide.leather_troll"), 2),
             (Item("common.items.mineral.ingot.cobalt"), 2),
@@ -1863,7 +1863,7 @@
     "moonweave chest": (
         output: ("common.items.armor.cloth.moonweave.chest", 1),
         inputs: [
-            (Item("common.items.armor.cloth.moonweave.chest"), 1),
+            (Item("common.items.armor.cloth.druid.chest"), 1),
             (Item("common.items.crafting_ing.cloth.moonweave"), 10),
             (Item("common.items.crafting_ing.hide.leather_troll"), 5),
             (Item("common.items.mineral.ingot.silver"), 1),
@@ -1876,7 +1876,7 @@
     "moonweave foot": (
         output: ("common.items.armor.cloth.moonweave.foot", 1),
         inputs: [
-            (Item("common.items.armor.cloth.moonweave.foot"), 1),
+            (Item("common.items.armor.cloth.druid.foot"), 1),
             (Item("common.items.crafting_ing.cloth.moonweave"), 3),
             (Item("common.items.crafting_ing.hide.leather_troll"), 2),
             (Item("common.items.mineral.ingot.cobalt"), 2),
@@ -1888,7 +1888,7 @@
     "moonweave hands": (
         output: ("common.items.armor.cloth.moonweave.hand", 1),
         inputs: [
-            (Item("common.items.armor.cloth.moonweave.hand"), 1),
+            (Item("common.items.armor.cloth.druid.hand"), 1),
             (Item("common.items.crafting_ing.cloth.moonweave"), 3),
             (Item("common.items.crafting_ing.hide.leather_troll"), 2),
             (Item("common.items.mineral.ingot.cobalt"), 2),
@@ -1900,7 +1900,7 @@
     "moonweave pants": (
         output: ("common.items.armor.cloth.moonweave.pants", 1),
         inputs: [
-            (Item("common.items.armor.cloth.moonweave.pants"), 1),
+            (Item("common.items.armor.cloth.druid.pants"), 1),
             (Item("common.items.crafting_ing.cloth.moonweave"), 8),
             (Item("common.items.crafting_ing.hide.leather_troll"), 3),
             (Item("common.items.mineral.ingot.cobalt"), 3),
@@ -1912,7 +1912,7 @@
     "moonweave shoulder": (
         output: ("common.items.armor.cloth.moonweave.shoulder", 1),
         inputs: [
-            (Item("common.items.armor.cloth.moonweave.shoulder"), 1),
+            (Item("common.items.armor.cloth.druid.shoulder"), 1),
             (Item("common.items.crafting_ing.cloth.moonweave"), 8),
             (Item("common.items.crafting_ing.hide.leather_troll"), 3),
             (Item("common.items.mineral.ingot.cobalt"), 3),
