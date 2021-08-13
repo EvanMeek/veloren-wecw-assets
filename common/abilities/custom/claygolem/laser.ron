@@ -3,9 +3,9 @@ BasicBeam(
     recover_duration: 0.4,
     beam_duration: 0.25,
     damage: 70,
-    tick_rate: 2.0,
+    tick_rate: 4.0,
     range: 40.0,
-    max_angle: 1.0,
+    max_angle: 5.0,
     damage_effect: Some(Buff((
         kind: Burning,
         dur_secs: 5.0,
