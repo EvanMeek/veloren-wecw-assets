@@ -257,6 +257,25 @@
         craft_sprite: Some(Anvil),
         is_recycling: false,
     ),
+    "gayabergSword": (
+        output: ("common.items.WECW.gayaberg", 1),
+        inputs: [
+            (Item("common.items.WECW.mind"), 1),
+            (Item("common.items.WECW.caladbolgex"), 1),
+            (Item("common.items.WECW.icehammer"), 1),
+            (Item("common.items.WECW.darkaxe"), 2),
+            (Item("common.items.crafting_ing.hide.dragon_scale"), 50),
+            (Item("common.items.crafting_ing.mindflayer_bag_damaged"), 200),
+            (Item("common.items.mineral.ingot.orichalcum"), 100),
+            (Item("common.items.crafting_ing.cloth.sunsilk"), 100),
+            (Item("common.items.mineral.gem.diamond"), 500),
+            (Item("common.items.crafting_ing.animal_misc.grim_eyeball"), 200),
+            (Item("common.items.WECW.coins3"), 100),
+            (Item("common.items.tool.craftsman_hammer"), 0),
+        ],
+        craft_sprite: Some(Anvil),
+        is_recycling: false,
+    ),
     "lanternb": (
         output: ("common.items.lantern.black_0", 1),
         inputs: [

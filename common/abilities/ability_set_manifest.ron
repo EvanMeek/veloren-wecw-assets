@@ -67,24 +67,24 @@
             (Some(Axe(UnlockLeap)), "common.abilities.axe.FQ"),
         ],
     ),
-// 科幻大盾
-Custom("Sci-fi_shield"): (
-primary: "common.abilities.sword.triplestrikegayaberg",
-// 格挡
-secondary: "common.abilities.shield.block_Sci-fi",
-abilities: [
-// 冲锋
-(None, "common.abilities.shield.dashgreatSci-fi_shield"),
-//  血量上限
-(None, "common.abilities.shield.wardingauraexhpSci-fi_shield"),
-//冰冻冲击波
-// (None, "common.abilities.shield.iceshockSci-fi_shield"),
-//  单体守护
-// (None, "common.abilities.shield.wardingauraepicSci-fi_shield"),
-// 再生
-// (None, "common.abilities.shield.healingauraSci-fi_shield"),
-],
-),
+    // 科幻大盾
+    Custom("Sci-fi_shield"): (
+    primary: "common.abilities.sword.triplestrikegayaberg",
+    // 格挡
+    secondary: "common.abilities.shield.block_Sci-fi",
+    abilities: [
+    // 冲锋
+    (None, "common.abilities.shield.dashgreatSci-fi_shield"),
+    //  血量上限
+    (None, "common.abilities.shield.wardingauraexhpSci-fi_shield"),
+    //冰冻冲击波
+    // (None, "common.abilities.shield.iceshockSci-fi_shield"),
+    //  单体守护
+    // (None, "common.abilities.shield.wardingauraepicSci-fi_shield"),
+    // 再生
+    // (None, "common.abilities.shield.healingauraSci-fi_shield"),
+    ],
+    ),
     //  阿撒托斯 · 混沌
     Custom("gayabergSword"): (
     primary: "common.abilities.sword.triplestrikegayaberg",
