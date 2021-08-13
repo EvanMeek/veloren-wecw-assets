@@ -902,7 +902,7 @@
         inputs: [
             (Item("common.items.crafting_ing.animal_misc.lively_vine"), 1),
             (Item("common.items.crafting_ing.cloth.cotton"), 1),
-            (Item("common.items.WECW.coins2"), 50),
+            (Item("common.items.WECW.coins2"), 30),
         ],
         craft_sprite: Some(SpinningWheel),
         is_recycling: false,
