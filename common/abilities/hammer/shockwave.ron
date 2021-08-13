@@ -9,7 +9,7 @@ Shockwave(
     shockwave_angle: 60.0,
     shockwave_vertical_angle: 90.0,
     shockwave_speed: 30.0,
-    shockwave_duration: 0.6,
+    shockwave_duration: 0.7,
     requires_ground: true,
     move_efficiency: 0.3,
     damage_kind: Crushing,

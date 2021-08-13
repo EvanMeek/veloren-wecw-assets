@@ -1,7 +1,7 @@
 BasicSummon(
-    buildup_duration: 0.3,
-    cast_duration: 0.3,
-    recover_duration: 0.3,
+    buildup_duration: 0.2,
+    cast_duration: 0.2,
+    recover_duration: 0.2,
     summon_amount: 2,
     summon_distance: (3, 3),
     summon_info: (
@@ -15,7 +15,7 @@ BasicSummon(
         skillset_config: None,
     ),
     duration: Some((
-              secs: 90,
+              secs: 120,
               nanos: 0,
                   )),
 )

@@ -4,8 +4,8 @@ ItemDef(
     kind: Armor((
         kind: Chest("Clay Golem"),
         stats: (
-            protection: Normal(750.0),
-            poise_resilience: Normal(300.0),
+            protection: Normal(1000.0),
+            poise_resilience: Normal(500.0),
             energy_max: 0,
             energy_reward: 0.0,
             crit_power: 0.2,
