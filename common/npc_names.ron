@@ -984,13 +984,17 @@
         body: (
             keyword: "dragon",
             names_0: [
-                "Smaug"
+                "潘多拉 · 贡",
             ]
         ),
         species: (
             reddragon: (
                 keyword: "reddragon",
                 generic: "Red Dragon"
+            ),
+            sky_dragon: (
+                keyword: "sky_dragon",
+                generic: "SKY Dragon"
             )
         )
     ),

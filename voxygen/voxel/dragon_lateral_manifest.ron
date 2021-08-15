@@ -67,4 +67,72 @@
             lateral: ("npc.reddragon.male.foot_br"),
         )
     ),
+    (SkyDragon, Male): (
+        wing_in_l: (
+        offset: (-20.0, -7.0, -2.0),
+        lateral: ("npc.reddragon.male1.wing_in_l"),
+        ),
+        wing_in_r: (
+        offset: (3.0, -8.0, -3.0),
+        lateral: ("npc.reddragon.male1.wing_in_r"),
+        ),
+        wing_out_l: (
+        offset: (-39.0, -5.0, -5.0),
+        lateral: ("npc.reddragon.male1.wing_out_l"),
+        ),
+        wing_out_r: (
+        offset: (2.0, -5.0, -6.0),
+        lateral: ("npc.reddragon.male1.wing_out_r"),
+        ),
+        foot_fl: (
+        offset: (-1.5, -3.0, 2.0),
+        lateral: ("npc.reddragon.male1.foot_fl"),
+        ),
+        foot_fr: (
+        offset: (-2.5, -3.0, 2.0),
+        lateral: ("npc.reddragon.male1.foot_fr"),
+        ),
+        foot_bl: (
+        offset: (-1.5, -7.0, -3.0),
+        lateral: ("npc.reddragon.male1.foot_bl"),
+        ),
+        foot_br: (
+        offset: (-2.5, -7.0, -3.0),
+        lateral: ("npc.reddragon.male1.foot_br"),
+        )
+    ),
+    (SkyDragon, Female): (
+        wing_in_l: (
+            offset: (-20.0, -7.0, -2.0),
+            lateral: ("npc.reddragon.male1.wing_in_l"),
+        ),
+        wing_in_r: (
+            offset: (3.0, -8.0, -3.0),
+            lateral: ("npc.reddragon.male1.wing_in_r"),
+        ),
+        wing_out_l: (
+            offset: (-39.0, -5.0, -5.0),
+            lateral: ("npc.reddragon.male1.wing_out_l"),
+        ),
+        wing_out_r: (
+            offset: (2.0, -5.0, -6.0),
+            lateral: ("npc.reddragon.male1.wing_out_r"),
+        ),
+        foot_fl: (
+            offset: (-1.5, -3.0, 2.0),
+            lateral: ("npc.reddragon.male1.foot_fl"),
+        ),
+        foot_fr: (
+            offset: (-2.5, -3.0, 2.0),
+            lateral: ("npc.reddragon.male1.foot_fr"),
+        ),
+        foot_bl: (
+            offset: (-1.5, -7.0, -3.0),
+            lateral: ("npc.reddragon.male1.foot_bl"),
+        ),
+        foot_br: (
+            offset: (-2.5, -7.0, -3.0),
+            lateral: ("npc.reddragon.male1.foot_br"),
+        )
+    ),
 })

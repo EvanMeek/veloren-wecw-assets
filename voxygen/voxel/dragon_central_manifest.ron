@@ -59,4 +59,64 @@
             central: ("npc.reddragon.male.tail_rear"),
         )
     ),
+    (SkyDragon, Male): (
+        upper: (
+        offset: (-7.5, -5.5, -13.0),
+        central: ("npc.reddragon.male1.head_upper"),
+        ),
+        lower: (
+        offset: (-2.5, -4.5, -9.0),
+        central: ("npc.reddragon.male1.head_lower"),
+        ),
+        jaw: (
+        offset: (-1.5, -3.0, -8.5),
+        central: ("npc.reddragon.male1.jaw"),
+        ),
+        chest_front: (
+        offset: (-6.5, -10.0, -7.0),
+        central: ("npc.reddragon.male1.chest_front"),
+        ),
+        chest_rear: (
+        offset: (-6.5, -5.5, -8.0),
+        central: ("npc.reddragon.male1.chest_rear"),
+        ),
+        tail_front: (
+        offset: (-5.5, -9.5, -8.0),
+        central: ("npc.reddragon.male1.tail_rear"),
+        ),
+        tail_rear: (
+        offset: (-7.5, -24.0, -7.5),
+        central: ("npc.reddragon.male1.tail_front"),
+        )
+    ),
+    (SkyDragon, Female): (
+        upper: (
+            offset: (-7.5, -5.5, -13.0),
+            central: ("npc.reddragon.male1.head_upper"),
+        ),
+        lower: (
+            offset: (-2.5, -4.5, -9.0),
+            central: ("npc.reddragon.male1.head_lower"),
+        ),
+        jaw: (
+            offset: (-1.5, -3.0, -8.5),
+            central: ("npc.reddragon.male1.jaw"),
+        ),
+        chest_front: (
+            offset: (-6.5, -10.0, -7.0),
+            central: ("npc.reddragon.male1.chest_front"),
+        ),
+        chest_rear: (
+            offset: (-6.5, -5.5, -8.0),
+            central: ("npc.reddragon.male1.chest_rear"),
+        ),
+        tail_front: (
+            offset: (-5.5, -9.5, -8.0),
+            central: ("npc.reddragon.male1.tail_rear"),
+        ),
+        tail_rear: (
+            offset: (-7.5, -24.0, -7.5),
+            central: ("npc.reddragon.male1.tail_front"),
+        )
+    ),
 })
