@@ -17,6 +17,7 @@ DashMelee(
     recover_duration: 0.5,
     charge_through: true,
     is_interruptible: true,
+    ori_modifier: 1.0,
     damage_kind: Piercing,
     damage_effect: Some(Buff((
         kind: Wet ,

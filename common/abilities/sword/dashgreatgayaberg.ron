@@ -18,6 +18,7 @@ DashMelee(
     charge_through: true,
     is_interruptible: true,
     damage_kind: Piercing,
+    ori_modifier: 1.0,
     damage_effect: Some(Buff((
         kind: Burning,
         dur_secs: 15.0,
