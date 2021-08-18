@@ -2,6 +2,7 @@ DashMelee(
     energy_cost: 0,
     base_damage: 75,
     scaled_damage: 20,
+    ori_modifier: 1.0,
     base_poise_damage: 28,
     scaled_poise_damage: 28,
     base_knockback: 3.0,
