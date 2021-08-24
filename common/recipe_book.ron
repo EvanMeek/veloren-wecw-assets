@@ -247,11 +247,11 @@
         inputs: [
             (Item("common.items.WECW.stormgreatsword"), 1),
             (Item("common.items.crafting_ing.hide.dragon_scale"), 5),
-            (Item("common.items.crafting_ing.mindflayer_bag_damaged"), 10),
+            (Item("common.items.crafting_ing.mindflayer_bag_damaged"), 15),
             (Item("common.items.mineral.ingot.orichalcum"), 5),
             (Item("common.items.crafting_ing.cloth.sunsilk"), 5),
             (Item("common.items.mineral.gem.diamond"), 50),
-            (Item("common.items.WECW.coins3"), 10),
+            (Item("common.items.WECW.coins3"), 5),
             (Item("common.items.tool.craftsman_hammer"), 0),
         ],
         craft_sprite: Some(Anvil),
