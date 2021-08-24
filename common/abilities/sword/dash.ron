@@ -13,7 +13,6 @@ DashMelee(
     forward_speed: 3.0,
     buildup_duration: 0.25,
     charge_duration: 1.2,
-    ori_modifier: 1.0,
     swing_duration: 0.1,
     recover_duration: 0.5,
     charge_through: true,

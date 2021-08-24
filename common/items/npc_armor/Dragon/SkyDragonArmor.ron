@@ -1,0 +1,17 @@
+ItemDef(
+    name: "Clay Golem Armor",
+    description: "Worn by clay golem.",
+    kind: Armor((
+        kind: Chest("Clay Golem"),
+        stats: (
+            protection: Normal(1250.0),
+            poise_resilience: Normal(10000.0),
+            energy_max: 3000,
+            energy_reward: 50.0,
+            crit_power: 0.5,
+            stealth: 20.0,
+        ),
+    )),
+    quality: Legendary,
+    tags: [],
+)
