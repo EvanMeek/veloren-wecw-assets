@@ -1,12 +1,11 @@
 [
-    (0.01, Item("common.items.WECW.bow")),
     (0.05, Item("common.items.weapons.staff.phoenix")),
     (0.03, Item("common.items.weapons.staff.laevateinn")),
     (0.01, Item("common.items.WECW.mind")),
     (0.01, Item("common.items.WECW.darksteel")),
     (0.01, Item("common.items.WECW.neck.epicneck")),
     (0.01, Item("common.items.WECW.ring.skullg")),
-    (0.5, Item("common.items.crafting_ing.hide.dragon_scale")),
+    (0.75, Item("common.items.crafting_ing.hide.dragon_scale")),
     (1.0, Item("common.items.crafting_ing.mindflayer_bag_damaged")),
     (0.1, Item("common.items.boss_drops.lantern")),
     (0.1, Item("common.items.glider.glider_purp")),
