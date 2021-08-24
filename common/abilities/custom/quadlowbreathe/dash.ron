@@ -3,6 +3,7 @@ DashMelee(
     base_damage: 80,
     scaled_damage: 150,
     base_poise_damage: 25,
+    ori_modifier: 1.0,
     scaled_poise_damage: 0,
     base_knockback: 4.0,
     scaled_knockback: 17.0,
