@@ -119,21 +119,21 @@
     ),
     // 龙武器
     Custom("SkyDragon"): (
-        // primary: "common.abilities.hammer.firesinglestrike",
-        primary: "common.abilities.sword.triplestrikegreat",
+        primary: "common.abilities.sword.triplestrikegreat", // 连击
         secondary: "common.abilities.staff.flamethrowerg", // 喷火
         abilities: [
-            (None, "common.abilities.hammer.darkleap"), // 扇形火环
-            (None, "common.abilities.hammer.fireshockwave"), // 火环
+            (None, "common.abilities.sword.dashgreatgayaberg"), // 火焰冲锋
+            (None, "common.abilities.staff.iceshockgayaberg"), // 冰冻冲击波
+            (None, "common.abilities.custom.minotaur.frenzy"), // 疯狂
         ],
     ),
-    Custom("greatSword"): (
+    Custom("RedDragon"): (
         primary: "common.abilities.sword.triplestrikegreat",
         secondary: "common.abilities.staff.flamethrowerg", // 喷火
-        // secondary: "common.abilities.sword.dashgreat", // 突刺
         abilities: [
             (None, "common.abilities.sword.spingreat"),// 连斩
             (None, "common.abilities.staff.fireshockwaveg"), // 火环
+            (None, "common.abilities.custom.minotaur.frenzy"), // 疯狂
         ],
     ),
 
