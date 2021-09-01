@@ -1,0 +1,21 @@
+// 火焰吐息
+BasicBeam(
+    buildup_duration: 0.01,
+    recover_duration: 0.25,
+    beam_duration: 1.0,
+    damage: 100,
+    tick_rate: 6.0,
+    range: 30.0,
+    max_angle: 30.0,
+    damage_effect: Some(Buff((
+        kind: Burning,
+        dur_secs: 10.0,
+        strength: DamageFraction(0.4),
+        chance: 1.0,
+    ))),
+    energy_regen: 10,
+    energy_drain: 100,
+    orientation_behavior: FromOri,
+    ori_rate: 0.6,
+    specifier: Frost,
+)

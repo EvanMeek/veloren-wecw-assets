@@ -1,6 +1,6 @@
 ItemDef(
     name: "红龙 魔核",
-    description: "很重很重的一把大剑,似乎不属于这个世界，也许来自CubeWorld？\n特效（巨型武器）：攻击距离提升，更容易击晕敌人！",
+    description: "烈火之主的魔力核心.",
     kind: Tool((
         kind: Natural,
         hands: Two,

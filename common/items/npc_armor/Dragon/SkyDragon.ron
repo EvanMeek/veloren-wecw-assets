@@ -1,6 +1,6 @@
 ItemDef(
     name: "天空龙 魔核",
-    description: "这把战锤在黑暗祭坛用失落的技艺配合龙火锻造出.\n特效（灰烬）：将你的敌人烧成灰！",
+    description: "天空霸主的魔力核心.",
     kind: Tool((
         kind: Natural,
         hands: Two,
@@ -9,7 +9,7 @@ ItemDef(
             power: 3.0,
             effect_power: 3.0,
             speed: 0.8,
-            crit_chance: 0.5,
+            crit_chance: 0.6,
             range: 3.0,
             energy_efficiency: 1.0,
             buff_strength: 1.0,

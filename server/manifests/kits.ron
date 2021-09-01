@@ -8,6 +8,22 @@
         //  灯
         ("common.items.lantern.geode_purp",1),
     ],
+    "hgx": [
+        ("common.items.debug.admin_black_hole",1),
+        ("common.items.debug.admin_stick",1),
+        ("common.items.debug.admin_sword",1),
+        ("common.items.debug.velorite_bow_debug", 1),
+        ("common.items.debug.admin",1),
+        //  灯
+        ("common.items.lantern.geode_purp",1),
+        ("common.items.WECW.gayaberg",2),
+        ("common.items.WECW.Sci-fi_shield",2),
+        ("common.items.armor.misc.head.suspension_crystal",1),
+        ("common.items.WECW.darkhammerex",1),
+        ("common.items.WECW.exbow",1),
+        ("common.items.WECW.mindflayer",1),
+        ("common.items.WECW.mind",1),
+    ],
     //  邪教甲改
     "warlord": [
         ("common.items.WECW.warlord.back",1),

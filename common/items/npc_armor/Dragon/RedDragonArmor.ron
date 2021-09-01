@@ -1,6 +1,6 @@
 ItemDef(
-    name: "Mindflayer Armor",
-    description: "Worn by mindflayer.",
+    name: "烈焰龙鳞",
+    description: "红龙的鳞甲.",
     kind: Armor((
         kind: Chest("Mindflayer"),
         stats: (
@@ -9,7 +9,7 @@ ItemDef(
             energy_max: 2000,
             energy_reward: 30.0,
             crit_power: 0.2,
-            stealth: 20.0,
+            stealth: 10.0,
         ),
     )),
     quality: Legendary,

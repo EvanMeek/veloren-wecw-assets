@@ -119,12 +119,13 @@
     ),
     // 龙武器
     Custom("SkyDragon"): (
-        primary: "common.abilities.sword.triplestrikegreat", // 连击
-        secondary: "common.abilities.staff.flamethrowerg", // 喷火
+        primary: "common.abilities.Dragon.triplestrikeSKY", // 连击
+        secondary: "common.abilities.Dragon.jetFlameSKY", // 喷火
         abilities: [
-            (None, "common.abilities.sword.dashgreatgayaberg"), // 火焰冲锋
-            (None, "common.abilities.staff.iceshockgayaberg"), // 冰冻冲击波
-            (None, "common.abilities.custom.minotaur.frenzy"), // 疯狂
+            (None, "common.abilities.Dragon.dashgreatSKY"), // 火焰冲锋
+            (None, "common.abilities.Dragon.iceshockSKY"), // 冰冻冲击波
+            // (None, "common.abilities.Dragon.summSKY"), // 召唤龙卷风
+            (None, "common.abilities.Dragon.frenzySKY"), // 疯狂
         ],
     ),
     Custom("RedDragon"): (
