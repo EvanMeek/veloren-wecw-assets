@@ -1,6 +1,6 @@
 ItemDef(
     name: "凤凰之杖",
-    description: "灰烬永远不会停止发光.\n特效（凤凰之焰）：烈焰花环技能得到强化.",
+    description: "灰烬永远不会停止发光.\n特效（凤凰之焰）：烈焰花环技能得到强化|火焰弹伤害UP|攻速DOWN|攻击范围DOWN",
     kind: Tool((
         kind: Staff,
         hands: Two,

@@ -1,7 +1,7 @@
 DashMelee(
     energy_cost: 0,
-    base_damage: 80,
-    scaled_damage: 150,
+    base_damage: 8.0,
+    scaled_damage: 15.0,
     base_poise_damage: 50,
     scaled_poise_damage: 100,
     base_knockback: 6.0,
@@ -14,6 +14,7 @@ DashMelee(
     charge_duration: 3.0,
     swing_duration: 0.1,
     recover_duration: 0.7,
+    ori_modifier: 1.0,
     charge_through: false,
     is_interruptible: false,
     damage_kind: Crushing,

@@ -112,6 +112,14 @@
           vox_spec: ("armor.savage.foot", (-2.5, -3.5, -2.0)),
           color: None
         ),
+        "Witch": (
+          vox_spec: ("armor.witch.foot", (-2.5, -3.5, -2.0)),
+          color: None
+        ),
+        "Pirate": (
+          vox_spec: ("armor.pirate.foot", (-2.5, -3.5, -2.0)),
+          color: None
+        ),
         "Linen": (
           vox_spec: ("armor.cloth.linen.foot", (-2.5, -3.5, -2.0)),
           color: None

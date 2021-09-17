@@ -112,6 +112,14 @@
             vox_spec: ("armor.savage.belt", (-4.0, -4.0, 1.0)),
             color: None
         ),
+        "Witch":(
+            vox_spec: ("armor.witch.belt", (-4.0, -3.5, -2.0)),
+            color: None
+        ),
+        "Pirate":(
+            vox_spec: ("armor.pirate.belt", (-4.0, -4.0, 2.5)),
+            color: None
+        ),
         "Linen":(
             vox_spec: ("armor.cloth.linen.belt", (-4.0, -4.0, 0.0)),
             color: None

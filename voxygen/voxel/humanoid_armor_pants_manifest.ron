@@ -140,6 +140,14 @@
             vox_spec: ("armor.savage.pants", (-5.0, -4.0, 0.5)),
             color: None
         ),
+        "Witch": (
+            vox_spec: ("armor.witch.pants", (-5.0, -4.0, 0.5)),
+            color: None
+        ),
+        "Pirate": (
+            vox_spec: ("armor.pirate.pants", (-5.0, -4.0, 1.5)),
+            color: None
+        ),
         "Linen": (
             vox_spec: ("armor.cloth.linen.pants", (-5.0, -4.0, 0.5)),
             color: None

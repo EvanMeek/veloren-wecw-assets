@@ -3,7 +3,7 @@ BasicMelee(
     buildup_duration: 0.5,
     swing_duration: 0.1,
     recover_duration: 0.4,
-    base_damage: 150,
+    base_damage: 15,
     base_poise_damage: 0.04,
     knockback: ( strength: 20.0, direction: Away),
     range: 6.0,

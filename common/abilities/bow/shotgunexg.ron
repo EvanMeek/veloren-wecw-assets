@@ -4,11 +4,11 @@ BasicRanged(
     recover_duration: 0.5,
     projectile_spread: 0.05,
     projectile: Frostball(
-        damage: 80.0,
+        damage: 10.0,
         radius: 6.0,
     ),
     projectile_body: Object(Arrow),
     projectile_light: None,
     projectile_speed: 80.0,
-    num_projectiles: 4,
+    num_projectiles: 8,
 )

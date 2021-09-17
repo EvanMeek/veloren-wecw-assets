@@ -21,15 +21,15 @@
         "hud.chat.fall_kill_msg": "[{name}]因摔落伤害而死亡",
         "hud.chat.suicide_msg": "[{name}]因自伤而死亡",
 
-        "hud.chat.died_of_pvp_buff_msg": "[{victim}] 死于 [{attacker}]的{died_of_buff}]",
+        "hud.chat.pvp_buff_kill_msg": "[{victim}]死于{attacker}的{buff}",
         "hud.chat.pvp_melee_kill_msg": "[{attacker}]击败了[{victim}]",
         "hud.chat.pvp_ranged_kill_msg": "[{attacker}]射杀了[{victim}]",
         "hud.chat.pvp_explosion_kill_msg": "[{attacker}]炸死了[{victim}]",
         "hud.chat.pvp_energy_kill_msg": "[{attacker}]用魔法击杀了[{victim}]",
 
-        "hud.chat.died_of_buff_nonexistent_msg": "[{victim}]死于{died_of_buff}",
+        "hud.chat.nonexistent_buff_kill_msg": "[{victim}]死于{buff}",
 
-        "hud.chat.died_of_npc_buff_msg": "[{victim}]死于{attacker}的{died_of_buff}",
+        "hud.chat.npc_buff_kill_msg": "[{victim}]死于{attacker}的{buff}",
         "hud.chat.npc_melee_kill_msg": "{attacker}击杀了[{victim}]",
         "hud.chat.npc_ranged_kill_msg": "{attacker}射杀了[{victim}]",
         "hud.chat.npc_explosion_kill_msg": "{attacker}炸死了[{victim}]",

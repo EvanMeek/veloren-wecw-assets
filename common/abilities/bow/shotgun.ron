@@ -4,7 +4,7 @@ BasicRanged(
     recover_duration: 0.6,
     projectile_spread: 0.1,
     projectile: Arrow(
-        damage: 60.0,
+        damage: 4.0,
         knockback: 5.0,
         energy_regen: 0,
     ),

@@ -5,43 +5,6 @@
         ("common.items.debug.admin_sword",1),
         ("common.items.debug.velorite_bow_debug", 1),
         ("common.items.debug.admin",1),
-        //  灯
-        ("common.items.lantern.geode_purp",1),
-    ],
-    //  邪教甲改
-    "warlord": [
-        ("common.items.WECW.warlord.back",1),
-        ("common.items.WECW.warlord.belt",1),
-        ("common.items.WECW.warlord.chest",1),
-        ("common.items.WECW.warlord.foot",1),
-        ("common.items.WECW.warlord.hand",1),
-        ("common.items.WECW.warlord.pants",1),
-        ("common.items.WECW.warlord.shoulder",1),
-    ],
-    //  奥能风暴
-    "velorite": [
-        ("common.items.WECW.velorite.back",1),
-        ("common.items.WECW.velorite.belt",1),
-        ("common.items.WECW.velorite.chest",1),
-        ("common.items.WECW.velorite.foot",1),
-        ("common.items.WECW.velorite.hand",1),
-        ("common.items.WECW.velorite.pants",1),
-        ("common.items.WECW.velorite.shoulder",1),
-        ("common.items.WECW.velorite.vg",1),
-        ("common.items.WECW.velorite.staffex",1),
-        ("common.items.WECW.velorite.vneck",1),
-        ("common.items.WECW.velorite.vring",1),
-    ],
-    //  灵魂风暴
-    "soul": [
-        ("common.items.WECW.soul.skullback",1),
-        ("common.items.WECW.soul.skullbelt",1),
-        ("common.items.WECW.soul.skullchest",1),
-        ("common.items.WECW.soul.skullfoot",1),
-        ("common.items.WECW.soul.skullhand",1),
-        ("common.items.WECW.soul.skullpants",1),
-        ("common.items.WECW.soul.skullshoulder",1),
-        ("common.items.WECW.soul.soul",1),
     ],
     "consumables": [
         ("common.items.consumable.potion_big", 100),
@@ -82,41 +45,30 @@
         ("common.items.food.tomatosalad", 100),
     ],
     "jewellery": [
-        // TODO: remove duplicates and handle quantity of non-stackable items
-
         // Necklace
-        ("common.items.armor.misc.neck.plain_1",1),
-        ("common.items.armor.misc.neck.shell",1),
+        ("common.items.armor.misc.neck.shell", 1),
+        ("common.items.armor.misc.neck.plain_1", 1),
 
         // Rings
         // With effects
-        ("common.items.armor.misc.ring.diamond",1),
-        ("common.items.armor.misc.ring.diamond",1),
+        ("common.items.armor.misc.ring.diamond", 2),
 
-        ("common.items.armor.misc.ring.ruby",1),
-        ("common.items.armor.misc.ring.ruby",1),
+        ("common.items.armor.misc.ring.ruby", 2),
 
-        ("common.items.armor.misc.ring.emerald",1),
-        ("common.items.armor.misc.ring.emerald",1),
+        ("common.items.armor.misc.ring.emerald", 2),
 
-        ("common.items.armor.misc.ring.sapphire",1),
-        ("common.items.armor.misc.ring.sapphire",1),
+        ("common.items.armor.misc.ring.sapphire", 2),
 
-        ("common.items.armor.misc.ring.topaz",1),
-        ("common.items.armor.misc.ring.topaz",1),
+        ("common.items.armor.misc.ring.topaz", 2),
 
-        ("common.items.armor.misc.ring.amethyst",1),
-        ("common.items.armor.misc.ring.amethyst",1),
+        ("common.items.armor.misc.ring.amethyst", 2),
 
         // Without effects
-        ("common.items.armor.misc.ring.scratched",1),
-        ("common.items.armor.misc.ring.scratched",1),
+        ("common.items.armor.misc.ring.scratched", 2),
 
-        ("common.items.armor.misc.ring.gold",1),
-        ("common.items.armor.misc.ring.gold",1),
+        ("common.items.armor.misc.ring.gold", 2),
 
-        ("common.items.armor.misc.ring.skull",1),
-        ("common.items.armor.misc.ring.skull",1),
+        ("common.items.armor.misc.ring.skull", 2),
     ],
     "endgame": [
         // Cultist weapons
@@ -139,7 +91,7 @@
 
     ],
     "tier-5": [
-        // Hide
+         // Hide
         ("common.items.armor.hide.dragonscale.back", 1),
         ("common.items.armor.hide.dragonscale.belt", 1),
         ("common.items.armor.hide.dragonscale.chest", 1),
@@ -178,7 +130,7 @@
         ("common.items.consumable.potion_med", 100),
     ],
     "tier-4": [
-        // Hide
+         // Hide
         ("common.items.armor.hide.primal.back", 1),
         ("common.items.armor.hide.primal.belt", 1),
         ("common.items.armor.hide.primal.chest", 1),
@@ -217,7 +169,7 @@
         ("common.items.consumable.potion_med", 100),
     ],
     "tier-3": [
-        // Hide
+         // Hide
         ("common.items.armor.hide.carapace.back", 1),
         ("common.items.armor.hide.carapace.belt", 1),
         ("common.items.armor.hide.carapace.chest", 1),
@@ -290,7 +242,7 @@
         ("common.items.weapons.bow.hardwood-0", 1),
         ("common.items.weapons.staff.heated_arm", 1),
         ("common.items.weapons.sceptre.druids_arbor", 1),
-
+        
         // Potion Kit
         ("common.items.consumable.potion_med", 100),
     ],
@@ -329,7 +281,7 @@
         ("common.items.weapons.bow.bone-0", 1),
         ("common.items.weapons.staff.bone_staff", 1),
         ("common.items.weapons.sceptre.divine_gohei", 1),
-
+        
         // Potion Kit
         ("common.items.consumable.potion_minor", 100),
     ],
@@ -363,8 +315,7 @@
 
         // weapons
         ("common.items.weapons.sword.stone-0", 1),
-        ("common.items.weapons.axe_1h.stone-0", 1),
-        ("common.items.weapons.axe_1h.stone-1", 1),
+        ("common.items.weapons.axe_1h.stone-0", 2),
         ("common.items.weapons.hammer.stone_hammer-0", 1),
         ("common.items.weapons.bow.wood-0", 1),
         ("common.items.weapons.staff.bent_fuse", 1),
@@ -401,5 +352,17 @@
         ("common.items.debug.cultist_shoulder_blue",1),
         ("common.items.debug.dungeon_purple",1),
         ("common.items.debug.admin_back",1),
+    ],
+    "witch": [
+        ("common.items.armor.witch.back",1),
+        ("common.items.armor.witch.belt",1),
+        ("common.items.armor.witch.chest",1),
+        ("common.items.armor.witch.hand",1),
+        ("common.items.armor.witch.foot",1),        
+        ("common.items.armor.witch.hat",1),
+        ("common.items.armor.witch.pants",1),
+        ("common.items.armor.witch.shoulder",1),
+        ("common.items.weapons.sceptre.belzeshrub",1),
+        ("common.items.lantern.pumpkin",1),
     ],
 })

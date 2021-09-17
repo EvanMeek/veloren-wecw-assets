@@ -14,7 +14,7 @@
         "buff.title.saturation": "饱腹",
         "buff.desc.saturation": "吃饱喝足后,一定时间内生命值随缓慢恢复.",
         "buff.title.campfire_heal": "篝火疗愈",
-        "buff.desc.campfire_heal": "在篝火旁休息每秒可治愈1%生命.",
+        "buff.desc.campfire_heal": "在篝火旁休息每秒可治愈{rate}%生命.",
         "buff.title.invulnerability": "无敌",
         "buff.desc.invulnerability": "你不会受到任何攻击的伤害.",
         "buff.title.protectingward": "守护领域",
@@ -44,8 +44,8 @@
 
         // Buffs stats
         "buff.stat.health": "总共恢复 {str_total} 点生命值",
-        "buff.stat.increase_max_stamina": "提高耐力/法力值上限 ",
-        "buff.stat.increase_max_health": "提高生命值上限",
+        "buff.stat.increase_max_energy": "提高{strength}点耐力值上限 ",
+        "buff.stat.increase_max_health": "提高{strength}点生命值上限",
         "buff.stat.invulnerability": "获得无敌状态",
         // Text
         "buff.text.over_seconds": "{dur_secs} 秒后结束",

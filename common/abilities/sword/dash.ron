@@ -1,8 +1,9 @@
 DashMelee(
     energy_cost: 100,
-    base_damage: 60,
-    scaled_damage: 160,
-    base_poise_damage: 40,
+    base_damage: 6.,
+    scaled_damage: 16.,
+    ori_modifier: 1.0,
+    base_poise_damage: 4,
     scaled_poise_damage: 0,
     base_knockback: 6.0,
     scaled_knockback: 7.0,
@@ -17,5 +18,10 @@ DashMelee(
     charge_through: true,
     is_interruptible: true,
     damage_kind: Piercing,
-    damage_effect: None,
+    damage_effect: Some(Buff((
+        kind: Bleeding,
+        dur_secs: 10.0,
+        strength: DamageFraction(0.1),
+        chance: 0.1,
+    ))),
 )

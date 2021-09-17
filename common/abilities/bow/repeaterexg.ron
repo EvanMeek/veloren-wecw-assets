@@ -6,7 +6,7 @@ RepeaterRanged(
     max_speed: 2.0,
     half_speed_at: 1,
     projectile: NecroticSphere(
-        damage: 100.0,
+        damage: 10.0,
         radius: 6.0,
     ),
     projectile_body: Object(ArrowSnake),

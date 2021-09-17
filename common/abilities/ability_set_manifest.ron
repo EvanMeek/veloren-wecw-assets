@@ -48,7 +48,7 @@
         secondary: "common.abilities.axe.spin",
         abilities: [
             (Some(Axe(UnlockLeap)), "common.abilities.axe.leap"),
-            (Some(Axe(UnlockLeap)), "common.abilities.axe.FQ"),
+            (Some(Axe(UnlockLeap)), "common.abilities.axe.cripplingstrike"),
         ],
     ),
     Custom("Axeepic"): (
@@ -56,7 +56,7 @@
         secondary: "common.abilities.axe.spin",
         abilities: [
             (Some(Axe(UnlockLeap)), "common.abilities.axe.leapex"),
-            (Some(Axe(UnlockLeap)), "common.abilities.axe.FQ"),
+            (Some(Axe(UnlockLeap)), "common.abilities.axe.cripplingstrikeex"),
         ],
     ),
     Custom("greatAxe"): (
@@ -64,7 +64,7 @@
         secondary: "common.abilities.axe.spingreat",
         abilities: [
             (Some(Axe(UnlockLeap)), "common.abilities.axe.leapgreat"),
-            (Some(Axe(UnlockLeap)), "common.abilities.axe.FQ"),
+            (Some(Axe(UnlockLeap)), "common.abilities.axe.cripplingstrikegreat"),
         ],
     ),
     Tool(Hammer): (
@@ -79,7 +79,7 @@
         primary: "common.abilities.hammer.firesinglestrike",
         secondary: "common.abilities.hammer.firecharged",
         abilities: [
-            (Some(Hammer(UnlockLeap)), "common.abilities.hammer.darkleap"),
+            (Some(Hammer(UnlockLeap)), "common.abilities.hammer.fireleap"),
             (Some(Hammer(UnlockLeap)), "common.abilities.hammer.fireshockwave"),
         ],
     ),
@@ -100,10 +100,10 @@
         ],
     ),
     Custom("Hammerice"): (
-        primary: "common.abilities.hammer.singlestrike",
-        secondary: "common.abilities.hammer.charged",
+        primary: "common.abilities.hammer.icesinglestrike",
+        secondary: "common.abilities.hammer.icecharged",
         abilities: [
-            (Some(Hammer(UnlockLeap)), "common.abilities.hammer.greatleap"),
+            (Some(Hammer(UnlockLeap)), "common.abilities.hammer.iceleap"),
             (Some(Hammer(UnlockLeap)), "common.abilities.hammer.iceshockwave"),
         ],
     ),
@@ -193,14 +193,14 @@
         ],
     ),
     Custom("Staffp"): (
-        primary: "common.abilities.staff.firebomb",
+        primary: "common.abilities.staff.firebomb_damage",
         secondary: "common.abilities.staff.flamethrower",
         abilities: [
             (Some(Staff(UnlockShockwave)), "common.abilities.staff.fireshockwaveg"),
         ],
     ),
     Custom("Staffl"): (
-        primary: "common.abilities.staff.firebomb",
+        primary: "common.abilities.staff.firebomb_speed",
         secondary: "common.abilities.staff.flamethrowerg",
         abilities: [
             (Some(Staff(UnlockShockwave)), "common.abilities.staff.fireshockwave"),

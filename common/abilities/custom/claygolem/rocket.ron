@@ -3,13 +3,13 @@ BasicRanged(
     buildup_duration: 0.4,
     recover_duration: 0.5,
     projectile: ClayRocket(
-        damage: 500.0,
+        damage: 50.0,
         knockback: 25.0,
         radius: 15.0,
     ),
     projectile_body: Object(ClayRocket),
     projectile_light: None,
     projectile_speed: 45.0,
-    num_projectiles: 2,
-    projectile_spread: 0.5,
+    num_projectiles: 1,
+    projectile_spread: 0.0,
 )

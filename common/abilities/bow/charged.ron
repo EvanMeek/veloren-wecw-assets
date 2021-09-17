@@ -1,14 +1,14 @@
 ChargedRanged(
     energy_cost: 0,
     energy_drain: 0,
-    initial_regen: 10,
-    scaled_regen: 85,
-    initial_damage: 20,
-    scaled_damage: 150,
+    initial_regen: 3,
+    scaled_regen: 10,
+    initial_damage: 3,
+    scaled_damage: 10,
     initial_knockback: 0.0,
     scaled_knockback: 8.0,
-    buildup_duration: 0.3,
-    charge_duration: 1.75,
+    buildup_duration: 0.2,
+    charge_duration: 1,
     recover_duration: 0.3,
     projectile_body: Object(Arrow),
     projectile_light: None,
@@ -16,4 +16,3 @@ ChargedRanged(
     scaled_projectile_speed: 125.0,
     move_speed: 0.2,
 )
-

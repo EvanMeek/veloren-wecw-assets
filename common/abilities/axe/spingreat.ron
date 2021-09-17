@@ -2,7 +2,7 @@ SpinMelee(
     buildup_duration: 0.4,
     swing_duration: 0.6,
     recover_duration: 0.4,
-    base_damage: 70,
+    base_damage: 7,
     base_poise_damage: 10,
     knockback: ( strength: 5.0, direction: Away),
     range: 5.0,

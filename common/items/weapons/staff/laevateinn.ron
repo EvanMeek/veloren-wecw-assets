@@ -1,6 +1,6 @@
 ItemDef(
     name: "灾厄之杖",
-    description: "可以粉碎死亡之门.\n特效（狱焰）：火焰吐息得到强化.",
+    description: "它粉碎了死亡之门.\n特效（狱焰）：火焰吐息得到强化|火焰弹2/次|攻速UP|范围UP",
     kind: Tool((
         kind: Staff,
         hands: Two,

@@ -4,7 +4,7 @@ BasicRanged(
     recover_duration: 0.3,
     projectile_spread: 0.05,
     projectile: Frostball(
-        damage: 100.0,
+        damage: 10.0,
         radius: 6.0,
         energy_regen: 0,
     ),
