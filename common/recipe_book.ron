@@ -4,65 +4,56 @@
     // 月钟花
     "moonbell": (
         output: ("common.items.utility.coins", 500),
-        inputs:[
+        inputs: [
             (Item("common.items.flowers.moonbell"), 1),
         ],
         craft_sprite: None,
-        is_recycling: true
+        is_recycling: true,
     ),
     // 热水华
     "pyrebloom": (
         output: ("common.items.utility.coins", 500),
-        inputs:[
+        inputs: [
             (Item("common.items.flowers.pyrebloom"), 1),
         ],
         craft_sprite: None,
-        is_recycling: true
+        is_recycling: true,
     ),
     // 骨裂
-    "gilder_purp": (
-        output: ("common.items.glider.gilder_purp"),
-        inputs:[
-            (Item("common.items.utility.coins"), 359),
+    "glider_purp": (
+        output: ("common.items.glider.glider_purp", 1),
+        inputs: [
+            (Item("common.items.WECW.coins2"), 359),
         ],
         craft_sprite: None,
-        is_recycling: true
+        is_recycling: true,
     ),
     // 魔法提灯
-    "gilder_purp": (
-        output: ("common.items.boss_drop.lantern"),
-        inputs:[
-            (Item("common.items.utility.coins"), 359),
+    "lantern": (
+        output: ("common.items.boss_drops.lantern", 1),
+        inputs: [
+            (Item("common.items.WECW.coins2"), 359),
         ],
         craft_sprite: None,
-        is_recycling: true
+        is_recycling: true,
     ),
     // 清凉的蓝提灯
     "blue_0": (
-        output: ("common.items.lantern.blue_0"),
-        inputs:[
+        output: ("common.items.lantern.blue_0", 1),
+        inputs: [
             (Item("common.items.WECW.coins2"), 99),
         ],
         craft_sprite: None,
-        is_recycling: true
+        is_recycling: true,
     ),
     // 青柠提灯
     "green_0": (
-        output: ("common.items.lantern.green_0"),
+        output: ("common.items.lantern.green_0", 1),
         inputs: [
-            (Item("common.items.WECW.coins2"), 199)
+            (Item("common.items.WECW.coins2"), 199),
         ],
         craft_sprite: None,
-        is_recycling: true
-    ),
-    // 魔法提灯
-    "magic_lantern": (
-        output: ("common.items.boss_drop.lantern"),
-        inputs: [
-            (Item("common.items.WECW.coins2"), 249)
-        ],
-        craft_sprite: None,
-        is_recycling: true
+        is_recycling: true,
     ),
     "Sell_Cultist_Ring": (
         output: ("common.items.WECW.coins2", 5),
