@@ -1,7 +1,65 @@
 {
 
-    // ===================================收购===================================
-
+    // ===================================出售===================================
+    // 月钟花
+    "moonbell": (
+        output: ("common.items.utility.coins", 500),
+        inputs:[
+            (Item("common.items.flowers.moonbell"), 1),
+        ],
+        craft_sprite: None,
+        is_recycling: true
+    ),
+    // 热水华
+    "pyrebloom": (
+        output: ("common.items.utility.coins", 500),
+        inputs:[
+            (Item("common.items.flowers.pyrebloom"), 1),
+        ],
+        craft_sprite: None,
+        is_recycling: true
+    ),
+    // 骨裂
+    "gilder_purp": (
+        output: ("common.items.glider.gilder_purp"),
+        inputs:[
+            (Item("common.items.utility.coins"), 359),
+        ],
+        craft_sprite: None,
+        is_recycling: true
+    ),
+    // 魔法提灯
+    "gilder_purp": (
+        output: ("common.items.boss_drop.lantern"),
+        inputs:[
+            (Item("common.items.utility.coins"), 359),
+        ],
+        craft_sprite: None,
+        is_recycling: true
+    ),
+    // 清凉的蓝提灯
+    "blue_0": (
+        output: ("common.items.lantern.blue_0"),
+        inputs:[
+            (Item("common.items.utility.coins2"), 99),
+        ],
+        craft_sprite: None,
+        is_recycling: true
+    ),
+    // 青柠提灯
+    "green_0": (
+        output: ("common.items.lantern.green_0"),
+        inputs: [
+            (Item("common.items.utility.coins2"), 199)
+        ]
+    ),
+    // 魔法提灯
+    "magic_lantern": (
+        output: ("common.items.boss_drop.lantern"),
+        inputs: [
+            (Item("common.items.utility.coins2"), 249)
+        ]
+    )
     "Sell_Cultist_Ring": (
         output: ("common.items.WECW.coins2", 5),
         inputs: [
