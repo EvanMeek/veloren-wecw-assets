@@ -41,7 +41,7 @@
     "blue_0": (
         output: ("common.items.lantern.blue_0"),
         inputs:[
-            (Item("common.items.utility.coins2"), 99),
+            (Item("common.items.WECW.coins2"), 99),
         ],
         craft_sprite: None,
         is_recycling: true
@@ -50,16 +50,20 @@
     "green_0": (
         output: ("common.items.lantern.green_0"),
         inputs: [
-            (Item("common.items.utility.coins2"), 199)
-        ]
+            (Item("common.items.WECW.coins2"), 199)
+        ],
+        craft_sprite: None,
+        is_recycling: true
     ),
     // 魔法提灯
     "magic_lantern": (
         output: ("common.items.boss_drop.lantern"),
         inputs: [
-            (Item("common.items.utility.coins2"), 249)
-        ]
-    )
+            (Item("common.items.WECW.coins2"), 249)
+        ],
+        craft_sprite: None,
+        is_recycling: true
+    ),
     "Sell_Cultist_Ring": (
         output: ("common.items.WECW.coins2", 5),
         inputs: [
