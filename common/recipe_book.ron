@@ -1,6 +1,54 @@
 {
 
     // ===================================出售===================================
+    "金符文": (
+        output: ("common.items.WECW.金符文", 1),
+        inputs: [
+            (Item("common.items.WECW.coins3"), 10),
+        ],
+        craft_sprite: None,
+        is_recycling: true,
+    ),
+    "木符文": (
+        output: ("common.items.WECW.木符文", 1),
+        inputs: [
+            (Item("common.items.WECW.coins3"), 10),
+        ],
+        craft_sprite: None,
+        is_recycling: true,
+    ),
+    "水符文": (
+        output: ("common.items.WECW.水符文", 1),
+        inputs: [
+            (Item("common.items.WECW.coins3"), 10),
+        ],
+        craft_sprite: None,
+        is_recycling: true,
+    ),
+    "火符文": (
+        output: ("common.items.WECW.火符文", 1),
+        inputs: [
+            (Item("common.items.WECW.coins3"), 10),
+        ],
+        craft_sprite: None,
+        is_recycling: true,
+    ),
+    "土符文": (
+        output: ("common.items.WECW.土符文", 1),
+        inputs: [
+            (Item("common.items.WECW.coins3"), 10),
+        ],
+        craft_sprite: None,
+        is_recycling: true,
+    ),
+    "暗符文": (
+        output: ("common.items.WECW.暗符文", 1),
+        inputs: [
+            (Item("common.items.WECW.coins3"), 10),
+        ],
+        craft_sprite: None,
+        is_recycling: true,
+    ),
     // 月钟花
     "moonbell": (
         output: ("common.items.utility.coins", 500),
@@ -503,6 +551,12 @@
             (Item("common.items.crafting_ing.cloth.sunsilk"), 10),
             (Item("common.items.mineral.gem.diamond"), 50),
             (Item("common.items.WECW.coins3"), 10),
+            (Item("common.items.WECW.金符文"), 2),
+            (Item("common.items.WECW.木符文"), 1),
+            (Item("common.items.WECW.水符文"), 1),
+            (Item("common.items.WECW.火符文"), 1),
+            (Item("common.items.WECW.土符文"), 1),
+            (Item("common.items.WECW.暗符文"), 2),
             (Item("common.items.tool.craftsman_hammer"), 0),
         ],
         craft_sprite: Some(Anvil),
@@ -518,6 +572,12 @@
             (Item("common.items.crafting_ing.cloth.sunsilk"), 5),
             (Item("common.items.mineral.gem.diamond"), 50),
             (Item("common.items.WECW.coins3"), 5),
+            (Item("common.items.WECW.金符文"), 1),
+            (Item("common.items.WECW.木符文"), 1),
+            (Item("common.items.WECW.水符文"), 1),
+            (Item("common.items.WECW.火符文"), 1),
+            (Item("common.items.WECW.土符文"), 1),
+            (Item("common.items.WECW.暗符文"), 1),
             (Item("common.items.tool.craftsman_hammer"), 0),
         ],
         craft_sprite: Some(Anvil),
