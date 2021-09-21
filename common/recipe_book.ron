@@ -558,6 +558,24 @@
         craft_sprite: Some(Anvil),
         is_recycling: false,
     ),
+    "乌菲尔": (
+        output: ("common.items.WECW.caladbolgEXG", 1),
+        inputs: [
+            (Item("common.items.WECW.caladbolgex"), 1),
+            (Item("common.items.crafting_ing.hide.dragon_scale"), 30),
+            (Item("common.items.crafting_ing.mindflayer_bag_damaged"), 40),
+            (Item("common.items.mineral.ingot.orichalcum"), 20),
+            (Item("common.items.crafting_ing.cloth.sunsilk"), 20),
+            (Item("common.items.mineral.gem.diamond"), 200),
+            (Item("common.items.WECW.coins3"), 10),
+            (Item("common.items.WECW.金符文"), 5),
+            (Item("common.items.WECW.土符文"), 5),
+            (Item("common.items.WECW.暗符文"), 10),
+            (Item("common.items.tool.craftsman_hammer"), 0),
+        ],
+        craft_sprite: Some(Anvil),
+        is_recycling: false,
+    ),
     "放逐之刃": (
         output: ("common.items.WECW.放逐之刃", 1),
         inputs: [
