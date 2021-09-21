@@ -4,6 +4,6 @@ ItemDef(
     kind: Ingredient(
         kind: "火Rune",
     ),
-    quality: High,
+    quality: Legendary,
     tags: [],
 )
