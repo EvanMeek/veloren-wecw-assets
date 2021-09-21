@@ -541,6 +541,24 @@
     // ==========================================================================
 
     // ===================================觉醒===================================
+    "熔火之心": (
+        output: ("common.items.WECW.darkhammerex", 1),
+        inputs: [
+            (Item("common.items.WECW.darkhammer"), 1),
+            (Item("common.items.crafting_ing.hide.dragon_scale"), 40),
+            (Item("common.items.crafting_ing.mindflayer_bag_damaged"),50),
+            (Item("common.items.mineral.ingot.orichalcum"), 20),
+            (Item("common.items.crafting_ing.cloth.sunsilk"), 20),
+            (Item("common.items.mineral.gem.diamond"), 200),
+            (Item("common.items.WECW.coins3"), 20),
+            (Item("common.items.WECW.金符文"), 10),
+            (Item("common.items.WECW.火符文"), 10),
+            (Item("common.items.WECW.暗符文"), 5),
+            (Item("common.items.tool.craftsman_hammer"), 0),
+        ],
+        craft_sprite: Some(Anvil),
+        is_recycling: false,
+    ),
     "exbow": (
         output: ("common.items.WECW.exbow", 1),
         inputs: [
@@ -552,8 +570,7 @@
             (Item("common.items.mineral.gem.diamond"), 50),
             (Item("common.items.WECW.coins3"), 10),
             (Item("common.items.WECW.金符文"), 2),
-            (Item("common.items.WECW.木符文"), 1),
-            (Item("common.items.WECW.水符文"), 1),
+            (Item("common.items.WECW.水符文"), 2),
             (Item("common.items.WECW.火符文"), 1),
             (Item("common.items.WECW.土符文"), 1),
             (Item("common.items.WECW.暗符文"), 2),
