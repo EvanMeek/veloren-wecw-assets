@@ -292,6 +292,10 @@
             "voxel.armor.warlordG.darksteel",
             (1.0, -1.0, 0.0), (-135.0, 90.0, 0.0), 1.1,
         ),
+        Tool("common.items.WECW.放逐之刃"): VoxTrans(
+            "voxel.armor.warlordG.放逐之刃",
+            (1.0, -1.0, 0.0), (-135.0, 90.0, 0.0), 1.1,
+        ),
         Tool("common.items.WECW.darksteel2"): VoxTrans(
             "voxel.armor.warlordG.darksteel2",
             (1.0, -1.0, 0.0), (-135.0, 90.0, 0.0), 1.1,
