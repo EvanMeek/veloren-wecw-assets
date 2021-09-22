@@ -17,5 +17,5 @@ ItemDef(
     )),
     quality: Legendary,
     tags: [],
-    ability_spec: Some(Custom("Sceptreex")),
+    ability_spec: Some(Custom("理智的摧残者权杖技能组")),
 )

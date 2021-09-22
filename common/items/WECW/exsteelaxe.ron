@@ -17,5 +17,5 @@ ItemDef(
     )),
     quality: Epic,
     tags: [],
-    ability_spec: Some(Custom("greatAxe")),
+    ability_spec: Some(Custom("深蓝-遗忘-埃尔技能组")),
 )

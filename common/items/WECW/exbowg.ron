@@ -16,6 +16,6 @@ ItemDef(
         )),
     )),
     quality: Legendary,
-    ability_spec: Some(Custom("Bowexg")),
+    ability_spec: Some(Custom("奥能旭日技能组")),
     tags: [],
 )

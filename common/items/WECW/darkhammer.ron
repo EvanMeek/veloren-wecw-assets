@@ -17,5 +17,5 @@ ItemDef(
     )),
     quality: Legendary,
     tags: [],
-    ability_spec: Some(Custom("Hammerdark")),
+    ability_spec: Some(Custom("冲击锤技能组")),
 )

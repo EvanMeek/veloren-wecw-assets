@@ -17,5 +17,5 @@ ItemDef(
     )),
     quality: Legendary,
     tags: [],
-    ability_spec: Some(Custom("Hammerice")),
+    ability_spec: Some(Custom("冰风暴技能组")),
 )

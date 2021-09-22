@@ -17,5 +17,5 @@ ItemDef(
     )),
     quality: Legendary,
     tags: [],
-    ability_spec: Some(Custom("Bowex")),
+    ability_spec: Some(Custom("旭日弓技能组")),
 )

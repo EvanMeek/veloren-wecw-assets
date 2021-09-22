@@ -17,5 +17,5 @@ ItemDef(
     )),
     quality: Legendary,
     tags: [],
-    ability_spec: Some(Custom("greatSword")),
+    ability_spec: Some(Custom("金单双手剑技能组")),
 )
