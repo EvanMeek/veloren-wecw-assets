@@ -192,7 +192,7 @@
             "voxel.armor.warlordG.exsteelaxe",
             (1.0, -1.0, 0.0), (-135.0, 90.0, 0.0), 1.1,
         ),
-        Tool("common.items.WECW.bow"): VoxTrans(
+        Tool("common.items.WECW.旭日击破者"): VoxTrans(
             "voxel.armor.warlordG.bow",
             (1.0, -1.0, 0.0), (-135.0, 90.0, 0.0), 1.1,
         ),

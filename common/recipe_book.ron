@@ -633,7 +633,7 @@
     "exbow": (
         output: ("common.items.WECW.exbow", 1),
         inputs: [
-            (Item("common.items.WECW.bow"), 1),
+            (Item("common.items.WECW.旭日击破者"), 1),
             (Item("common.items.crafting_ing.hide.dragon_scale"), 15),
             (Item("common.items.crafting_ing.mindflayer_bag_damaged"),10),
             (Item("common.items.mineral.ingot.orichalcum"), 10),

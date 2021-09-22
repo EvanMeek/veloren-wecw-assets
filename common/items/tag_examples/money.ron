@@ -3,7 +3,7 @@ ItemDef(
     description: "一些高阶物品.",
     kind: TagExamples(
         item_ids: [
-            "common.items.WECW.bow",
+            "common.items.WECW.旭日击破者",
             "common.items.WECW.exbow",
             "common.items.WECW.darkhammer",
             "common.items.WECW.darkaxe",

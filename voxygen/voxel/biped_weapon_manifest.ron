@@ -99,7 +99,7 @@
         vox_spec: ("armor.warlordG.icehammer", (-3.0, -9.0, -4.0)),
         color: None
     ),
-    "common.items.WECW.bow": (
+    "common.items.WECW.旭日击破者": (
         vox_spec: ("armor.warlordG.bow", (-7.0, -10.5, -19.5)),
         color: None
     ),
