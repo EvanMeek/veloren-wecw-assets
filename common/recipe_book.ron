@@ -615,7 +615,7 @@
     "熔火之心": (
         output: ("common.items.WECW.熔火之心", 1),
         inputs: [
-            (Item("common.items.WECW.darkhammer"), 1),
+            (Item("common.items.WECW.暗金冲击锤"), 1),
             (Item("common.items.crafting_ing.hide.dragon_scale"), 40),
             (Item("common.items.crafting_ing.mindflayer_bag_damaged"),50),
             (Item("common.items.mineral.ingot.orichalcum"), 20),

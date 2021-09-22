@@ -1,6 +1,6 @@
 [
     // weapons
-    (0.01, Item("common.items.WECW.darksteel2")),
+    (0.01, Item("common.items.WECW.暗金巨像刃")),
     (0.015, Item("common.items.WECW.金符文")),
     // materials
     (0.5, ItemQuantity("common.items.consumable.potion_med", 5, 10)),

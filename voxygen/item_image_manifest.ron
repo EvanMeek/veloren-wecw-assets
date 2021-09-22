@@ -296,8 +296,8 @@
             "voxel.armor.warlordG.放逐之刃",
             (1.0, -1.0, 0.0), (-135.0, 90.0, 0.0), 1.1,
         ),
-        Tool("common.items.WECW.darksteel2"): VoxTrans(
-            "voxel.armor.warlordG.darksteel2",
+        Tool("common.items.WECW.暗金巨像刃"): VoxTrans(
+            "voxel.armor.warlordG.暗金巨像刃",
             (1.0, -1.0, 0.0), (-135.0, 90.0, 0.0), 1.1,
         ),
         Tool("common.items.WECW.holysword"): VoxTrans(
@@ -316,8 +316,8 @@
             "voxel.armor.warlordG.灵魂风暴",
             (1.0, -1.0, 0.0), (-135.0, 90.0, 0.0), 1.1,
         ),
-        Tool("common.items.WECW.darkhammer"): VoxTrans(
-            "voxel.armor.warlordG.darkhammer",
+        Tool("common.items.WECW.暗金冲击锤"): VoxTrans(
+            "voxel.armor.warlordG.暗金冲击锤",
             (1.0, -1.0, 0.0), (-135.0, 90.0, 0.0), 1.1,
         ),
         Tool("common.items.WECW.暗金切割者"): VoxTrans(
