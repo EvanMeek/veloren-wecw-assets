@@ -212,8 +212,8 @@
             "voxel.armor.warlordG.forgottenaxe",
             (1.0, -1.0, 0.0), (-135.0, 90.0, 0.0), 1.1,
         ),
-        Tool("common.items.WECW.eriandor"): VoxTrans(
-            "voxel.armor.warlordG.eriandor",
+        Tool("common.items.WECW.埃尔安多"): VoxTrans(
+            "voxel.armor.warlordG.埃尔安多",
             (1.0, -1.0, 0.0), (-135.0, 90.0, 0.0), 1.1,
         ),
         Tool("common.items.WECW.stormgreatsword"): VoxTrans(

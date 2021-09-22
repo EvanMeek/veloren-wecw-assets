@@ -595,7 +595,7 @@
         is_recycling: false,
     ),
     "埃尔安多": (
-        output: ("common.items.WECW.eriandor", 1),
+        output: ("common.items.WECW.埃尔安多", 1),
         inputs: [
             (Item("common.items.WECW.forgottenaxe"), 1),
             (Item("common.items.crafting_ing.hide.dragon_scale"), 30),
