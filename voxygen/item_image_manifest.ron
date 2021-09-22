@@ -114,11 +114,11 @@
             (5.0, 0.0, 0.0), (-50.0, 30.0, 20.0), 1.1,
         ),
         Ingredient("Coins2"): VoxTrans(
-            "voxel.armor.warlordG.v-coin2",
+            "voxel.armor.warlordG.白金币",
             (0.0, 0.0, 0.0), (-10.0, 15.0, 0.0), 0.8,
         ),
         Ingredient("Coins3"):  VoxTrans(
-            "voxel.armor.warlordG.v-coin3",
+            "voxel.armor.warlordG.暗金币",
             (0.0, 0.0, 0.0), (-10.0, 15.0, 0.0), 0.8,
         ),
         Ingredient("金Rune"): VoxTrans(
@@ -193,15 +193,15 @@
             (1.0, -1.0, 0.0), (-135.0, 90.0, 0.0), 1.1,
         ),
         Tool("common.items.WECW.旭日击破者"): VoxTrans(
-            "voxel.armor.warlordG.bow",
+            "voxel.armor.warlordG.旭日击破者",
             (1.0, -1.0, 0.0), (-135.0, 90.0, 0.0), 1.1,
         ),
-        Tool("common.items.旭日击破者-觉醒"): VoxTrans(
-            "voxel.armor.warlordG.exbow",
+        Tool("common.items.WECW.旭日击破者-觉醒"): VoxTrans(
+            "voxel.armor.warlordG.旭日击破者-觉醒",
             (1.0, -1.0, 0.0), (-135.0, 90.0, 0.0), 1.1,
         ),
         Tool("common.items.WECW.旭日击破者-奥能"): VoxTrans(
-            "voxel.armor.warlordG.exbowg",
+            "voxel.armor.warlordG.旭日击破者-奥能",
             (1.0, -1.0, 0.0), (-135.0, 90.0, 0.0), 1.1,
         ),
         Tool("common.items.WECW.velorite.staffex"): VoxTrans(
@@ -304,24 +304,24 @@
             "voxel.armor.warlordG.holysword",
             (1.0, -1.0, 0.0), (-135.0, 90.0, 0.0), 1.1,
         ),
-        Tool("common.items.WECW.caladbolgG"): VoxTrans(
-            "voxel.armor.warlordG.caladbolgG",
+        Tool("common.items.WECW.风暴使者"): VoxTrans(
+            "voxel.armor.warlordG.风暴使者",
             (1.0, -1.0, 0.0), (-135.0, 90.0, 0.0), 1.1,
         ),
-        Tool("common.items.WECW.caladbolgEXG"): VoxTrans(
-            "voxel.armor.warlordG.goldsword",
+        Tool("common.items.WECW.乌菲尔"): VoxTrans(
+            "voxel.armor.warlordG.乌菲尔",
             (1.0, -1.0, 0.0), (-135.0, 90.0, 0.0), 1.1,
         ),
-        Tool("common.items.WECW.caladbolgex"): VoxTrans(
-            "voxel.armor.warlordG.HGX",
+        Tool("common.items.WECW.灵魂风暴"): VoxTrans(
+            "voxel.armor.warlordG.灵魂风暴",
             (1.0, -1.0, 0.0), (-135.0, 90.0, 0.0), 1.1,
         ),
         Tool("common.items.WECW.darkhammer"): VoxTrans(
             "voxel.armor.warlordG.darkhammer",
             (1.0, -1.0, 0.0), (-135.0, 90.0, 0.0), 1.1,
         ),
-        Tool("common.items.WECW.darkaxe"): VoxTrans(
-            "voxel.armor.warlordG.darkaxe",
+        Tool("common.items.WECW.暗金切割者"): VoxTrans(
+            "voxel.armor.warlordG.暗金切割者",
             (1.0, -1.0, 0.0), (-135.0, 90.0, 0.0), 1.1,
         ),
         Tool("example_utility"): VoxTrans(

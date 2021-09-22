@@ -29,5 +29,5 @@
     // 破布
     (0.4, ItemQuantity("common.items.crafting_ing.mindflayer_bag_damaged",1,3)),
     // 白金
-    (1.0, ItemQuantity("common.items.WECW.coins2",66,200)),
+    (1.0, ItemQuantity("common.items.WECW.白金币",66,200)),
 ]

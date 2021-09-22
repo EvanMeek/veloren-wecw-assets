@@ -1,8 +1,8 @@
 [
-    (0.25, Item("common.items.WECW.caladbolgG")),
+    (0.25, Item("common.items.WECW.风暴使者")),
     (0.5, Item("common.items.WECW.forgottenaxe")),
     (1.0, Item("common.items.WECW.旭日击破者")),
-    (1.0, Item("common.items.WECW.darkaxe")),
+    (1.0, Item("common.items.WECW.暗金切割者")),
     (0.5, Item("common.items.WECW.darkhammer")),
     (0.5, Item("common.items.WECW.darksteel")),
     (0.25, Item("common.items.WECW.holysword")),
