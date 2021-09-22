@@ -1,5 +1,5 @@
 [
-    (0.005, Item("common.items.WECW.火符文")),
+    (0.0025, Item("common.items.WECW.火符文")),
     (0.25, LootTable("common.loot_tables.weapons.tier-1")),
     (0.5, LootTable("common.loot_tables.armor.leather")),
     (0.5, LootTable("common.loot_tables.humanoids")),
