@@ -176,8 +176,8 @@
             "voxel.armor.warlordG.vring",
             (0.0, 0.0, 0.0), (30.0, 0.0, 0.0), 0.9,
         ),
-        Tool("common.items.WECW.darkhammerex"): VoxTrans(
-            "voxel.armor.warlordG.darkhammerex",
+        Tool("common.items.WECW.熔火之心"): VoxTrans(
+            "voxel.armor.warlordG.熔火之心",
             (1.0, -1.0, 0.0), (-135.0, 90.0, 0.0), 1.1,
         ),
         Tool("common.items.WECW.holyhammer"): VoxTrans(

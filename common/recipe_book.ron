@@ -613,7 +613,7 @@
         is_recycling: false,
     ),
     "熔火之心": (
-        output: ("common.items.WECW.darkhammerex", 1),
+        output: ("common.items.WECW.熔火之心", 1),
         inputs: [
             (Item("common.items.WECW.darkhammer"), 1),
             (Item("common.items.crafting_ing.hide.dragon_scale"), 40),
@@ -630,7 +630,7 @@
         craft_sprite: Some(Anvil),
         is_recycling: false,
     ),
-    "exbow": (
+    "旭日击破者-觉醒": (
         output: ("common.items.WECW.旭日击破者-觉醒", 1),
         inputs: [
             (Item("common.items.WECW.旭日击破者"), 1),
