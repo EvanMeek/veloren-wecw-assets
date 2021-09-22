@@ -103,11 +103,11 @@
         vox_spec: ("armor.warlordG.bow", (-7.0, -10.5, -19.5)),
         color: None
     ),
-    "common.items.WECW.exbow": (
+    "common.items.旭日击破者-觉醒": (
         vox_spec: ("armor.warlordG.exbow", (-7.0, -11.0, -23.0)),
         color: None
     ),
-    "common.items.WECW.exbowg": (
+    "common.items.WECW.旭日击破者-奥能": (
         vox_spec: ("armor.warlordG.exbowg", (-6.0, -16.0, -25.0)),
         color: None
     ),

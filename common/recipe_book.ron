@@ -631,7 +631,7 @@
         is_recycling: false,
     ),
     "exbow": (
-        output: ("common.items.WECW.exbow", 1),
+        output: ("common.items.旭日击破者-觉醒", 1),
         inputs: [
             (Item("common.items.WECW.旭日击破者"), 1),
             (Item("common.items.crafting_ing.hide.dragon_scale"), 15),

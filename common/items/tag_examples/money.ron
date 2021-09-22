@@ -4,7 +4,7 @@ ItemDef(
     kind: TagExamples(
         item_ids: [
             "common.items.WECW.旭日击破者",
-            "common.items.WECW.exbow",
+            "common.items.旭日击破者-觉醒",
             "common.items.WECW.darkhammer",
             "common.items.WECW.darkaxe",
             "common.items.WECW.darksteel",

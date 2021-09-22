@@ -196,11 +196,11 @@
             "voxel.armor.warlordG.bow",
             (1.0, -1.0, 0.0), (-135.0, 90.0, 0.0), 1.1,
         ),
-        Tool("common.items.WECW.exbow"): VoxTrans(
+        Tool("common.items.旭日击破者-觉醒"): VoxTrans(
             "voxel.armor.warlordG.exbow",
             (1.0, -1.0, 0.0), (-135.0, 90.0, 0.0), 1.1,
         ),
-        Tool("common.items.WECW.exbowg"): VoxTrans(
+        Tool("common.items.WECW.旭日击破者-奥能"): VoxTrans(
             "voxel.armor.warlordG.exbowg",
             (1.0, -1.0, 0.0), (-135.0, 90.0, 0.0), 1.1,
         ),
