@@ -17,5 +17,5 @@ ItemDef(
     )),
     quality: Legendary,
     tags: [],
-    ability_spec: Some(Custom("windSword")),
+    ability_spec: Some(Custom("风暴使者技能组")),
 )
