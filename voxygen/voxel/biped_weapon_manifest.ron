@@ -56,11 +56,11 @@
         color: None
     ),
     "common.items.WECW.乌菲尔": (
-        vox_spec: ("armor.warlordG.goldsword", (-2.5, -5.5, -6.8)),
+        vox_spec: ("armor.warlordG.乌菲尔", (-2.5, -5.5, -6.8)),
         color: None
     ),
     "common.items.WECW.灵魂风暴": (
-        vox_spec: ("armor.warlordG.HGX", (-2.5, -5.5, -6.5)),
+        vox_spec: ("armor.warlordG.灵魂风暴", (-2.5, -5.5, -6.5)),
         color: None
     ),
     "common.items.WECW.熔火之心": (
