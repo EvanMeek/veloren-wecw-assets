@@ -2,7 +2,7 @@
     // 暗金冲击锤
     (0.01, Item("common.items.WECW.暗金冲击锤")),
     // 遗忘战斧
-    (0.01, Item("common.items.WECW.forgottenaxe")),
+    (0.01, Item("common.items.WECW.遗忘战斧")),
     // 暗金切割者
     (0.01, Item("common.items.WECW.暗金切割者")),
     // 暗灵项链

@@ -208,8 +208,8 @@
             "voxel.armor.warlordG.staffex",
             (1.0, -1.0, 0.0), (-135.0, 90.0, 0.0), 1.1,
         ),
-        Tool("common.items.WECW.forgottenaxe"): VoxTrans(
-            "voxel.armor.warlordG.forgottenaxe",
+        Tool("common.items.WECW.遗忘战斧"): VoxTrans(
+            "voxel.armor.warlordG.遗忘战斧",
             (1.0, -1.0, 0.0), (-135.0, 90.0, 0.0), 1.1,
         ),
         Tool("common.items.WECW.埃尔安多"): VoxTrans(

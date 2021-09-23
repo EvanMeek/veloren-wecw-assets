@@ -39,8 +39,8 @@
         vox_spec: ("armor.warlordG.stormgreatsword", (-3.5, -4.5, -4.0)),
         color: None
     ),
-    "common.items.WECW.forgottenaxe": (
-        vox_spec: ("armor.warlordG.forgottenaxe", (-2.5, -12.0, -9.0)),
+    "common.items.WECW.遗忘战斧": (
+        vox_spec: ("armor.warlordG.遗忘战斧", (-2.5, -12.0, -9.0)),
         color: None
     ),
     "common.items.WECW.深蓝使者": (

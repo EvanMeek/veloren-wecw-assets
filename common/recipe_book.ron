@@ -597,7 +597,7 @@
     "埃尔安多": (
         output: ("common.items.WECW.埃尔安多", 1),
         inputs: [
-            (Item("common.items.WECW.forgottenaxe"), 1),
+            (Item("common.items.WECW.遗忘战斧"), 1),
             (Item("common.items.crafting_ing.hide.dragon_scale"), 30),
             (Item("common.items.crafting_ing.mindflayer_bag_damaged"),40),
             (Item("common.items.mineral.ingot.orichalcum"), 20),
