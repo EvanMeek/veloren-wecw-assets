@@ -216,16 +216,16 @@
             "voxel.armor.warlordG.埃尔安多",
             (1.0, -1.0, 0.0), (-135.0, 90.0, 0.0), 1.1,
         ),
-        Tool("common.items.WECW.stormgreatsword"): VoxTrans(
-            "voxel.armor.warlordG.stormgreatsword",
+        Tool("common.items.WECW.风暴大剑"): VoxTrans(
+            "voxel.armor.warlordG.风暴大剑",
             (1.0, -1.0, 0.0), (-135.0, 90.0, 0.0), 1.1,
         ),
-        Tool("common.items.WECW.mindflayer"): VoxTrans(
-            "voxel.armor.warlordG.mindflayer",
+        Tool("common.items.WECW.理智的摧残者"): VoxTrans(
+            "voxel.armor.warlordG.理智的摧残者",
             (1.0, -1.0, 0.0), (-135.0, 90.0, 0.0), 1.1,
         ),
-        Tool("common.items.WECW.mind"): VoxTrans(
-            "voxel.armor.warlordG.mind",
+        Tool("common.items.WECW.灵魂权杖"): VoxTrans(
+            "voxel.armor.warlordG.灵魂权杖",
             (1.0, -1.0, 0.0), (-135.0, 90.0, 0.0), 1.1,
         ),
         Armor(Chest("soul")): VoxTrans(

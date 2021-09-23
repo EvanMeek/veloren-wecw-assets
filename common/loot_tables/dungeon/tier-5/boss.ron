@@ -9,7 +9,7 @@
     // 灾厄
     (0.01, Item("common.items.weapons.staff.laevateinn")),
     // 灵魂
-    (0.01, Item("common.items.WECW.mind")),
+    (0.01, Item("common.items.WECW.灵魂权杖")),
     // 萨顿
     (0.01, Item("common.items.WECW.萨顿的末日战刃")),
     // 暗灵项链
