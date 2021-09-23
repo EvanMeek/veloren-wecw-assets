@@ -43,8 +43,8 @@
         vox_spec: ("armor.warlordG.forgottenaxe", (-2.5, -12.0, -9.0)),
         color: None
     ),
-    "common.items.WECW.exsteelaxe": (
-        vox_spec: ("armor.warlordG.exsteelaxe", (-2.5, -10.0, -6.0)),
+    "common.items.WECW.深蓝使者": (
+        vox_spec: ("armor.warlordG.深蓝使者", (-2.5, -10.0, -6.0)),
         color: None
     ),
     "common.items.WECW.埃尔安多": (

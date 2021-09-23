@@ -188,8 +188,8 @@
             "voxel.armor.warlordG.icehammer",
             (1.0, -1.0, 0.0), (-135.0, 90.0, 0.0), 1.1,
         ),
-        Tool("common.items.WECW.exsteelaxe"): VoxTrans(
-            "voxel.armor.warlordG.exsteelaxe",
+        Tool("common.items.WECW.深蓝使者"): VoxTrans(
+            "voxel.armor.warlordG.深蓝使者",
             (1.0, -1.0, 0.0), (-135.0, 90.0, 0.0), 1.1,
         ),
         Tool("common.items.WECW.旭日击破者"): VoxTrans(
