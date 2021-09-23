@@ -67,8 +67,8 @@
         vox_spec: ("armor.warlordG.熔火之心", (-4.5, -11.5, -5.5)),
         color: None
     ),
-    "common.items.WECW.holyhammer": (
-        vox_spec: ("armor.warlordG.holyhammer", (-3.5, -8.5, -7.0)),
+    "common.items.WECW.帕拉丁战锤": (
+        vox_spec: ("armor.warlordG.帕拉丁战锤", (-3.5, -8.5, -7.0)),
         color: None
     ),
     "common.items.WECW.holysword": (

@@ -180,8 +180,8 @@
             "voxel.armor.warlordG.熔火之心",
             (1.0, -1.0, 0.0), (-135.0, 90.0, 0.0), 1.1,
         ),
-        Tool("common.items.WECW.holyhammer"): VoxTrans(
-            "voxel.armor.warlordG.holyhammer",
+        Tool("common.items.WECW.帕拉丁战锤"): VoxTrans(
+            "voxel.armor.warlordG.帕拉丁战锤",
             (1.0, -1.0, 0.0), (-135.0, 90.0, 0.0), 1.1,
         ),
         Tool("common.items.WECW.icehammer"): VoxTrans(
