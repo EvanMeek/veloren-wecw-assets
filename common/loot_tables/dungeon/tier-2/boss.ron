@@ -2,7 +2,7 @@
     // 旭日
     (0.01, Item("common.items.WECW.旭日击破者")),
     // 冰风暴
-    (0.01, Item("common.items.WECW.icehammer")),
+    (0.01, Item("common.items.WECW.冰风暴")),
     // 暗灵项链
     (0.01, Item("common.items.WECW.neck.epicneck")),
     // 暗灵指环

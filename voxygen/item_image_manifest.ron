@@ -184,8 +184,8 @@
             "voxel.armor.warlordG.帕拉丁战锤",
             (1.0, -1.0, 0.0), (-135.0, 90.0, 0.0), 1.1,
         ),
-        Tool("common.items.WECW.icehammer"): VoxTrans(
-            "voxel.armor.warlordG.icehammer",
+        Tool("common.items.WECW.冰风暴"): VoxTrans(
+            "voxel.armor.warlordG.冰风暴",
             (1.0, -1.0, 0.0), (-135.0, 90.0, 0.0), 1.1,
         ),
         Tool("common.items.WECW.深蓝使者"): VoxTrans(
