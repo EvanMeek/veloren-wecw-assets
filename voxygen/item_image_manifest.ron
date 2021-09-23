@@ -300,8 +300,8 @@
             "voxel.armor.warlordG.暗金巨像刃",
             (1.0, -1.0, 0.0), (-135.0, 90.0, 0.0), 1.1,
         ),
-        Tool("common.items.WECW.holysword"): VoxTrans(
-            "voxel.armor.warlordG.holysword",
+        Tool("common.items.WECW.白金巨剑"): VoxTrans(
+            "voxel.armor.warlordG.白金巨剑",
             (1.0, -1.0, 0.0), (-135.0, 90.0, 0.0), 1.1,
         ),
         Tool("common.items.WECW.风暴使者"): VoxTrans(

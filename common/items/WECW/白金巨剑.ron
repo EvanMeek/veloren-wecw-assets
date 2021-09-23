@@ -1,6 +1,6 @@
 ItemDef(
-    name: "Excalibur",
-    description: "石中剑，能净化一切邪恶的力量，时刻让人感受到光明. ",
+    name: "白金巨剑",
+    description: "白金巨剑，能净化一切邪恶的力量，时刻让人感受到光明. ",
     kind: Tool((
         kind: Sword,
         hands: Two,
