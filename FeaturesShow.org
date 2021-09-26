@@ -1,0 +1,37 @@
+#+TITLE: Features Show
+
+* 武器 Weapon
+
+[[file:img/冰风暴.png]]
+[[file:img/乌菲尔.png]]
+[[file:img/放逐之刃.png]]
+[[file:img/风暴大剑.png]]
+[[file:img/埃尔安多.png]]
+[[file:img/灵魂权杖.png]]
+[[file:img/遗忘战斧.png]]
+[[file:img/风暴使者.png]]
+[[file:img/熔火之心.png]]
+[[file:img/深蓝使者.png]]
+[[file:img/白金巨剑.png]]
+[[file:img/奥拉西斯.png]]
+[[file:img/暗金切割者.png]]
+[[file:img/旭日击破者.png]]
+[[file:img/暗金冲击锤.png]]
+[[file:img/帕拉丁战锤.png]]
+
+* 货币 Currency
+
+[[file:img/白金币.png]]
+[[file:img/暗金币.png]]
+
+* 盔甲 Armor
+
+[[file:img/棱镜背包.png]]
+[[file:img/冲击之鹰.png]]
+[[file:img/暗金符文滑翔翼.png]]
+[[file:img/灵魂风暴-套装.png]]
+[[file:img/奥拉西斯-套装.png]]
+
+* 技能 Skill
+
+* 难度 Diffculty
