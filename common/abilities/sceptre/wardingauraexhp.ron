@@ -11,7 +11,7 @@ BasicAura(
     ),
     aura_duration: 1.0,
     range: 20.0,
-    energy_cost: 1375,
+    energy_cost: 137.5,
     scales_with_combo: false,
     specifier: WardingAura,
 )

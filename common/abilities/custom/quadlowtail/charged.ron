@@ -1,5 +1,5 @@
 ChargedMelee(
-    energy_cost: 0,
+    energy_cost: 0.0,
     energy_drain: 0,
     initial_damage: 4.0,
     scaled_damage: 20.0,

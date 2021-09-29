@@ -5,5 +5,5 @@ SelfBuff(
     buff_kind: Invulnerability,
     buff_strength: 0.05,
     buff_duration: Some(1.0),
-    energy_cost: 700,
+    energy_cost: 70.0,
 )

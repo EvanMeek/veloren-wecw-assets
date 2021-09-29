@@ -1,5 +1,5 @@
 BasicRanged(
-    energy_cost: 0,
+    energy_cost: 0.0,
     buildup_duration: 0.001,
     recover_duration: 0.01,
     projectile: Possess,

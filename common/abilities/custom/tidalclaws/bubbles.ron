@@ -9,6 +9,6 @@ BasicBeam(
     max_angle: 22.5,
     damage_effect: None,
     energy_regen: 0,
-    energy_cost: 0,
+    energy_cost: 0.0,
     energy_drain: 0,
 )

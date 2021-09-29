@@ -12,7 +12,7 @@ SpinMelee(
         strength: DamageFraction(0.1),
         chance: 0.1,
     ))),
-    energy_cost: 0,
+    energy_cost: 0.0,
     is_infinite: true,
     movement_behavior: ForwardGround,
     is_interruptible: false,

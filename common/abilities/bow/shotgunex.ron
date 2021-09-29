@@ -1,5 +1,5 @@
 BasicRanged(
-    energy_cost: 1550,
+    energy_cost: 155.0,
     buildup_duration: 0.5,
     recover_duration: 0.3,
     projectile_spread: 0.05,

@@ -1,5 +1,5 @@
 ChargedRanged(
-    energy_cost: 0,
+    energy_cost: 0.0,
     energy_drain: 0,
     initial_regen: 3,
     scaled_regen: 10,

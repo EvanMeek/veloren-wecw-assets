@@ -5,5 +5,5 @@ SelfBuff(
     buff_kind: Frenzied,
     buff_strength: 0.2,
     buff_duration: Some(600.0),
-    energy_cost: 0,
+    energy_cost: 0.0,
 )

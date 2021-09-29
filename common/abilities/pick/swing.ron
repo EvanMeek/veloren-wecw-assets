@@ -1,5 +1,5 @@
 BasicMelee(
-    energy_cost: 0,
+    energy_cost: 0.0,
     buildup_duration: 0.25,
     swing_duration: 0.05,
     recover_duration: 0.075,
