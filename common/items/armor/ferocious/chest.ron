@@ -4,7 +4,7 @@ ItemDef(
     kind: Armor((
         kind: Chest("Ferocious"),
         stats: (
-            protection: Normal(1000.0),
+            protection: Normal(1500.0),
             poise_resilience: Normal(300.0),
             energy_max: 200.0,
             energy_reward: 5.0,
