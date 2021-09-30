@@ -5,7 +5,7 @@ BasicAura(
     targets: InGroup,
     aura: (
         kind: IncreaseMaxEnergy,
-        strength: 200,
+        strength: 25,
         duration: Some(60.0),
         category: Magical,
     ),
