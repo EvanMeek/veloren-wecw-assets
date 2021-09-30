@@ -237,7 +237,7 @@
     ),
     Custom("恶魔权杖技能组"): (
         primary: "common.abilities.sceptre.lifestealbeam",
-        secondary: "common.abilities.sceptre.healingauraepic",
+        secondary: "common.abilities.sceptre.恶魔之根-提升奶量",
         abilities: [
             (Some(Sceptre(UnlockAura)), "common.abilities.sceptre.wardingaura"),
         ],
@@ -246,7 +246,7 @@
         primary: "common.abilities.sceptre.lifestealbeam",
         secondary: "common.abilities.sceptre.healingaura",
         abilities: [
-            (Some(Sceptre(UnlockAura)), "common.abilities.sceptre.wardingauraepic"),
+            (Some(Sceptre(UnlockAura)), "common.abilities.sceptre.灵魂权杖-提升防御"),
         ],
     ),
     Custom("理智的摧残者权杖技能组"): (
@@ -262,7 +262,7 @@
         secondary: "common.abilities.sceptre.healingaura",
         abilities: [
             (Some(Sceptre(UnlockAura)), "common.abilities.sceptre.wardingaura"),
-            (Some(Sceptre(UnlockAura)), "common.abilities.sceptre.wardingauraexmp"),
+            (Some(Sceptre(UnlockAura)), "common.abilities.sceptre.魔法权杖-提升蓝量"),
         ],
     ),
     Custom("神使权杖技能组"): (
@@ -270,7 +270,7 @@
         secondary: "common.abilities.sceptre.healingaura",
         abilities: [
             (Some(Sceptre(UnlockAura)), "common.abilities.sceptre.wardingaura"),
-            (Some(Sceptre(UnlockAura)), "common.abilities.sceptre.wardingauraexhp"),
+            (Some(Sceptre(UnlockAura)), "common.abilities.sceptre.神使权杖-提升血量"),
         ],
     ),
     Tool(Dagger): (
