@@ -22,7 +22,7 @@
     // 2-4个破布
     (0.2, ItemQuantity("common.items.crafting_ing.mindflayer_bag_damaged",2,3)),
     // 无敌药水
-    (0.3, ItemQuantity("common.items.boss_drops.xp_potion",1,5)),
+    (0.3, ItemQuantity("common.items.boss_drops.无敌药水",1,5)),
     // 破布
     (0.4, Item("common.items.crafting_ing.mindflayer_bag_damaged")),
     // 白金币

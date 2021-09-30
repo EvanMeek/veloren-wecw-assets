@@ -4,9 +4,9 @@
     // 守护项链
     (0.1, Item("common.items.WECW.neck.highneck2")),
     // 生命之息
-    (0.26, ItemQuantity("common.items.boss_drops.potions", 5, 30)),
+    (0.26, ItemQuantity("common.items.boss_drops.生命之息", 5, 30)),
     // 能量药水
-    (0.26, ItemQuantity("common.items.boss_drops.exp_flask", 5, 30)),
+    (0.26, ItemQuantity("common.items.boss_drops.能量药水", 5, 30)),
     // 冰冷的碎片
     (0.4, ItemQuantity("common.items.crafting_ing.animal_misc.icy_fang", 45, 90)),
     // 蓝色系列武器

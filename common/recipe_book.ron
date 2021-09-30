@@ -722,10 +722,10 @@
         is_recycling: false,
     ),
     "potion_exg": (
-        output: ("common.items.boss_drops.xp_potion", 1),
+        output: ("common.items.boss_drops.无敌药水", 1),
         inputs: [
-            (Item("common.items.boss_drops.potions"), 3),
-            (Item("common.items.boss_drops.exp_flask"), 3),
+            (Item("common.items.boss_drops.精品生命之息"), 3),
+            (Item("common.items.boss_drops.精品能量药水"), 3),
             (Item("common.items.crafting_ing.empty_vial"), 1),
             (Item("common.items.crafting_ing.honey"), 3),
             (Item("common.items.mineral.ore.veloritefrag"), 5),

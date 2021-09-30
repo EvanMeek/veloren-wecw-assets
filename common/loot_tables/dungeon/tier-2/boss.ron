@@ -18,9 +18,9 @@
     // 守护
     (0.2, Item("common.items.WECW.neck.highneck2")),
     // 生命之息
-    (0.3, ItemQuantity("common.items.boss_drops.potions", 5, 20)),
+    (0.3, ItemQuantity("common.items.boss_drops.生命之息", 5, 20)),
     // 能量之息
-    (0.3, ItemQuantity("common.items.boss_drops.exp_flask", 5, 20)),
+    (0.3, ItemQuantity("common.items.boss_drops.能量药水", 5, 20)),
     // 青柠提灯
     (0.35, Item("common.items.lantern.green_0")),
     // 白金币

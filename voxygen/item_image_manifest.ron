@@ -93,15 +93,23 @@
             "voxel.object.potion_green",
             (0.0, 0.0, 0.0), (-50.0, 30.0, 20.0), 0.9,
         ),
-        Consumable("common.items.boss_drops.potions"): VoxTrans(
+        Consumable("common.items.boss_drops.精品生命之息"): VoxTrans(
             "voxel.object.potion_blue",
             (0.0, 0.0, 0.0), (-50.0, 30.0, 20.0), 0.9,
         ),
-        Consumable("common.items.boss_drops.exp_flask"): VoxTrans(
+        Consumable("common.items.boss_drops.精品能量药水"): VoxTrans(
             "voxel.object.potion_blue",
             (0.0, 0.0, 0.0), (-50.0, 30.0, 20.0), 0.9,
         ),
-        Consumable("common.items.boss_drops.xp_potion"): VoxTrans(
+        Consumable("common.items.boss_drops.生命之息"): VoxTrans(
+            "voxel.object.potion_blue",
+            (0.0, 0.0, 0.0), (-50.0, 30.0, 20.0), 0.9,
+        ),
+        Consumable("common.items.boss_drops.能量药水"): VoxTrans(
+            "voxel.object.potion_blue",
+            (0.0, 0.0, 0.0), (-50.0, 30.0, 20.0), 0.9,
+        ),
+        Consumable("common.items.boss_drops.无敌药水"): VoxTrans(
             "voxel.object.potion_purp",
             (0.0, 0.0, 0.0), (-50.0, 30.0, 20.0), 0.9,
         ),
@@ -2556,10 +2564,10 @@
             "voxel.object.potion_red",
             (0.0, 0.0, 0.0), (-50.0, 30.0, 20.0), 0.9,
         ),
-        Consumable("common.items.boss_drops.potions"): VoxTrans(
-            "voxel.object.potion_red",
-            (0.0, 0.0, 0.0), (-50.0, 30.0, 20.0), 0.9,
-        ),
+        //Consumable("common.items.boss_drops.精品生命之息"): VoxTrans(
+        //    "voxel.object.potion_red",
+        //    (0.0, 0.0, 0.0), (-50.0, 30.0, 20.0), 0.9,
+        //),
         Consumable("common.items.food.cheese"): Png(
             "element.items.item_cheese",
         ),

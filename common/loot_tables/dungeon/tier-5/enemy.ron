@@ -3,8 +3,8 @@
     (0.003, Item("common.items.crafting_ing.hide.dragon_scale")),
     (0.05, Item("common.items.armor.misc.back.backpack")),
     (0.05, LootTable("common.loot_tables.weapons.tier-5")),
-    (0.1, Item("common.items.boss_drops.potions")),
-    (0.1, Item("common.items.boss_drops.exp_flask")),
+    (0.1, Item("common.items.boss_drops.精品生命之息")),
+    (0.1, Item("common.items.boss_drops.精品能量药水")),
     (0.5, Item("common.items.food.cheese")),
     (1.0, ItemQuantity("common.items.utility.coins",300,900)),
 ]
