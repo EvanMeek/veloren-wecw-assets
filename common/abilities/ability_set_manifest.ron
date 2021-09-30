@@ -199,18 +199,25 @@
             (Some(Staff(UnlockShockwave)), "common.abilities.staff.fireshockwave"),
         ],
     ),
-    Custom("凤凰之杖技能组"): (
-        primary: "common.abilities.staff.firebomb_damage",
-        secondary: "common.abilities.staff.flamethrower",
+    Custom("龙舌技能组"): (
+        primary: "common.abilities.staff.龙舌火球",
+        secondary: "common.abilities.staff.龙舌火焰",
         abilities: [
-            (Some(Staff(UnlockShockwave)), "common.abilities.staff.fireshockwaveg"),
+            (Some(Staff(UnlockShockwave)), "common.abilities.staff.龙舌火环"),
+        ],
+    ),
+    Custom("凤凰之杖技能组"): (
+        primary: "common.abilities.staff.凤凰火球",
+        secondary: "common.abilities.staff.凤凰火焰",
+        abilities: [
+            (Some(Staff(UnlockShockwave)), "common.abilities.staff.凤凰火环"),
         ],
     ),
     Custom("灾厄之杖技能组"): (
-        primary: "common.abilities.staff.firebomb_speed",
-        secondary: "common.abilities.staff.flamethrowerg",
+        primary: "common.abilities.staff.灾厄火球",
+        secondary: "common.abilities.staff.灾厄火焰",
         abilities: [
-            (Some(Staff(UnlockShockwave)), "common.abilities.staff.fireshockwave"),
+            (Some(Staff(UnlockShockwave)), "common.abilities.staff.龙舌火环"),
         ],
     ),
     Custom("奥拉西斯技能组"): (
