@@ -32,6 +32,6 @@ UPDATE item SET item_definition_id= "common.items.WECW.白金币" WHERE item_def
 UPDATE item SET item_definition_id= "common.items.WECW.暗金币" WHERE item_definition_id="common.items.WECW.coins3";
 
 -- 药水
-UPDATE item SET item_definition_id= "commn.items.boss_drops.精品生命之息" WHERE item_definition_id="common.items.boss_drops.potions";
-UPDATE item SET item_definition_id= "commn.items.boss_drops.精品能量药水" WHERE item_definition_id="common.items.boss_drops.exp_flask";
-UPDATE item SET item_definition_id= "commn.items.boss_drops.无敌药水" WHERE item_definition_id="common.items.boss_drops.xp_potion";
+UPDATE item SET item_definition_id= "common.items.boss_drops.精品生命之息" WHERE item_definition_id="common.items.boss_drops.potions";
+UPDATE item SET item_definition_id= "common.items.boss_drops.精品能量药水" WHERE item_definition_id="common.items.boss_drops.exp_flask";
+UPDATE item SET item_definition_id= "common.items.boss_drops.无敌药水" WHERE item_definition_id="common.items.boss_drops.xp_potion";
