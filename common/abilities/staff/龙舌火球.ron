@@ -8,7 +8,7 @@ BasicRanged(
         energy_regen: 15.0,
     ),
     projectile_body: Object(BoltFire),
-    projectile_speed: 60.0,
+    projectile_speed: 100.0,
     num_projectiles: 1,
     projectile_spread: 0.0,
 )
