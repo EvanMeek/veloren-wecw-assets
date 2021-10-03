@@ -1,7 +1,7 @@
 // 伤害高，攻击速慢，攻击范围小
 BasicRanged(
     energy_cost: 40.0,
-    buildup_duration: 0.525,
+    buildup_duration: 0.425,
     recover_duration: 0.125,
     projectile: Fireball(
         damage: 60.0,
