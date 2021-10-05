@@ -224,6 +224,18 @@
             "voxel.armor.warlordG.埃尔安多",
             (1.0, -1.0, 0.0), (-135.0, 90.0, 0.0), 1.1,
         ),
+        Tool("common.items.WECW.暗影之斧"): VoxTrans(
+            "voxel.armor.warlordG.暗影之斧",
+            (1.0, -1.0, 0.0), (-135.0, 90.0, 0.0), 1.1,
+        ),
+        Tool("common.items.WECW.shen"): VoxTrans(
+            "voxel.armor.warlordG.shen",
+            (1.0, -1.0, 0.0), (-135.0, 90.0, 0.0), 1.1,
+        ),
+        Tool("common.items.WECW.a"): VoxTrans(
+            "voxel.armor.warlordG.a",
+            (1.0, -1.0, 0.0), (-135.0, 90.0, 0.0), 1.1,
+        ),
         Tool("common.items.WECW.风暴大剑"): VoxTrans(
             "voxel.armor.warlordG.风暴大剑",
             (1.0, -1.0, 0.0), (-135.0, 90.0, 0.0), 1.1,
