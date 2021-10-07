@@ -1,0 +1,10 @@
+ItemDef(
+    name: "蓝金币",
+    description: "用于玩家之间交易的货币，在合成表里兑换，蓝金币兑换金币比例是1:100.",
+    kind: Ingredient(
+        kind: "Coins2",
+    ),
+    quality: High,
+    tags: [],
+)
+

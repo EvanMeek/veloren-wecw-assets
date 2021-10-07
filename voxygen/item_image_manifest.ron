@@ -125,6 +125,10 @@
             "voxel.armor.warlordG.白金币",
             (0.0, 0.0, 0.0), (-10.0, 15.0, 0.0), 0.8,
         ),
+        Ingredient("Coins2"): VoxTrans(
+            "voxel.armor.warlordG.蓝金币",
+            (0.0, 0.0, 0.0), (-10.0, 15.0, 0.0), 0.8,
+        ),
         Ingredient("Coins3"):  VoxTrans(
             "voxel.armor.warlordG.暗金币",
             (0.0, 0.0, 0.0), (-10.0, 15.0, 0.0), 0.8,
