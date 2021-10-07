@@ -509,6 +509,22 @@
     // ==========================================================================
 
     // ===================================觉醒===================================
+    "无尽深渊": (
+        output: ("common.items.WECW.无尽深渊", 1),
+        inputs: [
+            (Item("common.items.WECW.暗符文"), 3),
+            (Item("common.items.WECW.暗金币"), 3),
+            (Item("common.items.weapons.axe.malachite_axe-0"), 1),
+            (Item("common.items.WECW.深蓝使者"), 1),
+            (Item("common.items.crafting_ing.hide.dragon_scale"), 5),
+            (Item("common.items.crafting_ing.mindflayer_bag_damaged"), 20),
+            (Item("common.items.mineral.gem.amethyst"), 3000),
+            (Item("common.items.mineral.gem.diamond"), 1000),
+            (Item("common.items.tool.craftsman_hammer"), 0),
+        ],
+        craft_sprite: Some(Anvil),
+        is_recycling: false,
+    ),
     "灵魂风暴": (
         output: ("common.items.WECW.灵魂风暴", 1),
         inputs: [
