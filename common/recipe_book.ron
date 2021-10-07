@@ -223,6 +223,54 @@
         craft_sprite: None,
         is_recycling: true,
     ),
+    "蓝金币x1": (
+        output: ("common.items.WECW.蓝金币", 1),
+        inputs: [
+            (Item("common.items.utility.coins"), 100),
+        ],
+        craft_sprite: None,
+        is_recycling: false,
+    ),
+    "蓝金币x10": (
+        output: ("common.items.WECW.蓝金币", 10),
+        inputs: [
+            (Item("common.items.utility.coins"), 10000),
+        ],
+        craft_sprite: None,
+        is_recycling: false,
+    ),
+    "蓝金币x100": (
+        output: ("common.items.WECW.蓝金币", 100),
+        inputs: [
+            (Item("common.items.utility.coins"), 100000),
+        ],
+        craft_sprite: None,
+        is_recycling: false,
+    ),
+    "蓝金币to白金币x1": (
+        output: ("common.items.WECW.白金币", 1),
+        inputs: [
+            (Item("common.items.WECW.蓝金币"), 10),
+        ],
+        craft_sprite: None,
+        is_recycling: false,
+    ),
+    "蓝金币to白金币x10": (
+        output: ("common.items.WECW.白金币", 10),
+        inputs: [
+            (Item("common.items.WECW.蓝金币"), 100),
+        ],
+        craft_sprite: None,
+        is_recycling: false,
+    ),
+    "蓝金币to白金币x100": (
+        output: ("common.items.WECW.白金币", 100),
+        inputs: [
+            (Item("common.items.WECW.蓝金币"), 1000),
+        ],
+        craft_sprite: None,
+        is_recycling: false,
+    ),
     "Platinum_Coins": (
         output: ("common.items.WECW.白金币", 1),
         inputs: [
