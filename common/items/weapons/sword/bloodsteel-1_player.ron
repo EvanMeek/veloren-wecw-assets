@@ -16,5 +16,5 @@ ItemDef(
         )),
     )),
     quality: High,
-    tags: [],
+	tags: [],
 )

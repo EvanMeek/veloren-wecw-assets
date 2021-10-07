@@ -4,7 +4,7 @@
     "金符文": (
         output: ("common.items.WECW.金符文", 1),
         inputs: [
-            (Item("common.items.WECW.暗金币"), 10),
+            (Item("common.items.WECW.暗金币"), 5),
         ],
         craft_sprite: None,
         is_recycling: true,
@@ -12,7 +12,7 @@
     "木符文": (
         output: ("common.items.WECW.木符文", 1),
         inputs: [
-            (Item("common.items.WECW.暗金币"), 10),
+            (Item("common.items.WECW.暗金币"), 5),
         ],
         craft_sprite: None,
         is_recycling: true,
@@ -20,7 +20,7 @@
     "水符文": (
         output: ("common.items.WECW.水符文", 1),
         inputs: [
-            (Item("common.items.WECW.暗金币"), 10),
+            (Item("common.items.WECW.暗金币"), 5),
         ],
         craft_sprite: None,
         is_recycling: true,
@@ -28,7 +28,7 @@
     "火符文": (
         output: ("common.items.WECW.火符文", 1),
         inputs: [
-            (Item("common.items.WECW.暗金币"), 10),
+            (Item("common.items.WECW.暗金币"), 5),
         ],
         craft_sprite: None,
         is_recycling: true,
@@ -36,7 +36,7 @@
     "土符文": (
         output: ("common.items.WECW.土符文", 1),
         inputs: [
-            (Item("common.items.WECW.暗金币"), 10),
+            (Item("common.items.WECW.暗金币"), 5),
         ],
         craft_sprite: None,
         is_recycling: true,
@@ -44,25 +44,7 @@
     "暗符文": (
         output: ("common.items.WECW.暗符文", 1),
         inputs: [
-            (Item("common.items.WECW.暗金币"), 10),
-        ],
-        craft_sprite: None,
-        is_recycling: true,
-    ),
-    // 月钟花
-    "moonbell": (
-        output: ("common.items.utility.coins", 500),
-        inputs: [
-            (Item("common.items.flowers.moonbell"), 1),
-        ],
-        craft_sprite: None,
-        is_recycling: true,
-    ),
-    // 热水华
-    "pyrebloom": (
-        output: ("common.items.utility.coins", 500),
-        inputs: [
-            (Item("common.items.flowers.pyrebloom"), 1),
+            (Item("common.items.WECW.暗金币"), 5),
         ],
         craft_sprite: None,
         is_recycling: true,
@@ -99,126 +81,6 @@
         output: ("common.items.lantern.green_0", 1),
         inputs: [
             (Item("common.items.WECW.白金币"), 199),
-        ],
-        craft_sprite: None,
-        is_recycling: true,
-    ),
-    "Sell_Cultist_Ring": (
-        output: ("common.items.WECW.白金币", 5),
-        inputs: [
-            (Item("common.items.armor.misc.ring.skull"), 1),
-        ],
-        craft_sprite: None,
-        is_recycling: true,
-    ),
-    "Sell_Gold_Ring": (
-        output: ("common.items.utility.coins", 350),
-        inputs: [
-            (Item("common.items.armor.misc.ring.gold"), 1),
-        ],
-        craft_sprite: None,
-        is_recycling: true,
-    ),
-    "Sell_Cultist_Back": (
-        output: ("common.items.WECW.白金币", 5),
-        inputs: [
-            (Item("common.items.armor.misc.back.dungeon_purple"), 1),
-        ],
-        craft_sprite: None,
-        is_recycling: true,
-    ),
-    "Sell_Neck_1": (
-        output: ("common.items.utility.coins", 350),
-        inputs: [
-            (Item("common.items.armor.misc.neck.plain_1"), 1),
-        ],
-        craft_sprite: None,
-        is_recycling: true,
-    ),
-    "Sell_gold": (
-        output: ("common.items.WECW.白金币", 1),
-        inputs: [
-            (Item("common.items.mineral.ore.gold"), 1),
-        ],
-        craft_sprite: None,
-        is_recycling: true,
-    ),
-    "Sell_silver": (
-        output: ("common.items.WECW.白金币", 1),
-        inputs: [
-            (Item("common.items.mineral.ore.silver"), 1),
-        ],
-        craft_sprite: None,
-        is_recycling: true,
-    ),
-    "Sell_bloodstone": (
-        output: ("common.items.WECW.白金币", 1),
-        inputs: [
-            (Item("common.items.mineral.ore.bloodstone"), 1),
-        ],
-        craft_sprite: None,
-        is_recycling: true,
-    ),
-    "Sell_cobalt": (
-        output: ("common.items.utility.coins", 300),
-        inputs: [
-            (Item("common.items.mineral.ore.cobalt"), 1),
-        ],
-        craft_sprite: None,
-        is_recycling: true,
-    ),
-    "Sell_iron": (
-        output: ("common.items.utility.coins", 150),
-        inputs: [
-            (Item("common.items.mineral.ore.iron"), 1),
-        ],
-        craft_sprite: None,
-        is_recycling: true,
-    ),
-    "Sell_Diamond": (
-        output: ("common.items.WECW.白金币", 1),
-        inputs: [
-            (Item("common.items.mineral.gem.diamond"), 1),
-        ],
-        craft_sprite: None,
-        is_recycling: true,
-    ),
-    "Sell_Ruby": (
-        output: ("common.items.utility.coins", 300),
-        inputs: [
-            (Item("common.items.mineral.gem.ruby"), 1),
-        ],
-        craft_sprite: None,
-        is_recycling: true
-    ),
-    "Sell_Emerald": (
-        output: ("common.items.utility.coins", 200),
-        inputs: [
-            (Item("common.items.mineral.gem.emerald"), 1),
-        ],
-        craft_sprite: None,
-        is_recycling: true,
-    ),
-    "Sell_Sapphire": (
-        output: ("common.items.utility.coins", 100),
-        inputs: [
-            (Item("common.items.mineral.gem.sapphire"), 1),
-        ],
-        craft_sprite: None,
-        is_recycling: true,
-    ),
-    "Sell_Amethyst": (
-        output: ("common.items.utility.coins", 50),
-        inputs: [
-            (Item("common.items.mineral.gem.amethyst"), 1),
-        ],
-        craft_sprite: None,
-        is_recycling: true,
-    ),
-    "Sell_Topaz": (
-        output: ("common.items.utility.coins", 50),
-        inputs: [
-            (Item("common.items.mineral.gem.topaz"), 1),
         ],
         craft_sprite: None,
         is_recycling: true,
@@ -354,114 +216,172 @@
     // ==========================================================================
 
     // ===================================回收===================================
-    "damaged1": (
-        output: ("common.items.crafting_ing.mindflayer_bag_damaged", 1),
-        inputs: [
-            (Item("common.items.armor.misc.bag.heavy_seabag"), 3),
-        ],
-        craft_sprite: None,
-        is_recycling: true,
-    ),
-    "damaged2": (
-        output: ("common.items.crafting_ing.mindflayer_bag_damaged", 1),
-        inputs: [
-            (Item("common.items.WECW.neck.highneck"), 2),
-        ],
-        craft_sprite: None,
-        is_recycling: true,
-    ),
-    "damaged3": (
-        output: ("common.items.crafting_ing.mindflayer_bag_damaged", 1),
-        inputs: [
-            (Item("common.items.WECW.neck.highneck2"), 2),
-        ],
-        craft_sprite: None,
-        is_recycling: true,
-    ),
-    "damaged4": (
-        output: ("common.items.crafting_ing.mindflayer_bag_damaged", 1),
-        inputs: [
-            (Item("common.items.weapons.sceptre.sceptre_velorite_0"), 1),
-        ],
-        craft_sprite: None,
-        is_recycling: true,
-    ),
-    "damaged5": (
-        output: ("common.items.crafting_ing.mindflayer_bag_damaged", 1),
-        inputs: [
-            (Item("common.items.weapons.axe.malachite_axe-0_player"), 1),
-        ],
-        craft_sprite: None,
-        is_recycling: true,
-    ),
-    "damaged6": (
-        output: ("common.items.crafting_ing.mindflayer_bag_damaged", 1),
-        inputs: [
-            (Item("common.items.weapons.bow.velorite_player"), 1),
-        ],
-        craft_sprite: None,
-        is_recycling: true,
-    ),
-    "damaged7": (
-        output: ("common.items.crafting_ing.mindflayer_bag_damaged", 1),
-        inputs: [
-            (Item("common.items.weapons.hammer.cultist_purp_2h-0_player"), 1),
-        ],
-        craft_sprite: None,
-        is_recycling: true,
-    ),
-    "damaged8": (
-        output: ("common.items.crafting_ing.mindflayer_bag_damaged", 1),
-        inputs: [
-            (Item("common.items.weapons.staff.cultist_staff_player"), 1),
-        ],
-        craft_sprite: None,
-        is_recycling: true,
-    ),
-    "damaged9": (
-        output: ("common.items.crafting_ing.mindflayer_bag_damaged", 1),
-        inputs: [
-            (Item("common.items.weapons.sword.cultist_player"), 1),
-        ],
-        craft_sprite: None,
-        is_recycling: true,
-    ),
-    "damaged10": (
-        output: ("common.items.crafting_ing.mindflayer_bag_damaged", 1),
-        inputs: [
-            (Item("common.items.WECW.sp.back"), 1),
-        ],
-        craft_sprite: None,
-        is_recycling: true,
-    ),
-    "dragon1": (
+    "传说回收": (
         output: ("common.items.crafting_ing.hide.dragon_scale", 1),
         inputs: [
-            (Item("common.items.weapons.sceptre.caduceus"), 1),
+            (Tag(LegendarySell),1),
         ],
         craft_sprite: None,
         is_recycling: true,
     ),
-    "dragon2": (
-        output: ("common.items.crafting_ing.hide.dragon_scale", 1),
+    "史诗回收": (
+        output: ("common.items.WECW.蓝金币", 10),
         inputs: [
-            (Item("common.items.weapons.sceptre.root_evil"), 1),
+            (Tag(EpicSell),1),
         ],
         craft_sprite: None,
         is_recycling: true,
     ),
-    "dragon3": (
-        output: ("common.items.crafting_ing.hide.dragon_scale", 1),
+    "高级回收": (
+        output: ("common.items.WECW.蓝金币", 2),
         inputs: [
-            (Item("common.items.weapons.staff.laevateinn"), 1),
+            (Tag(HighSell),1),
         ],
         craft_sprite: None,
         is_recycling: true,
     ),
-    "dragon4": (
-        output: ("common.items.crafting_ing.hide.dragon_scale", 1),
+    "罕见回收": (
+        output: ("common.items.WECW.蓝金币", 1),
         inputs: [
-            (Item("common.items.weapons.staff.phoenix"), 1),
+            (Tag(ModerateSell),1),
+        ],
+        craft_sprite: None,
+        is_recycling: true,
+    ),
+    // 月钟花
+    "moonbell": (
+        output: ("common.items.utility.coins", 500),
+        inputs: [
+            (Item("common.items.flowers.moonbell"), 1),
+        ],
+        craft_sprite: None,
+        is_recycling: true,
+    ),
+    // 热水华
+    "pyrebloom": (
+        output: ("common.items.utility.coins", 500),
+        inputs: [
+            (Item("common.items.flowers.pyrebloom"), 1),
+        ],
+        craft_sprite: None,
+        is_recycling: true,
+    ),
+    "诅咒之戒": (
+        output: ("common.items.WECW.白金币", 5),
+        inputs: [
+            (Item("common.items.armor.misc.ring.skull"), 1),
+        ],
+        craft_sprite: None,
+        is_recycling: true,
+    ),
+    "金戒指": (
+        output: ("common.items.utility.coins", 350),
+        inputs: [
+            (Item("common.items.armor.misc.ring.gold"), 1),
+        ],
+        craft_sprite: None,
+        is_recycling: true,
+    ),
+    "诅咒披风": (
+        output: ("common.items.WECW.白金币", 5),
+        inputs: [
+            (Item("common.items.armor.misc.back.dungeon_purple"), 1),
+        ],
+        craft_sprite: None,
+        is_recycling: true,
+    ),
+    "宝石项链": (
+        output: ("common.items.utility.coins", 350),
+        inputs: [
+            (Item("common.items.armor.misc.neck.plain_1"), 1),
+        ],
+        craft_sprite: None,
+        is_recycling: true,
+    ),
+    "金矿": (
+        output: ("common.items.WECW.白金币", 1),
+        inputs: [
+            (Item("common.items.mineral.ore.gold"), 1),
+        ],
+        craft_sprite: None,
+        is_recycling: true,
+    ),
+    "银矿": (
+        output: ("common.items.WECW.白金币", 1),
+        inputs: [
+            (Item("common.items.mineral.ore.silver"), 1),
+        ],
+        craft_sprite: None,
+        is_recycling: true,
+    ),
+    "血石矿": (
+        output: ("common.items.WECW.白金币", 1),
+        inputs: [
+            (Item("common.items.mineral.ore.bloodstone"), 1),
+        ],
+        craft_sprite: None,
+        is_recycling: true,
+    ),
+    "钴矿": (
+        output: ("common.items.utility.coins", 300),
+        inputs: [
+            (Item("common.items.mineral.ore.cobalt"), 1),
+        ],
+        craft_sprite: None,
+        is_recycling: true,
+    ),
+    "铁矿": (
+        output: ("common.items.utility.coins", 150),
+        inputs: [
+            (Item("common.items.mineral.ore.iron"), 1),
+        ],
+        craft_sprite: None,
+        is_recycling: true,
+    ),
+    "钻石": (
+        output: ("common.items.WECW.白金币", 1),
+        inputs: [
+            (Item("common.items.mineral.gem.diamond"), 1),
+        ],
+        craft_sprite: None,
+        is_recycling: true,
+    ),
+    "红宝石": (
+        output: ("common.items.utility.coins", 300),
+        inputs: [
+            (Item("common.items.mineral.gem.ruby"), 1),
+        ],
+        craft_sprite: None,
+        is_recycling: true
+    ),
+    "翡翠": (
+        output: ("common.items.utility.coins", 200),
+        inputs: [
+            (Item("common.items.mineral.gem.emerald"), 1),
+        ],
+        craft_sprite: None,
+        is_recycling: true,
+    ),
+    "蓝宝石": (
+        output: ("common.items.utility.coins", 100),
+        inputs: [
+            (Item("common.items.mineral.gem.sapphire"), 1),
+        ],
+        craft_sprite: None,
+        is_recycling: true,
+    ),
+    "紫水晶": (
+        output: ("common.items.utility.coins", 50),
+        inputs: [
+            (Item("common.items.mineral.gem.amethyst"), 1),
+        ],
+        craft_sprite: None,
+        is_recycling: true,
+    ),
+    "黄宝石": (
+        output: ("common.items.utility.coins", 50),
+        inputs: [
+            (Item("common.items.mineral.gem.topaz"), 1),
         ],
         craft_sprite: None,
         is_recycling: true,

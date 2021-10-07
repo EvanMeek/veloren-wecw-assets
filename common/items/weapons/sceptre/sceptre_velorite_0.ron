@@ -16,6 +16,6 @@ ItemDef(
         )),
     )),
     quality: Epic,
-    tags: [],
+	tags: [EpicSell],
     ability_spec: Some(Custom("魔法权杖技能组")),
 )

@@ -16,6 +16,6 @@ ItemDef(
         )),
     )),
     quality: High,
-    tags: [],
+	tags: [HighSell],
     ability_spec: None,
 )
