@@ -228,12 +228,8 @@
             "voxel.armor.warlordG.暗影之斧",
             (1.0, -1.0, 0.0), (-135.0, 90.0, 0.0), 1.1,
         ),
-        Tool("common.items.WECW.shen"): VoxTrans(
-            "voxel.armor.warlordG.shen",
-            (1.0, -1.0, 0.0), (-135.0, 90.0, 0.0), 1.1,
-        ),
-        Tool("common.items.WECW.a"): VoxTrans(
-            "voxel.armor.warlordG.a",
+        Tool("common.items.WECW.无尽深渊"): VoxTrans(
+            "voxel.armor.warlordG.无尽深渊",
             (1.0, -1.0, 0.0), (-135.0, 90.0, 0.0), 1.1,
         ),
         Tool("common.items.WECW.风暴大剑"): VoxTrans(

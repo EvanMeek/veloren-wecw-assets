@@ -55,12 +55,8 @@
         vox_spec: ("armor.warlordG.暗影之斧", (-3.5, -14.0, -10.0)),
         color: None
     ),
-    "common.items.WECW.shen": (
-        vox_spec: ("armor.warlordG.shen", (-2.5, -10.0, -5.0)),
-        color: None
-    ),
-    "common.items.WECW.a": (
-        vox_spec: ("armor.warlordG.a", (-3.5, -10.0, -10.0)),
+    "common.items.WECW.无尽深渊": (
+        vox_spec: ("armor.warlordG.无尽深渊", (-3.5, -12.5, -5.0)),
         color: None
     ),
     "common.items.WECW.风暴使者": (
