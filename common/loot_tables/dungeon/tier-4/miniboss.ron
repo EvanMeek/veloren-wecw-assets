@@ -1,7 +1,7 @@
 [
     // weapons
+    (0.008, Item("common.items.WECW.金符文")),
     (0.01, Item("common.items.WECW.暗金巨像刃")),
-    (0.015, Item("common.items.WECW.金符文")),
     // materials
     (0.5, ItemQuantity("common.items.consumable.potion_med", 5, 10)),
     (0.5, Item("common.items.armor.misc.back.dungeon_purple")),

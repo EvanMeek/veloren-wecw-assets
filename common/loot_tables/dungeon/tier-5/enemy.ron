@@ -1,5 +1,5 @@
 [
-    (0.003, Item("common.items.WECW.暗符文")),
+    (0.002, Item("common.items.WECW.暗符文")),
     (0.003, Item("common.items.crafting_ing.hide.dragon_scale")),
     (0.05, Item("common.items.armor.misc.back.backpack")),
     (0.05, LootTable("common.loot_tables.weapons.tier-5")),

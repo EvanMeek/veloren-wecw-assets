@@ -1,5 +1,5 @@
 [
-    (0.015, Item("common.items.WECW.暗符文")),
+    (0.008, Item("common.items.WECW.暗符文")),
     (0.035, Item("common.items.crafting_ing.hide.dragon_scale")),
     (0.05, Item("common.items.crafting_ing.mindflayer_bag_damaged")),
     (0.05, LootTable("common.loot_tables.weapons.epic")),
