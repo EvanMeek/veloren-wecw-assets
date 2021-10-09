@@ -515,7 +515,7 @@
             (Item("common.items.WECW.暗符文"), 3),
             (Item("common.items.WECW.金符文"), 3),
             (Item("common.items.WECW.暗金币"), 10),
-            (Item("common.items.weapons.axe.malachite_axe-0"), 1),
+            (Item("common.items.weapons.axe.malachite_axe-0_player"), 1),
             (Item("common.items.WECW.深蓝使者"), 1),
             (Item("common.items.WECW.暗金切割者"), 2),
             (Item("common.items.crafting_ing.hide.dragon_scale"), 15),
