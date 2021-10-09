@@ -225,7 +225,7 @@
         is_recycling: true,
     ),
     "史诗回收": (
-        output: ("common.items.WECW.蓝金币", 10),
+        output: ("common.items.WECW.蓝金币", 1500),
         inputs: [
             (Tag(EpicSell),1),
         ],
@@ -233,7 +233,7 @@
         is_recycling: true,
     ),
     "高级回收": (
-        output: ("common.items.WECW.蓝金币", 2),
+        output: ("common.items.WECW.蓝金币", 5),
         inputs: [
             (Tag(HighSell),1),
         ],
