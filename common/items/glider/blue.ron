@@ -1,0 +1,11 @@
+ItemDef(
+    name: "Blue Falcon",
+    description: "Sky colored.",
+    kind: Glider(
+        (
+            kind: "Blue0",
+        ),
+    ),
+    quality: High,
+    tags: [],
+)
