@@ -4,7 +4,7 @@ EntityConfig (
     alignment: Alignment(Npc),
 
     // considering giving some gold/gems/materials?
-    loot: Uninit,
+    loot: Nothing,
 
     hands: TwoHanded(Item("common.items.weapons.bow.eldwood-0")),
 

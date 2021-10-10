@@ -3,7 +3,7 @@ EntityConfig (
     body: RandomWith("lion"),
     alignment: Alignment(Enemy),
 
-    loot: Uninit,
+    loot: Nothing,
 
     hands: Uninit,
 
