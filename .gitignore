@@ -1,3 +1,4 @@
+voxygen/voxel/sprite/mineral/
 .DS_Store
 .idea
 *.log
@@ -5,4 +6,3 @@
 *.rar
 *.7z
 tmp/
-voxygen/voxel/sprite/mineral/
