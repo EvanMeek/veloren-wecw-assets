@@ -16,6 +16,6 @@ ItemDef(
         )),
     )),
     quality: Artifact,
-    tags: [],
+	tags: [ArtifactSell],
     ability_spec: None,
 )
