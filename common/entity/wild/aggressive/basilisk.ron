@@ -1,5 +1,5 @@
 EntityConfig (
-    name: "紫晶兽",
+    name: Name("紫晶兽"),
     body: RandomWith("basilisk"),
     alignment: Alignment(Enemy),
 
