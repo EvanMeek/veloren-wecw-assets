@@ -1,6 +1,6 @@
 EntityConfig (
     name: Automatic,
-    body: RandomWith("basilisk"),
+    body: RandomWith("紫晶兽"),
     alignment: Alignment(Enemy),
 
     loot: LootTable("common.loot_tables.creature.quad_low.basilisk"),
