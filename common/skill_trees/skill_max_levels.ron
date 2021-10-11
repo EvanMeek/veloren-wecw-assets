@@ -77,7 +77,7 @@
     Climb(Cost): Some(2),
     Climb(Speed): Some(2),
     Swim(Speed): Some(2),
-    Pick(Speed): Some(5),
-    Pick(OreGain): Some(3),
-    Pick(GemGain): Some(3),
+    Pick(Speed): Some(10),
+    Pick(OreGain): Some(10),
+    Pick(GemGain): Some(10),
 })
