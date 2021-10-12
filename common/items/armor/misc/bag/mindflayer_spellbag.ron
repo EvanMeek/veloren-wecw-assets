@@ -16,5 +16,5 @@ ItemDef(
     ),
     quality: Epic,
     tags: [Bag],
-    slots: 32,
+    slots: 40,
 )
