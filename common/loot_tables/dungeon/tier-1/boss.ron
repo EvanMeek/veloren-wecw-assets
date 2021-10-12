@@ -1,8 +1,8 @@
 [
     // 祝福项链
-    (0.1, Item("common.items.WECW.neck.highneck")),
+    (0.01, Item("common.items.WECW.neck.highneck")),
     // 守护项链
-    (0.1, Item("common.items.WECW.neck.highneck2")),
+    (0.01, Item("common.items.WECW.neck.highneck2")),
     // 生命之息
     (0.26, ItemQuantity("common.items.boss_drops.生命之息", 1, 3)),
     // 能量药水
