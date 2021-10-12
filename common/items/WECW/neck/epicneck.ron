@@ -4,12 +4,12 @@ ItemDef(
     kind: Armor((
         kind: Neck("epicneck"),
         stats: (
-            protection: Normal(5.0),
-            poise_resilience: Normal(5.0),
-            energy_max: 2.0,
-            energy_reward: 0.1,
-            crit_power: 0.05,
-            stealth: 0.05,
+            protection: Normal(15.0),
+            poise_resilience: Normal(15.0),
+            energy_max: 10.0,
+            energy_reward: 0.3,
+            crit_power: 0.1,
+            stealth: 5,
         ),
     )),
     quality: Legendary,
