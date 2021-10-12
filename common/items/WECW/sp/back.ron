@@ -4,7 +4,7 @@ ItemDef(
     kind: Armor((
         kind: Back("turtle"),
         stats: (
-            protection: Normal(2.0),
+            protection: Normal(5.0),
             poise_resilience: Normal(2.0),
             energy_max: 5.0,
             energy_reward: 0.08,
@@ -14,5 +14,5 @@ ItemDef(
     )),
     quality: Epic,
     tags: [Bag],
-    slots: 18,
+    slots: 25,
 )
