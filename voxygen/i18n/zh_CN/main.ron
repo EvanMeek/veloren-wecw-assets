@@ -38,7 +38,13 @@
 
 你可以通过下面的网站创建用户.
 
-https://veloren.net/account/."#,
+https://veloren.net/account/.
+
+WECW服务器IP地址:
+sadj.tpddns.net
+sadj.tpddns.cn
+
+WECW服务器QQ群: 1137297092"#,
         "main.login.server_not_found": "找不到服务器",
         "main.login.authentication_error": "服务器验证错误",
         "main.login.failed_auth_server_url_invalid": "无法连接到身份验证服务器",
@@ -59,6 +65,12 @@ https://veloren.net/account/."#,
         "main.login.select_language": "选择语言",
 
         "main.servers.select_server": "选择服务器",
+        "main.credits": "贡献者列表",
+        "main.credits.music": "音乐",
+        "main.credits.fonts": "字体",
+        "main.credits.other_art": "其他",
+        "main.credits.contributors": "主要贡献者",
+        "main.credits.created_by": "字体的作者",
         /// End Main screen section
     },
 

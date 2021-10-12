@@ -32,66 +32,110 @@
     ///     notes: "Other information",
     /// )
     /// ```
+    contributors: [
+        (
+            name: "KKY",
+            contributions: "作为WECW服务器的最初管理员于开发组组长，在0.10版本之前大部分体系都是由他建立的。"
+        ),(
+            name: "HGX",
+            contributions: "在0.11版本前期，帮助同步官方配置，还制作了灵魂风暴大剑的模型。"
+        ),(
+            name: "灰狐",
+            contributions: "WECW的美工大师，大量好看，有趣的武器装备模型由灰狐大佬制作。"
+        ),(
+            name: "Frontlin-AKA 狐狸",
+            contributions: "稳定服务器提供者，常常会在半夜帮忙Evan调试服务器，没有狐狸的存在，就不会有WECW服务器。"
+        ),(
+            name: "EvanMeek",
+            contributions: "现版本WECW服务器维护者，AKA老骚逼，国外开发组对线人员。"
+        ),(
+            name: "zesterer",
+        ), (
+            name: "XVar",
+        ), (
+            name: "xMAC94",
+        ), (
+            name: "Timo",
+        ), (
+            name: "Songtronix",
+        ), (
+            name: "Snowram",
+        ), (
+            name: "Slipped",
+        ), (
+            name: "Sharp",
+        ), (
+            name: "Sam",
+        ), (
+            name: "Pfau",
+        ), (
+            name: "imbris",
+        ), (
+            name: "Christof",
+        ), (
+            name: "AngelOnFira",
+        )
+    ],
     music: [],
     fonts: [(
-        name: "Alkhemikal",
-        source_link: "https://fontenddev.com/fonts/alkhemikal/",
-        authors: ["jeti"],
-        asset_path: "voxygen/font/Alkhemikal.ttf",
-        license: "CC BY 4.0",
-        license_link: "https://creativecommons.org/licenses/by/4.0/",
-    ), (
-        name: "bdfUMplus outline",
-        authors: ["hikaen2"],
-        asset_path: "voxygen/font/bdfUMplus-outline.ttf",
-        // License text file included alongside font which should satisfy the requirements.
-        license: "MIT",
-    ), (
-        name: "HaxrCorp 4089 Cyrillic AltGr",
-        source_link: "https://fontstruct.com/fontstructions/show/330387/haxrcorp_4089_cyrillic_altgr",
-        authors: ["sahwar"],
-        asset_path: "voxygen/font/haxrcorp_4089_cyrillic_altgr.ttf",
-        license: "CC BY-SA 3.0",
-        license_link: "https://creativecommons.org/licenses/by-sa/3.0/",
-    ), (
-        name: "HaxrCorp 4089 Cyrillic AltGr Extended",
-        // original
-        source_link: "https://fontstruct.com/fontstructions/show/330387/haxrcorp_4089_cyrillic_altgr",
-        authors: ["sahwar (original)"],
-        asset_path: "voxygen/font/haxrcorp_4089_cyrillic_altgr_extended.ttf",
-        license: "CC BY-SA 3.0",
-        license_link: "https://creativecommons.org/licenses/by-sa/3.0/",
-        modifications: "Added additional characters.",
-        notes: "Derived from HaxrCorp 4089 Cyrillic AltGr",
-    ), (
-        name: "Metamorphous",
-        authors: ["Sorkin Type Co"],
-        asset_path: "voxygen/font/Metamorphous-Regular.ttf",
-        // License appears to be satisfied by inclusion of its text file.
-        license: "OFL",
-        license_link: "https://scripts.sil.org/OFL",
-    ), (
-        name: "Open Sans",
-        authors: [""],
-        asset_path: "voxygen/font/OpenSans-Regular.ttf",
-        // License appears to be satisfied by inclusion of its text file.
-        license: "Apache 2.0",
-        license_link: "http://www.apache.org/licenses/LICENSE-2.0",
-    ), (
-        name: "WenQuanYi Zen Hei",
-        source_link: "http://wenq.org/wqy2/index.cgi?ZenHei%28en%29",
-        authors: ["Qianqian Fang", "WenQuanYi project"],
-        asset_path: "voxygen/font/WenQuanYiZenHei.ttf",
-        license: "GPL2",
-        license_link: "http://wenq.org/wqy2/index.cgi?GPL",
-    ), (
-        name: "Wizard",
-        source_link: "https://fontstruct.com/fontstructions/show/1506403/wizard-5",
-        authors: ["Omegaville"],
-        asset_path: "voxygen/font/wizard.ttf",
-        license: "CC BY-SA 3.0",
-        license_link: "https://creativecommons.org/licenses/by-sa/3.0/",
-    )],
+            name: "Alkhemikal",
+            source_link: "https://fontenddev.com/fonts/alkhemikal/",
+            authors: ["jeti"],
+            asset_path: "voxygen/font/Alkhemikal.ttf",
+            license: "CC BY 4.0",
+            license_link: "https://creativecommons.org/licenses/by/4.0/",
+        ), (
+            name: "bdfUMplus outline",
+            authors: ["hikaen2"],
+            asset_path: "voxygen/font/bdfUMplus-outline.ttf",
+            // License text file included alongside font which should satisfy the requirements.
+            license: "MIT",
+        ), (
+            name: "HaxrCorp 4089 Cyrillic AltGr",
+            source_link: "https://fontstruct.com/fontstructions/show/330387/haxrcorp_4089_cyrillic_altgr",
+            authors: ["sahwar"],
+            asset_path: "voxygen/font/haxrcorp_4089_cyrillic_altgr.ttf",
+            license: "CC BY-SA 3.0",
+            license_link: "https://creativecommons.org/licenses/by-sa/3.0/",
+        ), (
+            name: "HaxrCorp 4089 Cyrillic AltGr Extended",
+            // original
+            source_link: "https://fontstruct.com/fontstructions/show/330387/haxrcorp_4089_cyrillic_altgr",
+            authors: ["sahwar (original)"],
+            asset_path: "voxygen/font/haxrcorp_4089_cyrillic_altgr_extended.ttf",
+            license: "CC BY-SA 3.0",
+            license_link: "https://creativecommons.org/licenses/by-sa/3.0/",
+            modifications: "Added additional characters.",
+            notes: "Derived from HaxrCorp 4089 Cyrillic AltGr",
+        ), (
+            name: "Metamorphous",
+            authors: ["Sorkin Type Co"],
+            asset_path: "voxygen/font/Metamorphous-Regular.ttf",
+            // License appears to be satisfied by inclusion of its text file.
+            license: "OFL",
+            license_link: "https://scripts.sil.org/OFL",
+        ), (
+            name: "Open Sans",
+            authors: [""],
+            asset_path: "voxygen/font/OpenSans-Regular.ttf",
+            // License appears to be satisfied by inclusion of its text file.
+            license: "Apache 2.0",
+            license_link: "http://www.apache.org/licenses/LICENSE-2.0",
+        ), (
+            name: "WenQuanYi Zen Hei",
+            source_link: "http://wenq.org/wqy2/index.cgi?ZenHei%28en%29",
+            authors: ["Qianqian Fang", "WenQuanYi project"],
+            asset_path: "voxygen/font/WenQuanYiZenHei.ttf",
+            license: "GPL2",
+            license_link: "http://wenq.org/wqy2/index.cgi?GPL",
+        ), (
+            name: "Wizard",
+            source_link: "https://fontstruct.com/fontstructions/show/1506403/wizard-5",
+            authors: ["Omegaville"],
+            asset_path: "voxygen/font/wizard.ttf",
+            license: "CC BY-SA 3.0",
+            license_link: "https://creativecommons.org/licenses/by-sa/3.0/",
+        )],
     other_art: [],
     /// Entry format:
     /// ```
@@ -100,31 +144,4 @@
     ///     contributions: "Note about what contributor contributed", // optional, field can be omitted
     /// )
     /// ```
-    contributors: [(
-        name: "zesterer",
-    ), (
-        name: "XVar",
-    ), (
-        name: "xMAC94",
-    ), (
-        name: "Timo",
-    ), (
-        name: "Songtronix",
-    ), (
-        name: "Snowram",
-    ), (
-        name: "Slipped",
-    ), (
-        name: "Sharp",
-    ), (
-        name: "Sam",
-    ), (
-        name: "Pfau",
-    ), (
-        name: "imbris",
-    ), (
-        name: "Christof",
-    ), (
-        name: "AngelOnFira",
-    )],
 )
