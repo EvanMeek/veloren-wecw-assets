@@ -7,14 +7,14 @@
     (0.01, Item("common.items.WECW.neck.epicneck")),
     // 暗灵指环
     (0.01, Item("common.items.WECW.ring.skullg")),
+    // 祝福
+    (0.05, Item("common.items.WECW.neck.highneck")),
+    // 守护
+    (0.05, Item("common.items.WECW.neck.highneck2")),
     // 骨裂
     (0.1, Item("common.items.glider.glider_purp")),
     // 海洋袋
     (0.1, Item("common.items.armor.misc.bag.heavy_seabag")),
-    // 祝福
-    (0.1, Item("common.items.WECW.neck.highneck")),
-    // 守护
-    (0.1, Item("common.items.WECW.neck.highneck2")),
     // 破布
     (0.2, Item("common.items.crafting_ing.mindflayer_bag_damaged")),
     // 生命之息

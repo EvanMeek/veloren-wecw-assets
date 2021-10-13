@@ -2,9 +2,9 @@
     // 风暴大剑
     (0.01, Item("common.items.WECW.风暴大剑")),
     // 守护项链
-    (0.1, Item("common.items.WECW.neck.highneck")),
+    (0.05, Item("common.items.WECW.neck.highneck")),
     // 祝福项链
-    (0.1, Item("common.items.WECW.neck.highneck2")),
+    (0.05, Item("common.items.WECW.neck.highneck2")),
     // velorite系列武器
     (0.1, LootTable("common.loot_tables.weapons.cave")),
     // 骨裂
