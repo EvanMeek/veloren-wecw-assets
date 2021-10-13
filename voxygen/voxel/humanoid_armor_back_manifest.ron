@@ -48,6 +48,10 @@
             vox_spec: ("armor.misc.back.backpack-grey", (-7.0, -5.0, -10.0)),
             color: Some((76, 72, 178))
         ),
+        "背包仓库": (
+            vox_spec: ("armor.misc.back.背包仓库", (-7.0, -5.0, -10.0)),
+            color: Some((76, 72, 178))
+        ),
         "VeloriteMage": (
             vox_spec: ("armor.velorite_battlemage.back", (-5.0, -1.0, -14.0)),
             color: None
