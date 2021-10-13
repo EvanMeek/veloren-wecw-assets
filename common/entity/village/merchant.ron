@@ -9,6 +9,7 @@ EntityConfig (
     hands: TwoHanded(Item("common.items.weapons.bow.eldwood-0")),
 
     meta: [
+        LoadoutAsset("common.loadout.village.merchant"),
         SkillSetAsset("common.skillset.village.merchant"),
     ],
 )

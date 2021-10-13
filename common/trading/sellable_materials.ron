@@ -6,40 +6,4 @@
 //
 // Please keep it sorted by rarity so it's easier to reason about things
 [
-
-    // Ores
-    (0.5, Item("common.items.mineral.ore.velorite")),
-    (0.6, Item("common.items.mineral.ore.veloritefrag")),
-    (1.0, Item("common.items.mineral.ore.copper")),
-    (1.0, Item("common.items.mineral.ore.iron")),
-    (1.0, Item("common.items.mineral.ore.tin")),
-
-    // Animal Hide
-    (2.5, Item("common.items.crafting_ing.hide.tough_hide")),
-    (4.0, Item("common.items.crafting_ing.hide.animal_hide")),
-
-    // Mob Drops
-    (0.15, Item("common.items.crafting_ing.animal_misc.grim_eyeball")),
-    (0.15, Item("common.items.crafting_ing.animal_misc.icy_fang")),
-    (0.5, Item("common.items.crafting_ing.animal_misc.raptor_feather")),
-    (1.2, Item("common.items.crafting_ing.animal_misc.claw")),
-    (2.5, Item("common.items.crafting_ing.animal_misc.fur")),
-    (2.5, Item("common.items.crafting_ing.animal_misc.sharp_fang")),
-    (2.5, Item("common.items.crafting_ing.animal_misc.venom_sac")),
-    (0.05, Item("common.items.crafting_ing.animal_misc.viscous_ooze")),
-    (4.0, Item("common.items.crafting_ing.cloth.wool")),
-
-    // Junk
-    (4.0, Item("common.items.crafting_ing.bowl")),
-    (4.0, Item("common.items.crafting_ing.empty_vial")),
-
-    // Gatherables
-    (0.1, Item("common.items.crafting_ing.seashells")),
-    (0.2, Item("common.items.crafting_ing.honey")),
-    (1.0, Item("common.items.crafting_ing.cotton_boll")),
-    (3.0, Item("common.items.crafting_ing.twigs")),
-    (4.0, Item("common.items.crafting_ing.cactus")),
-    (4.0, Item("common.items.flowers.red")),
-    (4.0, Item("common.items.flowers.wild_flax")),
-    (9.0, Item("common.items.flowers.sunflower")),
 ]
