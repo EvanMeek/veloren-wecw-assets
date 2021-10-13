@@ -11,8 +11,6 @@
     (0.01, Item("common.items.WECW.ring.skullg")),
     // 棱镜背包
     (0.01, Item("common.items.WECW.sp.back")),
-    // 紫色系列武器
-    (0.1, LootTable("common.loot_tables.weapons.epic")),
     // 骨裂
     (0.2, Item("common.items.glider.glider_purp")),
     // 紫灯
