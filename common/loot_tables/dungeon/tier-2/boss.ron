@@ -3,10 +3,6 @@
     (0.01, Item("common.items.WECW.旭日击破者")),
     // 冰风暴
     (0.01, Item("common.items.WECW.冰风暴")),
-    // 暗灵项链
-    (0.01, Item("common.items.WECW.neck.epicneck")),
-    // 暗灵指环
-    (0.01, Item("common.items.WECW.ring.skullg")),
     // 祝福
     (0.05, Item("common.items.WECW.neck.highneck")),
     // 守护
