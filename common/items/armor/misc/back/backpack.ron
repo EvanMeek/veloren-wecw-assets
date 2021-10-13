@@ -1,18 +1,18 @@
 ItemDef(
-    name: "Traveler's Backpack",
-    description: "Comfort and capacity united.",
+    name: "旅行者背包",
+    description: "战斗时可能要脱下来.",
     kind: Armor((
         kind: Back("Backpack"),
         stats: (
-            protection: Normal(0.0),
-            poise_resilience: Normal(0.0),
-            energy_max: 0,
-            energy_reward: 0.0,
-            crit_power: 0.0,
-            stealth: 0.0,
+            protection: Normal(-10.0),
+            poise_resilience: Normal(-10.0),
+            energy_max: -10,
+            energy_reward: -10.0,
+            crit_power: -10.0,
+            stealth: -10.0,
         ),
     )),
     quality: High,
     tags: [Bag],
-    slots: 18,
+    slots: 50,
 )
