@@ -145,7 +145,7 @@
         ],
     ),
     Custom("旭日弓技能组"): (
-        primary: "common.abilities.bow.charged",
+        primary: "common.abilities.bow.旭日蓄力",
         secondary: "common.abilities.bow.repeater",
         abilities: [
             (Some(Bow(UnlockShotgun)), "common.abilities.bow.shotgunexg"),
