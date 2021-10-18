@@ -2449,7 +2449,7 @@
             (0.0, 0.0, 0.0), (-120.0, 210.0,15.0), 0.9,
         ),
         Armor(Back("背包仓库")): VoxTrans(
-            "voxel.armor.misc.back.背包仓库",
+            "voxel.armor.misc.back.backpack",
             (0.0, 0.0, 0.0), (-120.0, 210.0,15.0), 0.9,
         ),
         // Rings
