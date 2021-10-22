@@ -20,5 +20,5 @@
     // 青柠提灯
     (0.35, Item("common.items.lantern.green_0")),
     // 白金币
-    (1.0, ItemQuantity("common.items.WECW.白金币", 20, 60)),
+    (1.0, ItemQuantity("common.items.WECW.白金币", 10, 50)),
 ]

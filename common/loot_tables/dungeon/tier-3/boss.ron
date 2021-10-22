@@ -22,5 +22,5 @@
     // 大药水
     (0.6, ItemQuantity("common.items.consumable.potion_big", 15, 45)),
     // 白金币
-    (1.0, ItemQuantity("common.items.WECW.白金币", 20, 50)),
+    (1.0, ItemQuantity("common.items.WECW.白金币", 10, 30)),
 ]

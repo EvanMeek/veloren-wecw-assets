@@ -11,18 +11,18 @@
     (0.01, Item("common.items.WECW.ring.skullg")),
     // 棱镜背包
     (0.01, Item("common.items.WECW.sp.back")),
+    // 2-4个破布
+    (0.1, ItemQuantity("common.items.crafting_ing.mindflayer_bag_damaged",2)),
+    // 龙鳞
+    (0.1, Item("common.items.crafting_ing.hide.dragon_scale")),
     // 骨裂
     (0.2, Item("common.items.glider.glider_purp")),
     // 紫灯
     (0.2, Item("common.items.boss_drops.lantern")),
-    // 龙鳞
-    (0.2, Item("common.items.crafting_ing.hide.dragon_scale")),
-    // 2-4个破布
-    (0.2, ItemQuantity("common.items.crafting_ing.mindflayer_bag_damaged",2,3)),
     // 无敌药水
     (0.3, ItemQuantity("common.items.boss_drops.无敌药水",1,5)),
     // 破布
-    (0.4, Item("common.items.crafting_ing.mindflayer_bag_damaged")),
+    (0.3, Item("common.items.crafting_ing.mindflayer_bag_damaged")),
     // 白金币
     (1.0, ItemQuantity("common.items.WECW.白金币", 50, 100)),
 ]
