@@ -12,7 +12,7 @@
     // 棱镜背包
     (0.01, Item("common.items.WECW.sp.back")),
     // 2-4个破布
-    (0.1, ItemQuantity("common.items.crafting_ing.mindflayer_bag_damaged",2)),
+    (0.1, ItemQuantity("common.items.crafting_ing.mindflayer_bag_damaged",2,2)),
     // 龙鳞
     (0.1, Item("common.items.crafting_ing.hide.dragon_scale")),
     // 骨裂

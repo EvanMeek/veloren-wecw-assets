@@ -19,7 +19,7 @@
     // 紫晶
     (0.01, Item("common.items.lantern.geode_purp")),
     // 2-3个龙鳞
-    (0.05, ItemQuantity("common.items.crafting_ing.hide.dragon_scale",2)),
+    (0.05, ItemQuantity("common.items.crafting_ing.hide.dragon_scale",2,2)),
     // 2-4个破布
     (0.1, ItemQuantity("common.items.crafting_ing.mindflayer_bag_damaged",2,3)),
     // 龙鳞
