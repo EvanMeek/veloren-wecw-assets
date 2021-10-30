@@ -7,10 +7,10 @@
     (0.05, Item("common.items.WECW.neck.highneck")),
     // 守护
     (0.05, Item("common.items.WECW.neck.highneck2")),
+    // 海洋袋
+    (0.05, Item("common.items.armor.misc.bag.heavy_seabag")),
     // 骨裂
     (0.1, Item("common.items.glider.glider_purp")),
-    // 海洋袋
-    (0.1, Item("common.items.armor.misc.bag.heavy_seabag")),
     // 破布
     (0.2, Item("common.items.crafting_ing.mindflayer_bag_damaged")),
     // 生命之息
@@ -20,5 +20,5 @@
     // 青柠提灯
     (0.35, Item("common.items.lantern.green_0")),
     // 白金币
-    (1.0, ItemQuantity("common.items.WECW.白金币", 10, 50)),
+    (1.0, ItemQuantity("common.items.WECW.白金币", 10, 35)),
 ]
