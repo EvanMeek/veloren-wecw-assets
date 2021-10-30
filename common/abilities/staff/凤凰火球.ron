@@ -4,6 +4,7 @@ BasicRanged(
     buildup_duration: 0.425,
     recover_duration: 0.125,
     projectile: Fireball(
+        min_falloff: 0.5,
         damage: 60.0,
         radius: 2.0,
         energy_regen: 25.0,
