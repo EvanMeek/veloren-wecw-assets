@@ -17,5 +17,5 @@ ItemDef(
     )),
     quality: Epic,
     tags: [],
-    ability_spec: Some(Custom("Staff Simple")),
+    ability_spec: Some(Custom("龙舌技能组")),
 )
