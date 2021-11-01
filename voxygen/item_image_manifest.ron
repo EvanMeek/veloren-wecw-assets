@@ -2,41 +2,12 @@
 //  Vox(specier),
 //  VoxTrans(specifier, offset, (x_rot, y_rot, z_rot), zoom)
 ({
-        // Crafting Stations
-        Tool("Anvil"): VoxTrans(
-            "voxel.sprite.anvil.anvil-0",
-            (0.5, 0.5, 0.0), (0.0, 60.0, 90.0), 1.0,
+// Weapons
+// Diary Example Images
+        Armor(Back("背包仓库")): VoxTrans(
+            "voxel.armor.misc.back.backpack",
+            (0.0, 0.0, 0.0), (-120.0, 210.0,15.0), 0.9,
         ),
-        Tool("Cauldron"): VoxTrans(
-            "voxel.sprite.cauldron.cauldron-0",
-            (0.0, 0.0, 0.0), (-50.0, 40.0, 30.0), 1.0,
-        ),
-        Tool("CookingPot"): VoxTrans(
-            "voxel.sprite.cooking_pot.pot-0",
-            (0.0, 0.0, 0.0), (0.0, 90.0, 90.0), 1.2,
-        ),
-        Tool("CraftingBench"): VoxTrans(
-            "voxel.sprite.crafting_bench.crafting_bench-0",
-            (0.0, 0.0, 0.0), (-50.0, 40.0, 20.0), 1.0,
-        ),
-        Tool("Forge"): VoxTrans(
-            "voxel.object.forge",
-            (0.0, 0.0, 0.0), (-80.0, 20.0, 0.0), 1.0,
-        ),
-        Tool("Loom"): VoxTrans(
-            "voxel.object.loom",
-            (0.0, 0.0, 0.0), (-100.0, 00.0, 0.0), 1.0,
-        ),
-        Tool("SpinningWheel"): VoxTrans(
-            "voxel.object.spinning_wheel",
-            (0.0, 0.0, 0.0), (-70.0, 10.0, 0.0), 1.0,
-        ),
-        Tool("TanningRack"): VoxTrans(
-            "voxel.object.tanning_rack",
-            (0.0, 0.0, 0.0), (-90.0, 20.0, 0.0), 1.0,
-        ),
-        // Weapons
-        // Diary Example Images
         Armor(Chest("Warlord")): VoxTrans(
             "voxel.armor.warlordG.chest",
             (0.0, 0.0, 0.0), (-90.0, 180.0, 0.0), 1.2,
@@ -344,6 +315,45 @@
             "voxel.armor.warlordG.暗金切割者",
             (1.0, -1.0, 0.0), (-135.0, 90.0, 0.0), 1.1,
         ),
+        // Crafting Stations
+        Tool("Anvil"): VoxTrans(
+            "voxel.sprite.anvil.anvil-0",
+            (0.5, 0.5, 0.0), (0.0, 60.0, 90.0), 1.0,
+        ),
+        Tool("Cauldron"): VoxTrans(
+            "voxel.sprite.cauldron.cauldron-0",
+            (0.0, 0.0, 0.0), (-50.0, 40.0, 30.0), 1.0,
+        ),
+        Tool("CookingPot"): VoxTrans(
+            "voxel.sprite.cooking_pot.pot-0",
+            (0.0, 0.0, 0.0), (0.0, 90.0, 90.0), 1.2,
+        ),
+        Tool("CraftingBench"): VoxTrans(
+            "voxel.sprite.crafting_bench.crafting_bench-0",
+            (0.0, 0.0, 0.0), (-50.0, 40.0, 20.0), 1.0,
+        ),
+        Tool("Forge"): VoxTrans(
+            "voxel.object.forge",
+            (0.0, 0.0, 0.0), (-80.0, 20.0, 0.0), 1.0,
+        ),
+        Tool("Loom"): VoxTrans(
+            "voxel.object.loom",
+            (0.0, 0.0, 0.0), (-100.0, 00.0, 0.0), 1.0,
+        ),
+        Tool("SpinningWheel"): VoxTrans(
+            "voxel.object.spinning_wheel",
+            (0.0, 0.0, 0.0), (-70.0, 10.0, 0.0), 1.0,
+        ),
+        Tool("TanningRack"): VoxTrans(
+            "voxel.object.tanning_rack",
+            (0.0, 0.0, 0.0), (-90.0, 20.0, 0.0), 1.0,
+        ),
+        Tool("DismantlingBench"): VoxTrans(
+            "voxel.sprite.salvaging_station.salvaging_station-0",
+            (0.0, 0.0, 0.0), (-50.0, 40.0, 30.0), 0.9,
+        ),
+        // Weapons
+        // Diary Example Images
         Tool("example_utility"): VoxTrans(
             "voxel.weapon.projectile.fireworks_green-0",
             (0.0, 0.5, 0.0), (-50.0, 40.0, 20.0), 0.8,
@@ -1469,6 +1479,10 @@
             "voxel.armor.cultist.shoulder",
             (0.0, 1.0, 0.0), (-120.0, 210.0,15.0), 1.1,
         ),
+        Armor(Head("Cultist")): VoxTrans(
+            "voxel.armor.cultist.bandana",
+            (0.0, -2.0, 0.0), (-120.0, 210.0,15.0), 1.9,
+        ),
         // Villager Clothing
         Armor(Pants("WorkerBlue")): VoxTrans(
             "voxel.armor.misc.pants.worker_blue",
@@ -2442,15 +2456,48 @@
         ),
         Armor(Back("Backpack")): VoxTrans(
             "voxel.armor.misc.back.backpack",
-            (0.0, 0.0, 0.0), (-120.0, 210.0,15.0), 0.9,
+            (0.0, 0.0, 0.0), (-75.0, 45.0,0.0), 0.9,
         ),
         Armor(Back("BackpackBlue")): VoxTrans(
             "voxel.armor.misc.back.backpack",
             (0.0, 0.0, 0.0), (-120.0, 210.0,15.0), 0.9,
         ),
-        Armor(Back("背包仓库")): VoxTrans(
-            "voxel.armor.misc.back.backpack",
+        //Hats
+        Armor(Head("Witch")): VoxTrans(
+            "voxel.armor.witch.hat",
             (0.0, 0.0, 0.0), (-120.0, 210.0,15.0), 0.9,
+        ),
+        Armor(Head("Pirate")): VoxTrans(
+            "voxel.armor.pirate.hat",
+            (1.0, 2.0, 0.0), (-120.0, 210.0,15.0), 1.0,
+        ),
+        Armor(Head("Thief")): VoxTrans(
+            "voxel.armor.misc.head.bandana.thief",
+            (0.0, -2.0, 0.0), (-120.0, 210.0,15.0), 1.9,
+        ),
+        Armor(Head("Red")): VoxTrans(
+            "voxel.armor.misc.head.bandana.red",
+            (0.0, -2.0, 0.0), (-120.0, 210.0,15.0), 1.9,
+        ),
+        Armor(Head("Straw")): VoxTrans(
+            "voxel.armor.misc.head.straw",
+            (0.0, 0.0, 0.0), (-120.0, 210.0,15.0), 0.9,
+        ),
+        Armor(Head("Hood")): VoxTrans(
+            "voxel.armor.misc.head.hood",
+            (0.0, 0.0, 0.0), (-120.0, 210.0,15.0), 1.3,
+        ),
+        Armor(Head("Crown")): VoxTrans(
+            "voxel.armor.misc.head.crown",
+            (0.0, 4.0, 0.0), (-120.0, 210.0,15.0), 1.3,
+        ),
+        Armor(Head("Mitre")): VoxTrans(
+            "voxel.armor.misc.head.mitre",
+            (0.0, 4.0, 0.0), (-120.0, 210.0,15.0), 1.3,
+        ),
+        Armor(Head("Spikeguard")): VoxTrans(
+            "voxel.armor.misc.head.spikeguard",
+            (0.0, 0.0, 0.0), (-120.0, 210.0,15.0), 1.3,
         ),
         // Rings
         Armor(Ring("Scratched")): VoxTrans(
@@ -2485,19 +2532,79 @@
             "voxel.armor.misc.ring.diamond",
             (0.0, 0.0, 0.0), (45.0, 20.0, 0.0), 0.9,
         ),
-        Armor(Ring("Skull")): VoxTrans(
-            "voxel.armor.misc.ring.skull",
+        Armor(Ring("Cultist")): VoxTrans(
+            "voxel.armor.cultist.ring",
             (0.0, 0.0, 0.0), (45.0, 15.0, 0.0), 0.9,
         ),
+
         // Necks
-        Armor(Neck("Plain0")): Png(
-            "element.items.neck-0",
+        Armor(Neck("Ankh")): VoxTrans(
+            "voxel.armor.misc.neck.ankh_of_life",
+            (0.0, 0.2, 0.0), (-70.0, 20.0, 10.0), 0.9,
         ),
-        Armor(Neck("Plain1")): Png(
-            "element.items.neck-1",
+        Armor(Neck("Carcanet")): VoxTrans(
+            "voxel.armor.misc.neck.carcanet_of_wrath",
+            (0.0, 0.2, 0.0), (-70.0, 20.0, 10.0), 0.9,
         ),
-        Armor(Neck("Shell")): Png(
-            "element.items.neck-seashell",
+        Armor(Neck("Fang")): VoxTrans(
+            "voxel.armor.misc.neck.fang",
+            (0.0, 0.2, 0.0), (-70.0, 20.0, 10.0), 0.9,
+        ),
+        Armor(Neck("Honeycomb")): VoxTrans(
+            "voxel.armor.misc.neck.honeycomb_pendant",
+            (0.0, 0.2, 0.0), (-70.0, 20.0, 10.0), 0.9,
+        ),
+        Armor(Neck("Haniwa")): VoxTrans(
+            "voxel.armor.misc.neck.haniwa_talisman",
+            (0.0, 0.2, 0.0), (-70.0, 20.0, 10.0), 0.9,
+        ),
+        Armor(Neck("Pendant")): VoxTrans(
+            "voxel.armor.misc.neck.pendant_of_protection",
+            (0.0, 0.2, 0.0), (-70.0, 20.0, 10.0), 0.9,
+        ),
+        Armor(Neck("ResilienceGem")): VoxTrans(
+            "voxel.armor.misc.neck.resilience_gem",
+            (0.0, 0.2, 0.0), (-70.0, 20.0, 10.0), 0.9,
+        ),
+        Armor(Neck("Shell")): VoxTrans(
+            "voxel.armor.misc.neck.shell",
+            (0.0, 0.2, 0.0), (-70.0, 20.0, 10.0), 0.9,
+        ),
+        Armor(Neck("Amethyst")): VoxTrans(
+            "voxel.armor.misc.neck.amethyst",
+            (0.0, 0.2, 0.0), (-70.0, 20.0, 10.0), 0.9,
+        ),
+        Armor(Neck("Diamond")): VoxTrans(
+            "voxel.armor.misc.neck.diamond",
+            (0.0, 0.2, 0.0), (-70.0, 20.0, 10.0), 0.9,
+        ),
+        Armor(Neck("Cultist")): VoxTrans(
+            "voxel.armor.cultist.necklace",
+            (0.0, 0.2, 0.0), (-70.0, 20.0, 10.0), 0.9,
+        ),
+        Armor(Neck("Ruby")): VoxTrans(
+            "voxel.armor.misc.neck.ruby",
+            (0.0, 0.2, 0.0), (-70.0, 20.0, 10.0), 0.9,
+        ),
+        Armor(Neck("Topaz")): VoxTrans(
+            "voxel.armor.misc.neck.topaz",
+            (0.0, 0.2, 0.0), (-70.0, 20.0, 10.0), 0.9,
+        ),
+        Armor(Neck("Emerald")): VoxTrans(
+            "voxel.armor.misc.neck.emerald",
+            (0.0, 0.2, 0.0), (-70.0, 20.0, 10.0), 0.9,
+        ),
+        Armor(Neck("Gold")): VoxTrans(
+            "voxel.armor.misc.neck.gold",
+            (0.0, 0.2, 0.0), (-70.0, 20.0, 10.0), 0.9,
+        ),
+        Armor(Neck("Sapphire")): VoxTrans(
+            "voxel.armor.misc.neck.sapphire",
+            (0.0, 0.2, 0.0), (-70.0, 20.0, 10.0), 0.9,
+        ),
+        Armor(Neck("Scratched")): VoxTrans(
+            "voxel.armor.misc.neck.scratched",
+            (0.0, 0.2, 0.0), (-70.0, 20.0, 10.0), 0.9,
         ),
 
         // Tabards
@@ -2580,10 +2687,10 @@
             "voxel.object.potion_red",
             (0.0, 0.0, 0.0), (-50.0, 30.0, 20.0), 0.9,
         ),
-        //Consumable("common.items.boss_drops.精品生命之息"): VoxTrans(
-        //    "voxel.object.potion_red",
-        //    (0.0, 0.0, 0.0), (-50.0, 30.0, 20.0), 0.9,
-        //),
+        Consumable("common.items.boss_drops.potions"): VoxTrans(
+            "voxel.object.potion_red",
+            (0.0, 0.0, 0.0), (-50.0, 30.0, 20.0), 0.9,
+        ),
         Consumable("common.items.food.cheese"): Png(
             "element.items.item_cheese",
         ),
@@ -2997,51 +3104,63 @@
         ),
         // Gliders
         Glider("Starter"): VoxTrans(
-            "voxel.glider.glider_starter",
+            "voxel.glider.starter",
             (-2.0, 0.0, 0.0), (-50.0, 30.0, 20.0), 0.9,
         ),
         Glider("PlainCloth"): VoxTrans(
-            "voxel.glider.glider_basic_white",
+            "voxel.glider.basic_white",
             (-2.0, 0.0, 0.0), (-50.0, 30.0, 20.0), 0.9,
         ),
         Glider("RedCloth"): VoxTrans(
-            "voxel.glider.glider_basic_red",
+            "voxel.glider.basic_red",
             (-2.0, 0.0, 0.0), (-50.0, 30.0, 20.0), 0.9,
         ),
         Glider("Blue0"): VoxTrans(
-            "voxel.glider.glider_blue",
+            "voxel.glider.blue",
             (6.0, 0.0, 0.0), (-50.0, 30.0, 20.0), 1.1,
         ),
         Glider("ButterflyMorpho"): VoxTrans(
-            "voxel.glider.glider_butterfly1",
+            "voxel.glider.butterfly1",
             (6.0, 0.0, 0.0), (-50.0, 30.0, 20.0), 1.1,
         ),
         Glider("ButterflyMonarch"): VoxTrans(
-            "voxel.glider.glider_butterfly2",
+            "voxel.glider.butterfly2",
+            (6.0, 0.0, 0.0), (-50.0, 30.0, 20.0), 1.1,
+        ),
+        Glider("ButterflyLove"): VoxTrans(
+            "voxel.glider.butterfly3",
             (6.0, 0.0, 0.0), (-50.0, 30.0, 20.0), 1.1,
         ),
         Glider("MothLuna"): VoxTrans(
-            "voxel.glider.glider_moth",
+            "voxel.glider.moth",
             (6.0, 0.0, 0.0), (-50.0, 30.0, 20.0), 1.1,
         ),
         Glider("SandRaptor"): VoxTrans(
-            "voxel.glider.glider_sandraptor",
+            "voxel.glider.sandraptor",
             (6.0, 0.0, 0.0), (-50.0, 30.0, 20.0), 1.1,
         ),
         Glider("SnowRaptor"): VoxTrans(
-            "voxel.glider.glider_snowraptor",
+            "voxel.glider.snowraptor",
             (6.0, 0.0, 0.0), (-50.0, 30.0, 20.0), 1.1,
         ),
         Glider("WoodRaptor"): VoxTrans(
-            "voxel.glider.glider_woodraptor",
+            "voxel.glider.woodraptor",
+            (6.0, 0.0, 0.0), (-50.0, 30.0, 20.0), 1.1,
+        ),
+        Glider("Sunset"): VoxTrans(
+            "voxel.glider.sunset",
+            (6.0, 0.0, 0.0), (-50.0, 30.0, 20.0), 1.1,
+        ),
+        Glider("Moonrise"): VoxTrans(
+            "voxel.glider.moonrise",
             (6.0, 0.0, 0.0), (-50.0, 30.0, 20.0), 1.1,
         ),
         Glider("Purple0"): VoxTrans(
-            "voxel.glider.glider_cultists",
+            "voxel.glider.cultists",
             (5.0, 0.0, 0.0), (-50.0, 30.0, 20.0), 1.1,
         ),
         Glider("Leaves"): VoxTrans(
-            "voxel.glider.glider_leaves",
+            "voxel.glider.leaves",
             (0.0, 0.0, 0.0), (-50.0, 30.0, 20.0), 1.1,
         ),
         // Debug Items
@@ -3082,4 +3201,4 @@
             "voxel.weapon_components.sword.cultist.cultist_purp_2h-0_handle",
             (0.0, 0.0, 0.0), (-135.0, 90.0, 0.0), 1.5,
         ),
-    })
+})
