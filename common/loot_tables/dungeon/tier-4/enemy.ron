@@ -3,7 +3,7 @@
     (0.1, LootTable("common.loot_tables.weapons.tier-4")),
     (0.15, LootTable("common.loot_tables.food.wild_ingredients")),
     (0.5, Item("common.items.armor.misc.ring.gold")),
-    (0.5, Item("common.items.armor.misc.neck.plain_1")),
+    (0.5, Item("common.items.armor.misc.neck.gem_of_resilience")),
     (1.0, LootTable("common.loot_tables.humanoids")),
     (1.0, ItemQuantity("common.items.utility.coins", 200, 500)),
 ]

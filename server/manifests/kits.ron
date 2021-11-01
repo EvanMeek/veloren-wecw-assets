@@ -47,7 +47,7 @@
     "jewellery": [
         // Necklace
         ("common.items.armor.misc.neck.shell", 1),
-        ("common.items.armor.misc.neck.plain_1", 1),
+        ("common.items.armor.misc.neck.gem_of_resilience", 1),
 
         // Rings
         // With effects

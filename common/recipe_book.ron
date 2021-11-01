@@ -293,7 +293,7 @@
     "宝石项链": (
         output: ("common.items.utility.coins", 350),
         inputs: [
-            (Item("common.items.armor.misc.neck.plain_1"), 1),
+            (Item("common.items.armor.misc.neck.gem_of_resilience"), 1),
         ],
         craft_sprite: None,
         is_recycling: true,
