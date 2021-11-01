@@ -1,0 +1,17 @@
+ItemDef(
+    name: "Scratched Necklace",
+    description: "The string is about to snap...",
+    kind: Armor((
+        kind: Neck("Scratched"),
+        stats: (
+            protection: Normal(0.5),
+            poise_resilience: Normal(0.0),
+            energy_max: 0,
+            energy_reward: 0.0,
+            crit_power: 0.0,
+            stealth: 0.0,
+        ),
+    )),
+    quality: Low,
+    tags: [],
+)
