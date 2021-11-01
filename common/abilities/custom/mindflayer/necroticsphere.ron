@@ -5,6 +5,7 @@ BasicRanged(
     projectile: NecroticSphere(
         damage: 40.0,
         radius: 10.0,
+        min_falloff: 0.5,
     ),
     projectile_body: Object(FireworkPurple),
     projectile_speed: 30.0,
