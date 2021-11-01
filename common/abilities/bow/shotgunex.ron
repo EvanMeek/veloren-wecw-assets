@@ -7,6 +7,7 @@ BasicRanged(
         damage: 10.0,
         radius: 6.0,
         energy_regen: 0,
+        min_falloff: 0.5,
     ),
     projectile_body: Object(Arrow),
     projectile_light: None,
