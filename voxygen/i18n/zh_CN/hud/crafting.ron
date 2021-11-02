@@ -18,6 +18,7 @@
         "hud.crafting.loom": "纺织机",
         "hud.crafting.spinning_wheel": "纱轮",
         "hud.crafting.tanning_rack": "晾晒架",
+        "hud.crafting.salvaging_station": "拆解台",
         // Tabs
         "hud.crafting.tabs.all": "全部",
         "hud.crafting.tabs.armor": "防具",
@@ -30,6 +31,9 @@
         "hud.crafting.tabs.weapon": "武器",
         "hud.crafting.tabs.bag": "背包",
         "hud.crafting.tabs.processed_material": "材料",
+        "hub.crafting.salvaging_station": "拆解台",
+        "hud.crafting.dismantle_title": "拆解",
+        "hud.crafting.dismantle_explanation" : "将物品悬停在你的包里\n看看你能获得什么\n双击它们，开始拆除。",
     },
 
 
