@@ -16,6 +16,6 @@ ItemDef(
         )),
     )),
     quality: Moderate,
-    tags: [HighSell],
+    tags: [SalvageInto(HighSell),],
     ability_spec: None,
 )
