@@ -16,6 +16,6 @@ ItemDef(
         )),
     )),
     quality: Moderate,
-    tags: [ModerateSell],
+    tags: [SalvageInto(ModerateSell),],
     ability_spec: None,
 )
