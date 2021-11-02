@@ -1,0 +1,9 @@
+ItemDef(
+    name: "元符文",
+    description: "Demo",
+    kind: Ingredient(
+        kind: "元Rune",
+    ),
+    quality: Legendary,
+    tags: [],
+)
