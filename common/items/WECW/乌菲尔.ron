@@ -16,6 +16,6 @@ ItemDef(
         )),
     )),
     quality: Legendary,
-    tags: [],
+    tags: [SalvageInto(Dragonscale),],
     ability_spec: Some(Custom("乌菲尔技能组")),
 )

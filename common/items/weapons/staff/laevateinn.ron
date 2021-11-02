@@ -16,6 +16,6 @@ ItemDef(
         )),
     )),
     quality: Legendary,
-	tags: [LegendarySell],
+	tags: [SalvageInto(Dragonscale),],
     ability_spec: Some(Custom("灾厄之杖技能组")),
 )

@@ -224,14 +224,14 @@
     // ==========================================================================
 
     // ===================================回收===================================
-    "传说回收": (
-        output: ("common.items.crafting_ing.hide.dragon_scale", 1),
-        inputs: [
-            (Tag(LegendarySell),1),
-        ],
-        craft_sprite: None,
-        is_recycling: true,
-    ),
+    // "传说回收": (
+    //     output: ("common.items.crafting_ing.hide.dragon_scale", 1),
+    //     inputs: [
+    //         (Tag(LegendarySell),1),
+    //     ],
+    //     craft_sprite: None,
+    //     is_recycling: true,
+    // ),
     "史诗回收": (
         output: ("common.items.WECW.蓝金币", 1500),
         inputs: [

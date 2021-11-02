@@ -16,6 +16,6 @@ ItemDef(
         )),
     )),
     quality: Legendary,
-    tags: [],
+    tags: [SalvageInto(Dragonscale),],
     ability_spec: Some(Custom("放逐之刃技能组")),
 )

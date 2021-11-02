@@ -17,5 +17,5 @@ ItemDef(
     )),
     quality: Legendary,
     ability_spec: Some(Custom("奥能旭日技能组")),
-    tags: [],
+    tags: [SalvageInto(Dragonscale),],
 )
