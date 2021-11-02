@@ -4,6 +4,22 @@
 ({
 // Weapons
         // Diary Example Images
+        Ingredient("传说分解包"): VoxTrans(
+            "voxel.armor.warlordG.sell.LegendarySell",
+            (0.0, 0.0, 0.0), (-10.0, 15.0, 0.0), 0.8,
+        ),
+        Ingredient("史诗分解包"): VoxTrans(
+            "voxel.armor.warlordG.sell.EpicSell",
+            (0.0, 0.0, 0.0), (-10.0, 15.0, 0.0), 0.8,
+        ),
+        Ingredient("高级分解包"): VoxTrans(
+            "voxel.armor.warlordG.sell.HighSell",
+            (0.0, 0.0, 0.0), (-10.0, 15.0, 0.0), 0.8,
+        ),
+        Ingredient("常见分解包"): VoxTrans(
+            "voxel.armor.warlordG.sell.ModerateSell",
+            (0.0, 0.0, 0.0), (-10.0, 15.0, 0.0), 0.8,
+        ),
         Armor(Back("背包仓库")): VoxTrans(
             "voxel.armor.misc.back.backpack",
             (0.0, 0.0, 0.0), (-120.0, 210.0,15.0), 0.9,
