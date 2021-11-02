@@ -237,7 +237,14 @@
         ],
     ),
     Tool(Sceptre): (
-        primary: "common.abilities.sceptre.lifestealbeam",
+        primary: "common.abilities.sceptre.生命光束-默认",
+        secondary: "common.abilities.sceptre.healingaura",
+        abilities: [
+            (Some(Sceptre(UnlockAura)), "common.abilities.sceptre.wardingaura"),
+        ],
+    ),
+    Custom("T6治疗师技能组"): (
+        primary: "common.abilities.sceptre.生命光束-T6",
         secondary: "common.abilities.sceptre.healingaura",
         abilities: [
             (Some(Sceptre(UnlockAura)), "common.abilities.sceptre.wardingaura"),

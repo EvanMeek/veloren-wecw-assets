@@ -17,4 +17,5 @@ ItemDef(
     )),
     quality: Epic,
 	tags: [EpicSell],
+    ability_spec: Some(Custom("T6治疗师技能组")),
 )
