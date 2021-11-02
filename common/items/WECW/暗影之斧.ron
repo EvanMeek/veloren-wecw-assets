@@ -17,5 +17,5 @@ ItemDef(
     )),
     quality: Legendary,
     ability_spec: Some(Custom("深蓝-遗忘-埃尔技能组")),
-    tags: [SalvageInto(Dragonscale),],
+    tags: [SalvageInto(LegendarySell),],
 )

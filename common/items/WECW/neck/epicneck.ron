@@ -13,5 +13,5 @@ ItemDef(
         ),
     )),
     quality: Legendary,
-    tags: [SalvageInto(Dragonscale),],
+    tags: [SalvageInto(LegendarySell),],
 )
