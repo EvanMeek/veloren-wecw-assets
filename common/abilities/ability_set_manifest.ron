@@ -258,11 +258,11 @@
         ],
     ),
     Custom("理智的摧残者权杖技能组"): (
-        primary: "common.abilities.staff.mindflayer",
-        secondary: "common.abilities.staff.cursedflames",
+        primary: "common.abilities.staff.摧残者火球",
+        secondary: "common.abilities.staff.摧残者吐息",
         abilities: [
-            (Some(Staff(UnlockShockwave)), "common.abilities.staff.mindflayershock"),
-            (Some(Sceptre(UnlockAura)), "common.abilities.sceptre.wardingauraexg"),
+            (Some(Staff(UnlockShockwave)), "common.abilities.staff.摧残者火环"),
+            (Some(Sceptre(UnlockAura)), "common.abilities.staff.摧残者狂暴"),
         ],
     ),
     Custom("魔法权杖技能组"): (

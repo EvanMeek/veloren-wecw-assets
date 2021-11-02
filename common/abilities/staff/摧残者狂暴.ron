@@ -1,0 +1,17 @@
+BasicAura(
+    buildup_duration: 2.5,
+    cast_duration: 2.5,
+    recover_duration: 0.5,
+    targets: InGroup,
+    aura: (
+        kind: Frenzied,
+        strength: 0.035,
+        duration: Some(90.0),
+        category: Magical,
+    ),
+    aura_duration: 1.0,
+    range: 5.0,
+    energy_cost: 200.0,
+    scales_with_combo: false,
+    specifier: WardingAura,
+)

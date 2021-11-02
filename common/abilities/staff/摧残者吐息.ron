@@ -1,11 +1,11 @@
 BasicBeam(
-    buildup_duration: 0.1,
-    recover_duration: 0.1,
+    buildup_duration: 0.2,
+    recover_duration: 0.2,
     beam_duration: 1.0,
-    damage: 70.0,
-    tick_rate: 6.0,
-    range: 40.0,
-    max_angle: 30.0,
+    damage: 30.0,
+    tick_rate: 3.5,
+    range: 35.0,
+    max_angle: 35.0,
     damage_effect: Some(Buff((
         kind: Cursed,
         dur_secs: 60.0,
@@ -13,8 +13,8 @@ BasicBeam(
         chance: 10.0,
     ))),
     energy_regen: 0,
-    energy_drain: 10.0,
+    energy_drain: 100.0,
     orientation_behavior: Normal,
-    ori_rate: 0.6,
+    ori_rate: 0.25,
     specifier: Cultist,
 )

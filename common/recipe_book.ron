@@ -509,6 +509,32 @@
     // ==========================================================================
 
     // ===================================觉醒===================================
+    "理智的摧残者": (
+        output: ("common.items.WECW.理智的摧残者", 1),
+        inputs: [
+            (Item("common.items.WECW.暗金币"), 20),
+            (Item("common.items.WECW.火符文"), 3),
+            (Item("common.items.WECW.土符文"), 3),
+            (Item("common.items.WECW.金符文"), 3),
+            (Item("common.items.WECW.暗符文"), 2),
+            (Item("common.items.WECW.元符文"), 1),
+            (Item("common.items.weapons.staff.laevateinn"), 1),
+            (Item("common.items.weapons.staff.dragon_tongue"), 5),
+            (Item("common.items.weapons.staff.phoenix"), 1),
+            (Item("common.items.crafting_ing.hide.dragon_scale"), 30),
+            (Item("common.items.crafting_ing.mindflayer_bag_damaged"), 50),
+            (Item("common.items.mineral.gem.amethyst"), 1000),
+            (Item("common.items.mineral.gem.emerald"), 1000),
+            (Item("common.items.mineral.gem.ruby"), 1000),
+            (Item("common.items.mineral.gem.sapphire"), 1000),
+            (Item("common.items.mineral.gem.diamond"), 1000),
+            (Item("common.items.mineral.gem.topaz"), 1000),
+            (Item("common.items.boss_drops.无敌药水"), 300),
+            (Item("common.items.tool.craftsman_hammer"), 0),
+        ],
+        craft_sprite: Some(Anvil),
+        is_recycling: false,
+    ),
     "无尽深渊": (
         output: ("common.items.WECW.无尽深渊", 1),
         inputs: [
