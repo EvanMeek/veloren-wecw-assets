@@ -4,12 +4,12 @@ BasicRanged(
     recover_duration: 0.3,
     projectile_spread: 0.02,
     projectile: Frostball(
-        damage: 10.0,
+        damage: 24.0,
         radius: 8.0,
         min_falloff: 0.5,
     ),
     projectile_body: Object(ArrowSnake),
     projectile_light: None,
     projectile_speed: 100.0,
-    num_projectiles: 5,
+    num_projectiles: 20,
 )

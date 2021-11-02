@@ -4,12 +4,12 @@ BasicRanged(
     recover_duration: 0.5,
     projectile_spread: 0.08,
     projectile: Arrow(
-        damage: 6.0,
-        knockback: 5.0,
+        damage: 16.0,
+        knockback: 10.0,
         energy_regen: 0,
     ),
     projectile_body: Object(Arrow),
     projectile_light: None,
     projectile_speed: 70.0,
-    num_projectiles: 1,
+    num_projectiles: 12,
 )

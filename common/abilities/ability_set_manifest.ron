@@ -134,29 +134,29 @@
         primary: "common.abilities.bow.charged",
         secondary: "common.abilities.bow.repeater",
         abilities: [
-            (Some(Bow(UnlockShotgun)), "common.abilities.bow.shotgun"),
+            (Some(Bow(UnlockShotgun)), "common.abilities.bow.散射"),
         ],
     ),
     Custom("魔法弓技能组"): (
         primary: "common.abilities.bow.charged",
         secondary: "common.abilities.bow.repeater",
         abilities: [
-            (Some(Bow(UnlockShotgun)), "common.abilities.bow.shotgunepic"),
+            (Some(Bow(UnlockShotgun)), "common.abilities.bow.魔法弓散射"),
         ],
     ),
     Custom("旭日弓技能组"): (
         primary: "common.abilities.bow.旭日蓄力",
         secondary: "common.abilities.bow.repeater",
         abilities: [
-            (Some(Bow(UnlockShotgun)), "common.abilities.bow.shotgunexg"),
+            (Some(Bow(UnlockShotgun)), "common.abilities.bow.旭日散射"),
         ],
     ),
     Custom("奥能旭日技能组"): (
         primary: "common.abilities.bow.chargedexg",
         secondary: "common.abilities.bow.repeaterexg",
         abilities: [
-            (Some(Bow(UnlockShotgun)), "common.abilities.bow.shotgunepic"),
-            (Some(Bow(UnlockShotgun)), "common.abilities.bow.shotgunGEX"),
+            (Some(Bow(UnlockShotgun)), "common.abilities.bow.魔法弓散射"),
+            (Some(Bow(UnlockShotgun)), "common.abilities.bow.奥能旭日散射"),
         ],
     ),
     Custom("Husk"): (
