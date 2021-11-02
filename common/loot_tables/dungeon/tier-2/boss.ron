@@ -1,4 +1,6 @@
 [
+    // 源符文
+    (0.005, Item("common.items.WECW.源符文")),
     // 旭日
     (0.01, Item("common.items.WECW.旭日击破者")),
     // 冰风暴

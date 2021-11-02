@@ -1,0 +1,9 @@
+ItemDef(
+    name: "源符文",
+    description: "此乃神物，可随意转化为任意元素符文。",
+    kind: Ingredient(
+        kind: "源Rune",
+    ),
+    quality: Legendary,
+    tags: [],
+)

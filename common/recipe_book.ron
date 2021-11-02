@@ -4,7 +4,7 @@
     "金符文": (
         output: ("common.items.WECW.金符文", 1),
         inputs: [
-            (Item("common.items.WECW.暗金币"), 5),
+            (Item("common.items.WECW.源符文"), 1),
         ],
         craft_sprite: None,
         is_recycling: true,
@@ -12,7 +12,7 @@
     "木符文": (
         output: ("common.items.WECW.木符文", 1),
         inputs: [
-            (Item("common.items.WECW.暗金币"), 5),
+            (Item("common.items.WECW.源符文"), 1),
         ],
         craft_sprite: None,
         is_recycling: true,
@@ -20,7 +20,7 @@
     "水符文": (
         output: ("common.items.WECW.水符文", 1),
         inputs: [
-            (Item("common.items.WECW.暗金币"), 5),
+            (Item("common.items.WECW.源符文"), 1),
         ],
         craft_sprite: None,
         is_recycling: true,
@@ -28,7 +28,7 @@
     "火符文": (
         output: ("common.items.WECW.火符文", 1),
         inputs: [
-            (Item("common.items.WECW.暗金币"), 5),
+            (Item("common.items.WECW.源符文"), 1),
         ],
         craft_sprite: None,
         is_recycling: true,
@@ -36,13 +36,21 @@
     "土符文": (
         output: ("common.items.WECW.土符文", 1),
         inputs: [
-            (Item("common.items.WECW.暗金币"), 5),
+            (Item("common.items.WECW.源符文"), 1),
         ],
         craft_sprite: None,
         is_recycling: true,
     ),
     "暗符文": (
         output: ("common.items.WECW.暗符文", 1),
+        inputs: [
+            (Item("common.items.WECW.源符文"), 1),
+        ],
+        craft_sprite: None,
+        is_recycling: true,
+    ),
+    "源符文": (
+        output: ("common.items.WECW.源符文", 1),
         inputs: [
             (Item("common.items.WECW.暗金币"), 5),
         ],
@@ -517,7 +525,7 @@
             (Item("common.items.WECW.土符文"), 3),
             (Item("common.items.WECW.金符文"), 3),
             (Item("common.items.WECW.暗符文"), 2),
-            (Item("common.items.WECW.元符文"), 1),
+            (Item("common.items.WECW.源符文"), 1),
             (Item("common.items.weapons.staff.laevateinn"), 1),
             (Item("common.items.weapons.staff.dragon_tongue"), 5),
             (Item("common.items.weapons.staff.phoenix"), 1),

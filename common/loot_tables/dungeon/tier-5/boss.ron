@@ -1,5 +1,7 @@
 [
     // (0.01, Item("common.items.lantern.pumpkin")),
+    // 源符文
+    (0.01, Item("common.items.WECW.源符文")),
     // 神使
     (0.01, Item("common.items.weapons.sceptre.caduceus")),
     // 恶魔
