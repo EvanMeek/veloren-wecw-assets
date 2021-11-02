@@ -16,6 +16,6 @@ ItemDef(
         )),
     )),
     quality: Epic,
-	tags: [EpicSell],
+	tags: [SalvageInto(EpicSell),],
     ability_spec: Some(Custom("附魔的巨剑技能组")),
 )

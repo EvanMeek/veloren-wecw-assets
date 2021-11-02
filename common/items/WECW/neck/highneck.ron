@@ -13,5 +13,5 @@ ItemDef(
         ),
     )),
     quality: Epic,
-    tags: [EpicSell],
+    tags: [SalvageInto(EpicSell),],
 )

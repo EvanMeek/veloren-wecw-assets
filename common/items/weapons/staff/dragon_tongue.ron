@@ -16,6 +16,6 @@ ItemDef(
         )),
     )),
     quality: Epic,
-    tags: [EpicSell],
+    tags: [SalvageInto(EpicSell),],
     ability_spec: Some(Custom("龙舌技能组")),
 )
