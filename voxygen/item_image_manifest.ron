@@ -3,7 +3,7 @@
 //  VoxTrans(specifier, offset, (x_rot, y_rot, z_rot), zoom)
 ({
 // Weapons
-// Diary Example Images
+        // Diary Example Images
         Armor(Back("背包仓库")): VoxTrans(
             "voxel.armor.misc.back.backpack",
             (0.0, 0.0, 0.0), (-120.0, 210.0,15.0), 0.9,
@@ -102,6 +102,10 @@
         ),
         Ingredient("Coins3"):  VoxTrans(
             "voxel.armor.warlordG.暗金币",
+            (0.0, 0.0, 0.0), (-10.0, 15.0, 0.0), 0.8,
+        ),
+        Ingredient("元Rune"): VoxTrans(
+            "voxel.armor.warlordG.元符文",
             (0.0, 0.0, 0.0), (-10.0, 15.0, 0.0), 0.8,
         ),
         Ingredient("金Rune"): VoxTrans(
