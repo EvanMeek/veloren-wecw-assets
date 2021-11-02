@@ -16,6 +16,6 @@ ItemDef(
         )),
     )),
     quality: Epic,
-    tags: []
+    tags: [],
     ability_spec: Some(Custom("帕拉丁战锤技能组")),
 )
