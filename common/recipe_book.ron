@@ -952,19 +952,19 @@
         craft_sprite: Some(Cauldron),
         is_recycling: false,
     ),
-    "potion_exg": (
-        output: ("common.items.boss_drops.无敌药水", 1),
-        inputs: [
-            (Item("common.items.boss_drops.精品生命之息"), 3),
-            (Item("common.items.boss_drops.精品能量药水"), 3),
-            (Item("common.items.crafting_ing.empty_vial"), 1),
-            (Item("common.items.crafting_ing.honey"), 3),
-            (Item("common.items.mineral.ore.veloritefrag"), 5),
-            (Item("common.items.WECW.白金币"), 2),
-        ],
-        craft_sprite: Some(Cauldron),
-        is_recycling: false,
-    ),
+    // "potion_exg": (
+    //     output: ("common.items.boss_drops.无敌药水", 1),
+    //     inputs: [
+    //         (Item("common.items.boss_drops.精品生命之息"), 3),
+    //         (Item("common.items.boss_drops.精品能量药水"), 3),
+    //         (Item("common.items.crafting_ing.empty_vial"), 1),
+    //         (Item("common.items.crafting_ing.honey"), 3),
+    //         (Item("common.items.mineral.ore.veloritefrag"), 5),
+    //         (Item("common.items.WECW.白金币"), 2),
+    //     ],
+    //     craft_sprite: Some(Cauldron),
+    //     is_recycling: false,
+    // ),
     "buy_potion_s": (
         output: ("common.items.consumable.potion_minor", 1),
         inputs: [
