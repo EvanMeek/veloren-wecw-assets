@@ -5,7 +5,7 @@ BasicAura(
     targets: InGroup,
     aura: (
         kind: Regeneration,
-        strength: 0.3,
+        strength: 0.9,
         duration: Some(6.0),
         category: Magical,
     ),
