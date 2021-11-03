@@ -64,7 +64,7 @@
         output: ("common.items.armor.misc.neck.ruby", 1),
         inputs: [
             (Item("common.items.armor.misc.neck.haniwa_talisman"), 1),
-            (Item("common.items.mineral.ingot.silver"), 10),
+            (Item("common.items.mineral.ingot.cobalt"), 20),
             (Item("common.items.mineral.gem.ruby"), 300),
             (Item("common.items.crafting_ing.mindflayer_bag_damaged"), 5),
         ],
@@ -75,7 +75,7 @@
         output: ("common.items.armor.misc.neck.emerald", 1),
         inputs: [
             (Item("common.items.armor.misc.neck.honeycomb_pendant"), 1),
-            (Item("common.items.mineral.ingot.cobalt"), 10),
+            (Item("common.items.mineral.ingot.silver"), 10),
             (Item("common.items.mineral.gem.emerald"), 300),
             (Item("common.items.crafting_ing.mindflayer_bag_damaged"), 5),
         ],
