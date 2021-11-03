@@ -1,6 +1,6 @@
 ItemDef(
     name: "帕拉丁战锤",
-    description: "信仰圣光吧.\n特效（圣骑士）：大地一击更改为治疗术！蓄力打击得到加强！",
+    description: "信仰圣光吧.\n特效（圣骑士）：地刺变为强力吐息！蓄力打击得到加强！",
     kind: Tool((
         kind: Hammer,
         hands: Two,
