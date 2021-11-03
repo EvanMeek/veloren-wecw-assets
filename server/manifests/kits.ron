@@ -436,5 +436,32 @@
            ("common.items.armor.misc.head.straw",1),
            ("common.items.armor.misc.head.bandana.red",1),
            ("common.items.armor.misc.head.bandana.thief",1),
-        ]
+        ],
+        "velorite_mage": [
+            ("common.items.armor.velorite_mage.back",1),
+            ("common.items.armor.velorite_mage.belt",1),
+            ("common.items.armor.velorite_mage.chest",1),
+            ("common.items.armor.velorite_mage.foot",1),
+            ("common.items.armor.velorite_mage.hand",1),
+            ("common.items.armor.velorite_mage.pants",1),
+            ("common.items.armor.velorite_mage.shoulder",1),
+        ],
+        "assassin": [
+            ("common.items.armor.assassin.back",1),
+            ("common.items.armor.assassin.belt",1),
+            ("common.items.armor.assassin.chest",1),
+            ("common.items.armor.assassin.foot",1),
+            ("common.items.armor.assassin.hand",1),
+            ("common.items.armor.assassin.pants",1),
+            ("common.items.armor.assassin.shoulder",1),
+        ],
+        "tarasqua": [
+            ("common.items.armor.tarasqua.back",1),
+            ("common.items.armor.tarasqua.belt",1),
+            ("common.items.armor.tarasqua.chest",1),
+            ("common.items.armor.tarasqua.foot",1),
+            ("common.items.armor.tarasqua.hand",1),
+            ("common.items.armor.tarasqua.pants",1),
+            ("common.items.armor.tarasqua.shoulder",1),
+        ],
 })
