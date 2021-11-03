@@ -1,7 +1,7 @@
 BasicRanged(
     energy_cost: 30.0,
-    buildup_duration: 0.20,
-    recover_duration: 0.20,
+    buildup_duration: 0.25,
+    recover_duration: 0.25,
     projectile: NecroticSphere(
         damage: 30.0,
         radius: 8.0,
