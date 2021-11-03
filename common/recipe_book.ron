@@ -1,5 +1,147 @@
 {
 
+
+    // ===================================项链===================================
+    "愤怒的卡纳特": (
+        output: ("common.items.armor.misc.neck.carcanet_of_wrath", 1),
+        inputs: [
+            (Item("common.items.armor.misc.neck.diamond"), 1),
+            (Item("common.items.mineral.ingot.gold"), 30),
+            (Item("common.items.mineral.gem.diamond"), 100),
+            (Item("common.items.crafting_tools.mindflayer_bag_damaged"), 5),
+            (Item("common.items.crafting_tools.dragon_scale"), 5),
+        ],
+        craft_sprite: Some(CraftingBench),
+        is_recycling: false,
+    ),
+    "暗灵项链": (
+        output: ("common.items.WECW.neck.epicneck", 1),
+        inputs: [
+            (Item("common.items.armor.misc.neck.ruby"), 1),
+            (Item("common.items.mineral.ingot.silver"), 30),
+            (Item("common.items.mineral.gem.ruby"), 100),
+            (Item("common.items.crafting_tools.mindflayer_bag_damaged"), 5),
+            (Item("common.items.crafting_tools.dragon_scale"), 5),
+        ],
+        craft_sprite: Some(CraftingBench),
+        is_recycling: false,
+    ),
+    "生命安克": (
+        output: ("common.items.WECW.neck.ankh_of_life", 1),
+        inputs: [
+            (Item("common.items.armor.misc.neck.emerald"), 1),
+            (Item("common.items.mineral.ingot.cobalt"), 30),
+            (Item("common.items.mineral.gem.emerald"), 500),
+            (Item("common.items.crafting_tools.mindflayer_bag_damaged"), 5),
+            (Item("common.items.crafting_tools.dragon_scale"), 5),
+        ],
+        craft_sprite: Some(CraftingBench),
+        is_recycling: false,
+    ),
+    "钻石项链": (
+        output: ("common.items.armor.misc.neck.diamond", 1),
+        inputs: [
+            (Item("common.items.armor.misc.neck.fang"), 1),
+            (Item("common.items.mineral.ingot.gold"), 25),
+            (Item("common.items.mineral.gem.diamond"), 55),
+            (Item("common.items.crafting_tools.mindflayer_bag_damaged"), 5),
+        ],
+        craft_sprite: Some(CraftingBench),
+        is_recycling: false,
+    ),
+    "红宝石项链": (
+        output: ("common.items.armor.misc.neck.ruby", 1),
+        inputs: [
+            (Item("common.items.armor.misc.neck.haniwa_talisman"), 1),
+            (Item("common.items.mineral.ingot.silver"), 25),
+            (Item("common.items.mineral.gem.ruby"), 50),
+            (Item("common.items.crafting_tools.mindflayer_bag_damaged"), 5),
+        ],
+        craft_sprite: Some(CraftingBench),
+        is_recycling: false,
+    ),
+    "绿宝石项链": (
+        output: ("common.items.armor.misc.neck.emerald", 1),
+        inputs: [
+            (Item("common.items.armor.misc.neck.honeycomb_pendant"), 1),
+            (Item("common.items.mineral.ingot.cobalt"), 25),
+            (Item("common.items.mineral.gem.emerald"), 200),
+        ],
+        craft_sprite: Some(CraftingBench),
+        is_recycling: false,
+    ),
+    "蜂窝状项链": (
+        output: ("common.items.armor.misc.neck.honeycomb_pendant", 1),
+        inputs: [
+            (Item("common.items.armor.misc.neck.amethyst"), 1),
+            (Item("common.items.crafting_ing.sticky_thread"), 50),
+            (Item("common.items.crafting_ing.honey"), 100),
+            (Item("common.items.crafting_ing.cloth.lifecloth"), 10),
+        ],
+        craft_sprite: Some(CraftingBench),
+        is_recycling: false,
+    ),
+    "獠牙项链": (
+        output: ("common.items.armor.misc.neck.fang", 1),
+        inputs: [
+            (Item("common.items.armor.misc.neck.sapphire"), 1),
+            (Item("common.items.crafting_ing.leather.leather_strips"), 50),
+            (Item("common.items.crafting_ing.animal_misc.sharp_fang"), 100),
+            (Item("common.items.crafting_ing.hide.carapace"), 30),
+        ],
+        craft_sprite: Some(CraftingBench),
+        is_recycling: false,
+    ),
+    "哈尼瓦项链": (
+        output: ("common.items.armor.misc.neck.haniwa_talisman", 1),
+        inputs: [
+            (Item("common.items.armor.misc.neck.topaz"), 1),
+            (Item("common.items.mineral.ingot.bronze"), 50),
+            (Item("common.items.crafting_ing.leather.thick_leather"), 50),
+            (Item("common.items.mineral.ingot.cobalt"), 10),
+        ],
+        craft_sprite: Some(CraftingBench),
+        is_recycling: false,
+    ),
+    "蓝宝石项链": (
+        output: ("common.items.armor.misc.neck.sapphire", 1),
+        inputs: [
+            (Item("common.items.mineral.ingot.iron"), 25),
+            (Item("common.items.mineral.gem.sapphire"), 100),
+        ],
+        craft_sprite: Some(CraftingBench),
+        is_recycling: false,
+    ),
+    "黄宝石项链": (
+        output: ("common.items.armor.misc.neck.topaz", 1),
+        inputs: [
+            (Item("common.items.mineral.ingot.copper"), 2),
+            (Item("common.items.mineral.gem.topaz"), 3),
+        ],
+        craft_sprite: Some(CraftingBench),
+        is_recycling: false,
+    ),
+    "紫水晶项链": (
+        output: ("common.items.armor.misc.neck.amethyst", 1),
+        inputs: [
+            (Item("common.items.mineral.ingot.tin"), 2),
+            (Item("common.items.mineral.gem.amethyst"), 3),
+        ],
+        craft_sprite: Some(CraftingBench),
+        is_recycling: false,
+    ),
+    "Seashell Necklace": (
+        output: ("common.items.armor.misc.neck.shell", 1),
+        inputs: [
+            (Item("common.items.crafting_ing.cloth.linen"), 20),
+            (Item("common.items.mineral.gem.sapphire"), 30),
+            (Item("common.items.crafting_ing.seashells"), 5),
+            (Item("common.items.crafting_tools.sewing_set"), 0),
+            (Item("common.items.crafting_tools.mindflayer_bag_damaged"), 5),
+        ],
+        craft_sprite: Some(CraftingBench),
+        is_recycling: false,
+    ),
     // ===================================出售===================================
     "金符文": (
         output: ("common.items.WECW.金符文", 1),
@@ -284,7 +426,7 @@
     "传说回收": (
         output: ("common.items.crafting_ing.hide.dragon_scale", 1),
         inputs: [
-            output: ("common.items.WECW.sell.传说分解包", 1),
+            (Item("common.items.WECW.sell.传说分解包"), 1),
         ],
         craft_sprite: None,
         is_recycling: true,
@@ -2808,17 +2950,6 @@
             (Item("common.items.food.meat.bird_large_cooked"), 1),
         ],
         craft_sprite: Some(CookingPot),
-        is_recycling: false,
-    ),
-    "Seashell Necklace": (
-        output: ("common.items.armor.misc.neck.shell", 1),
-        inputs: [
-            (Item("common.items.crafting_ing.cloth.linen"), 2),
-            (Item("common.items.mineral.gem.sapphire"), 1),
-            (Item("common.items.crafting_ing.seashells"), 3),
-            (Item("common.items.crafting_tools.sewing_set"), 0),
-        ],
-        craft_sprite: Some(CraftingBench),
         is_recycling: false,
     ),
     "red cloth": (
