@@ -5,7 +5,7 @@
     "理智": (
         output: ("common.items.WECW.neck.exneck", 1),
         inputs: [
-            (Item("common.items.armor.misc.neck.carcanet_of_wrath"), 30),
+            (Item("common.items.armor.misc.neck.carcanet_of_wrath"), 1),
             (Item("common.items.WECW.neck.epicneck"), 1),
             (Item("common.items.armor.misc.neck.ankh_of_life"), 1),
             (Item("common.items.WECW.sell.传说分解包"), 3),
