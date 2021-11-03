@@ -232,10 +232,43 @@
     //     craft_sprite: None,
     //     is_recycling: true,
     // ),
+    // "史诗回收": (
+    //     output: ("common.items.WECW.蓝金币", 1500),
+    //     inputs: [
+    //         (Tag(EpicSell),1),
+    //     ],
+    //     craft_sprite: None,
+    //     is_recycling: true,
+    // ),
+    // "高级回收": (
+    //     output: ("common.items.WECW.蓝金币", 5),
+    //     inputs: [
+    //         (Tag(HighSell),1),
+    //     ],
+    //     craft_sprite: None,
+    //     is_recycling: true,
+    // ),
+    // "罕见回收": (
+    //     output: ("common.items.WECW.蓝金币", 1),
+    //     inputs: [
+    //         (Tag(ModerateSell),1),
+    //     ],
+    //     craft_sprite: None,
+    //     is_recycling: true,
+    // ),
+
+    "传说回收": (
+        output: ("common.items.crafting_ing.hide.dragon_scale", 1),
+        inputs: [
+            (Item("common.items.WECW.sell.传说分解包"),1),
+        ],
+        craft_sprite: None,
+        is_recycling: true,
+    ),
     "史诗回收": (
         output: ("common.items.WECW.蓝金币", 1500),
         inputs: [
-            (Tag(EpicSell),1),
+            (Item("common.items.WECW.sell.史诗分解包"),1),
         ],
         craft_sprite: None,
         is_recycling: true,
@@ -243,7 +276,7 @@
     "高级回收": (
         output: ("common.items.WECW.蓝金币", 5),
         inputs: [
-            (Tag(HighSell),1),
+            (Item("common.items.WECW.sell.高级分解包"),1),
         ],
         craft_sprite: None,
         is_recycling: true,
@@ -251,7 +284,7 @@
     "罕见回收": (
         output: ("common.items.WECW.蓝金币", 1),
         inputs: [
-            (Tag(ModerateSell),1),
+            (Item("common.items.WECW.sell.常见分解包"),1),
         ],
         craft_sprite: None,
         is_recycling: true,
