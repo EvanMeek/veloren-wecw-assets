@@ -10,7 +10,11 @@ BasicRanged(
         energy_regen: 8.0,
     ),
     projectile_body: Object(BoltFire),
+    /*projectile_light: Some(LightEmitter {
+        col: (1.0, 0.75, 0.11).into(),
+        ..Default::default()
+    }),*/
     projectile_speed: 60.0,
     num_projectiles: 2,
-    projectile_spread: 0.0,
+    projectile_spread: 0.2,
 )
