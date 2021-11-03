@@ -1,6 +1,6 @@
 [
     // 源符文
-    (0.01, Item("common.items.WECW.源符文")),
+    (0.003, Item("common.items.WECW.源符文")),
     // 暗金冲击锤
     (0.01, Item("common.items.WECW.暗金冲击锤")),
     // 遗忘战斧
@@ -8,7 +8,7 @@
     // 暗金切割者
     (0.01, Item("common.items.WECW.暗金切割者")),
     // 暗灵项链
-    (0.01, Item("common.items.WECW.neck.epicneck")),
+    // (0.01, Item("common.items.WECW.neck.epicneck")),
     // 暗灵戒指
     (0.01, Item("common.items.WECW.ring.skullg")),
     // 棱镜背包

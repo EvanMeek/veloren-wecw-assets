@@ -1,6 +1,6 @@
 [
     // 源符文
-    (0.005, Item("common.items.WECW.源符文")),
+    (0.003, Item("common.items.WECW.源符文")),
     // 风暴大剑
     (0.01, Item("common.items.WECW.风暴大剑")),
     // 守护项链
