@@ -119,7 +119,7 @@
         output: ("common.items.armor.misc.neck.sapphire", 1),
         inputs: [
             (Item("common.items.mineral.ingot.iron"), 25),
-            (Item("common.items.mineral.gem.sapphire"), 100),
+            (Item("common.items.mineral.gem.sapphire"), 50),
         ],
         craft_sprite: Some(CraftingBench),
         is_recycling: false,
@@ -127,8 +127,8 @@
     "黄宝石项链": (
         output: ("common.items.armor.misc.neck.topaz", 1),
         inputs: [
-            (Item("common.items.mineral.ingot.copper"), 2),
-            (Item("common.items.mineral.gem.topaz"), 3),
+            (Item("common.items.mineral.ingot.copper"), 25),
+            (Item("common.items.mineral.gem.topaz"), 50),
         ],
         craft_sprite: Some(CraftingBench),
         is_recycling: false,
@@ -136,8 +136,8 @@
     "紫水晶项链": (
         output: ("common.items.armor.misc.neck.amethyst", 1),
         inputs: [
-            (Item("common.items.mineral.ingot.tin"), 2),
-            (Item("common.items.mineral.gem.amethyst"), 3),
+            (Item("common.items.mineral.ingot.tin"), 25),
+            (Item("common.items.mineral.gem.amethyst"), 50),
         ],
         craft_sprite: Some(CraftingBench),
         is_recycling: false,
