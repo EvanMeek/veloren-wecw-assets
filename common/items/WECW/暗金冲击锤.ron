@@ -16,6 +16,6 @@ ItemDef(
         )),
     )),
     quality: Legendary,
-    tags: [],
+    tags: [SalvageInto(LegendarySell),],
     ability_spec: Some(Custom("冲击锤技能组")),
 )
