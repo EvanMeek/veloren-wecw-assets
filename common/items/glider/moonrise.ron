@@ -1,6 +1,6 @@
 ItemDef(
-    name: "Aquatic Night",
-    description: "The stars are beautiful tonight.",
+    name: "水之暮",
+    description: "今夜星光真美。",
     kind: Glider(
         (
             kind: "Moonrise",

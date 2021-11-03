@@ -1,6 +1,6 @@
 ItemDef(
-    name: "Moonlit Love",
-    description: "Love is in the air.",
+    name: "月之恋",
+    description: "爱所处不在.",
     kind: Glider(
         (
             kind: "ButterflyLove",

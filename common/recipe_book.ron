@@ -256,11 +256,35 @@
     //     craft_sprite: None,
     //     is_recycling: true,
     // ),
+    "水之幕": (
+        output: ("common.items.glider.moonrise", 1),
+        inputs: [
+            (Item("common.items.WECW.sell.史诗分解包"),1),
+        ],
+        craft_sprite: None,
+        is_recycling: true,
+    ),
+    "地平线": (
+        output: ("common.items.glider.sunset", 1),
+        inputs: [
+            (Item("common.items.WECW.sell.史诗分解包"),1),
+        ],
+        craft_sprite: None,
+        is_recycling: true,
+    ),
+    "月之恋": (
+        output: ("common.items.glider.butterfly3", 1),
+        inputs: [
+            (Item("common.items.WECW.sell.史诗分解包"),1),
+        ],
+        craft_sprite: None,
+        is_recycling: true,
+    ),
 
     "传说回收": (
         output: ("common.items.crafting_ing.hide.dragon_scale", 1),
         inputs: [
-            (Item("common.items.WECW.sell.传说分解包"),1),
+            output: ("common.items.WECW.sell.传说分解包", 1),
         ],
         craft_sprite: None,
         is_recycling: true,

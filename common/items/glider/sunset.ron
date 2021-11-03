@@ -1,6 +1,6 @@
 ItemDef(
-    name: "Horizon",
-    description: "It isn't high noon.",
+    name: "地平线",
+    description: "午时未到。",
     kind: Glider(
         (
             kind: "Sunset",
