@@ -103,7 +103,7 @@
         secondary: "common.abilities.hammer.chargedgreat",
         abilities: [
             (Some(Hammer(UnlockLeap)), "common.abilities.hammer.leap"),
-            (Some(Hammer(UnlockLeap)), "common.abilities.hammer.holy"),
+            (Some(Hammer(UnlockLeap)), "common.abilities.hammer.帕拉丁吐息"),
         ],
     ),
     Custom("山铜锤技能组"): (
