@@ -1,6 +1,6 @@
 ItemDef(
-    name: "Pendant of Protection",
-    description: "You feel as if something is always watching you...",
+    name: "守护吊坠",
+    description: "你觉得好像有什么东西一直在看着你......",
     kind: Armor((
         kind: Neck("Pendant"),
         stats: (

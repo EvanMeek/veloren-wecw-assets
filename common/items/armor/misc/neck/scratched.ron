@@ -1,6 +1,6 @@
 ItemDef(
-    name: "Scratched Necklace",
-    description: "The string is about to snap...",
+    name: "带有刮痕的项链",
+    description: "绳子快要断了...",
     kind: Armor((
         kind: Neck("Scratched"),
         stats: (

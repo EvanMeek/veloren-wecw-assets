@@ -1,15 +1,15 @@
 ItemDef(
-    name: "Ruby Necklace",
-    description: "An ornate silver necklace, embedded with beautiful rubies.",
+    name: "红宝石项链",
+    description: "一条华丽的银质项链，镶嵌着美丽的红宝石。",
     kind: Armor((
         kind: Neck("Ruby"),
         stats: (
-            protection: Normal(1.0),
-            poise_resilience: Normal(0.0),
+            protection: Normal(15.0),
+            poise_resilience: Normal(5.0),
             energy_max: 0.0,
-            energy_reward: 0.2,
-            crit_power: -0.06,
-            stealth: 0.0,
+            energy_reward: 0.0,
+            crit_power: -0.2,
+            stealth: -10.0,
         ),
     )),
     quality: Epic,

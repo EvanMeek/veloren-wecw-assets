@@ -1,6 +1,6 @@
 ItemDef(
-    name: "Gold Necklace",
-    description: "An expensive gold necklace... looks stolen.",
+    name: "黄金项链",
+    description: "一条昂贵的金项链......看起来是偷来的。",
     kind: Armor((
         kind: Neck("Gold"),
         stats: (

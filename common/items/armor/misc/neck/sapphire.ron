@@ -1,15 +1,15 @@
 ItemDef(
-    name: "Sapphire Necklace",
-    description: "A sturdy iron necklace, with polished sapphire gems embedded into it.",
+    name: "蓝宝石项链",
+    description: "一条结实的铁质项链，上面镶嵌着抛光的蓝宝石。",
     kind: Armor((
         kind: Neck("Sapphire"),
         stats: (
             protection: Normal(1.0),
-            poise_resilience: Normal(0.0),
+            poise_resilience: Normal(1.0),
             energy_max: 0,
-            energy_reward: 0.0,
-            crit_power: 0.05,
-            stealth: 0.0,
+            energy_reward: -0.2,
+            crit_power: 0.025,
+            stealth: -5.0,
         ),
     )),
     quality: Moderate,

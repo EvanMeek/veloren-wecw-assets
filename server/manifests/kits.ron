@@ -419,6 +419,10 @@
            ("common.items.armor.misc.neck.scratched",1),
            ("common.items.armor.misc.neck.shell",1),
            ("common.items.armor.misc.neck.topaz",1),
+           ("common.items.WECW.neck.exneck",1),
+           ("common.items.WECW.neck.epicneck",1),
+           ("common.items.WECW.neck.highneck",1),
+           ("common.items.WECW.neck.highneck2",1),
         ],
         "head": [
            ("common.items.armor.misc.head.crown",1),

@@ -1,6 +1,6 @@
 ItemDef(
-    name: "Gem of Resilience",
-    description: "Surrounded by a discrete magical glow.",
+    name: "坚韧的宝石项链",
+    description: "被离散的神奇光芒所包围。",
     kind: Armor((
         kind: Neck("ResilienceGem"),
         stats: (

@@ -1,15 +1,15 @@
 ItemDef(
-    name: "Carcanet of Wrath",
-    description: "A necklace that gives even the most feeble beings immense amounts of power.",
+    name: "愤怒的卡纳特",
+    description: "即使是最孱弱的生命也能获得巨大的力量。",
     kind: Armor((
         kind: Neck("Carcanet"),
         stats: (
-            protection: Normal(2.0),
-            poise_resilience: Normal(0.0),
-            energy_max: 0,
+            protection: Normal(10.0),
+            poise_resilience: Normal(10.0),
+            energy_max: 2,
             energy_reward: 0.0,
             crit_power: 0.2,
-            stealth: 0.0,
+            stealth: -5.0,
         ),
     )),
     quality: Legendary,

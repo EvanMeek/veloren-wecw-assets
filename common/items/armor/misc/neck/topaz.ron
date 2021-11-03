@@ -1,15 +1,15 @@
 ItemDef(
-    name: "Topaz Necklace",
-    description: "A copper necklace, with topaz embedded in the center.",
+    name: "黄玉项链",
+    description: "一条铜质项链，中间嵌有黄宝石。",
     kind: Armor((
         kind: Neck("Topaz"),
         stats: (
-            protection: Normal(1.0),
-            poise_resilience: Normal(0.0),
-            energy_max: 10.0,
+            protection: Normal(3.25),
+            poise_resilience: Normal(1.25),
+            energy_max: 0.0,
             energy_reward: 0.00,
-            crit_power: 0.0,
-            stealth: 0.0,
+            crit_power: -0.3,
+            stealth: -10.0,
         ),
     )),
     quality: Moderate,
