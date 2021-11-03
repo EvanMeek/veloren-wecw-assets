@@ -1,0 +1,9 @@
+ItemDef(
+    name: "史诗分解包",
+    description: "可在合成表转换为指定物品",
+    kind: Ingredient(
+        kind: "史诗分解包",
+    ),
+    quality: Epic,
+    tags: [],
+)

@@ -1,0 +1,9 @@
+ItemDef(
+    name: "传说分解包",
+    description: "可在合成表转换为指定物品",
+    kind: Ingredient(
+        kind: "传说分解包",
+    ),
+    quality: Legendary,
+    tags: [],
+)
