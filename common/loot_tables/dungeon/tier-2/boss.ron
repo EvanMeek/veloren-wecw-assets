@@ -15,6 +15,8 @@
     (0.1, Item("common.items.glider.glider_purp")),
     // 破布
     (0.2, Item("common.items.crafting_ing.mindflayer_bag_damaged")),
+    // 无敌药水
+    (0.3, ItemQuantity("common.items.boss_drops.无敌药水",1,5)),
     // 生命之息
     (0.3, ItemQuantity("common.items.boss_drops.生命之息", 3, 6)),
     // 能量之息
