@@ -730,6 +730,7 @@
     "理智的摧残者": (
         output: ("common.items.WECW.理智的摧残者", 1),
         inputs: [
+            (Item("common.items.WECW.sell.传说分解包"), 5),
             (Item("common.items.WECW.暗金币"), 20),
             (Item("common.items.WECW.火符文"), 3),
             (Item("common.items.WECW.土符文"), 3),
@@ -740,7 +741,6 @@
             (Item("common.items.weapons.staff.dragon_tongue"), 5),
             (Item("common.items.weapons.staff.phoenix"), 1),
             (Item("common.items.crafting_ing.hide.dragon_scale"), 20),
-            (Item("common.items.WECW.sell.传说分解包"), 5),
             (Item("common.items.crafting_ing.mindflayer_bag_damaged"), 50),
             (Item("common.items.mineral.gem.amethyst"), 2000),
             (Item("common.items.mineral.gem.emerald"), 2000),
@@ -757,10 +757,10 @@
     "无尽深渊": (
         output: ("common.items.WECW.无尽深渊", 1),
         inputs: [
+            (Item("common.items.WECW.sell.传说分解包"), 3),
             (Item("common.items.WECW.暗符文"), 3),
             (Item("common.items.WECW.金符文"), 3),
             (Item("common.items.WECW.暗金币"), 20),
-            (Item("common.items.WECW.sell.传说分解包"), 3),
             (Item("common.items.weapons.axe.malachite_axe-0_player"), 1),
             (Item("common.items.WECW.深蓝使者"), 1),
             (Item("common.items.WECW.暗金切割者"), 2),
@@ -776,8 +776,8 @@
     "灵魂风暴": (
         output: ("common.items.WECW.灵魂风暴", 1),
         inputs: [
-            (Item("common.items.WECW.萨顿的末日战刃"), 1),
             (Item("common.items.WECW.sell.传说分解包"), 1),
+            (Item("common.items.WECW.萨顿的末日战刃"), 1),
             (Item("common.items.crafting_ing.hide.dragon_scale"), 10),
             (Item("common.items.crafting_ing.mindflayer_bag_damaged"), 20),
             (Item("common.items.mineral.ingot.orichalcum"), 5),
@@ -794,8 +794,8 @@
     "乌菲尔": (
         output: ("common.items.WECW.乌菲尔", 1),
         inputs: [
-            (Item("common.items.WECW.灵魂风暴"), 1),
             (Item("common.items.WECW.sell.传说分解包"), 3),
+            (Item("common.items.WECW.灵魂风暴"), 1),
             (Item("common.items.crafting_ing.hide.dragon_scale"), 30),
             (Item("common.items.crafting_ing.mindflayer_bag_damaged"), 40),
             (Item("common.items.mineral.ingot.orichalcum"), 20),
@@ -813,8 +813,8 @@
     "放逐之刃": (
         output: ("common.items.WECW.放逐之刃", 1),
         inputs: [
-            (Item("common.items.WECW.灵魂风暴"), 1),
             (Item("common.items.WECW.sell.传说分解包"), 3),
+            (Item("common.items.WECW.灵魂风暴"), 1),
             (Item("common.items.crafting_ing.hide.dragon_scale"), 30),
             (Item("common.items.crafting_ing.mindflayer_bag_damaged"), 40),
             (Item("common.items.mineral.ingot.orichalcum"), 20),
