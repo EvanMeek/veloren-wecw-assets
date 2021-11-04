@@ -17,5 +17,5 @@ ItemDef(
     )),
     quality: Epic,
     tags: [],
-    ability_spec: Some(Custom("冲击锤技能组")),
+    ability_spec: Some(Custom("Hammer Simple")),
 )

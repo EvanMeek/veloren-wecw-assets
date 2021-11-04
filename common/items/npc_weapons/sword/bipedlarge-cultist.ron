@@ -8,7 +8,7 @@ ItemDef(
             equip_time_secs: 0.5,
             power: 3.0,
             effect_power: 3.0,
-            speed: 0.5,
+            speed: 0.8,
             crit_chance: 0.2,
             range: 1.25,
             energy_efficiency: 1.0,
@@ -17,5 +17,5 @@ ItemDef(
     )),
     quality: Epic,
     tags: [],
-    ability_spec: Some(Custom("附魔的巨剑技能组")),
+    ability_spec: Some(Custom("Sword Simple")),
 )
