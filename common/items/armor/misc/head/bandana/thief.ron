@@ -1,6 +1,6 @@
 ItemDef(
-    name: "Thief Bandana",
-    description: "Common bandit's mask.",
+    name: "黑色面罩",
+    description: "鬼鬼祟祟...\n纪念物品——活动奖励",
     kind: Armor((
         kind: Head("Thief"),
         stats: (
@@ -9,9 +9,9 @@ ItemDef(
             energy_max: 0,
             energy_reward: 0.0,
             crit_power: 0.0,
-            stealth: 0.18,
+            stealth: 0.0,
         ),
     )),
-    quality: Common,
+    quality: Legendary,
     tags: [],
 )

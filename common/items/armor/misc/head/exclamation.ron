@@ -1,6 +1,6 @@
 ItemDef(
-    name: "Exclamation hat",
-    description: "You feel like bestowing quests.",
+    name: "惊了！",
+    description: "以后的任务npc可能会戴有~",
     kind: Armor((
         kind: Head("Exclamation"),
         stats: (
@@ -12,6 +12,6 @@ ItemDef(
             stealth: 0.0,
         ),
     )),
-    quality: Common,
+    quality: Legendary,
     tags: [],
 )

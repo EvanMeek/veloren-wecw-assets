@@ -1,17 +1,17 @@
 ItemDef(
-    name: "Mitre",
-    description: "Calls strength from above.",
+    name: "凤冠",
+    description: "纪念物品——活动奖励",
     kind: Armor((
         kind: Head("Mitre"),
         stats: (
             protection: Normal(0.0),
             poise_resilience: Normal(0.0),
-            energy_max: 11.0,
-            energy_reward: 0.12,
-            crit_power: 0.1,
+            energy_max: 0.0,
+            energy_reward: 0.0,
+            crit_power: 0.0,
             stealth: 0.0,
         ),
     )),
-    quality: Common,
+    quality: Legendary,
     tags: [],
 )
