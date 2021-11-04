@@ -1,11 +1,11 @@
 [
     (50, Velorite),
-    (60, VeloriteFrag),
-    (40, CaveMushroom),
-    (16, SapphireSmall),
-    (12, EmeraldSmall),
+    (50, VeloriteFrag),
+    (50, CaveMushroom),
+    (50, SapphireSmall),
+    (25, EmeraldSmall),
     (15, Cobalt),
-    (30, Bloodstone),
-    (40, Coal),
-    (10, RubySmall),
+    (0, Bloodstone),
+    (50, Coal),
+    (25, RubySmall),
 ]
