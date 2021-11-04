@@ -4,17 +4,17 @@ BasicRanged(
     buildup_duration: 0.25,
     recover_duration: 0.25,
     projectile: Fireball(
-        min_falloff: 0.5,
+        min_falloff: 0.8,
         damage: 20.0,
         radius: 7.0,
-        energy_regen: 8.0,
+        energy_regen: 12.0,
     ),
     projectile_body: Object(BoltFire),
     /*projectile_light: Some(LightEmitter {
         col: (1.0, 0.75, 0.11).into(),
         ..Default::default()
     }),*/
-    projectile_speed: 60.0,
+    projectile_speed: 100.0,
     num_projectiles: 2,
     projectile_spread: 0.2,
 )
