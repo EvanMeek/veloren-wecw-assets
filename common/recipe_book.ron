@@ -734,19 +734,20 @@
             (Item("common.items.WECW.火符文"), 3),
             (Item("common.items.WECW.土符文"), 3),
             (Item("common.items.WECW.金符文"), 3),
-            (Item("common.items.WECW.暗符文"), 2),
-            (Item("common.items.WECW.源符文"), 1),
+            (Item("common.items.WECW.暗符文"), 3),
+            (Item("common.items.WECW.源符文"), 3),
             (Item("common.items.weapons.staff.laevateinn"), 1),
             (Item("common.items.weapons.staff.dragon_tongue"), 5),
             (Item("common.items.weapons.staff.phoenix"), 1),
-            (Item("common.items.crafting_ing.hide.dragon_scale"), 30),
+            (Item("common.items.crafting_ing.hide.dragon_scale"), 20),
+            (Item("common.items.WECW.sell.传说分解包"), 5),
             (Item("common.items.crafting_ing.mindflayer_bag_damaged"), 50),
-            (Item("common.items.mineral.gem.amethyst"), 1000),
-            (Item("common.items.mineral.gem.emerald"), 1000),
-            (Item("common.items.mineral.gem.ruby"), 1000),
-            (Item("common.items.mineral.gem.sapphire"), 1000),
+            (Item("common.items.mineral.gem.amethyst"), 2000),
+            (Item("common.items.mineral.gem.emerald"), 2000),
+            (Item("common.items.mineral.gem.ruby"), 2000),
+            (Item("common.items.mineral.gem.sapphire"), 2000),
             (Item("common.items.mineral.gem.diamond"), 1000),
-            (Item("common.items.mineral.gem.topaz"), 1000),
+            (Item("common.items.mineral.gem.topaz"), 2000),
             (Item("common.items.boss_drops.无敌药水"), 300),
             (Item("common.items.tool.craftsman_hammer"), 0),
         ],
@@ -759,6 +760,7 @@
             (Item("common.items.WECW.暗符文"), 3),
             (Item("common.items.WECW.金符文"), 3),
             (Item("common.items.WECW.暗金币"), 20),
+            (Item("common.items.WECW.sell.传说分解包"), 3),
             (Item("common.items.weapons.axe.malachite_axe-0_player"), 1),
             (Item("common.items.WECW.深蓝使者"), 1),
             (Item("common.items.WECW.暗金切割者"), 2),
@@ -775,6 +777,7 @@
         output: ("common.items.WECW.灵魂风暴", 1),
         inputs: [
             (Item("common.items.WECW.萨顿的末日战刃"), 1),
+            (Item("common.items.WECW.sell.传说分解包"), 1),
             (Item("common.items.crafting_ing.hide.dragon_scale"), 10),
             (Item("common.items.crafting_ing.mindflayer_bag_damaged"), 20),
             (Item("common.items.mineral.ingot.orichalcum"), 5),
@@ -792,6 +795,7 @@
         output: ("common.items.WECW.乌菲尔", 1),
         inputs: [
             (Item("common.items.WECW.灵魂风暴"), 1),
+            (Item("common.items.WECW.sell.传说分解包"), 3),
             (Item("common.items.crafting_ing.hide.dragon_scale"), 30),
             (Item("common.items.crafting_ing.mindflayer_bag_damaged"), 40),
             (Item("common.items.mineral.ingot.orichalcum"), 20),
@@ -810,6 +814,7 @@
         output: ("common.items.WECW.放逐之刃", 1),
         inputs: [
             (Item("common.items.WECW.灵魂风暴"), 1),
+            (Item("common.items.WECW.sell.传说分解包"), 3),
             (Item("common.items.crafting_ing.hide.dragon_scale"), 30),
             (Item("common.items.crafting_ing.mindflayer_bag_damaged"), 40),
             (Item("common.items.mineral.ingot.orichalcum"), 20),
@@ -827,6 +832,7 @@
     "埃尔安多": (
         output: ("common.items.WECW.埃尔安多", 1),
         inputs: [
+            (Item("common.items.WECW.sell.传说分解包"), 3),
             (Item("common.items.WECW.遗忘战斧"), 1),
             (Item("common.items.crafting_ing.hide.dragon_scale"), 30),
             (Item("common.items.crafting_ing.mindflayer_bag_damaged"),40),
@@ -845,6 +851,7 @@
     "熔火之心": (
         output: ("common.items.WECW.熔火之心", 1),
         inputs: [
+            (Item("common.items.WECW.sell.传说分解包"), 3),
             (Item("common.items.WECW.暗金冲击锤"), 1),
             (Item("common.items.crafting_ing.hide.dragon_scale"), 40),
             (Item("common.items.crafting_ing.mindflayer_bag_damaged"),50),
@@ -863,6 +870,7 @@
     "旭日击破者-觉醒": (
         output: ("common.items.WECW.旭日击破者-觉醒", 1),
         inputs: [
+            (Item("common.items.WECW.sell.传说分解包"), 3),
             (Item("common.items.WECW.旭日击破者"), 1),
             (Item("common.items.crafting_ing.hide.dragon_scale"), 15),
             (Item("common.items.crafting_ing.mindflayer_bag_damaged"),10),
@@ -883,6 +891,7 @@
     "风暴使者": (
         output: ("common.items.WECW.风暴使者", 1),
         inputs: [
+            (Item("common.items.WECW.sell.传说分解包"), 1),
             (Item("common.items.WECW.风暴大剑"), 1),
             (Item("common.items.crafting_ing.hide.dragon_scale"), 10),
             (Item("common.items.crafting_ing.mindflayer_bag_damaged"), 15),
