@@ -4,7 +4,7 @@ LeapMelee(
     movement_duration: 0.8,
     swing_duration: 0.15,
     recover_duration: 0.2,
-    base_damage: 15,
+    base_damage: 35,
     base_poise_damage: 50,
     knockback: 5.0,
     range: 4.5,
