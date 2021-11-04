@@ -8,7 +8,7 @@ ChargedRanged(
     initial_knockback: 0.0,
     scaled_knockback: 8.0,
     buildup_duration: 0.1,
-    charge_duration: 0.7,
+    charge_duration: 0.6,
     recover_duration: 0.2,
     projectile_body: Object(Arrow),
     projectile_light: None,
