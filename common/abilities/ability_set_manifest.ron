@@ -90,6 +90,14 @@
             (Some(Hammer(UnlockLeap)), "common.abilities.hammer.shockwave"),
         ],
     ),
+    Custom("雷神之锤技能组"): (
+        primary: "common.abilities.hammer.雷神普攻",
+        secondary: "common.abilities.hammer.雷神蓄力",
+        abilities: [
+            (Some(Hammer(UnlockLeap)), "common.abilities.hammer.雷神千斤坠"),
+            (Some(Hammer(UnlockLeap)), "common.abilities.hammer.雷神地刺"),
+        ],
+    ),
     Custom("熔火之心技能组"): (
         primary: "common.abilities.hammer.firesinglestrike",
         secondary: "common.abilities.hammer.firecharged",
