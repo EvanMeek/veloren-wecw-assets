@@ -1,11 +1,11 @@
 SpinMelee(
-    buildup_duration: 0.6,
+    buildup_duration: 1.1,
     swing_duration: 0.4,
     recover_duration: 0.6,
-    base_damage: 30.0,
+    base_damage: 40.0,
     base_poise_damage: 0.0,
-    knockback: ( strength: 5.0, direction: Towards),
-    range: 20.0,
+    knockback: ( strength: 3.0, direction: Towards),
+    range: 15.0,
     damage_effect: Some(Lifesteal(1.0)),
     energy_cost: 0.0,
     is_infinite: true,
@@ -14,6 +14,6 @@ SpinMelee(
     forward_speed: 0.0,
     num_spins: 1,
     specifier: Some(CultistVortex),
-    target: None,
+    target: Some(OutOfGroup),
     damage_kind: Energy,
 )
