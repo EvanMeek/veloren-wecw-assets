@@ -1,6 +1,98 @@
 // Maps a tool kind to a set of abilities
 // A set of abilities is a primary, a secondary, and a vec of all extra abilities
 ({
+    // ===============================符文塔===============================
+    // 符文塔-大剑
+    Custom("符文-乌菲尔技能组"): (
+        primary: "common.abilities.rune.sword.符文-乌菲尔普攻",
+        secondary: "common.abilities.rune.sword.符文-乌菲尔突刺",
+        abilities: [
+            (Some(Sword(UnlockSpin)), "common.abilities.rune.sword.符文-乌菲尔旋风斩"),
+        ],
+    ),
+    Custom("符文-放逐之刃技能组"): (
+        primary: "common.abilities.rune.sword.符文-放逐之刃普攻",
+        secondary: "common.abilities.rune.sword.符文-放逐之刃突刺",
+        abilities: [
+            (Some(Sword(UnlockSpin)), "common.abilities.rune.sword.符文-放逐之刃旋风斩"),
+        ],
+    ),
+    Custom("符文-风暴使者技能组"): (
+        primary: "common.abilities.rune.sword.符文-风暴使者普攻",
+        secondary: "common.abilities.rune.sword.符文-风暴使者突刺",
+        abilities: [
+            (Some(Sword(UnlockSpin)), "common.abilities.rune.sword.符文-风暴使者旋风斩"),
+        ],
+    ),
+    // 符文塔-锤子
+    Custom("符文-冰风暴技能组"): (
+        primary: "common.abilities.rune.hammer.符文-冰风暴普攻",
+        secondary: "common.abilities.rune.hammer.符文-冰风暴蓄力",
+        abilities: [
+            (Some(Hammer(UnlockLeap)), "common.abilities.rune.hammer.符文-冰风暴千斤坠"),
+            (Some(Hammer(UnlockLeap)), "common.abilities.rune.hammer.符文-冰风暴地刺"),
+        ],
+    ),
+    Custom("符文-熔火之心技能组"): (
+        primary: "common.abilities.rune.hammer.符文-熔火之心普攻",
+        secondary: "common.abilities.rune.hammer.符文-熔火之心蓄力",
+        abilities: [
+            (Some(Hammer(UnlockLeap)), "common.abilities.rune.hammer.符文-熔火之心千斤坠"),
+            (Some(Hammer(UnlockLeap)), "common.abilities.rune.hammer.符文-熔火之心地刺"),
+        ],
+    ),
+    // 符文塔-斧头
+    Custom("符文-无尽深渊技能组"): (
+        primary: "common.abilities.rune.axe.符文-无尽深渊普攻",
+        secondary: "common.abilities.rune.axe.符文-无尽深渊旋风转",
+        abilities: [
+            (Some(Axe(UnlockLeap)), "common.abilities.rune.axe.符文-无尽深渊跳劈"),
+            (Some(Axe(UnlockLeap)), "common.abilities.rune.axe.符文-无尽深渊横劈"),
+        ],
+    ),
+    Custom("符文-埃尔安多技能组"): (
+        primary: "common.abilities.rune.axe.符文-埃尔安多普攻",
+        secondary: "common.abilities.rune.axe.符文-埃尔安多旋风转",
+        abilities: [
+            (Some(Axe(UnlockLeap)), "common.abilities.rune.axe.符文-埃尔安多跳劈"),
+            (Some(Axe(UnlockLeap)), "common.abilities.rune.axe.符文-埃尔安多横劈"),
+        ],
+    ),
+    // 符文塔-法杖
+    Custom("符文-理智的摧残者权杖技能组"): (
+        primary: "common.abilities.rune.staff.符文-摧残者火球",
+        secondary: "common.abilities.rune.staff.符文-摧残者吐息",
+        abilities: [
+            (Some(Staff(UnlockShockwave)), "common.abilities.rune.staff.符文-摧残者火环"),
+            (Some(Sceptre(UnlockAura)), "common.abilities.rune.staff.符文-摧残者狂暴"),
+        ],
+    ),
+    Custom("符文-奥拉西斯技能组"): (
+        primary: "common.abilities.rune.staff.符文-奥拉西斯火球",
+        secondary: "common.abilities.rune.staff.符文-奥拉西斯吐息",
+        abilities: [
+            (Some(Staff(UnlockShockwave)), "common.abilities.rune.staff.符文-奥拉西斯火环"),
+            (Some(Sceptre(UnlockAura)), "common.abilities.rune.staff.符文-奥拉西斯回血"),
+        ],
+    ),
+    // 符文塔-弓箭
+    Custom("符文-奥能旭日技能组"): (
+        primary: "common.abilities.rune.bow.符文-奥能旭日普攻",
+        secondary: "common.abilities.rune.bow.符文-奥能旭日连射",
+        abilities: [
+            (Some(Bow(UnlockShotgun)), "common.abilities.rune.bow.符文-奥能旭日散射"),
+            (Some(Bow(UnlockShotgun)), "common.abilities.rune.bow.符文-奥能旭日爆炸"),
+        ],
+    ),
+    // 符文塔-权杖
+    Custom("符文-灵魂权杖技能组"): (
+        primary: "common.abilities.rune.sceptre.符文-灵魂权杖-生命光束",
+        secondary: "common.abilities.rune.sceptre.符文-灵魂权杖-提升奶量",
+        abilities: [
+            (Some(Sceptre(UnlockAura)), "common.abilities.rune.sceptre.符文-灵魂权杖-提升防御"),
+            (Some(Sceptre(UnlockAura)), "common.abilities.rune.sceptre.符文-灵魂权杖-提升血量"),
+        ],
+    ),
     Tool(Sword): (
         primary: "common.abilities.sword.triplestrike",
         secondary: "common.abilities.sword.dash",

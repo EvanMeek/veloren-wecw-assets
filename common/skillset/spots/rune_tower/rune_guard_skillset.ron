@@ -1,0 +1,9 @@
+([
+    Tree("common.skillset.spots.general_max"),
+    Tree("common.skillset.spots.rune_tower.sword"),
+    Tree("common.skillset.spots.rune_tower.axe"),
+    Tree("common.skillset.spots.rune_tower.hammer"),
+    Tree("common.skillset.spots.rune_tower.staff"),
+    Tree("common.skillset.spots.rune_tower.bow"),
+    Tree("common.skillset.spots.rune_tower.sceptre"),
+])

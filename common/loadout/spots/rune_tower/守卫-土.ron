@@ -1,0 +1,12 @@
+({
+    Armor(Head): Item("common.items.WECW.符文塔.头饰.金"),
+    Armor(Chest): Item("common.items.armor.hide.dragonscale.chest"),
+    Armor(Shoulders): Item("common.items.armor.hide.dragonscale.shoulder"),
+    Armor(Belt): Item("common.items.armor.hide.dragonscale.belt"),
+    Armor(Hands): Item("common.items.armor.hide.dragonscale.hand"),
+    Armor(Legs): Item("common.items.armor.hide.dragonscale.pants"),
+    Armor(Feet): Item("common.items.armor.hide.dragonscale.foot"),
+    Armor(Back): Item("common.items.armor.hide.dragonscale.back"),
+
+    Lantern: Item("common.items.lantern.geode_purp"),
+})

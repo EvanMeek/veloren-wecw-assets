@@ -148,6 +148,10 @@
             "voxel.armor.warlordG.土符文",
             (0.0, 0.0, 0.0), (-10.0, 15.0, 0.0), 0.8,
         ),
+        Ingredient("碎片Rune"): VoxTrans(
+            "voxel.armor.warlordG.符文碎片",
+            (0.0, 0.0, 0.0), (-0.0, 0.0, 0.0), 0.8,
+        ),
         Ingredient("暗Rune"): VoxTrans(
             "voxel.armor.warlordG.暗符文",
             (0.0, 0.0, 0.0), (-10.0, 15.0, 0.0), 0.8,
@@ -183,10 +187,71 @@
             "voxel.armor.warlordG.vring",
             (0.0, 0.0, 0.0), (30.0, 0.0, 0.0), 0.9,
         ),
-        Tool("common.items.WECW.熔火之心"): VoxTrans(
+        Tool("common.items.WECW.符文塔.武器.符文-熔火之心"): VoxTrans(
             "voxel.armor.warlordG.熔火之心",
             (1.0, -1.0, 0.0), (-135.0, 90.0, 0.0), 1.1,
         ),
+        Tool("common.items.WECW.符文塔.武器.符文-帕拉丁战锤"): VoxTrans(
+            "voxel.armor.warlordG.帕拉丁战锤",
+            (1.0, -1.0, 0.0), (-135.0, 90.0, 0.0), 1.1,
+        ),
+        Tool("common.items.WECW.符文塔.武器.符文-冰风暴"): VoxTrans(
+            "voxel.armor.warlordG.冰风暴",
+            (1.0, -1.0, 0.0), (-135.0, 90.0, 0.0), 1.1,
+        ),
+        Tool("common.items.WECW.符文塔.武器.符文-深蓝使者"): VoxTrans(
+            "voxel.armor.warlordG.深蓝使者",
+            (1.0, -1.0, 0.0), (-135.0, 90.0, 0.0), 1.1,
+        ),
+        Tool("common.items.WECW.符文塔.武器.符文-旭日击破者"): VoxTrans(
+            "voxel.armor.warlordG.旭日击破者",
+            (1.0, -1.0, 0.0), (-135.0, 90.0, 0.0), 1.1,
+        ),
+        Tool("common.items.WECW.符文塔.武器.符文-旭日击破者-觉醒"): VoxTrans(
+            "voxel.armor.warlordG.旭日击破者-觉醒",
+            (1.0, -1.0, 0.0), (-135.0, 90.0, 0.0), 1.1,
+        ),
+        Tool("common.items.WECW.符文塔.武器.符文-旭日击破者-奥能"): VoxTrans(
+            "voxel.armor.warlordG.旭日击破者-奥能",
+            (1.0, -1.0, 0.0), (-135.0, 90.0, 0.0), 1.1,
+        ),
+        Tool("common.items.WECW.符文塔.武器.符文-奥拉西斯"): VoxTrans(
+            "voxel.armor.warlordG.staffex",
+            (1.0, -1.0, 0.0), (-135.0, 90.0, 0.0), 1.1,
+        ),
+        Tool("common.items.WECW.符文塔.武器.符文-遗忘战斧"): VoxTrans(
+            "voxel.armor.warlordG.遗忘战斧",
+            (1.0, -1.0, 0.0), (-135.0, 90.0, 0.0), 1.1,
+        ),
+        Tool("common.items.WECW.符文塔.武器.符文-埃尔安多"): VoxTrans(
+            "voxel.armor.warlordG.埃尔安多",
+            (1.0, -1.0, 0.0), (-135.0, 90.0, 0.0), 1.1,
+        ),
+        Tool("common.items.WECW.符文塔.武器.符文-暗影之斧"): VoxTrans(
+            "voxel.armor.warlordG.暗影之斧",
+            (1.0, -1.0, 0.0), (-135.0, 90.0, 0.0), 1.1,
+        ),
+        Tool("common.items.WECW.符文塔.武器.符文-无尽深渊"): VoxTrans(
+            "voxel.armor.warlordG.无尽深渊",
+            (1.0, -1.0, 0.0), (-135.0, 90.0, 0.0), 1.1,
+        ),
+        Tool("common.items.WECW.符文塔.武器.符文-风暴大剑"): VoxTrans(
+            "voxel.armor.warlordG.风暴大剑",
+            (1.0, -1.0, 0.0), (-135.0, 90.0, 0.0), 1.1,
+        ),
+        Tool("common.items.WECW.符文塔.武器.符文-理智的摧残者"): VoxTrans(
+            "voxel.armor.warlordG.理智的摧残者",
+            (1.0, -1.0, 0.0), (-135.0, 90.0, 0.0), 1.1,
+        ),
+        Tool("common.items.WECW.符文塔.武器.符文-灵魂权杖"): VoxTrans(
+            "voxel.armor.warlordG.灵魂权杖",
+            (1.0, -1.0, 0.0), (-135.0, 90.0, 0.0), 1.1,
+        ),
+        Tool("common.items.WECW.符文塔.武器.符文-熔火之心"): VoxTrans(
+            "voxel.armor.warlordG.熔火之心",
+            (1.0, -1.0, 0.0), (-135.0, 90.0, 0.0), 1.1,
+        ),
+        // ====
         Tool("common.items.WECW.帕拉丁战锤"): VoxTrans(
             "voxel.armor.warlordG.帕拉丁战锤",
             (1.0, -1.0, 0.0), (-135.0, 90.0, 0.0), 1.1,
@@ -211,7 +276,7 @@
             "voxel.armor.warlordG.旭日击破者-奥能",
             (1.0, -1.0, 0.0), (-135.0, 90.0, 0.0), 1.1,
         ),
-        Tool("common.items.WECW.velorite.staffex"): VoxTrans(
+        Tool("common.items.WECW.奥拉西斯"): VoxTrans(
             "voxel.armor.warlordG.staffex",
             (1.0, -1.0, 0.0), (-135.0, 90.0, 0.0), 1.1,
         ),

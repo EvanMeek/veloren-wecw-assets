@@ -74,9 +74,10 @@
 - 增加攻击释放时间
 * DONE 调整弓箭散射伤害
 * DONE 将部分分解改为拆解台
-* WAIT 添加Spot站点Boss
 * DONE 为帕拉丁增加吐息技能
 * DONE 添加新物品
 - 滑翔伞
 - 项链饰品
-* WAIT 新增三套套装
+* TODO 新增三套套装
+* TODO 添加Spot站点Boss
+* TODO 为蓝装-紫装添加套装

@@ -1,0 +1,11 @@
+[
+    (0.03, Item("common.items.WECW.源符文")),
+    (0.03, Item("common.items.WECW.暗符文")),
+    (0.03, Item("common.items.WECW.金符文")),
+    (0.03, Item("common.items.WECW.木符文")),
+    (0.03, Item("common.items.WECW.水符文")),
+    (0.03, Item("common.items.WECW.火符文")),
+    (0.03, Item("common.items.WECW.土符文")),
+    (0.2, Item("common.items.WECW.符文碎片")),
+    (2.0, ItemQuantity("common.items.WECW.白金币", 20, 220)),
+]

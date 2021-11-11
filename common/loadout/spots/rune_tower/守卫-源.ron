@@ -1,0 +1,12 @@
+({
+    Armor(Head): Item("common.items.WECW.符文塔.头饰.金"),
+    Armor(Chest): Item("common.items.WECW.套装.奥拉西斯.chest"),
+    Armor(Shoulders): Item("common.items.WECW.套装.奥拉西斯.shoulder"),
+    Armor(Belt): Item("common.items.WECW.套装.奥拉西斯.belt"),
+    Armor(Hands): Item("common.items.WECW.套装.奥拉西斯.hand"),
+    Armor(Legs): Item("common.items.WECW.套装.奥拉西斯.pants"),
+    Armor(Feet): Item("common.items.WECW.套装.奥拉西斯.foot"),
+    Armor(Back): Item("common.items.WECW.套装.奥拉西斯.back"),
+
+    Lantern: Item("common.items.lantern.geode_purp"),
+})

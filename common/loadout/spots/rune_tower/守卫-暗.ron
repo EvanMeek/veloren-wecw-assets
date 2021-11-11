@@ -1,0 +1,12 @@
+({
+    Armor(Head): Item("common.items.WECW.符文塔.头饰.金"),
+    Armor(Chest): Item("common.items.WECW.套装.邪教.chest"),
+    Armor(Shoulders): Item("common.items.WECW.套装.邪教.shoulder"),
+    Armor(Belt): Item("common.items.WECW.套装.邪教.belt"),
+    Armor(Hands): Item("common.items.WECW.套装.邪教.hand"),
+    Armor(Legs): Item("common.items.WECW.套装.邪教.pants"),
+    Armor(Feet): Item("common.items.WECW.套装.邪教.foot"),
+    Armor(Back): Item("common.items.WECW.套装.邪教.back"),
+
+    Lantern: Item("common.items.lantern.geode_purp"),
+})

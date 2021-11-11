@@ -1,0 +1,17 @@
+ItemDef(
+    name: "符文守护",
+    description: "",
+    kind: Armor((
+        kind: Head("Crown"),
+        stats: (
+            protection: Normal(100000.0),
+            poise_resilience: Normal(300000.0),
+            energy_max: 10000.0,
+            energy_reward: 1000.0,
+            crit_power: 5.0,
+            stealth: 0.0,
+        ),
+    )),
+    quality: Legendary,
+    tags: [],
+)

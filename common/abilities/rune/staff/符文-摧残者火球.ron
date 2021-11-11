@@ -1,0 +1,19 @@
+BasicRanged(
+    energy_cost: 0.0,
+    buildup_duration: 0.25,
+    recover_duration: 0.25,
+    projectile: NecroticSphere(
+        damage: 30.0,
+        radius: 8.0,
+        energy_regen: 10.0,
+        min_falloff: 0.2,
+    ),
+    projectile_body: Object(BoltFire),// TODO: Get ice projectile model
+    /*projectile_light: Some(LightEmitter {
+        col: (1.0, 0.75, 0.11).into(),
+        ..Default::default()
+    }),*/
+    projectile_speed: 70.0,
+    num_projectiles: 3,
+    projectile_spread: 0.2,
+)
