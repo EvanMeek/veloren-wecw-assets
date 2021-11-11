@@ -1,0 +1,9 @@
+ItemDef(
+    name: "符文碎片",
+    description: "DEMO",
+    kind: Ingredient(
+        kind: "碎片Rune",
+    ),
+    quality: Legendary,
+    tags: [SalvageInto(LegendarySell),],
+)

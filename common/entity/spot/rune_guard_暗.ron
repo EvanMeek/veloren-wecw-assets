@@ -1,0 +1,17 @@
+EntityConfig (
+    name: Name("符文守护者——暗"),
+    body: RandomWith("humanoid"),
+    alignment: Alignment(Enemy),
+
+    loot: LootTable("common.loot_tables.spots.rune_tower.符文"),
+
+    hands: TwoHanded(Choice([
+                (1.0, Some(Item("common.items.WECW.符文塔.武器.符文-理智的摧残者"))),
+                (1.0, Some(Item("common.items.WECW.符文塔.武器.符文-奥拉西斯"))),
+            ])),
+
+    meta: [
+        SkillSetAsset("common.skillset.spots.rune_tower.rune_guard_skillset"),
+        LoadoutAsset("common.loadout.spots.rune_tower.守卫-暗"),
+    ],
+)

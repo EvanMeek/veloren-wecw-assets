@@ -1,0 +1,14 @@
+#![enable(unwrap_newtypes)]
+
+[
+    (
+        specifier: "world.structure.natural.rune-tower",
+        center: (70, 42, 0),
+        custom_indices: {
+            10: Sprite(Lantern),
+            15: Filled(WeakRock, (r: 90, g: 86, b: 95)),
+            14: Filled(WeakRock, (r: 107, g: 103, b: 111)),
+            13: Filled(WeakRock, (r: 93, g: 88, b: 97)),
+         },
+    ),
+]

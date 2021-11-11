@@ -1,0 +1,21 @@
+EntityConfig (
+    name: Name("符文守护者——火"),
+    body: RandomWith("humanoid"),
+    alignment: Alignment(Enemy),
+
+    loot: LootTable("common.loot_tables.spots.rune_tower.符文"),
+
+    hands: TwoHanded(Choice([
+                (1.0, Some(Item("common.items.WECW.符文塔.武器.符文-无尽深渊"))),
+                (1.0, Some(Item("common.items.WECW.符文塔.武器.符文-风暴使者"))),
+                (1.0, Some(Item("common.items.WECW.符文塔.武器.符文-放逐之刃"))),
+                (1.0, Some(Item("common.items.WECW.符文塔.武器.符文-乌菲尔"))),
+                (1.0, Some(Item("common.items.WECW.符文塔.武器.符文-白金巨剑"))),
+                (1.0, Some(Item("common.items.WECW.符文塔.武器.符文-旭日击破者-奥能"))),
+            ])),
+
+    meta: [
+        SkillSetAsset("common.skillset.spots.rune_tower.rune_guard_skillset"),
+        LoadoutAsset("common.loadout.spots.rune_tower.守卫-火"),
+    ],
+)

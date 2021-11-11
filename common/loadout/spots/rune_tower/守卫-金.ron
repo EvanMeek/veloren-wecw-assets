@@ -1,0 +1,10 @@
+({
+    Armor(Head): Item("common.items.WECW.符文塔.头饰.金"),
+    Armor(Chest): Item("common.items.WECW.套装.灵魂风暴.skullchest"),
+    Armor(Shoulders): Item("common.items.WECW.套装.灵魂风暴.skullshoulder"),
+    Armor(Belt): Item("common.items.WECW.套装.灵魂风暴.skullbelt"),
+    Armor(Hands): Item("common.items.WECW.套装.灵魂风暴.skullhand"),
+    Armor(Legs): Item("common.items.WECW.套装.灵魂风暴.skullpants"),
+    Armor(Feet): Item("common.items.WECW.套装.灵魂风暴.skullfoot"),
+    Lantern: Item("common.items.lantern.pumpkin"),
+})
