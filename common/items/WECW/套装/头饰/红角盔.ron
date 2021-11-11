@@ -1,0 +1,17 @@
+ItemDef(
+    name: "红角盔",
+    description: "纪念物品——活动奖励",
+    kind: Armor((
+        kind: Head("红角盔"),
+        stats: (
+            protection: Normal(0.0),
+            poise_resilience: Normal(0.0),
+            energy_max: 0.0,
+            energy_reward: 0.0,
+            crit_power: 0.0,
+            stealth: 0.0,
+        ),
+    )),
+    quality: Legendary,
+    tags: [],
+)
