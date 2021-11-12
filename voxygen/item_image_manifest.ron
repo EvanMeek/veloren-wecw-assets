@@ -267,11 +267,11 @@
             "voxel.armor.warlordG.灵魂权杖",
             (1.0, -1.0, 0.0), (-135.0, 90.0, 0.0), 1.1,
         ),
-        Tool("common.items.WECW.符文塔.武器.符文-熔火之心"): VoxTrans(
+        // ====
+        Tool("common.items.WECW.熔火之心"): VoxTrans(
             "voxel.armor.warlordG.熔火之心",
             (1.0, -1.0, 0.0), (-135.0, 90.0, 0.0), 1.1,
         ),
-        // ====
         Tool("common.items.WECW.帕拉丁战锤"): VoxTrans(
             "voxel.armor.warlordG.帕拉丁战锤",
             (1.0, -1.0, 0.0), (-135.0, 90.0, 0.0), 1.1,
