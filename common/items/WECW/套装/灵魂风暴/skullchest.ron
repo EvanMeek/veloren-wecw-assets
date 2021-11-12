@@ -1,5 +1,5 @@
 ItemDef(
-    name: "灵魂风暴·核心",
+    name: "灵魂风暴 | 核心",
     description: "它曾属于死亡领主Lycor.",
     kind: Armor((
         kind: Chest("soul"),

@@ -1,5 +1,5 @@
 ItemDef(
-    name: "邪恶腰带",
+    name: "影流 | 劫难",
     description: "被尘封的邪恶力量...",
     kind: Armor((
         kind: Belt("Warlord"),

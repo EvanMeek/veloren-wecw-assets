@@ -1,5 +1,5 @@
 ItemDef(
-    name: "邪恶胸甲",
+    name: "影流 | 恶灵",
     description: "被尘封的邪恶力量...",
     kind: Armor((
         kind: Chest("Warlord"),

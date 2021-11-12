@@ -1,5 +1,5 @@
 ItemDef(
-    name: "邪恶战靴",
+    name: "影流 | 无形",
     description: "被尘封的邪恶力量...",
     kind: Armor((
         kind: Foot("Warlord"),

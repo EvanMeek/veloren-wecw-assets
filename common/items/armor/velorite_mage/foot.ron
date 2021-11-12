@@ -1,5 +1,5 @@
 ItemDef(
-    name: "维洛特 长靴 觉醒",
+    name: "维洛特 | 千里",
     description: "",
     kind: Armor((
         kind: Foot("VeloriteMage"),

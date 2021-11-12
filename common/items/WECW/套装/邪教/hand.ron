@@ -1,5 +1,5 @@
 ItemDef(
-    name: "邪恶臂铠",
+    name: "影流 | 迷离",
     description: "被尘封的邪恶力量...",
     kind: Armor((
         kind: Hand("Warlord"),

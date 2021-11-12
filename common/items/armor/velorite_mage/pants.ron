@@ -1,6 +1,6 @@
 ItemDef(
-    name: "维洛特 裙甲",
-    description: "",
+    name: "维洛特 | 丹田",
+    description: "古老的符文赋予了它融合血钢的能力",
     kind: Armor((
         kind: Pants("VeloriteMage"),
         stats: (

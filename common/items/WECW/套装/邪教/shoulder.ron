@@ -1,5 +1,5 @@
 ItemDef(
-    name: "邪恶肩甲",
+    name: "影流 | 均衡",
     description: "被尘封的邪恶力量...",
     kind: Armor((
         kind: Shoulder("Warlord"),

@@ -1,6 +1,6 @@
 ItemDef(
-    name: "维洛特 披风——觉醒",
-    description: "来自符文的强化",
+    name: "维洛特 | 拂尘",
+    description: "古老的符文赋予了它融合血钢的能力",
     kind: Armor((
         kind: Back("VeloriteMage"),
         stats: (

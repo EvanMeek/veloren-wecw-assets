@@ -1,5 +1,5 @@
 ItemDef(
-    name: "邪恶裙甲",
+    name: "影流 | 暗影",
     description: "被尘封的邪恶力量...",
     kind: Armor((
         kind: Pants("Warlord"),

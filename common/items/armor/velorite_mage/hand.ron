@@ -1,6 +1,6 @@
 ItemDef(
-    name: "维洛特 手套 觉醒",
-    description: "",
+    name: "维洛特 | 无穷",
+    description: "古老的符文赋予了它融合血钢的能力",
     kind: Armor((
         kind: Hand("VeloriteMage"),
         stats: (
