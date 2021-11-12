@@ -78,6 +78,6 @@
 * DONE 添加新物品
 - 滑翔伞
 - 项链饰品
-* TODO 新增三套套装
-* TODO 添加Spot站点Boss
+* DONE 新增三套套装
+* DONE 添加Spot站点Boss
 * TODO 为蓝装-紫装添加套装
