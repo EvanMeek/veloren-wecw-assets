@@ -1,4 +1,12 @@
 ({  //Swords
+    "common.items.WECW.极芯光剑": (
+        vox_spec: ("armor.warlordG.极芯光剑", (-2.5, -3, -8.5)),
+        color: None
+    ),
+    "common.items.WECW.猩红光剑": (
+        vox_spec: ("armor.warlordG.猩红光剑", (-2.5, -3, -4.5)),
+        color: None
+    ),
     "common.items.WECW.哀谷": (
         vox_spec: ("armor.warlordG.哀谷", (-1.5, -10, -6.5)),
         color: None

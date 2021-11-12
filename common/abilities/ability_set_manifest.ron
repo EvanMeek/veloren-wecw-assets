@@ -141,6 +141,20 @@
             (Some(Sword(UnlockSpin)), "common.abilities.sword.spinepic"),
         ],
     ),
+    Custom("猩红光剑技能组"): (
+        primary: "common.abilities.sword.猩红光剑普攻",
+        secondary: "common.abilities.sword.猩红光剑突刺",
+        abilities: [
+            (Some(Sword(UnlockSpin)), "common.abilities.sword.猩红光剑旋风斩"),
+        ],
+    ),
+    Custom("极芯光剑技能组"): (
+        primary: "common.abilities.sword.极芯光剑普攻",
+        secondary: "common.abilities.sword.极芯光剑突刺",
+        abilities: [
+            (Some(Sword(UnlockSpin)), "common.abilities.sword.极芯光剑旋风斩"),
+        ],
+    ),
     Custom("黑钢重刃技能组"): (
         primary: "common.abilities.sword.黑钢重刃普攻",
         secondary: "common.abilities.sword.黑钢重刃突刺",
