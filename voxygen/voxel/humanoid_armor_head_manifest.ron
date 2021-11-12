@@ -4,6 +4,55 @@
         color: None
     ),
         map: {
+        (Human, Female, "光环"): (
+            vox_spec: ("armor.warlordG.光环", (-0.0, -1.0, 15.0)),
+            color: None
+        ),
+        (Human, Male, "光环"): (
+            vox_spec: ("armor.warlordG.光环", (-1.0, -2.0, 15.0)),
+            color: None
+        ),
+        (Elf, Female, "光环"): (
+            vox_spec: ("armor.warlordG.光环", (-0.0, -3.0, 15.0)),
+            color: None
+        ),
+        (Elf, Male, "光环"): (
+            vox_spec: ("armor.warlordG.光环", (-0.0, -3.0, 15.0)),
+            color: None
+        ),
+        (Orc, Female, "光环"): (
+            vox_spec: ("armor.warlordG.光环", (-0.0, -3.0, 15.0)),
+            color: None
+        ),
+        (Orc, Male, "光环"): (
+            vox_spec: ("armor.warlordG.光环", (-0.0, -1.0, 15.0)),
+            color: None
+        ),
+        (Dwarf, Female, "光环"): (
+            vox_spec: ("armor.warlordG.光环", (-2.0, -1.0, 15.0)),
+            color: None
+        ),
+        (Dwarf, Male, "光环"): (
+            vox_spec: ("armor.warlordG.光环", (-2.0, -1.0, 15.0)),
+            color: None
+        ),
+        (Undead, Female, "光环"): (
+            vox_spec: ("armor.warlordG.光环", (-3.0, -2.0, 15.0)),
+            color: None
+        ),
+        (Undead, Male, "光环"): (
+            vox_spec: ("armor.warlordG.光环", (-3.0, -1.0, 15.0)),
+            color: None
+        ),
+        (Danari, Female, "光环"): (
+            vox_spec: ("armor.warlordG.光环", (1.0, -2.0, 15.0)),
+            color: None
+        ),
+        (Danari, Male, "光环"): (
+            vox_spec: ("armor.warlordG.光环", (1.0, -2.0, 15.0)),
+            color: None
+        ),
+        //
         (Human, Male, "幻惑之首"): (
             vox_spec: ("armor.warlordG.幻惑之首", (-4.0, -4.0, -2.0)),
             color: None

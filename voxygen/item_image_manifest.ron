@@ -2,6 +2,10 @@
 //  Vox(specier),
 //  VoxTrans(specifier, offset, (x_rot, y_rot, z_rot), zoom)
 ({
+        Armor(Head("光环")): VoxTrans(
+            "voxel.armor.warlordG.光环",
+            (0.0, 0.0, 0.0), (-70.0, 0.0,0.0), 1.0,
+        ),
         Armor(Head("戴红缨")): VoxTrans(
             "voxel.armor.warlordG.戴红缨",
             (0.0, 4.0, 0.0), (-120.0, 210.0,15.0), 1.3,
