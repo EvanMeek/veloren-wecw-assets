@@ -2,6 +2,10 @@
 //  Vox(specier),
 //  VoxTrans(specifier, offset, (x_rot, y_rot, z_rot), zoom)
 ({
+        Tool("common.items.WECW.黑钢重刃"): VoxTrans(
+            "voxel.armor.warlordG.黑钢重刃",
+            (0.0, 0.0, -4.0), (-135.0, 90.0, 0.0), 1.1,
+        ),
         Armor(Head("光环")): VoxTrans(
             "voxel.armor.warlordG.光环",
             (0.0, 0.0, 0.0), (-70.0, 0.0,0.0), 1.0,

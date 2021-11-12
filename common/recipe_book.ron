@@ -694,6 +694,25 @@
 
 
     // ===================================紫装===================================
+    "黑钢重刃": (
+        output: ("common.items.WECW.黑钢重刃", 1),
+        inputs: [
+            (Item("common.items.weapons.sword.bloodsteel-0"), 2),
+            (Item("common.items.weapons.sword.bloodsteel-1_player"), 2),
+            (Item("common.items.weapons.sword.bloodsteel-2"), 2),
+            (Item("common.items.mineral.ingot.gold"), 5),
+            (Item("common.items.mineral.ingot.silver"), 5),
+            (Item("common.items.mineral.ingot.cobalt"), 15),
+            (Item("common.items.mineral.ingot.steel"), 30),
+            (Item("common.items.mineral.ingot.bloodsteel"), 8),
+            (Item("common.items.crafting_ing.hide.leather_troll"), 15),
+            (Item("common.items.mineral.gem.diamond"), 50),
+            (Item("common.items.WECW.白金币"), 200),
+            (Item("common.items.tool.craftsman_hammer"), 0),
+        ],
+        craft_sprite: Some(Anvil),
+        is_recycling: false,
+    ),
     "epicstaff": (
         output: ("common.items.weapons.staff.dragon_tongue", 1),
         inputs: [

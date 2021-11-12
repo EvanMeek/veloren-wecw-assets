@@ -141,6 +141,13 @@
             (Some(Sword(UnlockSpin)), "common.abilities.sword.spinepic"),
         ],
     ),
+    Custom("黑钢重刃技能组"): (
+        primary: "common.abilities.sword.黑钢重刃普攻",
+        secondary: "common.abilities.sword.黑钢重刃突刺",
+        abilities: [
+            (Some(Sword(UnlockSpin)), "common.abilities.sword.黑钢重刃旋风斩"),
+        ],
+    ),
     Tool(Axe): (
         primary: "common.abilities.axe.doublestrike",
         secondary: "common.abilities.axe.spin",
