@@ -12,7 +12,7 @@ BasicBeam(
         strength: Value(50.0),
         chance: 10.0,
     ))),
-    energy_regen: 10.0,
+    energy_regen: 00.0,
     energy_drain: 100.0,
     orientation_behavior: Normal,
     ori_rate: 0.25,

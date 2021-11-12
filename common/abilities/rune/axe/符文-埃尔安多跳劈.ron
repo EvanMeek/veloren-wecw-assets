@@ -1,5 +1,5 @@
 LeapMelee(
-    energy_cost: 0.0,
+    energy_cost: 50.0,
     buildup_duration: 0.6,
     movement_duration: 0.1,
     swing_duration: 0.2,

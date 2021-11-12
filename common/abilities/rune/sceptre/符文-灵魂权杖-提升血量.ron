@@ -1,5 +1,5 @@
 BasicAura(
-    buildup_duration: 0.75,
+    buildup_duration: 2.75,
     cast_duration: 1.0,
     recover_duration: 0.75,
     targets: InGroup,
@@ -11,7 +11,7 @@ BasicAura(
     ),
     aura_duration: 1.0,
     range: 20.0,
-    energy_cost: 0.0,
+    energy_cost: 100.0,
     scales_with_combo: false,
     specifier: WardingAura,
 )

@@ -1,4 +1,5 @@
 [
+    (0.03, Item("common.items.WECW.源符文")),
     (0.03, Item("common.items.WECW.暗符文")),
     (0.03, Item("common.items.WECW.金符文")),
     (0.03, Item("common.items.WECW.木符文")),

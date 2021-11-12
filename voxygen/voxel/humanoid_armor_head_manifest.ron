@@ -3,55 +3,201 @@
         vox_spec: ("armor.empty", (0.0, 0.0, 0.0)),
         color: None
     ),
-    map: {
-                (Human, Male, "戴红缨"): (
-            vox_spec: ("armor.misc.warlordG.戴红缨", (-4.0, -5.0, 5.0)),
+        map: {
+        (Human, Male, "幻惑之首"): (
+            vox_spec: ("armor.warlordG.幻惑之首", (-4.0, -4.0, -2.0)),
+            color: None
+        ),
+        (Human, Female, "幻惑之首"): (
+            vox_spec: ("armor.warlordG.幻惑之首", (-4.0, -4.0, -2.0)),
+            color: None
+        ),
+        (Elf, Male, "幻惑之首"): (
+            vox_spec: ("armor.warlordG.幻惑之首", (-3.0, -4.0, -2.0)),
+            color: None
+        ),
+        (Elf, Female, "幻惑之首"): (
+            vox_spec: ("armor.warlordG.幻惑之首", (-3.0, -5.0, -2.0)),
+            color: None
+        ),
+        (Dwarf, Male, "幻惑之首"): (
+            vox_spec: ("armor.warlordG.幻惑之首", (-5.0, -3.0, -2.0)),
+            color: None
+        ),
+        (Dwarf, Female, "幻惑之首"): (
+            vox_spec: ("armor.warlordG.幻惑之首", (-5.0, -3.0, -2.0)),
+            color: None
+        ),
+        (Danari, Male, "幻惑之首"): (
+            vox_spec: ("armor.warlordG.幻惑之首", (-2.0, -4.0, -0.0)),
+            color: None
+        ),
+        (Danari, Female, "幻惑之首"): (
+            vox_spec: ("armor.warlordG.幻惑之首", (-2.0, -4.0, -0.0)),
+            color: None
+        ),
+        (Undead, Male, "幻惑之首"): (
+            vox_spec: ("armor.warlordG.幻惑之首", (-6.0, -4.0, -0.0)),
+            color: None
+        ),
+        (Undead, Female, "幻惑之首"): (
+            vox_spec: ("armor.warlordG.幻惑之首", (-6.0, -4.0, -1.0)),
+            color: None
+        ),
+        (Orc, Male, "幻惑之首"): (
+            vox_spec: ("armor.warlordG.幻惑之首", (-3.0, -2.0, -0.0)),
+            color: None
+        ),
+        (Orc, Female, "幻惑之首"): (
+            vox_spec: ("armor.warlordG.幻惑之首", (-3.0, -5.0, -2.0)),
+            color: None
+        ),
+        //
+        (Human, Male, "战国红角盔"): (
+            vox_spec: ("armor.warlordG.战国红角盔", (-4.0, -5.0, 5.0)),
+            color: None
+        ),
+        (Human, Female, "战国红角盔"): (
+            vox_spec: ("armor.warlordG.战国红角盔", (-4.0, -5.0, 5.0)),
+            color: None
+        ),
+        (Elf, Male, "战国红角盔"): (
+            vox_spec: ("armor.warlordG.战国红角盔", (-3.0, -5.0, 5.0)),
+            color: None
+        ),
+        (Elf, Female, "战国红角盔"): (
+            vox_spec: ("armor.warlordG.战国红角盔", (-3.0, -6.0, 5.0)),
+            color: None
+        ),
+        (Dwarf, Male, "战国红角盔"): (
+            vox_spec: ("armor.warlordG.战国红角盔", (-5.0, -4.0, 5.0)),
+            color: None
+        ),
+        (Dwarf, Female, "战国红角盔"): (
+            vox_spec: ("armor.warlordG.战国红角盔", (-5.0, -4.0, 5.0)),
+            color: None
+        ),
+        (Danari, Male, "战国红角盔"): (
+            vox_spec: ("armor.warlordG.战国红角盔", (-2.0, -5.0, 7.0)),
+            color: None
+        ),
+        (Danari, Female, "战国红角盔"): (
+            vox_spec: ("armor.warlordG.战国红角盔", (-2.0, -5.0, 7.0)),
+            color: None
+        ),
+        (Undead, Male, "战国红角盔"): (
+            vox_spec: ("armor.warlordG.战国红角盔", (-6.0, -5.0, 7.0)),
+            color: None
+        ),
+        (Undead, Female, "战国红角盔"): (
+            vox_spec: ("armor.warlordG.战国红角盔", (-6.0, -5.0, 6.0)),
+            color: None
+        ),
+        (Orc, Male, "战国红角盔"): (
+            vox_spec: ("armor.warlordG.战国红角盔", (-3.0, -3.0, 8.0)),
+            color: None
+        ),
+        (Orc, Female, "战国红角盔"): (
+            vox_spec: ("armor.warlordG.战国红角盔", (-3.0, -6.0, 5.0)),
+            color: None
+        ),
+        (Human, Male, "红角盔"): (
+            vox_spec: ("armor.warlordG.红角盔", (-4.0, -5.0, 5.0)),
+            color: None
+        ),
+        (Human, Female, "红角盔"): (
+            vox_spec: ("armor.warlordG.红角盔", (-4.0, -5.0, 5.0)),
+            color: None
+        ),
+        (Elf, Male, "红角盔"): (
+            vox_spec: ("armor.warlordG.红角盔", (-3.0, -5.0, 5.0)),
+            color: None
+        ),
+        (Elf, Female, "红角盔"): (
+            vox_spec: ("armor.warlordG.红角盔", (-3.0, -6.0, 5.0)),
+            color: None
+        ),
+        (Dwarf, Male, "红角盔"): (
+            vox_spec: ("armor.warlordG.红角盔", (-5.0, -4.0, 5.0)),
+            color: None
+        ),
+        (Dwarf, Female, "红角盔"): (
+            vox_spec: ("armor.warlordG.红角盔", (-5.0, -4.0, 5.0)),
+            color: None
+        ),
+        (Danari, Male, "红角盔"): (
+            vox_spec: ("armor.warlordG.红角盔", (-2.0, -5.0, 7.0)),
+            color: None
+        ),
+        (Danari, Female, "红角盔"): (
+            vox_spec: ("armor.warlordG.红角盔", (-2.0, -5.0, 7.0)),
+            color: None
+        ),
+        (Undead, Male, "红角盔"): (
+            vox_spec: ("armor.warlordG.红角盔", (-6.0, -5.0, 7.0)),
+            color: None
+        ),
+        (Undead, Female, "红角盔"): (
+            vox_spec: ("armor.warlordG.红角盔", (-6.0, -5.0, 6.0)),
+            color: None
+        ),
+        (Orc, Male, "红角盔"): (
+            vox_spec: ("armor.warlordG.红角盔", (-3.0, -3.0, 8.0)),
+            color: None
+        ),
+        (Orc, Female, "红角盔"): (
+            vox_spec: ("armor.warlordG.红角盔", (-3.0, -6.0, 5.0)),
+            color: None
+        ),
+        (Human, Male, "戴红缨"): (
+            vox_spec: ("armor.warlordG.戴红缨", (-4.5, -6.5, 0.0)),
             color: None
         ),
         (Human, Female, "戴红缨"): (
-            vox_spec: ("armor.misc.warlordG.戴红缨", (-4.0, -5.0, 5.0)),
+            vox_spec: ("armor.warlordG.戴红缨", (-4.5, -6.5, 0.0)),
             color: None
         ),
         (Elf, Male, "戴红缨"): (
-            vox_spec: ("armor.misc.warlordG.戴红缨", (-3.0, -5.0, 5.0)),
+            vox_spec: ("armor.warlordG.戴红缨", (-3.5, -6.5, 0.0)),
             color: None
         ),
         (Elf, Female, "戴红缨"): (
-            vox_spec: ("armor.misc.warlordG.戴红缨", (-3.0, -6.0, 5.0)),
+            vox_spec: ("armor.warlordG.戴红缨", (-3.5, -6.5, 0.0)),
             color: None
         ),
         (Dwarf, Male, "戴红缨"): (
-            vox_spec: ("armor.misc.warlordG.戴红缨", (-5.0, -4.0, 5.0)),
+            vox_spec: ("armor.warlordG.戴红缨", (-6.0, -5.0, 0.0)),
             color: None
         ),
         (Dwarf, Female, "戴红缨"): (
-            vox_spec: ("armor.misc.warlordG.戴红缨", (-5.0, -4.0, 5.0)),
+            vox_spec: ("armor.warlordG.戴红缨", (-6.0, -5.0, 0.0)),
             color: None
         ),
         (Danari, Male, "戴红缨"): (
-            vox_spec: ("armor.misc.warlordG.戴红缨", (-2.0, -5.0, 7.0)),
+            vox_spec: ("armor.warlordG.戴红缨", (-2.0, -5.0, 2.0)),
             color: None
         ),
         (Danari, Female, "戴红缨"): (
-            vox_spec: ("armor.misc.warlordG.戴红缨", (-2.0, -5.0, 7.0)),
+            vox_spec: ("armor.warlordG.戴红缨", (-2.0, -5.0, 2.0)),
             color: None
         ),
         (Undead, Male, "戴红缨"): (
-            vox_spec: ("armor.misc.warlordG.戴红缨", (-6.0, -5.0, 7.0)),
+            vox_spec: ("armor.warlordG.戴红缨", (-6.0, -5.0, 0.0)),
             color: None
         ),
         (Undead, Female, "戴红缨"): (
-            vox_spec: ("armor.misc.warlordG.戴红缨", (-6.0, -5.0, 6.0)),
+            vox_spec: ("armor.warlordG.戴红缨", (-6.0, -5.0, 0.0)),
             color: None
         ),
         (Orc, Male, "戴红缨"): (
-            vox_spec: ("armor.misc.warlordG.戴红缨", (-3.0, -3.0, 8.0)),
+            vox_spec: ("armor.warlordG.戴红缨", (-3.0, -4.0, 1.0)),
             color: None
         ),
         (Orc, Female, "戴红缨"): (
-            vox_spec: ("armor.misc.warlordG.戴红缨", (-3.0, -6.0, 5.0)),
+            vox_spec: ("armor.warlordG.戴红缨", (-3.0, -6.0, -1.0)),
             color: None
         ),
+
         (Danari, Male, "Exclamation"): (
             vox_spec: ("armor.misc.head.exclamation", (-10.0, -10.0, 20.0)),
             color: None
