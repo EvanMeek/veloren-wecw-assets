@@ -126,7 +126,7 @@
         color: None
     ),
     "common.items.WECW.暗影之斧": (
-        vox_spec: ("armor.warlordG.暗影之斧", (-3.5, -14.0, -10.0)),
+        vox_spec: ("armor.warlordG.暗影之斧", (-3.0, -10.0, -7.0)),
         color: None
     ),
     "common.items.WECW.无尽深渊": (

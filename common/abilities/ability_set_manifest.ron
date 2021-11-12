@@ -186,6 +186,14 @@
             (Some(Axe(UnlockLeap)), "common.abilities.axe.无尽深渊横劈"),
         ],
     ),
+    Custom("暗影之斧技能组"): (
+        primary: "common.abilities.axe.暗影之斧普攻",
+        secondary: "common.abilities.axe.暗影之斧旋风转",
+        abilities: [
+            (Some(Axe(UnlockLeap)), "common.abilities.axe.暗影之斧跳劈"),
+            (Some(Axe(UnlockLeap)), "common.abilities.axe.暗影之斧横劈"),
+        ],
+    ),
     Custom("深蓝-遗忘-埃尔技能组"): (
         primary: "common.abilities.axe.doublestrikegreat",
         secondary: "common.abilities.axe.spingreat",

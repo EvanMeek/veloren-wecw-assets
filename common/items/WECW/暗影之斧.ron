@@ -1,21 +1,21 @@
 ItemDef(
     name: "暗影之斧",
-    description: "暗影之斧",
+    description: "感受暗影岛之力吧！",
     kind: Tool((
         kind: Axe,
         hands: Two,
         stats: Direct((
             equip_time_secs: 0.75,
-            power: 5.0,
-            effect_power: 5.0,
+            power: 3.2,
+            effect_power: 3.0,
             speed: 1.0,
-            crit_chance: 1.0,
+            crit_chance: 0.25,
             range: 1.0,
             energy_efficiency: 1.0,
             buff_strength: 1.0,
         )),
     )),
-    quality: Legendary,
-    ability_spec: Some(Custom("深蓝-遗忘-埃尔技能组")),
-    tags: [SalvageInto(LegendarySell),],
+    quality: Epic,
+    ability_spec: Some(Custom("暗影之斧技能组")),
+    tags: [],
 )
