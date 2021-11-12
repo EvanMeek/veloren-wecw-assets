@@ -1,9 +1,9 @@
 ItemDef(
     name: "符文碎片",
-    description: "DEMO",
+    description: "集起四个符文碎片可铸造为任意符文",
     kind: Ingredient(
         kind: "碎片Rune",
     ),
     quality: Legendary,
-    tags: [SalvageInto(LegendarySell),],
+    tags: [],
 )
