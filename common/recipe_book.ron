@@ -287,6 +287,15 @@
         craft_sprite: None,
         is_recycling: true,
     ),
+    "源符文": (
+        output: ("common.items.WECW.源符文", 1),
+        inputs: [
+            (Item("common.items.WECW.符文碎片"), 5),
+            (Item("common.items.tool.craftsman_hammer"), 0),
+        ],
+        craft_sprite: None,
+        is_recycling: true,
+    ),
     // 骨裂
     "glider_purp": (
         output: ("common.items.glider.glider_purp", 1),
