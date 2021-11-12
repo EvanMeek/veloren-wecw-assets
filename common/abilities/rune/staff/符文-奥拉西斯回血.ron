@@ -5,8 +5,8 @@ BasicAura(
     targets: InGroup,
     aura: (
         kind: Potion,
-        strength: 2.0,
-        duration: Some(5.0),
+        strength: 1.0,
+        duration: Some(20.0),
         category: Magical,
     ),
     aura_duration: 1.0,

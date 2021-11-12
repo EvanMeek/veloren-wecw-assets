@@ -199,6 +199,10 @@
             "voxel.armor.warlordG.vring",
             (0.0, 0.0, 0.0), (30.0, 0.0, 0.0), 0.9,
         ),
+        Tool("common.items.WECW.符文塔.武器.符文-乌菲尔"): VoxTrans(
+            "voxel.armor.warlordG.乌菲尔",
+            (1.0, -1.0, 0.0), (-135.0, 90.0, 0.0), 1.1,
+        ),
         Tool("common.items.WECW.符文塔.武器.符文-熔火之心"): VoxTrans(
             "voxel.armor.warlordG.熔火之心",
             (1.0, -1.0, 0.0), (-135.0, 90.0, 0.0), 1.1,

@@ -10,7 +10,7 @@ BasicAura(
         category: Magical,
     ),
     aura_duration: 1.0,
-    range: 5.0,
+    range: 50.0,
     energy_cost: 0.0,
     scales_with_combo: false,
     specifier: WardingAura,

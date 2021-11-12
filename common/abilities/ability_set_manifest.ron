@@ -89,7 +89,6 @@
         primary: "common.abilities.rune.sceptre.符文-灵魂权杖-生命光束",
         secondary: "common.abilities.rune.sceptre.符文-灵魂权杖-提升奶量",
         abilities: [
-            (Some(Sceptre(UnlockAura)), "common.abilities.rune.sceptre.符文-灵魂权杖-提升防御"),
             (Some(Sceptre(UnlockAura)), "common.abilities.rune.sceptre.符文-灵魂权杖-提升血量"),
         ],
     ),
