@@ -16,6 +16,6 @@ ItemDef(
         )),
     )),
     quality: Epic,
-    tags: [SalvageInto(EpicSell),],
+    tags: [],
     ability_spec: Some(Custom("极芯光剑技能组")),
 )
