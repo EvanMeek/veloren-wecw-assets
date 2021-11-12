@@ -694,6 +694,26 @@
 
 
     // ===================================紫装===================================
+    "哀谷": (
+        output: ("common.items.WECW.哀谷", 1),
+        inputs: [
+            (Item("common.items.weapons.hammer.ramshead_hammer"), 5),
+            (Item("common.items.weapons.hammer.runic_hammer"), 5),
+            (Item("common.items.mineral.ingot.gold"), 10),
+            (Item("common.items.mineral.ingot.silver"), 10),
+            (Item("common.items.mineral.ingot.cobalt"), 35),
+            (Item("common.items.mineral.ingot.steel"), 30),
+            (Item("common.items.mineral.ingot.bloodsteel"), 16),
+            (Item("common.items.crafting_ing.hide.leather_troll"), 100),
+            (Item("common.items.crafting_ing.animal.sharp_fang"), 200),
+            (Item("common.items.crafting_ing.animal.grim_eyeball"), 200),
+            (Item("common.items.mineral.gem.diamond"), 200),
+            (Item("common.items.WECW.白金币"), 500),
+            (Item("common.items.tool.craftsman_hammer"), 0),
+        ],
+        craft_sprite: Some(Anvil),
+        is_recycling: false,
+    ),
     "黑钢重刃": (
         output: ("common.items.WECW.黑钢重刃", 1),
         inputs: [

@@ -1,4 +1,8 @@
 ({  //Swords
+    "common.items.WECW.哀谷": (
+        vox_spec: ("armor.warlordG.哀谷", (-1.5, -10, -6.5)),
+        color: None
+    ),
     "common.items.WECW.黑钢重刃": (
         vox_spec: ("armor.warlordG.黑钢重刃", (-2, -5, -4.5)),
         color: None

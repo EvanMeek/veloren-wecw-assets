@@ -188,6 +188,14 @@
             (Some(Hammer(UnlockLeap)), "common.abilities.hammer.shockwave"),
         ],
     ),
+    Custom("哀谷技能组"): (
+        primary: "common.abilities.hammer.哀谷普攻",
+        secondary: "common.abilities.hammer.哀谷蓄力",
+        abilities: [
+            (Some(Hammer(UnlockLeap)), "common.abilities.hammer.哀谷千斤坠"),
+            (Some(Hammer(UnlockLeap)), "common.abilities.hammer.哀谷地刺"),
+        ],
+    ),
     Custom("雷神之锤技能组"): (
         primary: "common.abilities.hammer.雷神普攻",
         secondary: "common.abilities.hammer.雷神蓄力",
