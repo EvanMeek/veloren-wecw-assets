@@ -1,19 +1,19 @@
 ItemDef(
-    name: "Velorite Battlemage Gauntlets",
+    name: "维洛特 手套 觉醒",
     description: "",
     kind: Armor((
         kind: Hand("VeloriteMage"),
         stats: (
-            protection: Normal(11.5),
-            poise_resilience: Normal(0.0),
-            energy_max: 0,
-            energy_reward: 0.0,
-            crit_power: 0.0,
+            protection: Normal(30.0),
+            poise_resilience: Normal(10.0),
+            energy_max: 5,
+            energy_reward: 0.1,
+            crit_power: 0.3,
             stealth: 0.0,
         ),
     )),
-    quality: High,
+    quality: Artifact,
     tags: [
-        Material(Velorite),
+        
     ],
 )

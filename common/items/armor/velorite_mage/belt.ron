@@ -1,19 +1,19 @@
 ItemDef(
-    name: "Velorite Battlemage Belt",
+    name: "维洛特 腰带 觉醒",
     description: "",
     kind: Armor((
         kind: Belt("VeloriteMage"),
         stats: (
-            protection: Normal(5.8),
-            poise_resilience: Normal(0.0),
-            energy_max: 0,
-            energy_reward: 0.0,
-            crit_power: 0.0,
+            protection: Normal(15.0),
+            poise_resilience: Normal(10.0),
+            energy_max: 5,
+            energy_reward: 0.1,
+            crit_power: 0.2,
             stealth: 0.0,
         ),
     )),
-    quality: High,
+    quality: Artifact,
     tags: [
-        Material(Velorite),
+        
     ],
 )

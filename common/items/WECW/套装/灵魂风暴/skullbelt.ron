@@ -4,14 +4,14 @@ ItemDef(
     kind: Armor((
         kind: Belt("soul"),
         stats: (
-            protection: Normal(15.0),
-            poise_resilience: Normal(15.0),
-            energy_max: 5.0,
-            energy_reward: 0.1,
-            crit_power: 0.05,
-            stealth: 0.01,
+            protection: Normal(40.0),
+            poise_resilience: Normal(25.0),
+            energy_max: 0.0,
+            energy_reward: 0.0,
+            crit_power: 0.08,
+            stealth: 0.00,
         ),
     )),
-    quality: Legendary,
+    quality: Artifact,
     tags: [],
 )

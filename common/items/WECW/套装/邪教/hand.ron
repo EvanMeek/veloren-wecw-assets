@@ -4,14 +4,14 @@ ItemDef(
     kind: Armor((
         kind: Hand("Warlord"),
         stats: (
-            protection: Normal(25.0),
-            poise_resilience: Normal(15.0),
-            energy_max: 5.0,
-            energy_reward: 0.2,
-            crit_power: 0.05,
-            stealth: 0.05,
+            protection: Normal(13.0),
+            poise_resilience: Normal(0.0),
+            energy_max: 30.0,
+            energy_reward: 0.4,
+            crit_power: 0.0,
+            stealth: 0.0,
         ),
     )),
-    quality: Legendary,
+    quality: Artifact,
     tags: [],
 )

@@ -1,19 +1,19 @@
 ItemDef(
-    name: "Velorite Battlemage Vest",
-    description: "",
+    name: "维洛特 大衣 觉醒",
+    description: "来自符文的强化",
     kind: Armor((
         kind: Chest("VeloriteMage"),
         stats: (
-            protection: Normal(28.0),
-            poise_resilience: Normal(0.0),
-            energy_max: 0,
-            energy_reward: 0.0,
-            crit_power: 0.0,
+            protection: Normal(80.0),
+            poise_resilience: Normal(15.0),
+            energy_max: 10,
+            energy_reward: 0.1,
+            crit_power: 0.9,
             stealth: 0.0,
         ),
     )),
-    quality: High,
+    quality: Artifact,
     tags: [
-        Material(Velorite),
+        
     ],
 )

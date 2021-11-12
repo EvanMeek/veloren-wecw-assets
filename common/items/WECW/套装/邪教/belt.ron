@@ -5,13 +5,13 @@ ItemDef(
         kind: Belt("Warlord"),
         stats: (
             protection: Normal(15.0),
-            poise_resilience: Normal(15.0),
-            energy_max: 5.0,
+            poise_resilience: Normal(0.0),
+            energy_max: 25.0,
             energy_reward: 0.2,
-            crit_power: 0.05,
-            stealth: 0.05,
+            crit_power: 0.0,
+            stealth: 0.0,
         ),
     )),
-    quality: Legendary,
+    quality: Artifact,
     tags: [],
 )
