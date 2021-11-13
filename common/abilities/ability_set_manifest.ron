@@ -350,6 +350,13 @@
             (Some(Staff(UnlockShockwave)), "common.abilities.staff.fireshockwave"),
         ],
     ),
+    Custom("燥热杖技能组"): (
+        primary: "common.abilities.staff.燥热杖火球",
+        secondary: "common.abilities.staff.燥热杖吐息",
+        abilities: [
+            (Some(Staff(UnlockShockwave)), "common.abilities.staff.燥热杖火环"),
+        ],
+    ),
     Custom("龙舌技能组"): (
         primary: "common.abilities.staff.龙舌火球",
         secondary: "common.abilities.staff.龙舌火焰",

@@ -1,4 +1,8 @@
 ({  //Swords
+    "common.items.WECW.燥热杖": (
+        vox_spec: ("armor.warlordG.燥热杖", (-4.5, -5, -6.5)),
+        color: None
+    ),
     "common.items.WECW.流火弓": (
         vox_spec: ("armor.warlordG.流火弓", (-3.5, -10, -13.5)),
         color: None
