@@ -1,0 +1,17 @@
+ItemDef(
+    name: "影袭 | 鞋子",
+    description: "被尘封的邪恶力量...",
+    kind: Armor((
+        kind: Foot("影袭"),
+        stats: (
+            protection: Normal(13.0),
+            poise_resilience: Normal(0.0),
+            energy_max: 30.0,
+            energy_reward: 0.3,
+            crit_power: 0.0,
+            stealth: 0.0,
+        ),
+    )),
+    quality: Artifact,
+    tags: [],
+)

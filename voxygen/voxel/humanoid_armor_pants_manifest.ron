@@ -4,6 +4,10 @@
         color: Some((28, 66, 109))
     ),
     map: {
+        "影袭": (
+            vox_spec: ("armor.warlordG.影袭裙甲", (-5.0, -6.0, -2.0)),
+            color: None
+        ),
         "Warlord": (
             vox_spec: ("armor.warlord.pants", (-6.0, -4.5, -2.0)),
             color: None

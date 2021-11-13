@@ -4,6 +4,10 @@
         color: None
     ),
     map: {
+        "影袭": (
+            vox_spec: ("armor.warlordG.影袭披风", (-5.0, -2.5, -11.0)),
+            color: None
+        ),
         "Warlord": (
             vox_spec: ("armor.warlord.back", (-5.0, -1.0, -14.0)),
             color: None

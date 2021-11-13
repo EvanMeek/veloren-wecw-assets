@@ -4,8 +4,8 @@
         color: None
     ),
     map: {
-        "Warlord": (
-          vox_spec: ("armor.warlord.foot", (-2.5, -3.5, -2.0)),
+        "影袭": (
+          vox_spec: ("armor.warlordG.影袭鞋子", (-2.5, -4.0, -2.0)),
           color: None
         ),
         "soul": (

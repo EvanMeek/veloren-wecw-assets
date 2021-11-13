@@ -2,6 +2,34 @@
 //  Vox(specier),
 //  VoxTrans(specifier, offset, (x_rot, y_rot, z_rot), zoom)
 ({
+        Armor(Foot("影袭")): VoxTrans(
+            "voxel.armor.warlordG.影袭鞋子",
+            (0.0, 0.0, 0.0), (-90.0, 180.0, 0.0), 1.2,
+        ),
+        Armor(Pants("影袭")): VoxTrans(
+            "voxel.armor.warlordG.影袭裙甲",
+            (0.0, 0.0, 0.0), (-90.0, 180.0, 0.0), 1.2,
+        ),
+        Armor(Belt("影袭")): VoxTrans(
+            "voxel.armor.warlordG.影袭腰带",
+            (0.0, 0.0, 0.0), (-90.0, 180.0, 0.0), 1.2,
+        ),
+        Armor(Hand("影袭")): VoxTrans(
+            "voxel.armor.warlordG.影袭手套",
+            (0.0, 0.0, 0.0), (-90.0, 180.0, 0.0), 1.2,
+        ),
+        Armor(Shoulder("影袭")): VoxTrans(
+            "voxel.armor.warlordG.影袭肩甲",
+            (0.0, 0.0, 0.0), (-90.0, 180.0, 0.0), 1.2,
+        ),
+        Armor(Chest("影袭")): VoxTrans(
+            "voxel.armor.warlordG.影袭胸甲",
+            (0.0, 0.0, 0.0), (-90.0, 180.0, 0.0), 1.2,
+        ),
+        Armor(Back("影袭")): VoxTrans(
+            "voxel.armor.warlordG.影袭披风",
+            (0.0, 0.0, 0.0), (-90.0, 180.0, 0.0), 1.2,
+        ),
         Tool("common.items.WECW.燥热杖"): VoxTrans(
             "voxel.armor.warlordG.燥热杖",
             (0.0, 0.0, -4.0), (-135.0, 90.0, 0.0), 1.3,

@@ -1,0 +1,17 @@
+ItemDef(
+    name: "影袭 | 肩甲",
+    description: "",
+    kind: Armor((
+        kind: Shoulder("影袭"),
+        stats: (
+            protection: Normal(75.0),
+            poise_resilience: Normal(75.0),
+            energy_max: 10.0,
+            energy_reward: 0.5,
+            crit_power: 0.2,
+            stealth: 25.0,
+        ),
+    )),
+    quality: Legendary,
+    tags: [],
+)
