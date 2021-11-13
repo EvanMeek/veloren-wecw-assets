@@ -2,6 +2,10 @@
 //  Vox(specier),
 //  VoxTrans(specifier, offset, (x_rot, y_rot, z_rot), zoom)
 ({
+        Tool("common.items.WECW.流火弓"): VoxTrans(
+            "voxel.armor.warlordG.流火弓",
+            (0.0, 0.0, -4.0), (-135.0, 90.0, 0.0), 1.1,
+        ),
         Tool("common.items.WECW.极芯光剑"): VoxTrans(
             "voxel.armor.warlordG.极芯光剑",
             (0.0, 0.0, -4.0), (-135.0, 90.0, 0.0), 1.1,

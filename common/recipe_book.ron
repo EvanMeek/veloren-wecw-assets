@@ -694,6 +694,24 @@
 
 
     // ===================================紫装===================================
+    "流火弓": (
+        output: ("common.items.WECW.流火弓", 1),
+        inputs: [
+            (Item("common.items.weapons.bow.sagitta"), 1),
+            (Item("common.items.weapons.bow.velorite_player"), 3),
+            (Item("common.items.mineral.ingot.gold"), 15),
+            (Item("common.items.mineral.ingot.silver"), 15),
+            (Item("common.items.mineral.ingot.cobalt"), 50),
+            (Item("common.items.mineral.ingot.steel"), 70),
+            (Item("common.items.mineral.gem.ruby"), 500),
+            (Item("common.items.mineral.gem.diamond"), 200),
+            (Item("common.items.crafting_ing.mindflayer_bag_damaged"), 10),
+            (Item("common.items.WECW.暗金币"), 2),
+            (Item("common.items.tool.craftsman_hammer"), 0),
+        ],
+        craft_sprite: Some(Anvil),
+        is_recycling: false,
+    ),
     "暗影之斧": (
         output: ("common.items.WECW.暗影之斧", 1),
         inputs: [

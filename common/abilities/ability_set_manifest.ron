@@ -273,6 +273,13 @@
             (Some(Bow(UnlockShotgun)), "common.abilities.bow.散射"),
         ],
     ),
+    Custom("流火弓技能组"): (
+        primary: "common.abilities.bow.流火弓蓄力",
+        secondary: "common.abilities.bow.流火弓连射",
+        abilities: [
+            (Some(Bow(UnlockShotgun)), "common.abilities.bow.魔法弓散射"),
+        ],
+    ),
     Custom("魔法弓技能组"): (
         primary: "common.abilities.bow.charged",
         secondary: "common.abilities.bow.repeater",

@@ -1,0 +1,21 @@
+BasicRanged(
+    energy_cost: 25.0,
+    buildup_duration: 0.5,
+    recover_duration: 0.5,
+    projectile_spread: 0.08,
+    projectile: Arrow(
+        damage: 16.0,
+        knockback: 10.0,
+        energy_regen: 0,
+    ),
+    projectile_body: Object(Arrow),
+    projectile_light: None,
+    projectile_speed: 70.0,
+    num_projectiles: 15,
+    damage_effect: Some(Buff((
+        kind: Burning,
+        dur_secs: 3.0,
+        strength: DamageFraction(0.1),
+        chance: 1.0,
+    )))
+)
