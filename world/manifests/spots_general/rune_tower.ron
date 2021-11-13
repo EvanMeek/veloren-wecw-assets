@@ -3,7 +3,7 @@
 [
     (
         specifier: "world.structure.natural.rune-tower",
-        center: (70, 42, 0),
+        center: (100, 80, 20),
         custom_indices: {
             10: Sprite(Lantern),
             15: Filled(WeakRock, (r: 90, g: 86, b: 95)),
