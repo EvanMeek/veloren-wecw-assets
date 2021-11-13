@@ -80,7 +80,7 @@
 - 项链饰品
 * DONE 新增三套套装
 * DONE 添加Spot站点Boss
-* TODO 修改暗金巨像刃
+* DONE 修改暗金巨像刃
 * WAIT 为紫阶段添加新的套装武器
 ** WAIT 套装
 ** DONE 武器 [7/7]

@@ -174,7 +174,7 @@
         color: None
     ),
     "common.items.WECW.暗金巨像刃": (
-        vox_spec: ("armor.warlordG.暗金巨像刃", (-1.5, -9.5, -6.0)),
+        vox_spec: ("armor.warlordG.暗金巨像刃", (-3.5, -9.5, -10.0)),
         color: None
     ),
     "common.items.WECW.暗金切割者": (
