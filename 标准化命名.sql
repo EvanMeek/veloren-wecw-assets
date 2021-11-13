@@ -40,34 +40,34 @@ UPDATE item SET item_definition_id="common.items.boss_drops.无敌药水" WHERE 
 UPDATE item SET item_definition_id="common.items.armor.misc.back.背包仓库" WHERE item_definition_id="common.items.armor.misc.back.backpack";
 
 -- 暗影邪教徒套
-UPDATE item SET item_definition_id="common.items.WECW.套装.邪教.back" WHERE item_definition_id="common.items.WECW.warloard.back"
-UPDATE item SET item_definition_id="common.items.WECW.套装.邪教.belt" WHERE item_definition_id="common.items.WECW.warloard.belt"
-UPDATE item SET item_definition_id="common.items.WECW.套装.邪教.chest" WHERE item_definition_id="common.items.WECW.warloard.chest"
-UPDATE item SET item_definition_id="common.items.WECW.套装.邪教.foot" WHERE item_definition_id="common.items.WECW.warloard.foot"
-UPDATE item SET item_definition_id="common.items.WECW.套装.邪教.hand" WHERE item_definition_id="common.items.WECW.warloard.hand"
-UPDATE item SET item_definition_id="common.items.WECW.套装.邪教.pants" WHERE item_definition_id="common.items.WECW.warloard.pants"
-UPDATE item SET item_definition_id="common.items.WECW.套装.邪教.shoulder" WHERE item_definition_id="common.items.WECW.warloard.shoulder"
+UPDATE item SET item_definition_id="common.items.WECW.套装.邪教.back" WHERE item_definition_id="common.items.WECW.warloard.back";
+UPDATE item SET item_definition_id="common.items.WECW.套装.邪教.belt" WHERE item_definition_id="common.items.WECW.warloard.belt";
+UPDATE item SET item_definition_id="common.items.WECW.套装.邪教.chest" WHERE item_definition_id="common.items.WECW.warloard.chest";
+UPDATE item SET item_definition_id="common.items.WECW.套装.邪教.foot" WHERE item_definition_id="common.items.WECW.warloard.foot";
+UPDATE item SET item_definition_id="common.items.WECW.套装.邪教.hand" WHERE item_definition_id="common.items.WECW.warloard.hand";
+UPDATE item SET item_definition_id="common.items.WECW.套装.邪教.pants" WHERE item_definition_id="common.items.WECW.warloard.pants";
+UPDATE item SET item_definition_id="common.items.WECW.套装.邪教.shoulder" WHERE item_definition_id="common.items.WECW.warloard.shoulder";
 
--- 奥拉西斯
-UPDATE item SET item_definition_id="common.items.WECW.套装.奥拉西斯.back" WHERE item_definition_id="common.items.WECW.velorite.back"
-UPDATE item SET item_definition_id="common.items.WECW.套装.奥拉西斯.belt" WHERE item_definition_id="common.items.WECW.velorite.belt"
-UPDATE item SET item_definition_id="common.items.WECW.套装.奥拉西斯.chest" WHERE item_definition_id="common.items.WECW.velorite.chest"
-UPDATE item SET item_definition_id="common.items.WECW.套装.奥拉西斯.foot" WHERE item_definition_id="common.items.WECW.velorite.foot"
-UPDATE item SET item_definition_id="common.items.WECW.套装.奥拉西斯.hand" WHERE item_definition_id="common.items.WECW.velorite.hand"
-UPDATE item SET item_definition_id="common.items.WECW.套装.奥拉西斯.pants" WHERE item_definition_id="common.items.WECW.velorite.pants"
-UPDATE item SET item_definition_id="common.items.WECW.套装.奥拉西斯.shoulder" WHERE item_definition_id="common.items.WECW.velorite.shoulder"
-UPDATE item SET item_definition_id="common.items.WECW.套装.奥拉西斯.glider" WHERE item_definition_id="common.items.WECW.velorite.vg"
-UPDATE item SET item_definition_id="common.items.WECW.套装.奥拉西斯.neck" WHERE item_definition_id="common.items.WECW.velorite.vneck"
-UPDATE item SET item_definition_id="common.items.WECW.套装.奥拉西斯.ring" WHERE item_definition_id="common.items.WECW.velorite.vring"
-UPDATE item SET item_definition_id="common.items.WECW.奥拉西斯" WHERE id_item_definition="common.items.WECW.velorite.staffex"
+-- 奥拉西斯;
+UPDATE item SET item_definition_id="common.items.WECW.套装.奥拉西斯.back" WHERE item_definition_id="common.items.WECW.velorite.back";
+UPDATE item SET item_definition_id="common.items.WECW.套装.奥拉西斯.belt" WHERE item_definition_id="common.items.WECW.velorite.belt";
+UPDATE item SET item_definition_id="common.items.WECW.套装.奥拉西斯.chest" WHERE item_definition_id="common.items.WECW.velorite.chest";
+UPDATE item SET item_definition_id="common.items.WECW.套装.奥拉西斯.foot" WHERE item_definition_id="common.items.WECW.velorite.foot";
+UPDATE item SET item_definition_id="common.items.WECW.套装.奥拉西斯.hand" WHERE item_definition_id="common.items.WECW.velorite.hand";
+UPDATE item SET item_definition_id="common.items.WECW.套装.奥拉西斯.pants" WHERE item_definition_id="common.items.WECW.velorite.pants";
+UPDATE item SET item_definition_id="common.items.WECW.套装.奥拉西斯.shoulder" WHERE item_definition_id="common.items.WECW.velorite.shoulder";
+UPDATE item SET item_definition_id="common.items.WECW.套装.奥拉西斯.glider" WHERE item_definition_id="common.items.WECW.velorite.vg";
+UPDATE item SET item_definition_id="common.items.WECW.套装.奥拉西斯.neck" WHERE item_definition_id="common.items.WECW.velorite.vneck";
+UPDATE item SET item_definition_id="common.items.WECW.套装.奥拉西斯.ring" WHERE item_definition_id="common.items.WECW.velorite.vring";
+UPDATE item SET item_definition_id="common.items.WECW.奥拉西斯" WHERE item_definition_id="common.items.WECW.velorite.staffex";
 
 -- 灵魂风暴
-UPDATE item SET item_definition_id="common.items.WECW.套装.灵魂风暴.skullback" WHERE item_definition_id="common.items.WECW.soul.back"
-UPDATE item SET item_definition_id="common.items.WECW.套装.灵魂风暴.skullbelt" WHERE item_definition_id="common.items.WECW.soul.belt"
-UPDATE item SET item_definition_id="common.items.WECW.套装.灵魂风暴.skullchest" WHERE item_definition_id="common.items.WECW.soul.chest"
-UPDATE item SET item_definition_id="common.items.WECW.套装.灵魂风暴.skullfoot" WHERE item_definition_id="common.items.WECW.soul.foot"
-UPDATE item SET item_definition_id="common.items.WECW.套装.灵魂风暴.skullhand" WHERE item_definition_id="common.items.WECW.soul.hand"
-UPDATE item SET item_definition_id="common.items.WECW.套装.灵魂风暴.skullpants" WHERE item_definition_id="common.items.WECW.soul.pants"
-UPDATE item SET item_definition_id="common.items.WECW.套装.灵魂风暴.skullshoulder" WHERE item_definition_id="common.items.WECW.soul.shoulder"
-UPDATE item SET item_definition_id="common.items.WECW.套装.灵魂风暴.glider" WHERE item_definition_id="common.items.WECW.soul.dg"
-UPDATE item SET item_definition_id="common.items.WECW.套装.灵魂风暴.neck" WHERE item_definition_id="common.items.WECW.soul.soul"
+UPDATE item SET item_definition_id="common.items.WECW.套装.灵魂风暴.skullback" WHERE item_definition_id="common.items.WECW.soul.skullback";
+UPDATE item SET item_definition_id="common.items.WECW.套装.灵魂风暴.skullbelt" WHERE item_definition_id="common.items.WECW.soul.skullbelt";
+UPDATE item SET item_definition_id="common.items.WECW.套装.灵魂风暴.skullchest" WHERE item_definition_id="common.items.WECW.soul.skullchest";
+UPDATE item SET item_definition_id="common.items.WECW.套装.灵魂风暴.skullfoot" WHERE item_definition_id="common.items.WECW.soul.skullfoot";
+UPDATE item SET item_definition_id="common.items.WECW.套装.灵魂风暴.skullhand" WHERE item_definition_id="common.items.WECW.soul.skullhand";
+UPDATE item SET item_definition_id="common.items.WECW.套装.灵魂风暴.skullpants" WHERE item_definition_id="common.items.WECW.soul.skullpants";
+UPDATE item SET item_definition_id="common.items.WECW.套装.灵魂风暴.skullshoulder" WHERE item_definition_id="common.items.WECW.soul.skullshoulder";
+UPDATE item SET item_definition_id="common.items.WECW.套装.灵魂风暴.glider" WHERE item_definition_id="common.items.WECW.soul.dg";
+UPDATE item SET item_definition_id="common.items.WECW.套装.灵魂风暴.neck" WHERE item_definition_id="common.items.WECW.soul.soul";
