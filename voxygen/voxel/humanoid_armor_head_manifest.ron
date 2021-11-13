@@ -58,7 +58,7 @@
         ),
         //
         (Human, Male, "幻惑之首"): (
-            vox_spec: ("armor.warlordG.幻惑之首", (-4.0, -4.0, -2.0)),
+            vox_spec: ("armor.warlordG.幻惑之首", (-3.0, -4.0, -2.0)),
             color: None
         ),
         (Human, Female, "幻惑之首"): (
