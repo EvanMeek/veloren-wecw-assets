@@ -4,6 +4,7 @@
         color: None
     ),
     map: {
+
         "影袭": (
             vox_spec: ("armor.warlordG.影袭胸甲", (-7.0, -5.5, 1.5)),
             color: None
@@ -17,7 +18,7 @@
           color: None
         ),
         "Velorite": (
-          vox_spec: ("armor.warlordG.vchest", (-10.0, -8.5, 0.5)),
+          vox_spec: ("armor.warlordG.vchest", (-11.0, -10.5, 0.0)),
           color: None
         ),
         "Blue": (
