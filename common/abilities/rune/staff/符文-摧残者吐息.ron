@@ -1,10 +1,10 @@
 BasicBeam(
-    buildup_duration: 0.2,
+    buildup_duration: 2.7,
     recover_duration: 0.2,
     beam_duration: 1.0,
     damage: 30.0,
-    tick_rate: 3.5,
-    range: 35.0,
+    tick_rate: 1.0,
+    range: 20.0,
     max_angle: 35.0,
     damage_effect: Some(Buff((
         kind: Cursed,
