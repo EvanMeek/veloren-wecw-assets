@@ -12,6 +12,6 @@ ItemDef(
             stealth: 25.0,
         ),
     )),
-    quality: Legendary,
+    quality: Epic,
     tags: [],
 )
