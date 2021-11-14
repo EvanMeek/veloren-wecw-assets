@@ -1,0 +1,17 @@
+ItemDef(
+    name: "神官 | 胸甲",
+    description: "",
+    kind: Armor((
+        kind: Chest("神官"),
+        stats: (
+            protection: Normal(10.0),
+            poise_resilience: Normal(0.0),
+            energy_max: 50.0,
+            energy_reward: 0.3,
+            crit_power: 0.0,
+            stealth: 0.0,
+        ),
+    )),
+    quality: Artifact,
+    tags: [],
+)
