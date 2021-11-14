@@ -159,7 +159,7 @@
             color: None
         ),
         (Human, Female, "红角盔"): (
-            vox_spec: ("armor.warlordG.红角盔", (-4.0, -5.0, 5.0)),
+            vox_spec: ("armor.warlordG.红角盔", (-1.0, -4.5, -3.0)),
             color: None
         ),
         (Elf, Male, "红角盔"): (
