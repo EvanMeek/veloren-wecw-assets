@@ -695,7 +695,7 @@
 
     // ===================================紫装===================================
     "燥热杖": (
-        output: ("common.items.WECW.爆裂杖", 1),
+        output: ("common.items.WECW.燥热杖", 1),
         inputs: [
             (Item("common.items.weapons.staff.dragon_tongue"), 2),
             (Item("common.items.mineral.ingot.gold"), 15),
