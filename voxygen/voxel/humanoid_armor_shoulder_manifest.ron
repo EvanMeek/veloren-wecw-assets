@@ -11,6 +11,16 @@
         )
     ),
     map: {
+            "神官": (
+            left: (
+                vox_spec: ("armor.warlordG.神官肩甲", (-5.5, -3.5 , -1.0)),
+                color: None
+            ),
+            right: (
+                vox_spec: ("armor.warlordG.神官肩甲", (-1.5, -3.5 , -1.0)),
+                color: None
+            )
+        ),
         "影袭": (
             left: (
                 vox_spec: ("armor.warlordG.影袭肩甲", (-5.0, -3.5 , -1.0)),

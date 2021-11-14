@@ -2,6 +2,36 @@
 //  Vox(specier),
 //  VoxTrans(specifier, offset, (x_rot, y_rot, z_rot), zoom)
 ({
+        Armor(Foot("神官")): VoxTrans(
+            "voxel.armor.warlordG.神官鞋子",
+            (0.0, 0.0, 0.0), (-90.0, 180.0, 0.0), 1.2,
+        ),
+        Armor(Pants("神官")): VoxTrans(
+            "voxel.armor.warlordG.神官裙甲",
+            (0.0, 0.0, 0.0), (-90.0, 180.0, 0.0), 1.2,
+        ),
+        Armor(Belt("神官")): VoxTrans(
+            "voxel.armor.warlordG.神官腰带",
+            (0.0, 0.0, 0.0), (-90.0, 180.0, 0.0), 1.2,
+        ),
+        Armor(Hand("神官")): VoxTrans(
+            "voxel.armor.warlordG.神官手套",
+            (0.0, 0.0, 0.0), (-90.0, 180.0, 0.0), 1.2,
+        ),
+        Armor(Shoulder("神官")): VoxTrans(
+            "voxel.armor.warlordG.神官肩甲",
+            (0.0, 0.0, 0.0), (-90.0, 180.0, 0.0), 1.2,
+        ),
+        Armor(Chest("神官")): VoxTrans(
+            "voxel.armor.warlordG.神官胸甲",
+            (0.0, 0.0, 0.0), (-90.0, 180.0, 0.0), 1.2,
+        ),
+        Armor(Back("神官")): VoxTrans(
+            "voxel.armor.warlordG.神官披风",
+            (0.0, 0.0, 0.0), (-90.0, 180.0, 0.0), 1.2,
+        ),
+
+
         Armor(Foot("影袭")): VoxTrans(
             "voxel.armor.warlordG.影袭鞋子",
             (0.0, 0.0, 0.0), (-90.0, 180.0, 0.0), 1.2,

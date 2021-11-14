@@ -4,6 +4,10 @@
         color: Some((28, 66, 109))
     ),
     map: {
+        "神官": (
+            vox_spec: ("armor.warlordG.神官裙甲", (-6.0, -6.0, -3.5)),
+            color: None
+        ),
         "影袭": (
             vox_spec: ("armor.warlordG.影袭裙甲", (-5.0, -6.0, -2.0)),
             color: None
