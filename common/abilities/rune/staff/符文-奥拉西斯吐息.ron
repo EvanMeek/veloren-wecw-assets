@@ -1,9 +1,9 @@
 BasicBeam(
-    buildup_duration: 3.55,
+    buildup_duration: 1.0,
     recover_duration: 0.25,
     beam_duration: 1.0,
-    damage: 50,
-    tick_rate: 3.5,
+    damage: 25,
+    tick_rate: 1.5,
     range: 30.0,
     max_angle: 30.0,
     damage_effect: Some(Buff((
@@ -13,7 +13,7 @@ BasicBeam(
         chance: 1.0,
     ))),
     energy_regen: 0.0,
-    energy_drain: 100.0,
+    energy_drain: 65.0,
     orientation_behavior: Normal,
     ori_rate: 0.2,
     specifier: Frost,
