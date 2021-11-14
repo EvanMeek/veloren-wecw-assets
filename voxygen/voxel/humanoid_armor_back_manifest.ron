@@ -5,7 +5,7 @@
     ),
     map: {
         "神官": (
-            vox_spec: ("armor.warlordG.神官披风", (-5.0, -2.5, -11.0)),
+            vox_spec: ("armor.warlordG.神官披风", (-5.0, -2.5, -15.0)),
             color: None
         ),
         "影袭": (
