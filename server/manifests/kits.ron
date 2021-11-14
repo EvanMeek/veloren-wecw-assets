@@ -500,13 +500,13 @@
             ("common.items.WECW.套装.影袭.pants",1),
             ("common.items.WECW.套装.影袭.shoulder",1),
         ],
-        "神官": [
-            ("common.items.WECW.套装.神宫.back",1),
-            ("common.items.WECW.套装.神宫.belt",1),
-            ("common.items.WECW.套装.神宫.chest",1),
-            ("common.items.WECW.套装.神宫.foot",1),
-            ("common.items.WECW.套装.神宫.hand",1),
-            ("common.items.WECW.套装.神宫.pants",1),
-            ("common.items.WECW.套装.神宫.shoulder",1),
+        "大神官": [
+            ("common.items.WECW.套装.大神官.back",1),
+            ("common.items.WECW.套装.大神官.belt",1),
+            ("common.items.WECW.套装.大神官.chest",1),
+            ("common.items.WECW.套装.大神官.foot",1),
+            ("common.items.WECW.套装.大神官.hand",1),
+            ("common.items.WECW.套装.大神官.pants",1),
+            ("common.items.WECW.套装.大神官.shoulder",1),
         ],
 })
