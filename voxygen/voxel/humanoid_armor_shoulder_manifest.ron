@@ -11,7 +11,17 @@
         )
     ),
     map: {
-            "神官": (
+         "狱边": (
+            left: (
+                vox_spec: ("armor.warlordG.狱边肩甲", (-7.5, -7.5 , -1.5)),
+                color: None
+            ),
+            right: (
+                vox_spec: ("armor.warlordG.狱边肩甲", (-1.0, -7.5 , -1.5)),
+                color: None
+            )
+        ),
+        "神官": (
             left: (
                 vox_spec: ("armor.warlordG.神官肩甲", (-5.5, -3.5 , -1.0)),
                 color: None

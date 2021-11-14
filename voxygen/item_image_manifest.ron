@@ -1,7 +1,38 @@
 //  Png(specifier),
 //  Vox(specier),
 //  VoxTrans(specifier, offset, (x_rot, y_rot, z_rot), zoom)
-({
+({        
+        Armor(Foot("狱边")): VoxTrans(
+            "voxel.armor.warlordG.狱边鞋子",
+            (0.0, 0.0, 0.0), (-90.0, 180.0, 0.0), 1.2,
+        ),
+        Armor(Pants("狱边")): VoxTrans(
+            "voxel.armor.warlordG.狱边裙甲",
+            (0.0, 0.0, 0.0), (-90.0, 180.0, 0.0), 1.2,
+        ),
+        Armor(Belt("狱边")): VoxTrans(
+            "voxel.armor.warlordG.狱边腰带",
+            (0.0, 0.0, 0.0), (-90.0, 180.0, 0.0), 1.2,
+        ),
+        Armor(Hand("狱边")): VoxTrans(
+            "voxel.armor.warlordG.狱边手套",
+            (0.0, 0.0, 0.0), (-90.0, 180.0, 0.0), 1.2,
+        ),
+        Armor(Shoulder("狱边")): VoxTrans(
+            "voxel.armor.warlordG.狱边肩甲",
+            (0.0, 0.0, 0.0), (-90.0, 180.0, 0.0), 1.2,
+        ),
+        Armor(Chest("狱边")): VoxTrans(
+            "voxel.armor.warlordG.狱边胸甲",
+            (0.0, 0.0, 0.0), (-90.0, 180.0, 0.0), 1.2,
+        ),
+        Armor(Back("狱边")): VoxTrans(
+            "voxel.armor.warlordG.狱边披风",
+            (0.0, 0.0, 0.0), (-90.0, 180.0, 0.0), 1.2,
+        ),
+
+
+
         Armor(Foot("神官")): VoxTrans(
             "voxel.armor.warlordG.神官鞋子",
             (0.0, 0.0, 0.0), (-90.0, 180.0, 0.0), 1.2,

@@ -4,8 +4,12 @@
         color: None
     ),
     map: {
+        "狱边": (
+            vox_spec: ("armor.warlordG.狱边披风", (-6.0, -3.0, -15.0)),
+            color: None
+        ),
         "神官": (
-            vox_spec: ("armor.warlordG.神官披风", (-5.0, -2.5, -15.0)),
+            vox_spec: ("armor.warlordG.神官披风", (-5.0, -3.0, -15.0)),
             color: None
         ),
         "影袭": (
