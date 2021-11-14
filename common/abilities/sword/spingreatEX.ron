@@ -6,12 +6,8 @@ SpinMelee(
     base_poise_damage: 35,
     knockback: ( strength: 10.0, direction: Away),
     range: 6.0,
-    damage_effect: Some(Buff((
-       kind: Cursed,
-       dur_secs: 60.0,
-       strength: Value(10.0),
-       chance: 1.0,
-        ))),
+    damage_kind: Energy,
+    damage_effect: Some(Lifesteal(0.4)),
     energy_cost: 15.0,
     is_infinite: false,
     movement_behavior: ForwardGround,
@@ -20,5 +16,4 @@ SpinMelee(
     num_spins: 3,
     specifier: None,
     target: Some(OutOfGroup),
-    damage_kind: Slashing,
 )
