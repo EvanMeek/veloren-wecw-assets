@@ -1,19 +1,17 @@
 ItemDef(
     name: "影袭 | 胸甲",
-    description: "",
+    description: "暗影存呼于万物之间",
     kind: Armor((
         kind: Chest("影袭"),
         stats: (
-            protection: Normal(40.0),
-            poise_resilience: Normal(40.0),
-            energy_max: 10.0,
-            energy_reward: 0.5,
-            crit_power: 0.2,
-            stealth: 25.0,
+            protection: Normal(37.0),
+            poise_resilience: Normal(-2.0),
+            energy_max: 0.0,
+            energy_reward: 0.0,
+            crit_power: 0.55,
+            stealth: 0.0,
         ),
     )),
     quality: Epic,
-    tags: [
-        Material(Sunsilk),
-     ],
+    tags: [],
 )

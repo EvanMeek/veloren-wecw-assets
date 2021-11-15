@@ -4,16 +4,15 @@ ItemDef(
     kind: Armor((
         kind: Back("影袭"),
         stats: (
-            protection: Normal(40.0),
-            poise_resilience: Normal(40.0),
-            energy_max: 10.0,
-            energy_reward: 0.5,
-            crit_power: 0.2,
-            stealth: 25.0,
+            protection: Normal(6.5),
+            poise_resilience: Normal(-1.0),
+            energy_max: 0.0,
+            energy_reward: 0.0,
+            crit_power: 0.15,
+            stealth: 0.0,
         ),
     )),
     quality: Epic,
     tags: [
-        Material(Sunsilk),
      ],
 )

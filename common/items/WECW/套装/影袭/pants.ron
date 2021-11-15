@@ -1,14 +1,14 @@
 ItemDef(
     name: "影袭 | 裙甲",
-    description: "",
+    description: "没有人，可以逃离他们的影子。",
     kind: Armor((
         kind: Pants("影袭"),
         stats: (
-            protection: Normal(23.0),
-            poise_resilience: Normal(0.0),
-            energy_max: 40.0,
-            energy_reward: 0.6,
-            crit_power: 0.0,
+            protection: Normal(19.5),
+            poise_resilience: Normal(-2.0),
+            energy_max: 0.0,
+            energy_reward: 0.0,
+            crit_power: 0.325,
             stealth: 0.0,
         ),
     )),

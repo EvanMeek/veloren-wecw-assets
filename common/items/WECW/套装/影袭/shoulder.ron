@@ -1,15 +1,15 @@
 ItemDef(
     name: "影袭 | 肩甲",
-    description: "",
+    description: "没有人，可以逃离他们的影子。",
     kind: Armor((
         kind: Shoulder("影袭"),
         stats: (
-            protection: Normal(75.0),
-            poise_resilience: Normal(75.0),
-            energy_max: 10.0,
-            energy_reward: 0.5,
-            crit_power: 0.2,
-            stealth: 25.0,
+            protection: Normal(17.5),
+            poise_resilience: Normal(-2.0),
+            energy_max: 0.0,
+            energy_reward: 0.0,
+            crit_power: 0.35,
+            stealth: 0.0,
         ),
     )),
     quality: Epic,
