@@ -16,6 +16,19 @@
             vox_spec: ("armor.warlordG.骨盔", (0.0, -1.5, 0.0)),
             color: None
         ),
+        (Human, Female, "骨盔"): (
+            vox_spec: ("armor.warlordG.骨盔", (0.0, -1.5, 0.0)),
+            color: None
+        ),
+        (Elf, Female, "骨盔"): (
+            vox_spec: ("armor.warlordG.骨盔", (-0.0, -3.0, 15.0)),
+            color: None
+        ),
+        (Elf, Male, "骨盔"): (
+            vox_spec: ("armor.warlordG.骨盔", (1.0, -3.0, -2.0)),
+            color: None
+        ),
+
         (Human, Female, "光环"): (
             vox_spec: ("armor.warlordG.光环", (-1.5, -1.0, 15.0)),
             color: None
@@ -123,7 +136,7 @@
             color: None
         ),
         (Elf, Male, "战国红角盔"): (
-            vox_spec: ("armor.warlordG.战国红角盔", (-3.0, -5.0, 5.0)),
+            vox_spec: ("armor.warlordG.战国红角盔", (-1.0, -8.0, -2.0)),
             color: None
         ),
         (Elf, Female, "战国红角盔"): (
@@ -171,7 +184,7 @@
             color: None
         ),
         (Elf, Male, "红角盔"): (
-            vox_spec: ("armor.warlordG.红角盔", (-3.0, -5.0, 5.0)),
+            vox_spec: ("armor.warlordG.红角盔", (0.0, -5.0, -3.5)),
             color: None
         ),
         (Elf, Female, "红角盔"): (
