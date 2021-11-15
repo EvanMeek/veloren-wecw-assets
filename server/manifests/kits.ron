@@ -509,4 +509,14 @@
             ("common.items.WECW.套装.大神官.pants",1),
             ("common.items.WECW.套装.大神官.shoulder",1),
         ],
+        "头饰": [
+            ("common.items.WECW.套装.头饰.光环",1),
+            ("common.items.WECW.套装.头饰.幻惑之首",1),
+            ("common.items.WECW.套装.头饰.战国红角盔",1),
+            ("common.items.WECW.套装.头饰.戴红缨",1),
+            ("common.items.WECW.套装.头饰.燕冠",1),
+            ("common.items.WECW.套装.头饰.独角仙",1),
+            ("common.items.WECW.套装.头饰.红角盔",1),
+            ("common.items.WECW.套装.头饰.骨盔",1),
+        ],
 })
