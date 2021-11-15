@@ -16,6 +16,6 @@ ItemDef(
         )),
     )),
     quality: Low,
-	tags: [LowSell],
+	tags: [],
     ability_spec: None,
 )

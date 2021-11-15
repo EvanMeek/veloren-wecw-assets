@@ -100,35 +100,35 @@
         ],
     ),
     Custom("金单双手剑技能组"): (
-        primary: "common.abilities.sword.triplestrikegreat",
-        secondary: "common.abilities.sword.dashgreat",
+        primary: "common.abilities.sword.金单双手普攻",
+        secondary: "common.abilities.sword.金单双手突刺",
         abilities: [
-            (Some(Sword(UnlockSpin)), "common.abilities.sword.spingreat"),
+            (Some(Sword(UnlockSpin)), "common.abilities.sword.金单双手旋风斩"),
         ],
     ),
     Custom("放逐之刃技能组"): (
-        primary: "common.abilities.sword.triplestrikegreatEX",
-        secondary: "common.abilities.sword.dashgreatEX",
+        primary: "common.abilities.sword.放逐之刃普攻",
+        secondary: "common.abilities.sword.放逐之刃突刺",
         abilities: [
-            (Some(Sword(UnlockSpin)), "common.abilities.sword.spingreatEX"),
+            (Some(Sword(UnlockSpin)), "common.abilities.sword.放逐之刃旋风斩"),
         ],
     ),
     Custom("乌菲尔技能组"): (
-        primary: "common.abilities.sword.triplestrikegreatEX",
-        secondary: "common.abilities.sword.dashgreatEX",
+        primary: "common.abilities.sword.乌菲尔普攻",
+        secondary: "common.abilities.sword.乌菲尔突刺",
         abilities: [
-            (Some(Sword(UnlockSpin)), "common.abilities.sword.spingreatEX"),
+            (Some(Sword(UnlockSpin)), "common.abilities.sword.乌菲尔旋风斩"),
         ],
     ),
     Custom("风暴使者技能组"): (
-        primary: "common.abilities.sword.triplestrikegreat",
+        primary: "common.abilities.sword.风暴使者普攻",
         secondary: "common.abilities.sword.dash",
         abilities: [
-            (Some(Sword(UnlockSpin)), "common.abilities.sword.spinwind"),
+            (Some(Sword(UnlockSpin)), "common.abilities.sword.风暴使者旋风斩"),
         ],
     ),
     Custom("附魔的巨剑技能组"): (
-        primary: "common.abilities.sword.triplestrikeepic",
+        primary: "common.abilities.sword.附魔的的巨剑普攻",
         secondary: "common.abilities.sword.dash",
         abilities: [
             (Some(Sword(UnlockSpin)), "common.abilities.sword.spin"),
@@ -138,7 +138,7 @@
         primary: "common.abilities.sword.triplestrike",
         secondary: "common.abilities.sword.dash",
         abilities: [
-            (Some(Sword(UnlockSpin)), "common.abilities.sword.spinepic"),
+            (Some(Sword(UnlockSpin)), "common.abilities.sword.卡拉伯格旋风斩"),
         ],
     ),
     Custom("猩红光剑技能组"): (
@@ -646,6 +646,11 @@
     Custom("Tornado"): (
         primary: "common.abilities.custom.tornado.spin",
         secondary: "common.abilities.empty.basic",
+        abilities: [],
+    ),
+    Custom("Golf Club"): (
+        primary: "common.abilities.hammer.singlestrike",
+        secondary: "common.abilities.tool.golf_club.charged",
         abilities: [],
     ),
     Tool(Debug): (
