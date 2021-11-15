@@ -2381,7 +2381,7 @@
     "dragonscale back": (
         output: ("common.items.armor.hide.dragonscale.back", 1),
         inputs: [
-            (Item("common.items.armor.hide.primal.back"), 1),
+            (Item("common.items.WECW.套装.影袭.back"), 1),
             (Item("common.items.crafting_ing.hide.dragon_scale"), 3),
             (Item("common.items.mineral.ingot.bloodsteel"), 2),
             (Item("common.items.crafting_ing.leather.rigid_leather"), 1),
@@ -2395,7 +2395,7 @@
     "dragonscale belt": (
         output: ("common.items.armor.hide.dragonscale.belt", 1),
         inputs: [
-            (Item("common.items.armor.hide.primal.belt"), 1),
+            (Item("common.items.WECW.套装.影袭.belt"), 1),
             (Item("common.items.crafting_ing.hide.dragon_scale"), 2),
             (Item("common.items.mineral.ingot.bloodsteel"), 2),
             (Item("common.items.crafting_ing.hide.scales"), 2),
@@ -2408,7 +2408,7 @@
     "dragonscale chest": (
         output: ("common.items.armor.hide.dragonscale.chest", 1),
         inputs: [
-            (Item("common.items.armor.hide.primal.chest"), 1),
+            (Item("common.items.WECW.套装.影袭.chest"), 1),
             (Item("common.items.crafting_ing.hide.dragon_scale"), 10),
             (Item("common.items.mineral.ingot.bloodsteel"), 3),
             (Item("common.items.crafting_ing.leather.rigid_leather"), 2),
@@ -2422,7 +2422,7 @@
     "dragonscale foot": (
         output: ("common.items.armor.hide.dragonscale.foot", 1),
         inputs: [
-            (Item("common.items.armor.hide.primal.foot"), 1),
+            (Item("common.items.WECW.套装.影袭.foot"), 1),
             (Item("common.items.crafting_ing.hide.dragon_scale"), 3),
             (Item("common.items.mineral.ingot.bloodsteel"), 2),
             (Item("common.items.crafting_ing.hide.scales"), 2),
@@ -2435,7 +2435,7 @@
     "dragonscale hands": (
         output: ("common.items.armor.hide.dragonscale.hand", 1),
         inputs: [
-            (Item("common.items.armor.hide.primal.hand"), 1),
+            (Item("common.items.WECW.套装.影袭.hand"), 1),
             (Item("common.items.crafting_ing.hide.dragon_scale"), 3),
             (Item("common.items.mineral.ingot.bloodsteel"), 2),
             (Item("common.items.crafting_ing.hide.scales"), 2),
@@ -2448,7 +2448,7 @@
     "dragonscale pants": (
         output: ("common.items.armor.hide.dragonscale.pants", 1),
         inputs: [
-            (Item("common.items.armor.hide.primal.pants"), 1),
+            (Item("common.items.WECW.套装.影袭.pants"), 1),
             (Item("common.items.crafting_ing.hide.dragon_scale"), 8),
             (Item("common.items.mineral.ingot.bloodsteel"), 3),
             (Item("common.items.crafting_ing.leather.rigid_leather"), 1),
@@ -2462,7 +2462,7 @@
     "dragonscale shoulder": (
         output: ("common.items.armor.hide.dragonscale.shoulder", 1),
         inputs: [
-            (Item("common.items.armor.hide.primal.shoulder"), 1),
+            (Item("common.items.WECW.套装.影袭.shoulder"), 1),
             (Item("common.items.crafting_ing.hide.dragon_scale"), 8),
             (Item("common.items.mineral.ingot.bloodsteel"), 3),
             (Item("common.items.crafting_ing.leather.rigid_leather"), 2),
@@ -2858,7 +2858,7 @@
     "sunsilk back": (
         output: ("common.items.armor.cloth.sunsilk.back", 1),
         inputs: [
-            (Item("common.items.armor.cloth.moonweave.back"), 1),
+            (Item("common.items.WECW.套装.大神官.back"), 1),
             (Item("common.items.crafting_ing.cloth.sunsilk"), 3),
             (Item("common.items.crafting_ing.animal_misc.phoenix_feather"), 1),
             (Item("common.items.mineral.ingot.gold"), 1),
@@ -2872,7 +2872,7 @@
     "sunsilk belt": (
         output: ("common.items.armor.cloth.sunsilk.belt", 1),
         inputs: [
-            (Item("common.items.armor.cloth.moonweave.belt"), 1),
+            (Item("common.items.WECW.套装.大神官.belt"), 1),
             (Item("common.items.crafting_ing.cloth.sunsilk"), 2),
             (Item("common.items.mineral.ingot.gold"), 1),
             (Item("common.items.boss_drops.lantern"), 5),
@@ -2885,7 +2885,7 @@
     "sunsilk chest": (
         output: ("common.items.armor.cloth.sunsilk.chest", 1),
         inputs: [
-            (Item("common.items.armor.cloth.moonweave.chest"), 1),
+            (Item("common.items.WECW.套装.大神官.chest"), 1),
             (Item("common.items.crafting_ing.cloth.sunsilk"), 10),
             (Item("common.items.crafting_ing.animal_misc.phoenix_feather"), 2),
             (Item("common.items.mineral.ingot.gold"), 2),
@@ -2899,7 +2899,7 @@
     "sunsilk foot": (
         output: ("common.items.armor.cloth.sunsilk.foot", 1),
         inputs: [
-            (Item("common.items.armor.cloth.moonweave.foot"), 1),
+            (Item("common.items.WECW.套装.大神官.foot"), 1),
             (Item("common.items.crafting_ing.cloth.sunsilk"), 3),
             (Item("common.items.mineral.ingot.gold"), 2),
             (Item("common.items.boss_drops.lantern"), 5),
@@ -2912,7 +2912,7 @@
     "sunsilk hands": (
         output: ("common.items.armor.cloth.sunsilk.hand", 1),
         inputs: [
-            (Item("common.items.armor.cloth.moonweave.hand"), 1),
+            (Item("common.items.WECW.套装.大神官.hand"), 1),
             (Item("common.items.crafting_ing.cloth.sunsilk"), 3),
             (Item("common.items.mineral.ingot.gold"), 2),
             (Item("common.items.boss_drops.lantern"), 5),
@@ -2925,7 +2925,7 @@
     "sunsilk pants": (
         output: ("common.items.armor.cloth.sunsilk.pants", 1),
         inputs: [
-            (Item("common.items.armor.cloth.moonweave.pants"), 1),
+            (Item("common.items.WECW.套装.大神官.pants"), 1),
             (Item("common.items.crafting_ing.cloth.sunsilk"), 8),
             (Item("common.items.mineral.ingot.gold"), 3),
             (Item("common.items.boss_drops.lantern"), 5),
@@ -2938,7 +2938,7 @@
     "sunsilk shoulder": (
         output: ("common.items.armor.cloth.sunsilk.shoulder", 1),
         inputs: [
-            (Item("common.items.armor.cloth.moonweave.shoulder"), 1),
+            (Item("common.items.WECW.套装.大神官.shoulder"), 1),
             (Item("common.items.crafting_ing.cloth.sunsilk"), 8),
             (Item("common.items.mineral.ingot.gold"), 3),
             (Item("common.items.boss_drops.lantern"), 5),
@@ -3311,7 +3311,7 @@
     "orichalcum back": (
         output: ("common.items.armor.mail.orichalcum.back", 1),
         inputs: [
-            (Item("common.items.armor.mail.bloodsteel.back"), 1),
+            (Item("common.items.WECW.套装.地狱边缘.back"), 1),
             (Item("common.items.mineral.ingot.orichalcum"), 3),
             (Item("common.items.crafting_ing.hide.plate"), 3),
             (Item("common.items.mineral.gem.diamond"), 2),
@@ -3325,7 +3325,7 @@
     "orichalcum belt": (
         output: ("common.items.armor.mail.orichalcum.belt", 1),
         inputs: [
-            (Item("common.items.armor.mail.bloodsteel.belt"), 1),
+            (Item("common.items.WECW.套装.地狱边缘.belt"), 1),
             (Item("common.items.mineral.ingot.orichalcum"), 2),
             (Item("common.items.crafting_ing.hide.plate"), 2),
             (Item("common.items.mineral.gem.diamond"), 2),
@@ -3339,7 +3339,7 @@
     "orichalcum chest": (
         output: ("common.items.armor.mail.orichalcum.chest", 1),
         inputs: [
-            (Item("common.items.armor.mail.bloodsteel.chest"), 1),
+            (Item("common.items.WECW.套装.地狱边缘.chest"), 1),
             (Item("common.items.mineral.ingot.orichalcum"), 10),
             (Item("common.items.mineral.ingot.cobalt"), 2),
             (Item("common.items.crafting_ing.hide.plate"), 4),
@@ -3354,7 +3354,7 @@
     "orichalcum foot": (
         output: ("common.items.armor.mail.orichalcum.foot", 1),
         inputs: [
-            (Item("common.items.armor.mail.bloodsteel.foot"), 1),
+            (Item("common.items.WECW.套装.地狱边缘.foot"), 1),
             (Item("common.items.mineral.ingot.orichalcum"), 3),
             (Item("common.items.crafting_ing.hide.plate"), 2),
             (Item("common.items.mineral.gem.diamond"), 1),
@@ -3368,7 +3368,7 @@
     "orichalcum hands": (
         output: ("common.items.armor.mail.orichalcum.hand", 1),
         inputs: [
-            (Item("common.items.armor.mail.bloodsteel.hand"), 1),
+            (Item("common.items.WECW.套装.地狱边缘.hand"), 1),
             (Item("common.items.mineral.ingot.orichalcum"), 3),
             (Item("common.items.crafting_ing.hide.plate"), 2),
             (Item("common.items.mineral.gem.diamond"), 1),
@@ -3382,7 +3382,7 @@
     "orichalcum pants": (
         output: ("common.items.armor.mail.orichalcum.pants", 1),
         inputs: [
-            (Item("common.items.armor.mail.bloodsteel.pants"), 1),
+            (Item("common.items.WECW.套装.地狱边缘.pants"), 1),
             (Item("common.items.mineral.ingot.orichalcum"), 8),
             (Item("common.items.mineral.ingot.cobalt"), 1),
             (Item("common.items.crafting_ing.hide.plate"), 3),
@@ -3396,7 +3396,7 @@
     "orichalcum shoulder": (
         output: ("common.items.armor.mail.orichalcum.shoulder", 1),
         inputs: [
-            (Item("common.items.armor.mail.bloodsteel.shoulder"), 1),
+            (Item("common.items.WECW.套装.地狱边缘.shoulder"), 1),
             (Item("common.items.mineral.ingot.orichalcum"), 8),
             (Item("common.items.crafting_ing.hide.plate"), 4),
             (Item("common.items.mineral.gem.sapphire"), 2),
