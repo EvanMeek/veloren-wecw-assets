@@ -1,5 +1,5 @@
 ItemDef(
-    name: "神职 | 臂铠",
+    name: "神职 | 手套",
     description: "",
     kind: Armor((
         kind: Hand("神职"),
