@@ -128,7 +128,7 @@
         ],
     ),
     Custom("附魔的巨剑技能组"): (
-        primary: "common.abilities.sword.附魔的的巨剑普攻",
+        primary: "common.abilities.sword.附魔的巨剑普攻",
         secondary: "common.abilities.sword.dash",
         abilities: [
             (Some(Sword(UnlockSpin)), "common.abilities.sword.spin"),
@@ -247,7 +247,7 @@
         secondary: "common.abilities.hammer.熔火之心蓄力",
         abilities: [
             (Some(Hammer(UnlockLeap)), "common.abilities.hammer.熔火之心千斤坠"),
-            (Some(Hammer(UnlockLeap)), "common.abilities.hammer.fireshockwave"),
+            (Some(Hammer(UnlockLeap)), "common.abilities.hammer.熔火之心地刺"),
         ],
     ),
     Custom("帕拉丁战锤技能组"): (
@@ -608,7 +608,7 @@
     ),
     Custom("Minotaur"): (
         primary: "common.abilities.custom.minotaur.cleave",
-        secondary: "common.abilities.custom.minotaur.横劈",
+        secondary: "common.abilities.custom.minotaur.cripplingstrike",
         abilities: [
             (None, "common.abilities.custom.minotaur.charge"),
             (None, "common.abilities.custom.minotaur.frenzy"),
