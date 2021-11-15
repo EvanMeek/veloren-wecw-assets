@@ -2,14 +2,15 @@
 //  Vox(specier),
 //  VoxTrans(specifier, offset, (x_rot, y_rot, z_rot), zoom)
 ({
+        Armor(Head("独角仙")): VoxTrans(
+            "voxel.armor.warlordG.独角仙",
+            (0.0, 0.0, 0.0), (-70.0, 0.0,0.0), 1.0,
+        ),          
     
         Armor(Head("燕冠")): VoxTrans(
             "voxel.armor.warlordG.燕冠",
             (0.0, 0.0, 0.0), (-70.0, 0.0,0.0), 1.0,
-        ),
-
-        
-                
+        ),           
         Armor(Foot("狱边")): VoxTrans(
             "voxel.armor.warlordG.狱边鞋子",
             (0.0, 0.0, 0.0), (-90.0, 180.0, 0.0), 1.2,
