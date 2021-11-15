@@ -1,13 +1,13 @@
 ItemDef(
     name: "神官 | 手套",
-    description: "",
+    description: "Wingardium Leviosa!",
     kind: Armor((
         kind: Hand("神官"),
         stats: (
-            protection: Normal(13.0),
-            poise_resilience: Normal(0.0),
-            energy_max: 30.0,
-            energy_reward: 0.4,
+            protection: Normal(8.0),
+            poise_resilience: Normal(-1.0),
+            energy_max: 10.0,
+            energy_reward: 0.2,
             crit_power: 0.0,
             stealth: 0.0,
         ),

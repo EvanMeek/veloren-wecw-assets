@@ -4,10 +4,10 @@ ItemDef(
     kind: Armor((
         kind: Hand("Sunsilk"),
         stats: (
-            protection: Normal(8.0),
+            protection: Normal(10.0),
             poise_resilience: Normal(-1.0),
-            energy_max: 10.0,
-            energy_reward: 0.2,
+            energy_max: 12.0,
+            energy_reward: 0.3,
             crit_power: 0.0,
             stealth: 0.0,
         ),

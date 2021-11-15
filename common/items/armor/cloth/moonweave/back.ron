@@ -5,9 +5,9 @@ ItemDef(
         kind: Back("Moonweave"),
         stats: (
             protection: Normal(4.0),
-            poise_resilience: Normal(-1.0),
+            poise_resilience: Normal(-2.0),
             energy_max: 4.0,
-            energy_reward: 0.08,
+            energy_reward: 0.1,
             crit_power: 0.0,
             stealth: 0.0,
         ),

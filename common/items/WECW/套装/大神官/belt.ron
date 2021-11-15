@@ -1,13 +1,13 @@
 ItemDef(
-    name: "神官 | 裤子",
-    description: "",
+    name: "神官 | 腰带",
+    description: "Wingardium Leviosa!",
     kind: Armor((
         kind: Belt("神官"),
         stats: (
-            protection: Normal(15.0),
-            poise_resilience: Normal(0.0),
-            energy_max: 25.0,
-            energy_reward: 0.2,
+            protection: Normal(6.0),
+            poise_resilience: Normal(-1.0),
+            energy_max: 6.0,
+            energy_reward: 0.15,
             crit_power: 0.0,
             stealth: 0.0,
         ),

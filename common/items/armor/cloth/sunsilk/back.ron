@@ -5,9 +5,9 @@ ItemDef(
         kind: Back("Sunsilk"),
         stats: (
             protection: Normal(5.0),
-            poise_resilience: Normal(-1.0),
-            energy_max: 5.0,
-            energy_reward: 0.1,
+            poise_resilience: Normal(-2.0),
+            energy_max: 6.0,
+            energy_reward: 0.15,
             crit_power: 0.0,
             stealth: 0.0,
         ),

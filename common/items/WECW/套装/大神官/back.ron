@@ -1,13 +1,13 @@
 ItemDef(
     name: "神官 | 披风",
-    description: "",
+    description: "Wingardium Leviosa!",
     kind: Armor((
         kind: Back("神官"),
         stats: (
-            protection: Normal(10.0),
-            poise_resilience: Normal(0.0),
-            energy_max: 25.0,
-            energy_reward: 0.2,
+            protection: Normal(4.5),
+            poise_resilience: Normal(-2.0),
+            energy_max: 5.0,
+            energy_reward: 0.125,
             crit_power: 0.0,
             stealth: 0.0,
         ),
