@@ -4,6 +4,10 @@
         color: None
     ),
     map: {
+        "神职": (
+            vox_spec: ("armor.warlordG.神职背包", (-5.0, -3.0, -15.0)),
+            color: None
+        ),
         "狱边": (
             vox_spec: ("armor.warlordG.狱边披风", (-6.0, -3.0, -15.0)),
             color: None
