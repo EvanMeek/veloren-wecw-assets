@@ -243,43 +243,43 @@
         ],
     ),
     Custom("熔火之心技能组"): (
-        primary: "common.abilities.hammer.firesinglestrike",
-        secondary: "common.abilities.hammer.firecharged",
+        primary: "common.abilities.hammer.熔火之心普攻",
+        secondary: "common.abilities.hammer.熔火之心蓄力",
         abilities: [
-            (Some(Hammer(UnlockLeap)), "common.abilities.hammer.fireleap"),
+            (Some(Hammer(UnlockLeap)), "common.abilities.hammer.熔火之心千斤坠"),
             (Some(Hammer(UnlockLeap)), "common.abilities.hammer.fireshockwave"),
         ],
     ),
     Custom("帕拉丁战锤技能组"): (
-        primary: "common.abilities.hammer.singlestrikeholy",
-        secondary: "common.abilities.hammer.chargedgreat",
+        primary: "common.abilities.hammer.帕拉丁普攻",
+        secondary: "common.abilities.hammer.帕拉丁蓄力",
         abilities: [
-            (Some(Hammer(UnlockLeap)), "common.abilities.hammer.leap"),
+            (Some(Hammer(UnlockLeap)), "common.abilities.hammer.帕拉丁千斤坠"),
             (Some(Hammer(UnlockLeap)), "common.abilities.hammer.帕拉丁吐息"),
         ],
     ),
     Custom("山铜锤技能组"): (
-        primary: "common.abilities.hammer.greatsinglestrike",
-        secondary: "common.abilities.hammer.greatcharged",
+        primary: "common.abilities.hammer.山铜锤普攻",
+        secondary: "common.abilities.hammer.山铜锤蓄力",
         abilities: [
-            (Some(Hammer(UnlockLeap)), "common.abilities.hammer.greatleap"),
-            (Some(Hammer(UnlockLeap)), "common.abilities.hammer.shockwave"),
+            (Some(Hammer(UnlockLeap)), "common.abilities.hammer.山铜锤千斤坠"),
+            (Some(Hammer(UnlockLeap)), "common.abilities.hammer.山铜锤地刺"),
         ],
     ),
     Custom("冰风暴技能组"): (
-        primary: "common.abilities.hammer.icesinglestrike",
-        secondary: "common.abilities.hammer.icecharged",
+        primary: "common.abilities.hammer.冰风暴普攻",
+        secondary: "common.abilities.hammer.冰风暴蓄力",
         abilities: [
-            (Some(Hammer(UnlockLeap)), "common.abilities.hammer.iceleap"),
-            (Some(Hammer(UnlockLeap)), "common.abilities.hammer.iceshockwave"),
+            (Some(Hammer(UnlockLeap)), "common.abilities.hammer.冰风暴千斤坠"),
+            (Some(Hammer(UnlockLeap)), "common.abilities.hammer.冰风暴地刺"),
         ],
     ),
     Custom("冲击锤技能组"): (
-        primary: "common.abilities.hammer.singlestrike",
-        secondary: "common.abilities.hammer.charged",
+        primary: "common.abilities.hammer.冲击锤普攻",
+        secondary: "common.abilities.hammer.冲击锤蓄力",
         abilities: [
-            (Some(Hammer(UnlockLeap)), "common.abilities.hammer.darkleap"),
-            (Some(Hammer(UnlockLeap)), "common.abilities.hammer.shockwave"),
+            (Some(Hammer(UnlockLeap)), "common.abilities.hammer.冲击锤千斤坠"),
+            (Some(Hammer(UnlockLeap)), "common.abilities.hammer.冲击锤地刺"),
         ],
     ),
     Tool(Bow): (
