@@ -509,6 +509,15 @@
             ("common.items.WECW.套装.大神官.pants",1),
             ("common.items.WECW.套装.大神官.shoulder",1),
         ],
+        "神职者": [
+            ("common.items.WECW.套装.神职者.back",1),
+            ("common.items.WECW.套装.神职者.belt",1),
+            ("common.items.WECW.套装.神职者.chest",1),
+            ("common.items.WECW.套装.神职者.foot",1),
+            ("common.items.WECW.套装.神职者.hand",1),
+            ("common.items.WECW.套装.神职者.pants",1),
+            ("common.items.WECW.套装.神职者.shoulder",1),
+        ]
         "头饰": [
             ("common.items.WECW.套装.头饰.光环",1),
             ("common.items.WECW.套装.头饰.幻惑之首",1),
