@@ -1,15 +1,15 @@
 ItemDef(
     name: "狱边 | 手套",
-    description: "",
+    description: "有些灵魂，注定要燃烧。",
     kind: Armor((
         kind: Hand("狱边"),
         stats: (
-            protection: Normal(13.0),
-            poise_resilience: Normal(0.0),
-            energy_max: 30.0,
-            energy_reward: 0.4,
-            crit_power: 0.0,
-            stealth: 0.0,
+            protection: Normal(40.0),
+            poise_resilience: Normal(15.0),
+            energy_max: -6.0,
+            energy_reward: 0.0,
+            crit_power: -0.05,
+            stealth: -5.0,
         ),
     )),
     quality: Epic,

@@ -1,15 +1,15 @@
 ItemDef(
     name: "狱边 | 胸甲",
-    description: "",
+    description: "有些灵魂，注定要燃烧。",
     kind: Armor((
         kind: Chest("狱边"),
         stats: (
-            protection: Normal(10.0),
-            poise_resilience: Normal(0.0),
-            energy_max: 50.0,
-            energy_reward: 0.3,
-            crit_power: 0.0,
-            stealth: 0.0,
+            protection: Normal(90.0),
+            poise_resilience: Normal(20.0),
+            energy_max: -7.0,
+            energy_reward: 0.0,
+            crit_power: -0.1,
+            stealth: -5.0,
         ),
     )),
     quality: Epic,

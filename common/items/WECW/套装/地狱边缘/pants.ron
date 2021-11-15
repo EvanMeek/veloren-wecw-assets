@@ -1,15 +1,15 @@
 ItemDef(
     name: "狱边 | 裙甲",
-    description: "",
+    description: "有些灵魂，注定要燃烧。",
     kind: Armor((
         kind: Pants("狱边"),
         stats: (
-            protection: Normal(13.0),
-            poise_resilience: Normal(0.0),
-            energy_max: 30.0,
-            energy_reward: 0.3,
-            crit_power: 0.0,
-            stealth: 0.0,
+            protection: Normal(100.0),
+            poise_resilience: Normal(25.0),
+            energy_max: -7.0,
+            energy_reward: 0.0,
+            crit_power: -0.1,
+            stealth: -5.0,
         ),
     )),
     quality: Epic,
