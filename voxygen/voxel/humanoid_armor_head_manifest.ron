@@ -3,8 +3,7 @@
         vox_spec: ("armor.empty", (0.0, 0.0, 0.0)),
         color: None
     ),
-        map: {
-            
+        map: {        
         (Human, Male, "燕冠"): (
             vox_spec: ("armor.warlordG.燕冠", (0.0, -1.5, 0.0)),
             color: None
