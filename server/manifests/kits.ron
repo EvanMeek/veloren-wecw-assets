@@ -519,4 +519,12 @@
             ("common.items.WECW.套装.头饰.红角盔",1),
             ("common.items.WECW.套装.头饰.骨盔",1),
         ],
+        "新紫武": [
+            ("common.items.WECW.燥热杖",1),
+            ("common.items.WECW.流火弓",1),
+            ("common.items.WECW.暗影之斧",1),
+            ("common.items.WECW.猩红光剑",2),
+            ("common.items.WECW.极芯光剑",1),
+            ("common.items.WECW.哀谷",1),
+        ],
 })
