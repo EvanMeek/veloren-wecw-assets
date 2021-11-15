@@ -1,0 +1,18 @@
+ChargedRanged(
+    energy_cost: 0.0,
+    energy_drain: 0,
+    initial_regen: 3,
+    scaled_regen: 6,
+    initial_damage: 9,
+    scaled_damage: 22,
+    initial_knockback: 0.0,
+    scaled_knockback: 8.0,
+    buildup_duration: 0.2,
+    charge_duration: 1,
+    recover_duration: 0.3,
+    projectile_body: Object(Arrow),
+    projectile_light: None,
+    initial_projectile_speed: 100.0,
+    scaled_projectile_speed: 125.0,
+    move_speed: 0.2,
+)

@@ -100,35 +100,35 @@
         ],
     ),
     Custom("金单双手剑技能组"): (
-        primary: "common.abilities.sword.triplestrikegreat",
-        secondary: "common.abilities.sword.dashgreat",
+        primary: "common.abilities.sword.金单双手普攻",
+        secondary: "common.abilities.sword.金单双手突刺",
         abilities: [
-            (Some(Sword(UnlockSpin)), "common.abilities.sword.spingreat"),
+            (Some(Sword(UnlockSpin)), "common.abilities.sword.金单双手旋风斩"),
         ],
     ),
     Custom("放逐之刃技能组"): (
-        primary: "common.abilities.sword.triplestrikegreatEX",
-        secondary: "common.abilities.sword.dashgreatEX",
+        primary: "common.abilities.sword.放逐之刃普攻",
+        secondary: "common.abilities.sword.放逐之刃突刺",
         abilities: [
-            (Some(Sword(UnlockSpin)), "common.abilities.sword.spingreatEX"),
+            (Some(Sword(UnlockSpin)), "common.abilities.sword.放逐之刃旋风斩"),
         ],
     ),
     Custom("乌菲尔技能组"): (
-        primary: "common.abilities.sword.triplestrikegreatEX",
-        secondary: "common.abilities.sword.dashgreatEX",
+        primary: "common.abilities.sword.乌菲尔普攻",
+        secondary: "common.abilities.sword.乌菲尔突刺",
         abilities: [
-            (Some(Sword(UnlockSpin)), "common.abilities.sword.spingreatEX"),
+            (Some(Sword(UnlockSpin)), "common.abilities.sword.乌菲尔旋风斩"),
         ],
     ),
     Custom("风暴使者技能组"): (
-        primary: "common.abilities.sword.triplestrikegreat",
+        primary: "common.abilities.sword.风暴使者普攻",
         secondary: "common.abilities.sword.dash",
         abilities: [
-            (Some(Sword(UnlockSpin)), "common.abilities.sword.spinwind"),
+            (Some(Sword(UnlockSpin)), "common.abilities.sword.风暴使者旋风斩"),
         ],
     ),
     Custom("附魔的巨剑技能组"): (
-        primary: "common.abilities.sword.triplestrikeepic",
+        primary: "common.abilities.sword.附魔的的巨剑普攻",
         secondary: "common.abilities.sword.dash",
         abilities: [
             (Some(Sword(UnlockSpin)), "common.abilities.sword.spin"),
@@ -138,7 +138,7 @@
         primary: "common.abilities.sword.triplestrike",
         secondary: "common.abilities.sword.dash",
         abilities: [
-            (Some(Sword(UnlockSpin)), "common.abilities.sword.spinepic"),
+            (Some(Sword(UnlockSpin)), "common.abilities.sword.卡拉伯格旋风斩"),
         ],
     ),
     Custom("猩红光剑技能组"): (
@@ -167,15 +167,15 @@
         secondary: "common.abilities.axe.spin",
         abilities: [
             (Some(Axe(UnlockLeap)), "common.abilities.axe.leap"),
-            (Some(Axe(UnlockLeap)), "common.abilities.axe.cripplingstrike"),
+            (Some(Axe(UnlockLeap)), "common.abilities.axe.横劈"),
         ],
     ),
     Custom("孔雀石斧技能组"): (
         primary: "common.abilities.axe.doublestrike",
-        secondary: "common.abilities.axe.spin",
+        secondary: "common.abilities.axe.孔雀旋风转",
         abilities: [
-            (Some(Axe(UnlockLeap)), "common.abilities.axe.leapex"),
-            (Some(Axe(UnlockLeap)), "common.abilities.axe.cripplingstrikeex"),
+            (Some(Axe(UnlockLeap)), "common.abilities.axe.孔雀跳劈"),
+            (Some(Axe(UnlockLeap)), "common.abilities.axe.孔雀横劈"),
         ],
     ),
     Custom("无尽深渊技能组"): (
@@ -194,12 +194,28 @@
             (Some(Axe(UnlockLeap)), "common.abilities.axe.暗影之斧横劈"),
         ],
     ),
-    Custom("深蓝-遗忘-埃尔技能组"): (
-        primary: "common.abilities.axe.doublestrikegreat",
-        secondary: "common.abilities.axe.spingreat",
+    Custom("深蓝技能组"): (
+        primary: "common.abilities.axe.深蓝普攻",
+        secondary: "common.abilities.axe.深蓝旋风转",
         abilities: [
-            (Some(Axe(UnlockLeap)), "common.abilities.axe.leapgreat"),
-            (Some(Axe(UnlockLeap)), "common.abilities.axe.cripplingstrikegreat"),
+            (Some(Axe(UnlockLeap)), "common.abilities.axe.深蓝跳劈"),
+            (Some(Axe(UnlockLeap)), "common.abilities.axe.深蓝横劈"),
+        ],
+    ),
+    Custom("遗忘技能组"): (
+        primary: "common.abilities.axe.遗忘普攻",
+        secondary: "common.abilities.axe.遗忘旋风转",
+        abilities: [
+            (Some(Axe(UnlockLeap)), "common.abilities.axe.遗忘跳劈"),
+            (Some(Axe(UnlockLeap)), "common.abilities.axe.遗忘横劈"),
+        ],
+    ),
+    Custom("埃尔技能组"): (
+        primary: "common.abilities.axe.埃尔普攻",
+        secondary: "common.abilities.axe.埃尔旋风转",
+        abilities: [
+            (Some(Axe(UnlockLeap)), "common.abilities.axe.埃尔跳劈"),
+            (Some(Axe(UnlockLeap)), "common.abilities.axe.埃尔横劈"),
         ],
     ),
     Tool(Hammer): (
@@ -227,43 +243,43 @@
         ],
     ),
     Custom("熔火之心技能组"): (
-        primary: "common.abilities.hammer.firesinglestrike",
-        secondary: "common.abilities.hammer.firecharged",
+        primary: "common.abilities.hammer.熔火之心普攻",
+        secondary: "common.abilities.hammer.熔火之心蓄力",
         abilities: [
-            (Some(Hammer(UnlockLeap)), "common.abilities.hammer.fireleap"),
+            (Some(Hammer(UnlockLeap)), "common.abilities.hammer.熔火之心千斤坠"),
             (Some(Hammer(UnlockLeap)), "common.abilities.hammer.fireshockwave"),
         ],
     ),
     Custom("帕拉丁战锤技能组"): (
-        primary: "common.abilities.hammer.singlestrikeholy",
-        secondary: "common.abilities.hammer.chargedgreat",
+        primary: "common.abilities.hammer.帕拉丁普攻",
+        secondary: "common.abilities.hammer.帕拉丁蓄力",
         abilities: [
-            (Some(Hammer(UnlockLeap)), "common.abilities.hammer.leap"),
+            (Some(Hammer(UnlockLeap)), "common.abilities.hammer.帕拉丁千斤坠"),
             (Some(Hammer(UnlockLeap)), "common.abilities.hammer.帕拉丁吐息"),
         ],
     ),
     Custom("山铜锤技能组"): (
-        primary: "common.abilities.hammer.greatsinglestrike",
-        secondary: "common.abilities.hammer.greatcharged",
+        primary: "common.abilities.hammer.山铜锤普攻",
+        secondary: "common.abilities.hammer.山铜锤蓄力",
         abilities: [
-            (Some(Hammer(UnlockLeap)), "common.abilities.hammer.greatleap"),
-            (Some(Hammer(UnlockLeap)), "common.abilities.hammer.shockwave"),
+            (Some(Hammer(UnlockLeap)), "common.abilities.hammer.山铜锤千斤坠"),
+            (Some(Hammer(UnlockLeap)), "common.abilities.hammer.山铜锤地刺"),
         ],
     ),
     Custom("冰风暴技能组"): (
-        primary: "common.abilities.hammer.icesinglestrike",
-        secondary: "common.abilities.hammer.icecharged",
+        primary: "common.abilities.hammer.冰风暴普攻",
+        secondary: "common.abilities.hammer.冰风暴蓄力",
         abilities: [
-            (Some(Hammer(UnlockLeap)), "common.abilities.hammer.iceleap"),
-            (Some(Hammer(UnlockLeap)), "common.abilities.hammer.iceshockwave"),
+            (Some(Hammer(UnlockLeap)), "common.abilities.hammer.冰风暴千斤坠"),
+            (Some(Hammer(UnlockLeap)), "common.abilities.hammer.冰风暴地刺"),
         ],
     ),
     Custom("冲击锤技能组"): (
-        primary: "common.abilities.hammer.singlestrike",
-        secondary: "common.abilities.hammer.charged",
+        primary: "common.abilities.hammer.冲击锤普攻",
+        secondary: "common.abilities.hammer.冲击锤蓄力",
         abilities: [
-            (Some(Hammer(UnlockLeap)), "common.abilities.hammer.darkleap"),
-            (Some(Hammer(UnlockLeap)), "common.abilities.hammer.shockwave"),
+            (Some(Hammer(UnlockLeap)), "common.abilities.hammer.冲击锤千斤坠"),
+            (Some(Hammer(UnlockLeap)), "common.abilities.hammer.冲击锤地刺"),
         ],
     ),
     Tool(Bow): (
@@ -277,26 +293,26 @@
         primary: "common.abilities.bow.流火弓蓄力",
         secondary: "common.abilities.bow.流火弓连射",
         abilities: [
-            (Some(Bow(UnlockShotgun)), "common.abilities.bow.魔法弓散射"),
+            (Some(Bow(UnlockShotgun)), "common.abilities.bow.流火弓散射"),
         ],
     ),
     Custom("魔法弓技能组"): (
-        primary: "common.abilities.bow.charged",
-        secondary: "common.abilities.bow.repeater",
+        primary: "common.abilities.bow.魔法弓蓄力",
+        secondary: "common.abilities.bow.魔法弓连射",
         abilities: [
             (Some(Bow(UnlockShotgun)), "common.abilities.bow.魔法弓散射"),
         ],
     ),
     Custom("旭日弓技能组"): (
         primary: "common.abilities.bow.旭日蓄力",
-        secondary: "common.abilities.bow.repeater",
+        secondary: "common.abilities.bow.旭日连射",
         abilities: [
             (Some(Bow(UnlockShotgun)), "common.abilities.bow.旭日散射"),
         ],
     ),
     Custom("奥能旭日技能组"): (
-        primary: "common.abilities.bow.chargedexg",
-        secondary: "common.abilities.bow.repeaterexg",
+        primary: "common.abilities.bow.奥能旭日蓄力",
+        secondary: "common.abilities.bow.奥能旭日连射",
         abilities: [
             (Some(Bow(UnlockShotgun)), "common.abilities.bow.魔法弓散射"),
             (Some(Bow(UnlockShotgun)), "common.abilities.bow.奥能旭日散射"),
@@ -359,31 +375,39 @@
     ),
     Custom("龙舌技能组"): (
         primary: "common.abilities.staff.龙舌火球",
-        secondary: "common.abilities.staff.龙舌火焰",
+        secondary: "common.abilities.staff.龙舌吐息",
         abilities: [
             (Some(Staff(UnlockShockwave)), "common.abilities.staff.龙舌火环"),
         ],
     ),
     Custom("凤凰之杖技能组"): (
         primary: "common.abilities.staff.凤凰火球",
-        secondary: "common.abilities.staff.凤凰火焰",
+        secondary: "common.abilities.staff.凤凰吐息",
         abilities: [
             (Some(Staff(UnlockShockwave)), "common.abilities.staff.凤凰火环"),
         ],
     ),
     Custom("灾厄之杖技能组"): (
         primary: "common.abilities.staff.灾厄火球",
-        secondary: "common.abilities.staff.灾厄火焰",
+        secondary: "common.abilities.staff.灾厄吐息",
         abilities: [
             (Some(Staff(UnlockShockwave)), "common.abilities.staff.龙舌火环"),
         ],
     ),
     Custom("奥拉西斯技能组"): (
-        primary: "common.abilities.staff.firebombex",
-        secondary: "common.abilities.staff.frozenflames",
+        primary: "common.abilities.staff.奥拉西斯火球",
+        secondary: "common.abilities.staff.奥拉西斯吐息",
         abilities: [
-            (Some(Staff(UnlockShockwave)), "common.abilities.staff.iceshock"),
-            (Some(Staff(UnlockShockwave)), "common.abilities.staff.wind"),
+            (Some(Staff(UnlockShockwave)), "common.abilities.staff.奥拉西斯火球"),
+            (Some(Staff(UnlockShockwave)), "common.abilities.staff.奥拉西斯龙卷风"),
+        ],
+    ),
+    Custom("理智的摧残者技能组"): (
+        primary: "common.abilities.staff.摧残者火球",
+        secondary: "common.abilities.staff.摧残者吐息",
+        abilities: [
+            (Some(Staff(UnlockShockwave)), "common.abilities.staff.摧残者火环"),
+            (Some(Sceptre(UnlockAura)), "common.abilities.staff.摧残者狂暴"),
         ],
     ),
     Tool(Sceptre): (
@@ -412,14 +436,6 @@
         secondary: "common.abilities.sceptre.healingaura",
         abilities: [
             (Some(Sceptre(UnlockAura)), "common.abilities.sceptre.灵魂权杖-提升防御"),
-        ],
-    ),
-    Custom("理智的摧残者权杖技能组"): (
-        primary: "common.abilities.staff.摧残者火球",
-        secondary: "common.abilities.staff.摧残者吐息",
-        abilities: [
-            (Some(Staff(UnlockShockwave)), "common.abilities.staff.摧残者火环"),
-            (Some(Sceptre(UnlockAura)), "common.abilities.staff.摧残者狂暴"),
         ],
     ),
     Custom("魔法权杖技能组"): (
@@ -592,7 +608,7 @@
     ),
     Custom("Minotaur"): (
         primary: "common.abilities.custom.minotaur.cleave",
-        secondary: "common.abilities.custom.minotaur.cripplingstrike",
+        secondary: "common.abilities.custom.minotaur.横劈",
         abilities: [
             (None, "common.abilities.custom.minotaur.charge"),
             (None, "common.abilities.custom.minotaur.frenzy"),
@@ -646,6 +662,11 @@
     Custom("Tornado"): (
         primary: "common.abilities.custom.tornado.spin",
         secondary: "common.abilities.empty.basic",
+        abilities: [],
+    ),
+    Custom("Golf Club"): (
+        primary: "common.abilities.hammer.singlestrike",
+        secondary: "common.abilities.tool.golf_club.charged",
         abilities: [],
     ),
     Tool(Debug): (

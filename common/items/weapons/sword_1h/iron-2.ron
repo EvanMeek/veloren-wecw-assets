@@ -16,6 +16,6 @@ ItemDef(
         )),
     )),
     quality: Common,
-	tags: [CommonSell],
+	tags: [],
     ability_spec: None,
 )

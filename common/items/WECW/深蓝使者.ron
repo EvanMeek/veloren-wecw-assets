@@ -17,5 +17,5 @@ ItemDef(
     )),
     quality: Epic,
     tags: [SalvageInto(EpicSell),],
-    ability_spec: Some(Custom("深蓝-遗忘-埃尔技能组")),
+    ability_spec: Some(Custom("深蓝技能组")),
 )

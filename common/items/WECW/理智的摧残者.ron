@@ -17,5 +17,5 @@ ItemDef(
     )),
     quality: Legendary,
     tags: [SalvageInto(LegendarySell),],
-    ability_spec: Some(Custom("理智的摧残者权杖技能组")),
+    ability_spec: Some(Custom("理智的摧残者技能组")),
 )
