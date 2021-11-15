@@ -363,7 +363,7 @@
         primary: "common.abilities.staff.firebomb",
         secondary: "common.abilities.staff.flamethrower",
         abilities: [
-            (Some(Staff(UnlockShockwave)), "common.abilities.staff.fireshockwave"),
+            (Some(Staff(UnlockShockwave)), "common.abilities.staff.熔火之心地刺"),
         ],
     ),
     Custom("燥热杖技能组"): (
