@@ -375,31 +375,39 @@
     ),
     Custom("龙舌技能组"): (
         primary: "common.abilities.staff.龙舌火球",
-        secondary: "common.abilities.staff.龙舌火焰",
+        secondary: "common.abilities.staff.龙舌吐息",
         abilities: [
             (Some(Staff(UnlockShockwave)), "common.abilities.staff.龙舌火环"),
         ],
     ),
     Custom("凤凰之杖技能组"): (
         primary: "common.abilities.staff.凤凰火球",
-        secondary: "common.abilities.staff.凤凰火焰",
+        secondary: "common.abilities.staff.凤凰吐息",
         abilities: [
             (Some(Staff(UnlockShockwave)), "common.abilities.staff.凤凰火环"),
         ],
     ),
     Custom("灾厄之杖技能组"): (
         primary: "common.abilities.staff.灾厄火球",
-        secondary: "common.abilities.staff.灾厄火焰",
+        secondary: "common.abilities.staff.灾厄吐息",
         abilities: [
             (Some(Staff(UnlockShockwave)), "common.abilities.staff.龙舌火环"),
         ],
     ),
     Custom("奥拉西斯技能组"): (
-        primary: "common.abilities.staff.firebombex",
-        secondary: "common.abilities.staff.frozenflames",
+        primary: "common.abilities.staff.奥拉西斯火球",
+        secondary: "common.abilities.staff.奥拉西斯吐息",
         abilities: [
-            (Some(Staff(UnlockShockwave)), "common.abilities.staff.iceshock"),
-            (Some(Staff(UnlockShockwave)), "common.abilities.staff.wind"),
+            (Some(Staff(UnlockShockwave)), "common.abilities.staff.奥拉西斯火球"),
+            (Some(Staff(UnlockShockwave)), "common.abilities.staff.奥拉西斯龙卷风"),
+        ],
+    ),
+    Custom("理智的摧残者技能组"): (
+        primary: "common.abilities.staff.摧残者火球",
+        secondary: "common.abilities.staff.摧残者吐息",
+        abilities: [
+            (Some(Staff(UnlockShockwave)), "common.abilities.staff.摧残者火环"),
+            (Some(Sceptre(UnlockAura)), "common.abilities.staff.摧残者狂暴"),
         ],
     ),
     Tool(Sceptre): (
@@ -428,14 +436,6 @@
         secondary: "common.abilities.sceptre.healingaura",
         abilities: [
             (Some(Sceptre(UnlockAura)), "common.abilities.sceptre.灵魂权杖-提升防御"),
-        ],
-    ),
-    Custom("理智的摧残者权杖技能组"): (
-        primary: "common.abilities.staff.摧残者火球",
-        secondary: "common.abilities.staff.摧残者吐息",
-        abilities: [
-            (Some(Staff(UnlockShockwave)), "common.abilities.staff.摧残者火环"),
-            (Some(Sceptre(UnlockAura)), "common.abilities.staff.摧残者狂暴"),
         ],
     ),
     Custom("魔法权杖技能组"): (
