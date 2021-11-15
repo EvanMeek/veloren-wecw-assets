@@ -1,0 +1,17 @@
+ItemDef(
+    name: "神职 | 臂铠",
+    description: "",
+    kind: Armor((
+        kind: Hand("神职"),
+        stats: (
+            protection: Normal(50.0),
+            poise_resilience: Normal(50.0),
+            energy_max: 10.0,
+            energy_reward: 0.5,
+            crit_power: 0.2,
+            stealth: 25.0,
+        ),
+    )),
+    quality: Epic,
+    tags: [],
+)

@@ -1,0 +1,17 @@
+ItemDef(
+    name: "神职 | 腰带",
+    description: "",
+    kind: Armor((
+        kind: Belt("神职"),
+        stats: (
+            protection: Normal(15.0),
+            poise_resilience: Normal(0.0),
+            energy_max: 25.0,
+            energy_reward: 0.2,
+            crit_power: 0.0,
+            stealth: 0.0,
+        ),
+    )),
+    quality: Epic,
+    tags: [],
+)
