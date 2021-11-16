@@ -23,7 +23,6 @@ loot_tables: [
 
     // Food Ingredients
     (1.0, true, "common.trading.food"),
-    (1.0, true, "common.items.crafting_ing.cloth.wool"),
 
     // Potions
     //
