@@ -8,6 +8,7 @@
 [
     // Meats
     (0.125, Item("common.items.food.meat.bird_large_raw")),
+    (2.0, Item("common.items.crafting_ing.cloth.wool")),
     (0.5, Item("common.items.food.meat.beast_large_raw")),
     (2.0, Item("common.items.food.meat.bird_raw")),
     (2.0, Item("common.items.food.meat.fish_raw")),
@@ -21,5 +22,4 @@
     (2.0, Item("common.items.food.lettuce")),
     (2.0, Item("common.items.food.tomato")),
     (2.0, Item("common.items.food.mushroom")),
-    (0.125, Item("common.items.crafting_ing.cloth.wool")),
 ]
