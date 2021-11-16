@@ -4,12 +4,12 @@ ItemDef(
     kind: Armor((
         kind: Chest("神职"),
         stats: (
-            protection: Normal(40.0),
-            poise_resilience: Normal(40.0),
-            energy_max: 10.0,
-            energy_reward: 0.5,
-            crit_power: 0.2,
-            stealth: 25.0,
+            protection: Normal(90.0),
+            poise_resilience: Normal(20.0),
+            energy_max: -7.0,
+            energy_reward: 0.0,
+            crit_power: -0.1,
+            stealth: -5.0,
         ),
     )),
     quality: Epic,
