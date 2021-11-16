@@ -21,4 +21,5 @@
     (2.0, Item("common.items.food.lettuce")),
     (2.0, Item("common.items.food.tomato")),
     (2.0, Item("common.items.food.mushroom")),
+    (0.125, Item("common.items.crafting_ing.cloth.wool")),
 ]
