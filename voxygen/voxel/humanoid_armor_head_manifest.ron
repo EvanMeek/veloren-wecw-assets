@@ -4,6 +4,55 @@
         color: None
     ),
         map: {
+        // 蝙蝠面具
+        (Human, Male, "蝙蝠面具"): (
+            vox_spec: ("armor.warlordG.蝙蝠面具", (1.0, 1.0, -1.0)),
+            color: None
+        ),
+        (Human, Female, "蝙蝠面具"): (
+            vox_spec: ("armor.warlordG.蝙蝠面具", (1.0, 2.0, -1.0)),
+            color: None
+        ),
+        (Elf, Male, "蝙蝠面具"): (
+            vox_spec: ("armor.warlordG.蝙蝠面具", (2.0, 1.0, -1.0)),
+            color: None
+        ),
+        (Elf, Female, "蝙蝠面具"): (
+            vox_spec: ("armor.warlordG.蝙蝠面具", (2.0, 1.0, -1.0)),
+            color: None
+        ),
+        (Dwarf, Male, "蝙蝠面具"): (
+            vox_spec: ("armor.warlordG.蝙蝠面具", (0.0, 2.0, -2.0)),
+            color: None
+        ),
+        (Dwarf, Female, "蝙蝠面具"): (
+            vox_spec: ("armor.warlordG.蝙蝠面具", (0.0, 2.0, -2.0)),
+            color: None
+        ),
+        (Danari, Male, "蝙蝠面具"): (
+            vox_spec: ("armor.warlordG.蝙蝠面具", (3.0, 1.0, 1.0)),
+            color: None
+        ),
+        (Danari, Female, "蝙蝠面具"): (
+            vox_spec: ("armor.warlordG.蝙蝠面具", (3.0, 1.0, 1.0)),
+            color: None
+        ),
+        (Undead, Male, "蝙蝠面具"): (
+            vox_spec: ("armor.warlordG.蝙蝠面具", (-1.0, 0.0, -1.0)),
+            color: None
+        ),
+        (Undead, Female, "蝙蝠面具"): (
+            vox_spec: ("armor.warlordG.蝙蝠面具", (-1.0, 0.0, -1.0)),
+            color: None
+        ),
+        (Orc, Male, "蝙蝠面具"): (
+            vox_spec: ("armor.warlordG.蝙蝠面具", (-0.0, -1.0, 0.0)),
+            color: None
+        ),
+        (Orc, Female, "蝙蝠面具"): (
+            vox_spec: ("armor.warlordG.蝙蝠面具", (-0.0, -3.0, -2.0)),
+            color: None
+        ),
         // 独角仙
         (Human, Male, "独角仙"): (
             vox_spec: ("armor.warlordG.独角仙", (-1.0, -3.0, -2.0)),
@@ -211,7 +260,7 @@
             color: None
         ),
         (Elf, Male, "幻惑之首"): (
-            vox_spec: ("armor.warlordG.幻惑之首", (-3.0, -4.0, -2.0)),
+            vox_spec: ("armor.warlordG.幻惑之首", (-2.0, -4.0, -2.0)),
             color: None
         ),
         (Elf, Female, "幻惑之首"): (
