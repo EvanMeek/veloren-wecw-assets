@@ -11,7 +11,7 @@ BasicMelee(
     damage_effect: Some(Buff((
         kind: Crippled,
         dur_secs: 25.0,
-        strength: Value(0.5),
+        strength: Value(0.05),
         chance: 1.0,
     ))),
     damage_kind: Slashing,

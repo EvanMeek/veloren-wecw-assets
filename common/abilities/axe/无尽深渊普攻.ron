@@ -18,8 +18,8 @@ ComboMelee(
             damage_effect: Some(Buff((
                 kind: Crippled,
                 dur_secs: 10.0,
-                strength: DamageFraction(0.1),
-                chance: 0.75,
+                strength: DamageFraction(0.4),
+                chance: 1.0,
             ))),
         ),
         (
@@ -40,8 +40,8 @@ ComboMelee(
             damage_effect: Some(Buff((
                 kind: Crippled,
                 dur_secs: 10.0,
-                strength: DamageFraction(0.1),
-                chance: 0.75,
+                strength: Value(0.1),
+                chance: 1.0,
             ))),
         ),
     ],

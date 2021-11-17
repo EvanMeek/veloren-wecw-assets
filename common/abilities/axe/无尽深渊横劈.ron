@@ -11,8 +11,8 @@ BasicMelee(
     damage_effect: Some(Buff((
         kind: Bleeding,
         dur_secs: 30.0,
-        strength: DamageFraction(0.1),
-        chance: 1,
+        strength: DamageFraction(0.5),
+        chance: 1.0,
     ))),
     damage_kind: Slashing,
 )

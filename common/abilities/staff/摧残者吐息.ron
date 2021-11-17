@@ -8,9 +8,9 @@ BasicBeam(
     max_angle: 35.0,
     damage_effect: Some(Buff((
         kind: Burning,
-        dur_secs: 20.0,
-        strength: Value(1.3),
-        chance: 0.35,
+        dur_secs: 10.0,
+        strength: Value(0.2),
+        chance: 1.0,
     ))),
     energy_regen: 0,
     energy_drain: 100.0,
