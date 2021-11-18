@@ -2,10 +2,6 @@
 //  Vox(specier),
 //  VoxTrans(specifier, offset, (x_rot, y_rot, z_rot), zoom)
 ({
-        Armor(Head("蝙蝠面具")): VoxTrans(
-            "voxel.armor.warlordG.蝙蝠面具",
-            (0.0, 0.0, 0.0), (-70.0, 0.0,0.0), 1.0,
-        ),
         Armor(Foot("神职")): VoxTrans(
             "voxel.armor.warlordG.神职鞋子",
             (0.0, 0.0, 0.0), (-90.0, 180.0, 0.0), 1.2,
@@ -34,15 +30,6 @@
             "voxel.armor.warlordG.神职背包",
             (0.0, 0.0, 0.0), (-90.0, 180.0, 0.0), 1.2,
         ),
-        Armor(Head("独角仙")): VoxTrans(
-            "voxel.armor.warlordG.独角仙",
-            (0.0, 0.0, 0.0), (-70.0, 0.0,0.0), 1.0,
-        ),          
-    
-        Armor(Head("燕冠")): VoxTrans(
-            "voxel.armor.warlordG.燕冠",
-            (0.0, 0.0, 0.0), (-70.0, 0.0,0.0), 1.0,
-        ),           
         Armor(Foot("狱边")): VoxTrans(
             "voxel.armor.warlordG.狱边鞋子",
             (0.0, 0.0, 0.0), (-90.0, 180.0, 0.0), 1.2,
@@ -156,6 +143,19 @@
             "voxel.armor.warlordG.黑钢重刃",
             (0.0, 0.0, -4.0), (-135.0, 90.0, 0.0), 1.1,
         ),
+        Armor(Head("蝙蝠面具")): VoxTrans(
+            "voxel.armor.warlordG.蝙蝠面具",
+            (0.0, 0.0, 0.0), (-70.0, 0.0,0.0), 1.0,
+        ),
+        Armor(Head("独角仙")): VoxTrans(
+            "voxel.armor.warlordG.独角仙",
+            (0.0, 0.0, 0.0), (-70.0, 0.0,0.0), 1.0,
+        ),
+
+        Armor(Head("燕冠")): VoxTrans(
+            "voxel.armor.warlordG.燕冠",
+            (0.0, 0.0, 0.0), (-70.0, 0.0,0.0), 1.0,
+        ),
         Armor(Head("骨盔")): VoxTrans(
             "voxel.armor.warlordG.骨盔",
             (0.0, 0.0, 0.0), (90.0, 0.0,180.0), 1.0,
@@ -178,7 +178,7 @@
         ),
         Armor(Head("幻惑之首")): VoxTrans(
             "voxel.armor.warlordG.幻惑之首",
-            (0.0, 4.0, 0.0), (-120.0, 210.0,15.0), 1.3,
+            (0.0, 0.0, 0.0), (-0.0, 0.0, 0.0), 1.5,
         ),
 // Weapons
         // Diary Example Images
