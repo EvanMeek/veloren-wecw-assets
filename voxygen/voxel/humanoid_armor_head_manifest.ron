@@ -154,11 +154,11 @@
         ),
         // 骨盔
         (Human, Male, "骨盔"): (
-            vox_spec: ("armor.warlordG.骨盔", (-1.0, -2.5, -2.0)),
+            vox_spec: ("armor.warlordG.骨盔", (-1.0, -2.5, -1.0)),
             color: None
         ),
         (Human, Female, "骨盔"): (
-            vox_spec: ("armor.warlordG.骨盔", (-1.0, -2.5, -2.0)),
+            vox_spec: ("armor.warlordG.骨盔", (-1.0, -2.5, -1.0)),
             color: None
         ),
         (Elf, Female, "骨盔"): (
