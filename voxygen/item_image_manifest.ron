@@ -135,6 +135,10 @@
             "voxel.armor.warlordG.猩红光剑",
             (0.0, 0.0, -4.0), (-135.0, 90.0, 0.0), 1.1,
         ),
+        Tool("common.items.WECW.哀谷觉醒"): VoxTrans(
+            "voxel.armor.warlordG.哀谷觉醒",
+            (0.0, 0.0, -4.0), (-135.0, 90.0, 0.0), 1.1,
+        ),
         Tool("common.items.WECW.哀谷"): VoxTrans(
             "voxel.armor.warlordG.哀谷",
             (0.0, 0.0, -4.0), (-135.0, 90.0, 0.0), 1.1,
