@@ -21,10 +21,10 @@
     (0.2, Item("common.items.glider.glider_purp")),
     // 紫灯
     (0.2, Item("common.items.boss_drops.lantern")),
+    // 破布
+    (0.2, Item("common.items.crafting_ing.mindflayer_bag_damaged")),
     // 无敌药水
     (0.3, ItemQuantity("common.items.boss_drops.无敌药水",1,5)),
-    // 破布
-    (0.3, Item("common.items.crafting_ing.mindflayer_bag_damaged")),
     // 白金币
     (1.0, ItemQuantity("common.items.WECW.白金币", 75, 120)),
 ]
