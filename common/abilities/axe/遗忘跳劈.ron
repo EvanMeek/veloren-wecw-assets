@@ -15,7 +15,7 @@ LeapMelee(
     damage_effect: Some(Buff((
         kind: Crippled,
         dur_secs: 15.0,
-        strength: Value(0.4),
+        strength: Value(0.1),
         chance: 0.75,
     ))),
 )
