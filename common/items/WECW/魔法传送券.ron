@@ -1,0 +1,9 @@
+ItemDef(
+    name: "魔法传送券",
+    description: "用于玩家之间交易的货币，在合成表里兑换，暗金/白金/金进制是1000.",
+    kind: Ingredient(
+        kind: "魔法传送券",
+    ),
+    quality: Epic,
+    tags: [],
+)
