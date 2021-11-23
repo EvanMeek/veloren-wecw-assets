@@ -294,9 +294,9 @@
             "voxel.armor.warlordG.蓝金币",
             (0.0, 0.0, 0.0), (-10.0, 15.0, 0.0), 0.8,
         ),
-        Ingredient("魔法传送券"): VoxTrans(
-            "voxel.armor.warlordG.传送券轴",
-            (0.0, 0.0, 0.0), (-10.0, 15.0, 0.0), 0.8,
+        Ingredient("魔法传送信标"): VoxTrans(
+            "voxel.armor.warlordG.传送信标",
+            (0.0, 0.0, 0.0), (-90.0, 0.0, 0.0), 0.9,
         ),
         Ingredient("Coins2"): VoxTrans(
             "voxel.armor.warlordG.白金币",
