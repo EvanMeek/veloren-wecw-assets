@@ -4,6 +4,55 @@
         color: None
     ),
         map: {
+        //判官头
+        (Human, Male, "判官头"): (
+            vox_spec: ("armor.warlordG.判官头", (-4.5, -6.5, 0.0)),
+            color: None
+        ),
+        (Human, Female, "判官头"): (
+            vox_spec: ("armor.warlordG.判官头", (-4.5, -6.5, 0.0)),
+            color: None
+        ),
+        (Elf, Male, "判官头"): (
+            vox_spec: ("armor.warlordG.判官头", (-3.5, -6.5, 0.0)),
+            color: None
+        ),
+        (Elf, Female, "判官头"): (
+            vox_spec: ("armor.warlordG.判官头", (-3.5, -6.5, 0.0)),
+            color: None
+        ),
+        (Dwarf, Male, "判官头"): (
+            vox_spec: ("armor.warlordG.判官头", (-6.0, -5.0, 0.0)),
+            color: None
+        ),
+        (Dwarf, Female, "判官头"): (
+            vox_spec: ("armor.warlordG.判官头", (-6.0, -5.0, 0.0)),
+            color: None
+        ),
+        (Danari, Male, "判官头"): (
+            vox_spec: ("armor.warlordG.判官头", (-2.0, -5.0, 2.0)),
+            color: None
+        ),
+        (Danari, Female, "判官头"): (
+            vox_spec: ("armor.warlordG.判官头", (-2.0, -5.0, 2.0)),
+            color: None
+        ),
+        (Undead, Male, "判官头"): (
+            vox_spec: ("armor.warlordG.判官头", (-6.0, -5.0, 0.0)),
+            color: None
+        ),
+        (Undead, Female, "判官头"): (
+            vox_spec: ("armor.warlordG.判官头", (-6.0, -5.0, 0.0)),
+            color: None
+        ),
+        (Orc, Male, "判官头"): (
+            vox_spec: ("armor.warlordG.判官头", (-3.0, -4.0, 1.0)),
+            color: None
+        ),
+        (Orc, Female, "判官头"): (
+            vox_spec: ("armor.warlordG.判官头", (-3.0, -6.0, -1.0)),
+            color: None
+        ),
         // 蝙蝠面具
         (Human, Male, "蝙蝠面具"): (
             vox_spec: ("armor.warlordG.蝙蝠面具", (1.0, 1.0, -1.0)),
