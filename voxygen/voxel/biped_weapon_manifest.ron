@@ -122,7 +122,7 @@
         color: None
     ),
     "common.items.WECW.风暴大剑": (
-        vox_spec: ("armor.warlordG.风暴大剑", (-3.5, -4.5, -4.0)),
+        vox_spec: ("armor.warlordG.风暴大剑", (-3.5, -5.5, -7.0)),
         color: None
     ),
     "common.items.WECW.遗忘战斧": (
