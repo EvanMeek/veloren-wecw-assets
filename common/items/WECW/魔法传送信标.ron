@@ -1,0 +1,9 @@
+ItemDef(
+    name: "魔法传送信标",
+    description: "每传送一次消耗一座信标。使用方法/tpsite <城镇名> ，注意大小写！",
+    kind: Ingredient(
+        kind: "魔法传送信标",
+    ),
+    quality: Epic,
+    tags: [],
+)
