@@ -330,6 +330,16 @@
         is_recycling: false,
     ),
     // ===================================出售===================================
+    "魔法传送信标": (
+        output: ("common.items.WECW.魔法传送信标", 1),
+        inputs: [
+            (Item("common.items.boss_drops.精品能量药水"), 15),
+            (Item("common.items.WECW.白金币"), 30),
+            (Item("common.items.mineral.gem.emerald"), 30),
+        ],
+        craft_sprite: None,
+        is_recycling: true,
+    ),
     "金符文": (
         output: ("common.items.WECW.金符文", 1),
         inputs: [
