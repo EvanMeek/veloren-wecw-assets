@@ -2,6 +2,17 @@
 
 
     // ===================================项链===================================
+    "判官头": (
+        output: ("common.items.WECW.套装.头饰.判官头", 1),
+        inputs: [
+            (Item("common.items.WECW.sell.传说分解包"), 1),
+            (Item("common.items.WECW.sell.史诗分解包"), 5),
+            (Item("common.items.WECW.sell.高级分解包"), 50),
+            (Item("common.items.WECW.sell.常见分解包"), 100),
+        ],
+        craft_sprite: Some(CraftingBench),
+        is_recycling: false,
+    ),
     "骨盔": (
         output: ("common.items.WECW.套装.头饰.骨盔", 1),
         inputs: [

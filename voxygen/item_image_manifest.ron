@@ -176,6 +176,10 @@
             "voxel.armor.warlordG.红角盔",
             (0.0, 4.0, 0.0), (-120.0, 210.0,15.0), 1.1,
         ),
+        Armor(Head("判官头")): VoxTrans(
+            "voxel.armor.warlordG.判官头",
+            (0.0, 4.0, 0.0), (-120.0, 210.0,15.0), 1.1,
+        ),
         Armor(Head("战国红角盔")): VoxTrans(
             "voxel.armor.warlordG.战国红角盔",
             (0.0, 4.0, 0.0), (-120.0, 210.0,15.0), 1.3,

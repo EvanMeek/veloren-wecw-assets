@@ -1,7 +1,7 @@
 #+TITLE: TODO List
 
-* TODO 新增头盔 [8/9]
-*** TODO 判官盔
+* DONE 新增头盔 [9/9]
+*** DONE 判官盔
 *** DONE 红角盔
 *** DONE 战国盔
 *** DONE 骨盔
