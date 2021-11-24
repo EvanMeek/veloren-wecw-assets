@@ -174,7 +174,7 @@
         color: None
     ),
     "common.items.WECW.萨顿的末日战刃": (
-        vox_spec: ("armor.warlordG.萨顿改", (-1.5, -12.5, -8.5)),
+        vox_spec: ("armor.warlordG.萨顿的末日战刃", (-1.5, -12.5, -8.5)),
         color: None
     ),
     "common.items.WECW.放逐之刃": (
