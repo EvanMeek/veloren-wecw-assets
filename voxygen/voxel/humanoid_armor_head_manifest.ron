@@ -6,7 +6,7 @@
         map: {
         //判官头
         (Human, Male, "判官头"): (
-            vox_spec: ("armor.warlordG.判官头", (-4.5, -6.5, 0.0)),
+            vox_spec: ("armor.warlordG.判官头", (-3.5, -6.5, 0.0)),
             color: None
         ),
         (Human, Female, "判官头"): (

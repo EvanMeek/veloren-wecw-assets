@@ -2065,6 +2065,24 @@
         craft_sprite: Some(Cauldron),
         is_recycling: false,
     ),
+    "精品能量药水": (
+        output: ("common.items.boss_drops.精品能量药水", 1),
+        inputs: [
+            (Item("common.items.boss_drops.能量药水"), 5),
+            (Item("common.items.mineral.ore.veloritefrag"), 20),
+        ],
+        craft_sprite: Some(Cauldron),
+        is_recycling: false,
+    ),
+    "精品生命之息": (
+        output: ("common.items.boss_drops.精品生命之息", 1),
+        inputs: [
+            (Item("common.items.boss_drops.生命之息"), 5),
+            (Item("common.items.mineral.ore.veloritefrag"), 20),
+        ],
+        craft_sprite: Some(Cauldron),
+        is_recycling: false,
+    ),
     // "potion_exg": (
     //     output: ("common.items.boss_drops.无敌药水", 1),
     //     inputs: [
