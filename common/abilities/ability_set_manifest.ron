@@ -326,6 +326,39 @@
             (Some(Bow(UnlockShotgun)), "common.abilities.bow.奥能旭日散射"),
         ],
     ),
+    // 盾牌技能配置
+    Custom("魔法盾牌技能组"): (
+        primary: "common.abilities.shield.盾牌攻击",
+        secondary: "common.abilities.shield.大盾牌格挡",
+        abilities: [
+            (None, "common.abilities.shield.盾牌冲锋"),
+            (None, "common.abilities.shield.魔法盾牌冲击波"),
+        ],
+    ),
+    Custom("裁决盾技能组"): (
+        primary: "common.abilities.shield.盾牌攻击",
+        secondary: "common.abilities.shield.大盾牌格挡",
+        abilities: [
+            (None, "common.abilities.shield.裁决盾冲锋"),
+            (None, "common.abilities.shield.盾牌血量强化"),
+        ],
+    ),
+    Custom("夺械盾技能组"): (
+        primary: "common.abilities.shield.盾牌攻击",
+        secondary: "common.abilities.shield.中盾牌格挡",
+        abilities: [
+            (None, "common.abilities.shield.盾牌冲锋"),
+            (None, "common.abilities.shield.夺械盾血量强化"),
+        ],
+    ),
+    Custom("橡木盾技能组"): (
+        primary: "common.abilities.shield.盾牌攻击",
+        secondary: "common.abilities.shield.中盾牌格挡",
+        abilities: [
+            (None, "common.abilities.shield.盾牌冲锋"),
+        ],
+    ),
+
     Custom("Husk"): (
         primary: "common.abilities.custom.husk.singlestrike",
         secondary: "common.abilities.custom.husk.triplestrike",
