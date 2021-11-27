@@ -2787,6 +2787,10 @@
             (0.0, 0.0, 0.0), (-120.0, 210.0,15.0), 0.9,
         ),
         //Hats
+        Armor(Head("HogHood")): VoxTrans(
+            "voxel.armor.misc.head.hog_hood",
+            (0.0, 2.0, -0.0), (-110.0, 210.0,15.0), 1.4,
+        ),
         Armor(Head("Witch")): VoxTrans(
             "voxel.armor.witch.hat",
             (0.0, 0.0, 0.0), (-120.0, 210.0,15.0), 0.9,

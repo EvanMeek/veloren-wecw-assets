@@ -1256,5 +1256,53 @@
             color: None
         ),
 
+        (Human, Male, "HogHood"): (
+            vox_spec: ("armor.misc.head.hog_hood", (-4.0, -5, -8.0)),
+            color: None
+        ),
+        (Human, Female, "HogHood"): (
+            vox_spec: ("armor.misc.head.hog_hood", (-4.0, -4, -8.0)),
+            color: None
+        ),
+        (Elf, Male, "HogHood"): (
+            vox_spec: ("armor.misc.head.hog_hood", (-3.0, -5.0, -8.0)),
+            color: None
+        ),
+        (Elf, Female, "HogHood"): (
+            vox_spec: ("armor.misc.head.hog_hood", (-3.0, -5.0, -8.0)),
+            color: None
+        ),
+        (Dwarf, Male, "HogHood"): (
+            vox_spec: ("armor.misc.head.hog_hood", (-5.0, -4.0, -8)),
+            color: None
+        ),
+        (Dwarf, Female, "HogHood"): (
+            vox_spec: ("armor.misc.head.hog_hood", (-5.0, -4.0, -8.0)),
+            color: None
+        ),
+        (Danari, Male, "HogHood"): (
+            vox_spec: ("armor.misc.head.hog_hood", (-2.0, -5, -6)),
+            color: None
+        ),
+        (Danari, Female, "HogHood"): (
+            vox_spec: ("armor.misc.head.hog_hood", (-2.0, -5, -6)),
+            color: None
+        ),
+        (Undead, Male, "HogHood"): (
+            vox_spec: ("armor.misc.head.hog_hood", (-6.0, -5.0, -7.0)),
+            color: None
+        ),
+        (Undead, Female, "HogHood"): (
+            vox_spec: ("armor.misc.head.hog_hood", (-6.0, -5.0, -8.0)),
+            color: None
+        ),
+        (Orc, Male, "HogHood"): (
+            vox_spec: ("armor.misc.head.hog_hood", (-3.0, -4.0, -6.0)),
+            color: None
+        ),
+        (Orc, Female, "HogHood"): (
+            vox_spec: ("armor.misc.head.hog_hood", (-3.0, -6.0, -8.0)),
+            color: None
+        ),
     }
 ))

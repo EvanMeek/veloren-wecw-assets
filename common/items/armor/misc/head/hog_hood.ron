@@ -1,17 +1,17 @@
 ItemDef(
-    name: "Wild Hog Hood",
-    description: "Wear the guise of the great swine you felled, so you may honor his sacrifice.",
+    name: "野猪兜帽",
+    description: "穿上你杀死的大猪的饰品，这样才算尊重它的牺牲。",
     kind: Armor((
         kind: Head("HogHood"),
         stats: (
-            protection: Normal(6.5),
-            poise_resilience: Normal(1.0),
+            protection: Normal(0.0),
+            poise_resilience: Normal(0.0),
             energy_max: 0.0,
             energy_reward: 0.0,
-            crit_power: 0.0355,
-            stealth: 0.0335,
+            crit_power: 0.0,
+            stealth: 0.0,
         ),
     )),
-    quality: Common,
+    quality: Legendary,
     tags: [],
 )
