@@ -1,10 +1,11 @@
 ({
-        Armor(Shoulders): Item("common.items.armor.twigsflowers.shoulder"),
-        Armor(Chest): Item("common.items.armor.twigsflowers.chest"),
-        Armor(Hands): Item("common.items.armor.twigsflowers.hand"),
-        Armor(Legs): Item("common.items.armor.twigsflowers.pants"),
-        Armor(Feet): Item("common.items.armor.twigsflowers.foot"),
-        Armor(Belt): Item("common.items.armor.twigsflowers.belt"),
+        Armor(Head): Item("common.items.armor.merchant.turban"),
+        Armor(Shoulders): Item("common.items.armor.merchant.shoulder"),
+        Armor(Chest): Item("common.items.armor.merchant.chest"),
+        Armor(Hands): Item("common.items.armor.merchant.hand"),
+        Armor(Legs): Item("common.items.armor.merchant.pants"),
+        Armor(Feet): Item("common.items.armor.merchant.foot"),
+        Armor(Belt): Item("common.items.armor.merchant.belt"),
         Armor(Back): Item("common.items.npc_armor.back.backpack_blue"),
 
         Lantern: Item("common.items.lantern.black_0"),
