@@ -1673,6 +1673,18 @@
             "voxel.weapon.shield.wood-0",
             (0.0, 0.0, 0.0), (-90.0, 90.0, 0.0), 2.4,
         ),
+        Tool("common.items.WECW.盾牌.科幻盾"): VoxTrans(
+            "voxel.armor.warlordG.科幻盾",
+            (0.0, 0.0, 0.0), (-90.0, 90.0, 0.0), 1.0,
+        ),
+        Tool("common.items.WECW.盾牌.夺械盾"): VoxTrans(
+            "voxel.armor.warlordG.夺械盾",
+            (0.0, 0.0, 0.0), (-90.0, 90.0, 0.0), 1.0,
+        ),
+        Tool("common.items.WECW.盾牌.判官盾"): VoxTrans(
+            "voxel.armor.warlordG.判官盾",
+            (0.0, 0.0, 0.0), (-90.0, 90.0, 0.0), 1.0,
+        ),
         // Lanterns
         Lantern("Black0"): Png(
             "element.items.lantern_black-0",
