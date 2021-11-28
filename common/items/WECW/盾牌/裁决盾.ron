@@ -1,5 +1,5 @@
 ItemDef(
-    name: "判官盾",
+    name: "裁决盾",
     description: "Demo",
     kind: Tool((
         kind: Shield,

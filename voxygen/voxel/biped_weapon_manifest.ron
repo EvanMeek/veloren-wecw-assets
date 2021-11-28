@@ -917,8 +917,8 @@
         vox_spec: ("armor.warlordG.夺械盾", (-4.0, -7.5, -7.0)),
         color: None
     ),
-    "common.items.WECW.盾牌.判官盾": (
-        vox_spec: ("armor.warlordG.判官盾", (-5.0, -8.5, -12.0)),
+    "common.items.WECW.盾牌.裁决盾": (
+        vox_spec: ("armor.warlordG.裁决盾", (-5.0, -8.5, -12.0)),
         color: None
     ),
     // Bows
