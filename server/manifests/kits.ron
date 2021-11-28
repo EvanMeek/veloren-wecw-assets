@@ -550,8 +550,9 @@
             ("common.items.WECW.哀谷",1),
         ],
         "盾牌":[
-            ("common.items.WECW.盾牌.科幻盾",1),
+            ("common.items.WECW.盾牌.魔法盾",1),
             ("common.items.WECW.盾牌.夺械盾",1),
             ("common.items.WECW.盾牌.裁决盾",1),
+            ("common.items.WECW.盾牌.橡木盾",1),
         ],
 })
