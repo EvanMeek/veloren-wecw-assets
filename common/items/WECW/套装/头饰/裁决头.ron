@@ -1,8 +1,8 @@
 ItemDef(
-    name: "判官头",
+    name: "裁决头",
     description: "纪念物品——活动奖励",
     kind: Armor((
-        kind: Head("判官头"),
+        kind: Head("裁决头"),
         stats: (
             protection: Normal(0.0),
             poise_resilience: Normal(0.0),

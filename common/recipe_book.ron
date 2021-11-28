@@ -13,8 +13,8 @@
         craft_sprite: Some(CraftingBench),
         is_recycling: false,
     ),
-    "判官头": (
-        output: ("common.items.WECW.套装.头饰.判官头", 1),
+    "裁决头": (
+        output: ("common.items.WECW.套装.头饰.裁决头", 1),
         inputs: [
             (Item("common.items.WECW.sell.传说分解包"), 1),
             (Item("common.items.WECW.sell.史诗分解包"), 5),

@@ -176,8 +176,8 @@
             "voxel.armor.warlordG.红角盔",
             (0.0, 4.0, 0.0), (-120.0, 210.0,15.0), 1.1,
         ),
-        Armor(Head("判官头")): VoxTrans(
-            "voxel.armor.warlordG.判官头",
+        Armor(Head("裁决头")): VoxTrans(
+            "voxel.armor.warlordG.裁决头",
             (0.0, 4.0, 0.0), (-120.0, 210.0,15.0), 1.1,
         ),
         Armor(Head("战国红角盔")): VoxTrans(
@@ -639,6 +639,14 @@
             "voxel.armor.warlordG.暗金切割者",
             (1.0, -1.0, 0.0), (-135.0, 90.0, 0.0), 1.1,
         ),
+
+        // 盾牌图标
+        Tool("example_shield"): VoxTrans(
+            "voxel.weapon.shield.wood-0",
+            (0.0, 0.0, 0.0), (90.0, 90.0, 0.0), 1.0,
+        ),
+
+
         // Crafting Stations
         Tool("Anvil"): VoxTrans(
             "voxel.sprite.anvil.anvil-0",
@@ -712,10 +720,6 @@
         ),
         Tool("example_dagger"): VoxTrans(
             "voxel.weapon.dagger.dagger_basic-0",
-            (0.0, 0.0, 0.0), (90.0, 90.0, 0.0), 1.0,
-        ),
-        Tool("example_shield"): VoxTrans(
-            "voxel.weapon.shield.wood-0",
             (0.0, 0.0, 0.0), (90.0, 90.0, 0.0), 1.0,
         ),
         Tool("example_general_combat_left"): VoxTrans(

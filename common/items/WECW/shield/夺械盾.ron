@@ -1,0 +1,21 @@
+ItemDef(
+    name: "夺械盾",
+    description: "使用矿洞深处的奇异矿石与罕见的甲壳锻造而成！",
+    kind: Tool((
+        kind: Shield,
+        hands: One,
+        stats: Direct((
+            equip_time_secs: 0.4,
+            power: 0.8,
+            effect_power: 4.0,
+            speed: 0.7,
+            crit_chance: 0.35,
+            range: 1.0,
+            energy_efficiency: 1.0,
+            buff_strength: 1.0,
+        )),
+    )),
+    quality: High,
+    tags: [SalvageInto(HighSell),],
+    ability_spec: Some(Custom("夺械盾技能组")),
+)
