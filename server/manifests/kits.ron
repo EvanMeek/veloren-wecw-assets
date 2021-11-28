@@ -6,6 +6,41 @@
             ("common.items.debug.velorite_bow_debug", 1),
             ("common.items.debug.admin",1),
         ],
+        "测试":[
+            ("common.items.WECW.乌菲尔",1),
+            ("common.items.WECW.冰风暴",1),
+            ("common.items.WECW.哀谷",1),
+            ("common.items.WECW.哀谷觉醒",1),
+            ("common.items.WECW.埃尔安多",1),
+            ("common.items.WECW.奥拉西斯",1),
+            ("common.items.WECW.帕拉丁战锤",1),
+            ("common.items.WECW.放逐之刃",1),
+            ("common.items.WECW.无尽深渊",1),
+            ("common.items.WECW.旭日击破者",1),
+            ("common.items.WECW.旭日击破者-奥能",1),
+            ("common.items.WECW.旭日击破者-觉醒",1),
+            ("common.items.WECW.暗影之斧",1),
+            ("common.items.WECW.暗符文",1),
+            ("common.items.WECW.暗金冲击锤",1),
+            ("common.items.WECW.暗金切割者",1),
+            ("common.items.WECW.暗金巨像刃",1),
+            ("common.items.WECW.极芯光剑",1),
+            ("common.items.WECW.流火弓",1),
+            ("common.items.WECW.深蓝使者",1),
+            ("common.items.WECW.灵魂权杖",1),
+            ("common.items.WECW.灵魂风暴",1),
+            ("common.items.WECW.熔火之心",1),
+            ("common.items.WECW.燥热杖",1),
+            ("common.items.WECW.猩红光剑",1),
+            ("common.items.WECW.理智的摧残者",1),
+            ("common.items.WECW.白金巨剑",1),
+            ("common.items.WECW.萨顿的末日战刃",1),
+            ("common.items.WECW.遗忘战斧",1),
+            ("common.items.WECW.风暴使者",1),
+            ("common.items.WECW.风暴大剑",1),
+            ("common.items.WECW.黑钢重刃",1),
+            .. ("",1),
+        ],
         "consumables": [
             ("common.items.consumable.potion_big", 100),
             ("common.items.consumable.potion_med", 100),
@@ -17,11 +52,11 @@
             ("common.items.food.carrot", 100),
             ("common.items.food.cheese", 100),
             ("common.items.food.coconut", 100),
-            //("common.items.food.coltsfoot", 100),
-            //("common.items.food.dandelion", 100),
-            //("common.items.food.garlic", 100),
+            ..("common.items.food.coltsfoot", 100),
+            ..("common.items.food.dandelion", 100),
+            ..("common.items.food.garlic", 100),
             ("common.items.food.lettuce", 100),
-            //("common.items.food.meat", 100),
+            ..("common.items.food.meat", 100),
             ("common.items.food.meat.beast_large_cooked", 100),
             ("common.items.food.meat.beast_large_raw", 100),
             ("common.items.food.meat.beast_small_cooked", 100),
@@ -36,21 +71,21 @@
             ("common.items.food.meat.tough_raw", 100),
             ("common.items.food.mushroom", 100),
             ("common.items.food.mushroom_stick", 100),
-            //("common.items.food.onion", 100),
+            ..("common.items.food.onion", 100),
             ("common.items.food.plainsalad", 100),
-            //("common.items.food.sage", 100),
+            ..("common.items.food.sage", 100),
             ("common.items.food.spore_corruption", 100),
             ("common.items.food.sunflower_icetea", 100),
             ("common.items.food.tomato", 100),
             ("common.items.food.tomatosalad", 100),
         ],
         "jewellery": [
-            // Necklace
+            .. Necklace
             ("common.items.armor.misc.neck.shell", 1),
             ("common.items.armor.misc.neck.gem_of_resilience", 1),
 
-            // Rings
-            // With effects
+            .. Rings
+            .. With effects
             ("common.items.armor.misc.ring.diamond", 2),
 
             ("common.items.armor.misc.ring.ruby", 2),
@@ -63,7 +98,7 @@
 
             ("common.items.armor.misc.ring.amethyst", 2),
 
-            // Without effects
+            .. Without effects
             ("common.items.armor.misc.ring.scratched", 2),
 
             ("common.items.armor.misc.ring.gold", 2),
@@ -71,7 +106,7 @@
             ("common.items.armor.misc.ring.skull", 2),
         ],
         "endgame": [
-            // Cultist weapons
+            .. Cultist weapons
             ("common.items.weapons.hammer.cultist_purp_2h-0",1),
             ("common.items.weapons.staff.cultist_staff",1),
             ("common.items.weapons.sword.cultist",1),
@@ -79,7 +114,7 @@
             ("common.items.weapons.axe.malachite_axe-0",1),
             ("common.items.weapons.sceptre.sceptre_velorite_0",1),
 
-            // Legendaries
+            .. Legendaries
             ("common.items.weapons.hammer.mjolnir",1),
             ("common.items.weapons.staff.laevateinn",1),
             ("common.items.weapons.staff.phoenix",1),
@@ -91,7 +126,7 @@
 
         ],
         "tier-5": [
-            // Hide
+            .. Hide
             ("common.items.armor.hide.dragonscale.back", 1),
             ("common.items.armor.hide.dragonscale.belt", 1),
             ("common.items.armor.hide.dragonscale.chest", 1),
@@ -100,7 +135,7 @@
             ("common.items.armor.hide.dragonscale.pants", 1),
             ("common.items.armor.hide.dragonscale.shoulder", 1),
 
-            // Cloth
+            .. Cloth
             ("common.items.armor.cloth.sunsilk.back", 1),
             ("common.items.armor.cloth.sunsilk.belt", 1),
             ("common.items.armor.cloth.sunsilk.chest", 1),
@@ -109,7 +144,7 @@
             ("common.items.armor.cloth.sunsilk.pants", 1),
             ("common.items.armor.cloth.sunsilk.shoulder", 1),
 
-            // Mail
+            .. Mail
             ("common.items.armor.mail.orichalcum.back", 1),
             ("common.items.armor.mail.orichalcum.belt", 1),
             ("common.items.armor.mail.orichalcum.chest", 1),
@@ -118,7 +153,7 @@
             ("common.items.armor.mail.orichalcum.pants", 1),
             ("common.items.armor.mail.orichalcum.shoulder", 1),
 
-            // Weapons
+            .. Weapons
             ("common.items.weapons.sword.bloodsteel-0", 1),
             ("common.items.weapons.axe.bloodsteel_axe-0", 1),
             ("common.items.weapons.hammer.runic_hammer", 1),
@@ -126,11 +161,11 @@
             ("common.items.weapons.staff.ruby_rod", 1),
             ("common.items.weapons.sceptre.emerald", 1),
 
-            // Potion Kit
+            .. Potion Kit
             ("common.items.consumable.potion_med", 100),
         ],
         "tier-4": [
-            // Hide
+            .. Hide
             ("common.items.armor.hide.primal.back", 1),
             ("common.items.armor.hide.primal.belt", 1),
             ("common.items.armor.hide.primal.chest", 1),
@@ -139,7 +174,7 @@
             ("common.items.armor.hide.primal.pants", 1),
             ("common.items.armor.hide.primal.shoulder", 1),
 
-            // Cloth
+            .. Cloth
             ("common.items.armor.cloth.moonweave.back", 1),
             ("common.items.armor.cloth.moonweave.belt", 1),
             ("common.items.armor.cloth.moonweave.chest", 1),
@@ -148,7 +183,7 @@
             ("common.items.armor.cloth.moonweave.pants", 1),
             ("common.items.armor.cloth.moonweave.shoulder", 1),
 
-            // Mail
+            .. Mail
             ("common.items.armor.mail.bloodsteel.back", 1),
             ("common.items.armor.mail.bloodsteel.belt", 1),
             ("common.items.armor.mail.bloodsteel.chest", 1),
@@ -157,7 +192,7 @@
             ("common.items.armor.mail.bloodsteel.pants", 1),
             ("common.items.armor.mail.bloodsteel.shoulder", 1),
 
-            // Weapons
+            .. Weapons
             ("common.items.weapons.sword.cobalt-0", 1),
             ("common.items.weapons.axe.cobalt_axe-0", 1),
             ("common.items.weapons.hammer.cobalt_hammer-0", 1),
@@ -165,11 +200,11 @@
             ("common.items.weapons.staff.frostwood_torch", 1),
             ("common.items.weapons.sceptre.fork0", 1),
 
-            // Potion Kit
+            .. Potion Kit
             ("common.items.consumable.potion_med", 100),
         ],
         "tier-3": [
-            // Hide
+            .. Hide
             ("common.items.armor.hide.carapace.back", 1),
             ("common.items.armor.hide.carapace.belt", 1),
             ("common.items.armor.hide.carapace.chest", 1),
@@ -178,7 +213,7 @@
             ("common.items.armor.hide.carapace.pants", 1),
             ("common.items.armor.hide.carapace.shoulder", 1),
 
-            // Cloth
+            .. Cloth
             ("common.items.armor.cloth.druid.back", 1),
             ("common.items.armor.cloth.druid.belt", 1),
             ("common.items.armor.cloth.druid.chest", 1),
@@ -187,7 +222,7 @@
             ("common.items.armor.cloth.druid.pants", 1),
             ("common.items.armor.cloth.druid.shoulder", 1),
 
-            // Mail
+            .. Mail
             ("common.items.armor.mail.cobalt.back", 1),
             ("common.items.armor.mail.cobalt.belt", 1),
             ("common.items.armor.mail.cobalt.chest", 1),
@@ -196,7 +231,7 @@
             ("common.items.armor.mail.cobalt.pants", 1),
             ("common.items.armor.mail.cobalt.shoulder", 1),
 
-            // Weapons
+            .. Weapons
             ("common.items.weapons.sword.steel-0", 1),
             ("common.items.weapons.axe.steel_axe-0", 1),
             ("common.items.weapons.hammer.steel_hammer-0", 1),
@@ -204,11 +239,11 @@
             ("common.items.weapons.staff.flamethrower_0", 1),
             ("common.items.weapons.sceptre.coralline_cane", 1),
 
-            // Potion Kit
+            .. Potion Kit
             ("common.items.consumable.potion_med", 100),
         ],
         "tier-2": [
-            // Hide
+            .. Hide
             ("common.items.armor.hide.scale.back", 1),
             ("common.items.armor.hide.scale.belt", 1),
             ("common.items.armor.hide.scale.chest", 1),
@@ -217,7 +252,7 @@
             ("common.items.armor.hide.scale.pants", 1),
             ("common.items.armor.hide.scale.shoulder", 1),
 
-            // Cloth
+            .. Cloth
             ("common.items.armor.cloth.silken.back", 1),
             ("common.items.armor.cloth.silken.belt", 1),
             ("common.items.armor.cloth.silken.chest", 1),
@@ -226,7 +261,7 @@
             ("common.items.armor.cloth.silken.pants", 1),
             ("common.items.armor.cloth.silken.shoulder", 1),
 
-            // Mail
+            .. Mail
             ("common.items.armor.mail.steel.back", 1),
             ("common.items.armor.mail.steel.belt", 1),
             ("common.items.armor.mail.steel.chest", 1),
@@ -235,7 +270,7 @@
             ("common.items.armor.mail.steel.pants", 1),
             ("common.items.armor.mail.steel.shoulder", 1),
 
-            // Weapons
+            .. Weapons
             ("common.items.weapons.sword.iron-0", 1),
             ("common.items.weapons.axe.iron_axe-0", 1),
             ("common.items.weapons.hammer.iron_hammer-0", 1),
@@ -243,11 +278,11 @@
             ("common.items.weapons.staff.heated_arm", 1),
             ("common.items.weapons.sceptre.druids_arbor", 1),
 
-            // Potion Kit
+            .. Potion Kit
             ("common.items.consumable.potion_med", 100),
         ],
         "tier-1": [
-            // Hide
+            .. Hide
             ("common.items.armor.hide.leather.back", 1),
             ("common.items.armor.hide.leather.belt", 1),
             ("common.items.armor.hide.leather.chest", 1),
@@ -256,7 +291,7 @@
             ("common.items.armor.hide.leather.pants", 1),
             ("common.items.armor.hide.leather.shoulder", 1),
 
-            // Cloth
+            .. Cloth
             ("common.items.armor.cloth.woolen.back", 1),
             ("common.items.armor.cloth.woolen.belt", 1),
             ("common.items.armor.cloth.woolen.chest", 1),
@@ -265,7 +300,7 @@
             ("common.items.armor.cloth.woolen.pants", 1),
             ("common.items.armor.cloth.woolen.shoulder", 1),
 
-            // Mail
+            .. Mail
             ("common.items.armor.mail.iron.back", 1),
             ("common.items.armor.mail.iron.belt", 1),
             ("common.items.armor.mail.iron.chest", 1),
@@ -274,7 +309,7 @@
             ("common.items.armor.mail.iron.pants", 1),
             ("common.items.armor.mail.iron.shoulder", 1),
 
-            // Weapons
+            .. Weapons
             ("common.items.weapons.sword.bronze-0", 1),
             ("common.items.weapons.axe.bronze_axe-0", 1),
             ("common.items.weapons.hammer.bronze_hammer-0", 1),
@@ -282,11 +317,11 @@
             ("common.items.weapons.staff.bone_staff", 1),
             ("common.items.weapons.sceptre.divine_gohei", 1),
 
-            // Potion Kit
+            .. Potion Kit
             ("common.items.consumable.potion_minor", 100),
         ],
         "tier-0": [
-            // Hide
+            .. Hide
             ("common.items.armor.hide.rawhide.back", 1),
             ("common.items.armor.hide.rawhide.belt", 1),
             ("common.items.armor.hide.rawhide.chest", 1),
@@ -295,7 +330,7 @@
             ("common.items.armor.hide.rawhide.pants", 1),
             ("common.items.armor.hide.rawhide.shoulder", 1),
 
-            // Cloth
+            .. Cloth
             ("common.items.armor.cloth.linen.back", 1),
             ("common.items.armor.cloth.linen.belt", 1),
             ("common.items.armor.cloth.linen.chest", 1),
@@ -304,7 +339,7 @@
             ("common.items.armor.cloth.linen.pants", 1),
             ("common.items.armor.cloth.linen.shoulder", 1),
 
-            // Mail
+            .. Mail
             ("common.items.armor.mail.bronze.back", 1),
             ("common.items.armor.mail.bronze.belt", 1),
             ("common.items.armor.mail.bronze.chest", 1),
@@ -313,7 +348,7 @@
             ("common.items.armor.mail.bronze.pants", 1),
             ("common.items.armor.mail.bronze.shoulder", 1),
 
-            // weapons
+            .. weapons
             ("common.items.weapons.sword.stone-0", 1),
             ("common.items.weapons.axe_1h.stone-0", 2),
             ("common.items.weapons.hammer.stone_hammer-0", 1),
@@ -321,7 +356,7 @@
             ("common.items.weapons.staff.bent_fuse", 1),
             ("common.items.weapons.sceptre.divine_gohei", 1),
 
-            // potion kit
+            .. potion kit
             ("common.items.consumable.potion_minor", 100),
         ],
         "ferocious": [
