@@ -216,19 +216,19 @@
 
     // 盾牌模型|属性配置
     // 盾模型配置
-    "common.items.WECW.shield.魔法盾": (
+    "common.items.WECW.盾牌.魔法盾": (
         vox_spec: ("armor.warlordG.魔法盾", (-6.0, -5.5, -13.0)),
         color: None
     ),
-    "common.items.WECW.shield.裁决盾": (
+    "common.items.WECW.盾牌.裁决盾": (
         vox_spec: ("armor.warlordG.裁决盾", (-7.0, -9.5, -13.0)),
         color: None
     ),
-    "common.items.WECW.shield.夺械盾": (
+    "common.items.WECW.盾牌.夺械盾": (
         vox_spec: ("armor.warlordG.夺械盾", (-7.0, -8.0, -7.0)),
         color: None
     ),
-    "common.items.WECW.shield.橡木盾": (
+    "common.items.WECW.盾牌.橡木盾": (
         vox_spec: ("armor.warlordG.橡木盾", (-7.0, -8.0, -8.0)),
         color: None
     ),

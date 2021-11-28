@@ -505,11 +505,6 @@
         secondary: "common.abilities.shield.block",
         abilities: [],
     ),
-    Custom("科幻盾技能组"): (
-        primary: "common.abilities.shield.科幻盾普攻",
-        secondary: "common.abilities.shield.科幻盾格挡",
-        abilities: [],
-    ),
     Custom("Stone Golem"): (
         primary: "common.abilities.custom.stonegolemfist.singlestrike",
         secondary: "common.abilities.custom.stonegolemfist.shockwave",
