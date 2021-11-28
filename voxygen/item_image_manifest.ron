@@ -1685,6 +1685,10 @@
             "voxel.armor.warlordG.裁决盾",
             (0.0, 0.0, 0.0), (-90.0, 90.0, 0.0), 1.0,
         ),
+        Tool("common.items.WECW.盾牌.橡木盾"): VoxTrans(
+            "voxel.armor.warlordG.橡木盾",
+            (0.0, 0.0, 0.0), (-90.0, 90.0, 0.0), 1.0,
+        ),
         // Lanterns
         Lantern("Black0"): Png(
             "element.items.lantern_black-0",
