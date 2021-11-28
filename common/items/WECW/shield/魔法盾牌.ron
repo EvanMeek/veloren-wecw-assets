@@ -1,5 +1,5 @@
 ItemDef(
-    name: "魔法盾牌",
+魔法盾.ron:2:    name: "魔法盾",
     description: "巫师使用特殊矿石锻造而成，并且注入了无与伦比的魔力！\n特效（大地震颤）：引爆盾牌中的魔力向四周扩散击退敌人！",
     kind: Tool((
         kind: Shield,
@@ -17,5 +17,5 @@ ItemDef(
     )),
     quality: Epic,
     tags: [SalvageInto(EpicSell),],
-    ability_spec: Some(Custom("魔法盾牌技能组")),
+魔法盾.ron:20:    ability_spec: Some(Custom("魔法盾技能组")),
 )

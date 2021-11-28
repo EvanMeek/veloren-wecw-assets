@@ -327,12 +327,12 @@
         ],
     ),
     // 盾牌技能配置
-    Custom("魔法盾牌技能组"): (
+    Custom("魔法盾技能组"): (
         primary: "common.abilities.shield.盾牌攻击",
         secondary: "common.abilities.shield.大盾牌格挡",
         abilities: [
             (None, "common.abilities.shield.盾牌冲锋"),
-            (None, "common.abilities.shield.魔法盾牌冲击波"),
+            (None, "common.abilities.shield.魔法盾冲击波"),
         ],
     ),
     Custom("裁决盾技能组"): (
