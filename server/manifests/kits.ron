@@ -549,4 +549,9 @@
             ("common.items.WECW.极芯光剑",1),
             ("common.items.WECW.哀谷",1),
         ],
+        "盾牌":[
+            ("common.items.WECW.盾牌.科幻盾",1),
+            ("common.items.WECW.盾牌.夺械盾",1),
+            ("common.items.WECW.盾牌.判官盾",1),
+        ],
 })
