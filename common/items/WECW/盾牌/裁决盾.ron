@@ -1,6 +1,6 @@
 ItemDef(
     name: "裁决盾",
-    description: "粉碎一切阻碍！\n特效（无畏冲锋）：抱着必死的信念，快速向前猛冲！",
+    description: "粉碎一切阻碍！\n额外技能\n无畏冲锋——冲散他们!\nThe Wolrd——wry wry wry wry....",
     kind: Tool((
         kind: Shield,
         hands: One,

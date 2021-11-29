@@ -1,6 +1,6 @@
 ItemDef(
     name: "橡木盾",
-    description: "使用药水侵泡过的橡木盾牌，及其坚韧！",
+    description: "使用药水侵泡过的橡木盾牌，及其坚韧！\n额外技能:\n无畏冲锋——冲散他们！",
     kind: Tool((
         kind: Shield,
         hands: One,
@@ -9,7 +9,7 @@ ItemDef(
             power: 0.5,
             effect_power: 3.0,
             speed: 0.8,
-            crit_chance: 0.2,
+            crit_chance: 1.0,
             range: 1.0,
             energy_efficiency: 1.0,
             buff_strength: 1.0,
