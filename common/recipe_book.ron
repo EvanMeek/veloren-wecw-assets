@@ -1,7 +1,77 @@
 {
 
-
-    // ===================================项链===================================
+    // ===================================盾牌===================================
+    "橡木盾": (
+        output: ("common.items.WECW.盾牌.橡木盾", 1),
+        inputs: [
+            (Item("common.items.crafting_ing.cloth.lifecloth"), 2),
+            (Item("common.items.crafting_ing.animal_misc.large_horn"), 10),
+            (Item("common.items.crafting_ing.hide.plate"), 10),
+            (Item("common.items.mineral.gem.topaz"), 120),
+            (Item("common.items.mineral.ore.copper"), 120),
+            (Item("common.items.WECW.木符文"), 1),
+        ],
+        craft_sprite: Some(CraftingBench),
+        is_recycling: false,
+    ),
+    "夺械盾": (
+        output: ("common.items.WECW.盾牌.夺械盾", 1),
+        inputs: [
+            (Item("common.items.crafting_ing.cloth.lifecloth"), 5),
+            (Item("common.items.crafting_ing.animal_misc.large_horn"), 28),
+            (Item("common.items.crafting_ing.hide.plate"), 28),
+            (Item("common.items.mineral.ingot.silver"), 2),
+            (Item("common.items.mineral.ore.silver"), 128),
+            (Item("common.items.mineral.gem.diamond"), 48),
+            (Item("common.items.WECW.土符文"), 1),
+        ],
+        craft_sprite: Some(CraftingBench),
+        is_recycling: false,
+    ),
+    "魔法盾": (
+        output: ("common.items.WECW.盾牌.魔法盾", 1),
+        inputs: [
+            (Item("common.items.crafting_ing.cloth.lifecloth"), 10),
+            (Item("common.items.crafting_ing.animal_misc.large_horn"), 86),
+            (Item("common.items.crafting_ing.hide.plate"), 44),
+            (Item("common.items.mineral.ingot.silver"), 10),
+            (Item("common.items.mineral.ore.iron"), 1234),
+            (Item("common.items.mineral.gem.amethyst"), 1234),
+            (Item("common.items.mineral.gem.diamond"), 432),
+            (Item("common.items.mineral.gem.emerald"), 432),
+            (Item("common.items.mineral.gem.ruby"), 432),
+            (Item("common.items.mineral.gem.sapphire"), 432),
+            (Item("common.items.mineral.gem.topaz"), 432),
+            (Item("common.items.WECW.sell.史诗分解包"), 2),
+            (Item("common.items.WECW.土符文"), 1),
+        ],
+        craft_sprite: Some(CraftingBench),
+        is_recycling: false,
+    ),
+    "裁决盾": (
+        output: ("common.items.WECW.盾牌.裁决盾", 1),
+        inputs: [
+            (Item("common.items.WECW.盾牌.橡木盾"), 1),
+            (Item("common.items.WECW.盾牌.夺械盾"), 1),
+            (Item("common.items.WECW.盾牌.魔法盾"), 1),
+            (Item("common.items.crafting_ing.cloth.lifecloth"), 20),
+            (Item("common.items.crafting_ing.animal_misc.large_horn"), 148),
+            (Item("common.items.crafting_ing.hide.plate"), 89),
+            (Item("common.items.crafting_ing.animal_misc.icy_fang"), 3321),
+            (Item("common.items.mineral.ingot.silver"), 20),
+            (Item("common.items.mineral.gem.sapphire"), 2234),
+            (Item("common.items.mineral.ore.velorite"), 2234),
+            (Item("common.items.mineral.gem.amethyst"), 432),
+            (Item("common.items.mineral.gem.diamond"), 432),
+            (Item("common.items.mineral.gem.emerald"), 432),
+            (Item("common.items.mineral.gem.ruby"), 432),
+            (Item("common.items.mineral.gem.topaz"), 432),
+            (Item("common.items.WECW.火符文"), 2),
+        ],
+        craft_sprite: Some(CraftingBench),
+        is_recycling: false,
+    ),
+    // ===================================头饰===================================
     "野猪兜帽": (
         output: ("common.items.armor.misc.head.hog_hood", 1),
         inputs: [
@@ -223,6 +293,7 @@
         craft_sprite: Some(CraftingBench),
         is_recycling: false,
     ),
+    // ===================================项链===================================
     "暗灵项链": (
         output: ("common.items.WECW.neck.epicneck", 1),
         inputs: [
