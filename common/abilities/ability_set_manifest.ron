@@ -127,6 +127,23 @@
             (Some(Sword(UnlockSpin)), "common.abilities.sword.风暴使者旋风斩"),
         ],
     ),
+    Custom("碎星锤技能组"): (
+        primary: "common.abilities.axe.深蓝普攻",
+        secondary: "common.abilities.axe.深蓝旋风转",
+        abilities: [
+            (Some(Axe(UnlockLeap)), "common.abilities.axe.深蓝跳劈"),
+            (Some(Axe(UnlockLeap)), "common.abilities.axe.深蓝横劈"),
+        ],
+    ),
+    Custom("重斩技能组"): (
+        primary: "common.abilities.axe.深蓝普攻",
+        secondary: "common.abilities.axe.深蓝旋风转",
+        abilities: [
+            (Some(Axe(UnlockLeap)), "common.abilities.axe.深蓝跳劈"),
+            (Some(Axe(UnlockLeap)), "common.abilities.axe.深蓝横劈"),
+        ],
+    ),
+
     Custom("附魔的巨剑技能组"): (
         primary: "common.abilities.sword.附魔的巨剑普攻",
         secondary: "common.abilities.sword.dash",

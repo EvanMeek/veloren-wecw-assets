@@ -3,6 +3,14 @@
         vox_spec: ("armor.warlordG.萨顿改", (-1.5, -5.5, -8.5)),
         color: None
     ),
+    "common.items.WECW.重斩": (
+        vox_spec: ("armor.warlordG.重斩", (-1.5, -3.5, -7.5)),
+        color: None
+    ),
+    "common.items.WECW.碎星锤": (
+        vox_spec: ("armor.warlordG.碎星锤", (-2.5, -5.5, -2.5)),
+        color: None
+    ),
     "common.items.WECW.燥热杖": (
         vox_spec: ("armor.warlordG.燥热杖", (-4.5, -5, -6.5)),
         color: None

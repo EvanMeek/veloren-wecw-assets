@@ -494,10 +494,6 @@
             "voxel.armor.warlordG.无尽深渊",
             (1.0, -1.0, 0.0), (-135.0, 90.0, 0.0), 1.1,
         ),
-        Tool("common.items.WECW.超新星"): VoxTrans(
-            "voxel.armor.warlordG.超新星",
-            (1.0, -1.0, 0.0), (-135.0, 90.0, 0.0), 1.1,
-        ),
         Tool("common.items.WECW.风暴大剑"): VoxTrans(
             "voxel.armor.warlordG.风暴大剑",
             (1.0, -1.0, 0.0), (-135.0, 90.0, 0.0), 1.1,
@@ -617,6 +613,14 @@
         ),
         Tool("common.items.WECW.萨顿的末日战刃"): VoxTrans(
             "voxel.armor.warlordG.萨顿的末日战刃",
+            (1.0, -1.0, 0.0), (-135.0, 90.0, 0.0), 1.1,
+        ),
+        Tool("common.items.WECW.重斩"): VoxTrans(
+            "voxel.armor.warlordG.重斩",
+            (1.0, -1.0, 0.0), (-135.0, 90.0, 0.0), 1.1,
+        ),
+        Tool("common.items.WECW.碎星锤"): VoxTrans(
+            "voxel.armor.warlordG.碎星锤",
             (1.0, -1.0, 0.0), (-135.0, 90.0, 0.0), 1.1,
         ),
         Tool("common.items.WECW.放逐之刃"): VoxTrans(
