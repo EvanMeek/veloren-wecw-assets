@@ -1952,6 +1952,27 @@
         craft_sprite: Some(Anvil),
         is_recycling: false,
     ),
+    "超新星": (
+        output: ("common.items.WECW.超新星", 1),
+        inputs: [
+            (Item("common.items.WECW.sell.传说分解包"), 3),
+            (Item("common.items.WECW.暗符文"), 3),
+            (Item("common.items.WECW.火符文"), 3),
+            (Item("common.items.WECW.土符文"), 3),
+            (Item("common.items.WECW.水符文"), 3),
+            (Item("common.items.WECW.暗金币"), 20),
+            (Item("common.items.WECW.深蓝使者"), 1),
+            (Item("common.items.WECW.暗影之斧"), 1),
+            (Item("common.items.crafting_ing.hide.dragon_scale"), 10),
+            (Item("common.items.crafting_ing.mindflayer_bag_damaged"), 20),
+            (Item("common.items.crafting_ing.animal_misc.icy_fang"), 9000),
+            (Item("common.items.mineral.gem.sapphire"), 6000),
+            (Item("common.items.mineral.gem.diamond"), 1000),
+            (Item("common.items.tool.craftsman_hammer"), 0),
+        ],
+        craft_sprite: Some(Anvil),
+        is_recycling: false,
+    ),
     "无尽深渊": (
         output: ("common.items.WECW.无尽深渊", 1),
         inputs: [

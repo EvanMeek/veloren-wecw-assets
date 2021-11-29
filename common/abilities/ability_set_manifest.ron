@@ -218,6 +218,14 @@
             (Some(Axe(UnlockLeap)), "common.abilities.axe.埃尔横劈"),
         ],
     ),
+    Custom("超新星技能组"): (
+        primary: "common.abilities.axe.超新星普攻",
+        secondary: "common.abilities.axe.超新星旋风转",
+        abilities: [
+            (Some(Axe(UnlockLeap)), "common.abilities.axe.超新星跳劈"),
+            (Some(Axe(UnlockLeap)), "common.abilities.axe.超新星横劈"),
+        ],
+    ),
     Tool(Hammer): (
         primary: "common.abilities.hammer.singlestrike",
         secondary: "common.abilities.hammer.charged",
