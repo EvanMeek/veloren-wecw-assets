@@ -494,6 +494,10 @@
             "voxel.armor.warlordG.无尽深渊",
             (1.0, -1.0, 0.0), (-135.0, 90.0, 0.0), 1.1,
         ),
+        Tool("common.items.WECW.超新星"): VoxTrans(
+            "voxel.armor.warlordG.超新星",
+            (1.0, -1.0, 0.0), (-135.0, 90.0, 0.0), 1.1,
+        ),
         Tool("common.items.WECW.风暴大剑"): VoxTrans(
             "voxel.armor.warlordG.风暴大剑",
             (1.0, -1.0, 0.0), (-135.0, 90.0, 0.0), 1.1,
