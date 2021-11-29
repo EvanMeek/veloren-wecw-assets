@@ -17,4 +17,5 @@ ItemDef(
     )),
     quality: Epic,
     tags: [SalvageInto(EpicSell),],
+    ability_spec: Some(Custom("雷神之锤技能组")),
 )
