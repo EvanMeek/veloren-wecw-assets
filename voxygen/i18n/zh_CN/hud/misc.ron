@@ -21,22 +21,27 @@
         "hud.press_key_to_respawn": r#"按下 {key} 在你上次访问的篝火处重生."#,
 
         // Tutorial Button
-        "hud.tutorial_btn": r#"教程"#,
+        "hud.tutorial_btn": r#"常用指令"#,
         "hud.tutorial_click_here": r#"按下 [ {key} ] 释放鼠标光标并单击此按钮!"#,
         "hud.tutorial_elements": r#"制作"#,
 
-"hud.temp_quest_headline": r#"旅行者你好!"#,
-"hud.temp_quest_text": r#"想要开始旅程的话,可以浏览这个村庄并收集一些物资. 
+        "hud.temp_quest_headline": r#"旅行者你好!"#,
+        "hud.temp_quest_text": r#"
+祝你你在旅途中随心所欲!
 
-祝你在旅途中随心所欲!
+制作菜单按C 地图按M
 
-查看屏幕的右下角,找到各种内容,例如背包,制作和地图.
+/kill 重生  /home 回主城
+/help 帮助  /roll 随机数
+/r 切换至附近频道
+/w 切换至世界频道
+/g 切换至组队频道
+/tpsite [城镇名] 传送
+/showloot [副本级别] 战利品查看
+查看屏幕的右下角,找到各种内容.
 
-制作菜单可制作盔甲,武器,食物等等!
-
-野外到处都是野生动物,是皮革碎片的重要来源,收集皮革可以制作皮甲,为你提供一些防护来抵御危险.
-
-只要你准备就绪,就可以尝试挑战地图上的标记点,来获得更好的装备!
+只要你准备就绪,就可以尝试挑战地图上的
+标记点,来获得更好的装备!
 "#,
 
         "hud.spell": "法术",
