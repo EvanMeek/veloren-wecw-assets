@@ -71,3 +71,6 @@ UPDATE item SET item_definition_id="common.items.WECW.套装.灵魂风暴.skullp
 UPDATE item SET item_definition_id="common.items.WECW.套装.灵魂风暴.skullshoulder" WHERE item_definition_id="common.items.WECW.soul.skullshoulder";
 UPDATE item SET item_definition_id="common.items.WECW.套装.灵魂风暴.glider" WHERE item_definition_id="common.items.WECW.soul.dg";
 UPDATE item SET item_definition_id="common.items.WECW.套装.灵魂风暴.neck" WHERE item_definition_id="common.items.WECW.soul.soul";
+
+-- 判官头->裁决头
+UPDATE item SET item_definition_id="common.items.WECW.套装.头饰.裁决头" WHERE item_definition_id="common.items.WECW.套装.头饰.判官头";
