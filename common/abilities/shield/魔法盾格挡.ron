@@ -1,5 +1,5 @@
 BasicBlock(
-    buildup_duration: 0.05,
+    buildup_duration: 0.75,
     recover_duration: 0.01,
     max_angle: 160.0,
     block_strength: 0.1,
