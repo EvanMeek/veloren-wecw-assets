@@ -1,0 +1,31 @@
+(
+    suits: [
+        Suit(
+            // Additional energy cost for successfully blocking long-range attacks.
+            energy_cost: 5.0,
+            // Rebound damage
+            base_damage: 5.0,
+            // Armor protection damage bonus
+            armor_damage_bonus: 0.4,
+            // Probability of successfully blocking the rebound damage
+            chance: 0.2,
+            // Players must wear the following equipment to have the effects of rebound damage and block long-range damage
+            required_suit: [
+                Item("common.items.armor.mail.iron.foot"),
+                Item("common.items.armor.mail.iron.hand"),
+                Item("common.items.armor.mail.iron.chest"),
+            ],
+        ),
+        Suit(
+            energy_cost: 5.0,
+            base_damage: 5.0,
+            armor_damage_bonus: 0.7,
+            chance: 0.5,
+            required_suit: [
+                Item("common.items.armor.mail.orichalcum.foot"),
+                Item("common.items.armor.mail.orichalcum.hand"),
+                Item("common.items.armor.mail.orichalcum.chest"),
+            ],
+        )
+    ]
+)
