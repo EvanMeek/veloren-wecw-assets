@@ -2,6 +2,10 @@
 //  Vox(specier),
 //  VoxTrans(specifier, offset, (x_rot, y_rot, z_rot), zoom)
 ({
+        Tool("common.items.WECW.单手武器.剑.图纳"): VoxTrans(
+            "voxel.armor.warlordG.单手武器.剑.图纳",
+            (1.0, -1.0, 0.0), (-135.0, 90.0, 0.0), 1.1,
+        ),
         Armor(Foot("神职")): VoxTrans(
             "voxel.armor.warlordG.神职鞋子",
             (0.0, 0.0, 0.0), (-90.0, 180.0, 0.0), 1.2,
