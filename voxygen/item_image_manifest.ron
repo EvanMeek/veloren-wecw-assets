@@ -2,6 +2,14 @@
 //  Vox(specier),
 //  VoxTrans(specifier, offset, (x_rot, y_rot, z_rot), zoom)
 ({
+        Tool("common.items.WECW.单手武器.剑.虹管"): VoxTrans(
+            "voxel.armor.warlordG.单手武器.剑.虹管",
+            (1.0, -1.0, 0.0), (-135.0, 90.0, 0.0), 1.1,
+        ),
+        Tool("common.items.WECW.单手武器.剑.风剑"): VoxTrans(
+            "voxel.armor.warlordG.单手武器.剑.风剑",
+            (1.0, -1.0, 0.0), (-135.0, 90.0, 0.0), 1.1,
+        ),
         Tool("common.items.WECW.单手武器.剑.厨刀"): VoxTrans(
             "voxel.armor.warlordG.单手武器.剑.厨刀",
             (1.0, -1.0, 0.0), (-135.0, 90.0, 0.0), 1.1,
