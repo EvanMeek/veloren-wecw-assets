@@ -2,7 +2,7 @@ ItemDef(
     name: "碎星锤",
     description: "待定",
     kind: Tool((
-        kind: Sword,
+        kind: Hammer,
         hands: One,
         stats: Direct((
             equip_time_secs: 0.5,
