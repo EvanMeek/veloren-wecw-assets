@@ -1,4 +1,38 @@
 ({  //Swords
+    // 单手斧
+    "common.items.WECW.单手武器.斧头.剃斧": (
+        vox_spec: ("armor.warlordG.单手武器.斧头.剃斧", (-1.5, -3, -3)),
+        color: None
+    ),
+    "common.items.WECW.单手武器.斧头.屠夫斧": (
+        vox_spec: ("armor.warlordG.单手武器.斧头.屠夫斧", (-1.5, -3, -3)),
+        color: None
+    ),
+    "common.items.WECW.单手武器.斧头.收割斧": (
+        vox_spec: ("armor.warlordG.单手武器.斧头.收割斧", (-1.5, -3, -3)),
+        color: None
+    ),
+    "common.items.WECW.单手武器.斧头.狩人斧": (
+        vox_spec: ("armor.warlordG.单手武器.斧头.狩人斧", (-1.5, -3, -3)),
+        color: None
+    ),
+    "common.items.WECW.单手武器.斧头.精锻斧": (
+        vox_spec: ("armor.warlordG.单手武器.斧头.精锻斧", (-1.5, -3, -3)),
+        color: None
+    ),
+    "common.items.WECW.单手武器.斧头.花金斧": (
+        vox_spec: ("armor.warlordG.单手武器.斧头.花金斧", (-1.5, -3, -3)),
+        color: None
+    ),
+    "common.items.WECW.单手武器.斧头.青环斧": (
+        vox_spec: ("armor.warlordG.单手武器.斧头.青环斧", (-1.5, -3, -3)),
+        color: None
+    ),
+    "common.items.WECW.单手武器.斧头.齿斧": (
+        vox_spec: ("armor.warlordG.单手武器.斧头.齿斧", (-1.5, -3, -3)),
+        color: None
+    ),
+    // 单手剑
     "common.items.WECW.单手武器.剑.重柄刀": (
         vox_spec: ("armor.warlordG.单手武器.剑.重柄刀", (-1.5, -3, -3)),
         color: None
