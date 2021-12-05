@@ -12,7 +12,7 @@
     map: {
         "神职": (
             left: (
-                vox_spec: ("armor.warlordG.神职手套", (-4.5, -2.5, -3.5)),
+                vox_spec: ("armor.warlordG.神职手套", (-3.5, -2.5, -3.5)),
                 color: None
             ),
             right: (
