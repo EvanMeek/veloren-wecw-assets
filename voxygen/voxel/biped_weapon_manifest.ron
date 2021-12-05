@@ -1,6 +1,67 @@
 ({  //Swords
+    "common.items.WECW.单手武器.剑.重柄刀": (
+        vox_spec: ("armor.warlordG.单手武器.剑.重柄刀", (-1.5, -3, -3)),
+        color: None
+    ),
+    "common.items.WECW.单手武器.剑.斩骨": (
+        vox_spec: ("armor.warlordG.单手武器.剑.斩骨", (-1.5, -3, -3)),
+        color: None
+    ),
+    "common.items.WECW.单手武器.剑.云剑": (
+        vox_spec: ("armor.warlordG.单手武器.剑.云剑", (-1.5, -3, -3)),
+        color: None
+    ),
+    "common.items.WECW.单手武器.剑.血锯": (
+        vox_spec: ("armor.warlordG.单手武器.剑.血锯", (-1.5, -3, -3)),
+        color: None
+    ),
+    "common.items.WECW.单手武器.剑.虹管": (
+        vox_spec: ("armor.warlordG.单手武器.剑.虹管", (-1.5, -3, -3)),
+        color: None
+    ),
+    "common.items.WECW.单手武器.剑.风剑": (
+        vox_spec: ("armor.warlordG.单手武器.剑.风剑", (-1.5, -3, -3)),
+        color: None
+    ),
+    "common.items.WECW.单手武器.剑.厨刀": (
+        vox_spec: ("armor.warlordG.单手武器.剑.厨刀", (-1.5, -3, -3)),
+        color: None
+    ),
       "common.items.WECW.单手武器.剑.图纳": (
         vox_spec: ("armor.warlordG.单手武器.剑.图纳", (-1.5, -3.5, -3)),
+        color: None
+    ),
+    // 单手锤
+    "common.items.WECW.单手武器.锤子.乱序锤": (
+        vox_spec: ("armor.warlordG.单手武器.锤子.乱序锤", (-3.0, -3.5, -5.0)),
+        color: None
+    ),
+    "common.items.WECW.单手武器.锤子.方棱锤": (
+        vox_spec: ("armor.warlordG.单手武器.锤子.方棱锤", (-3.0, -3.5, -5.0)),
+        color: None
+    ),
+    "common.items.WECW.单手武器.锤子.权之锤": (
+        vox_spec: ("armor.warlordG.单手武器.锤子.权之锤", (-3.0, -3.5, -3.0)),
+        color: None
+    ),
+    "common.items.WECW.单手武器.锤子.翠晶锤": (
+        vox_spec: ("armor.warlordG.单手武器.锤子.翠晶锤", (-3.0, -3.5, -5.0)),
+        color: None
+    ),
+    "common.items.WECW.单手武器.锤子.艺术锤": (
+        vox_spec: ("armor.warlordG.单手武器.锤子.艺术锤", (-3.0, -4.5, -5.0)),
+        color: None
+    ),
+    "common.items.WECW.单手武器.锤子.裹钢锤": (
+        vox_spec: ("armor.warlordG.单手武器.锤子.裹钢锤", (-3.0, -3.5, -5.0)),
+        color: None
+    ),
+    "common.items.WECW.单手武器.锤子.链摆锤": (
+        vox_spec: ("armor.warlordG.单手武器.锤子.链摆锤", (-3.0, -3.5, -5.0)),
+        color: None
+    ),
+    "common.items.WECW.单手武器.锤子.炬锤": (
+        vox_spec: ("armor.warlordG.单手武器.锤子.炬锤", (-4.5, -3.5, -5.0)),
         color: None
     ),
     "common.items.WECW.萨顿改": (
