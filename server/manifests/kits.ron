@@ -594,13 +594,13 @@
         ],
         "单手锤":[
             ("common.items.WECW.单手武器.锤子.乱序锤",1),
-            ("common.items.WECW.单手武器.锤子.方棱锤",1),
-            ("common.items.WECW.单手武器.锤子.权之锤",1),
             ("common.items.WECW.单手武器.锤子.炬锤",1),
-            ("common.items.WECW.单手武器.锤子.翠晶锤",1),
             ("common.items.WECW.单手武器.锤子.艺术锤",1),
             ("common.items.WECW.单手武器.锤子.裹钢锤",1),
+            ("common.items.WECW.单手武器.锤子.方棱锤",1),
+            ("common.items.WECW.单手武器.锤子.翠晶锤",1),
             ("common.items.WECW.单手武器.锤子.链摆锤",1),
+            ("common.items.WECW.单手武器.锤子.权之锤",1),
             ("common.items.WECW.碎星锤",1),
         ],
         "单手剑":[
