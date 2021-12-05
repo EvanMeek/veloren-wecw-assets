@@ -602,4 +602,14 @@
             ("common.items.WECW.单手武器.锤子.裹钢锤",1),
             ("common.items.WECW.单手武器.锤子.链摆锤",1),
         ],
+        "单手剑":[
+            ("common.items.WECW.单手武器.剑.云剑",1),
+            ("common.items.WECW.单手武器.剑.厨刀",1),
+            ("common.items.WECW.单手武器.剑.图纳",1),
+            ("common.items.WECW.单手武器.剑.斩骨",1),
+            ("common.items.WECW.单手武器.剑.虹管",1),
+            ("common.items.WECW.单手武器.剑.血锯",1),
+            ("common.items.WECW.单手武器.剑.重柄刀",1),
+            ("common.items.WECW.单手武器.剑.风剑",1),
+        ],
 })
