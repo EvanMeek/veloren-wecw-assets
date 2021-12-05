@@ -1,4 +1,20 @@
 ({  //Swords
+    "common.items.WECW.单手武器.剑.重柄刀": (
+        vox_spec: ("armor.warlordG.单手武器.剑.重柄刀", (-1.5, -3, -3)),
+        color: None
+    ),
+    "common.items.WECW.单手武器.剑.斩骨": (
+        vox_spec: ("armor.warlordG.单手武器.剑.斩骨", (-1.5, -3, -3)),
+        color: None
+    ),
+    "common.items.WECW.单手武器.剑.云剑": (
+        vox_spec: ("armor.warlordG.单手武器.剑.云剑", (-1.5, -3, -3)),
+        color: None
+    ),
+    "common.items.WECW.单手武器.剑.血锯": (
+        vox_spec: ("armor.warlordG.单手武器.剑.血锯", (-1.5, -3, -3)),
+        color: None
+    ),
     "common.items.WECW.单手武器.剑.虹管": (
         vox_spec: ("armor.warlordG.单手武器.剑.虹管", (-1.5, -3, -3)),
         color: None
