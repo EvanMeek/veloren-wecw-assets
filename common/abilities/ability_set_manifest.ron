@@ -1,6 +1,48 @@
 // Maps a tool kind to a set of abilities
 // A set of abilities is a primary, a secondary, and a vec of all extra abilities
 ({
+
+    // ===============================单手锤===============================
+    Custom("绿单手锤技能组"): (
+        primary: "common.abilities.hammer.绿单手锤普攻",
+        secondary: "common.abilities.hammer.绿单手锤蓄力",
+        abilities: [
+            (Some(Hammer(UnlockLeap)), "common.abilities.hammer.绿单手锤千斤坠"),
+            (Some(Hammer(UnlockLeap)), "common.abilities.hammer.绿单手锤地刺"),
+        ],
+    ),
+    Custom("蓝单手锤技能组"): (
+        primary: "common.abilities.hammer.蓝单手锤普攻",
+        secondary: "common.abilities.hammer.蓝单手锤蓄力",
+        abilities: [
+            (Some(Hammer(UnlockLeap)), "common.abilities.hammer.蓝单手锤千斤坠"),
+            (Some(Hammer(UnlockLeap)), "common.abilities.hammer.蓝单手锤地刺"),
+        ],
+    ),
+    Custom("紫单手锤技能组"): (
+        primary: "common.abilities.hammer.紫单手锤普攻",
+        secondary: "common.abilities.hammer.紫单手锤蓄力",
+        abilities: [
+            (Some(Hammer(UnlockLeap)), "common.abilities.hammer.紫单手锤千斤坠"),
+            (Some(Hammer(UnlockLeap)), "common.abilities.hammer.紫单手锤地刺"),
+        ],
+    ),
+    Custom("金单手锤技能组"): (
+        primary: "common.abilities.hammer.金单手锤普攻",
+        secondary: "common.abilities.hammer.金单手锤蓄力",
+        abilities: [
+            (Some(Hammer(UnlockLeap)), "common.abilities.hammer.金单手锤千斤坠"),
+            (Some(Hammer(UnlockLeap)), "common.abilities.hammer.金单手锤地刺"),
+        ],
+    ),
+    Custom("碎星锤技能组"): (
+        primary: "common.abilities.hammer.碎星锤普攻",
+        secondary: "common.abilities.hammer.碎星锤蓄力",
+        abilities: [
+            (Some(Hammer(UnlockLeap)), "common.abilities.hammer.碎星锤千斤坠"),
+            (Some(Hammer(UnlockLeap)), "common.abilities.hammer.碎星锤地刺"),
+        ],
+    ),
     // ===============================符文塔===============================
     // 符文塔-大剑
     Custom("符文-乌菲尔技能组"): (
@@ -125,14 +167,6 @@
         secondary: "common.abilities.sword.dash",
         abilities: [
             (Some(Sword(UnlockSpin)), "common.abilities.sword.风暴使者旋风斩"),
-        ],
-    ),
-    Custom("碎星锤技能组"): (
-        primary: "common.abilities.axe.深蓝普攻",
-        secondary: "common.abilities.axe.深蓝旋风转",
-        abilities: [
-            (Some(Axe(UnlockLeap)), "common.abilities.axe.深蓝跳劈"),
-            (Some(Axe(UnlockLeap)), "common.abilities.axe.深蓝横劈"),
         ],
     ),
     Custom("重斩技能组"): (
