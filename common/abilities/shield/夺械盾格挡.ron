@@ -1,7 +1,7 @@
 BasicBlock(
     buildup_duration: 0.55,
     recover_duration: 0.01,
-    max_angle: 140.0,
+    max_angle: 55.0,
     block_strength: 0.1,
-    energy_cost: 4.0,
+    energy_cost: 7.0,
 )
