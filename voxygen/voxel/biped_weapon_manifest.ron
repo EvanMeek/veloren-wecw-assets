@@ -1,4 +1,8 @@
 ({  //Swords
+    "common.items.WECW.单手武器.剑.厨刀": (
+        vox_spec: ("armor.warlordG.单手武器.剑.厨刀", (-1.5, -3, -3)),
+        color: None
+    ),
       "common.items.WECW.单手武器.剑.图纳": (
         vox_spec: ("armor.warlordG.单手武器.剑.图纳", (-1.5, -3.5, -3)),
         color: None
