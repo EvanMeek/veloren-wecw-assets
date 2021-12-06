@@ -2,6 +2,35 @@
 // A set of abilities is a primary, a secondary, and a vec of all extra abilities
 ({
 
+    // ===============================单手剑===============================
+    Custom("金单手剑技能组"): (
+        primary: "common.abilities.sword.金单手剑普攻",
+        secondary: "common.abilities.sword.金单手剑突刺",
+        abilities: [
+            (Some(Hammer(UnlockLeap)), "common.abilities.sword.金单手剑旋风斩"),
+        ],
+    ),
+    Custom("紫单手剑技能组"): (
+        primary: "common.abilities.sword.紫单手剑普攻",
+        secondary: "common.abilities.sword.紫单手剑突刺",
+        abilities: [
+            (Some(Hammer(UnlockLeap)), "common.abilities.sword.紫单手剑旋风斩"),
+        ],
+    ),
+    Custom("蓝单手剑技能组"): (
+        primary: "common.abilities.sword.蓝单手剑普攻",
+        secondary: "common.abilities.sword.蓝单手剑突刺",
+        abilities: [
+            (Some(Hammer(UnlockLeap)), "common.abilities.sword.蓝单手剑旋风斩"),
+        ],
+    ),
+    Custom("绿单手剑技能组"): (
+        primary: "common.abilities.sword.绿单手剑普攻",
+        secondary: "common.abilities.sword.绿单手剑突刺",
+        abilities: [
+            (Some(Hammer(UnlockLeap)), "common.abilities.sword.绿单手剑旋风斩"),
+        ],
+    ),
     // ===============================单手锤===============================
     Custom("绿单手锤技能组"): (
         primary: "common.abilities.hammer.绿单手锤普攻",
