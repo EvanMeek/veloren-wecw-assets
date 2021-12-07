@@ -1,6 +1,6 @@
 ItemDef(
     name: "链摆锤",
-    description: "待定",
+    description: "铁锁束缚着我的力量也束缚我的心",
     kind: Tool((
         kind: Hammer,
         hands: One,

@@ -1,6 +1,6 @@
 ItemDef(
     name: "方棱锤",
-    description: "",
+    description: "规矩具在方圆之中",
     kind: Tool((
         kind: Hammer,
         hands: One,

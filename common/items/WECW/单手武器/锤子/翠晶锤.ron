@@ -1,6 +1,6 @@
 ItemDef(
     name: "翠晶锤",
-    description: "",
+    description: "也许这是野蛮的华贵？",
     kind: Tool((
         kind: Hammer,
         hands: One,

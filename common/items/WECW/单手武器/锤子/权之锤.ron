@@ -1,6 +1,6 @@
 ItemDef(
     name: "权之锤",
-    description: "",
+    description: "玩弄于权力之中",
     kind: Tool((
         kind: Hammer,
         hands: One,

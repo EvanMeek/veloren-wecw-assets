@@ -1,6 +1,6 @@
 ItemDef(
     name: "艺术锤",
-    description: "",
+    description: "艺术与力量的结合透露出无形的美",
     kind: Tool((
         kind: Hammer,
         hands: One,

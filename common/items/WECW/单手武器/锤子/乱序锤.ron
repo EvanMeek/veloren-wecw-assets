@@ -1,6 +1,6 @@
 ItemDef(
     name: "乱序锤",
-    description: "",
+    description: "乱世之中寻求生存之道",
     kind: Tool((
         kind: Hammer,
         hands: One,

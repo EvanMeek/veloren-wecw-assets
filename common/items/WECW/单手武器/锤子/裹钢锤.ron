@@ -1,6 +1,6 @@
 ItemDef(
     name: "裹钢锤",
-    description: "待定",
+    description: "重如泰山，流星陨落",
     kind: Tool((
         kind: Hammer,
         hands: One,

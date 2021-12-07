@@ -1,6 +1,6 @@
 ItemDef(
     name: "炬锤",
-    description: "",
+    description: "世代传承火炬，力量也在其中流淌",
     kind: Tool((
         kind: Hammer,
         hands: One,
