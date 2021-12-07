@@ -1,6 +1,6 @@
 ItemDef(
     name: "翠晶锤",
-    description: "待定",
+    description: "",
     kind: Tool((
         kind: Hammer,
         hands: One,
