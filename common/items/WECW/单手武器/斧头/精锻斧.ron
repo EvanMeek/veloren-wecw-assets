@@ -1,6 +1,6 @@
 ItemDef(
     name: "精锻斧",
-    description: "",
+    description: "千锤百炼之大成",
     kind: Tool((
         kind: Axe,
         hands: One,

@@ -1,6 +1,6 @@
 ItemDef(
     name: "齿斧",
-    description: "",
+    description: "开天辟地之星",
     kind: Tool((
         kind: Axe,
         hands: One,

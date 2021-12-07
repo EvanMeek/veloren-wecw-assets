@@ -1,6 +1,6 @@
 ItemDef(
     name: "剃斧",
-    description: "",
+    description: "削头剔骨，暗藏锋刃",
     kind: Tool((
         kind: Axe,
         hands: One,

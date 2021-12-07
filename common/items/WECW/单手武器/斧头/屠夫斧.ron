@@ -1,6 +1,6 @@
 ItemDef(
     name: "屠夫斧",
-    description: "",
+    description: "亡魂无数",
     kind: Tool((
         kind: Axe,
         hands: One,

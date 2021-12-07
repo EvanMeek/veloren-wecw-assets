@@ -1,6 +1,6 @@
 ItemDef(
     name: "收割斧",
-    description: "",
+    description: "以血养之方正其钢",
     kind: Tool((
         kind: Axe,
         hands: One,

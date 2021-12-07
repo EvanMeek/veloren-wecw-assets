@@ -1,6 +1,6 @@
 ItemDef(
     name: "青环斧",
-    description: "",
+    description: "拿起斧子无法拥抱你，放下斧子无法保护你",
     kind: Tool((
         kind: Axe,
         hands: One,

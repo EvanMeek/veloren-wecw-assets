@@ -1,6 +1,6 @@
 ItemDef(
     name: "花金斧",
-    description: "",
+    description: "力量是一切的源泉",
     kind: Tool((
         kind: Axe,
         hands: One,

@@ -1,6 +1,6 @@
 ItemDef(
     name: "狩人斧",
-    description: "",
+    description: "我看到那只鹿了...",
     kind: Tool((
         kind: Axe,
         hands: One,
