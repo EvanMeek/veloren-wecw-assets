@@ -594,13 +594,14 @@
         ],
         "单手锤":[
             ("common.items.WECW.单手武器.锤子.乱序锤",1),
-            ("common.items.WECW.单手武器.锤子.方棱锤",1),
-            ("common.items.WECW.单手武器.锤子.权之锤",1),
             ("common.items.WECW.单手武器.锤子.炬锤",1),
-            ("common.items.WECW.单手武器.锤子.翠晶锤",1),
             ("common.items.WECW.单手武器.锤子.艺术锤",1),
             ("common.items.WECW.单手武器.锤子.裹钢锤",1),
+            ("common.items.WECW.单手武器.锤子.方棱锤",1),
+            ("common.items.WECW.单手武器.锤子.翠晶锤",1),
             ("common.items.WECW.单手武器.锤子.链摆锤",1),
+            ("common.items.WECW.单手武器.锤子.权之锤",1),
+            ("common.items.WECW.碎星锤",1),
         ],
         "单手剑":[
             ("common.items.WECW.单手武器.剑.云剑",1),
@@ -611,5 +612,15 @@
             ("common.items.WECW.单手武器.剑.血锯",1),
             ("common.items.WECW.单手武器.剑.重柄刀",1),
             ("common.items.WECW.单手武器.剑.风剑",1),
+        ],
+        "单手斧":[
+            ("common.items.WECW.单手武器.斧头.剃斧",1),
+            ("common.items.WECW.单手武器.斧头.屠夫斧",1),
+            ("common.items.WECW.单手武器.斧头.收割斧",1),
+            ("common.items.WECW.单手武器.斧头.狩人斧",1),
+            ("common.items.WECW.单手武器.斧头.精锻斧",1),
+            ("common.items.WECW.单手武器.斧头.花金斧",1),
+            ("common.items.WECW.单手武器.斧头.青环斧",1),
+            ("common.items.WECW.单手武器.斧头.齿斧",1),
         ],
 })

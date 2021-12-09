@@ -1,0 +1,18 @@
+BasicMelee(
+    energy_cost: 60.0,
+    buildup_duration: 0.5,
+    swing_duration: 0.3,
+    recover_duration: 1.0,
+    base_damage: 10.00,
+    base_poise_damage: 15.5,
+    knockback: ( strength: 8.0, direction: Away),
+    range: 3.5,
+    max_angle: 60.0,
+    damage_effect: Some(Buff((
+        kind: Wet,
+        dur_secs: 3.0,
+        strength: Value(3.0),
+        chance: 0.3,
+    ))),
+    damage_kind: Crushing,
+)

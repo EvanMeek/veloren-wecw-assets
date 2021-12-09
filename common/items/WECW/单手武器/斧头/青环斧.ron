@@ -1,0 +1,21 @@
+ItemDef(
+    name: "青环斧",
+    description: "拿起斧子无法拥抱你，放下斧子无法保护你",
+    kind: Tool((
+        kind: Axe,
+        hands: One,
+        stats: Direct((
+            equip_time_secs: 0.15,
+            power: 3.2,
+            effect_power: 2.5,
+            speed: 1.1,
+            crit_chance: 0.65,
+            range: 1.3,
+            energy_efficiency: 1.0,
+            buff_strength: 1.0,
+        )),
+    )),
+    quality: Legendary,
+    ability_spec: Some(Custom("金单手斧技能组")),
+    tags: [],
+)

@@ -3,6 +3,8 @@
     (0.003, Item("common.items.WECW.源符文")),
     // 风暴大剑
     (0.01, Item("common.items.WECW.风暴大剑")),
+    // 翠晶锤
+    (0.05, Item("common.items.WECW.单手武器.锤子.翠晶锤")),
     // 守护项链
     (0.05, Item("common.items.WECW.neck.highneck")),
     // 祝福项链

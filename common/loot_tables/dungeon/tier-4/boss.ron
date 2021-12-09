@@ -17,6 +17,8 @@
     (0.1, ItemQuantity("common.items.crafting_ing.mindflayer_bag_damaged",2,2)),
     // 龙鳞
     (0.1, Item("common.items.crafting_ing.hide.dragon_scale")),
+    // 翠晶锤
+    (0.1, Item("common.items.WECW.单手武器.锤子.翠晶锤")),
     // 骨裂
     (0.2, Item("common.items.glider.glider_purp")),
     // 紫灯

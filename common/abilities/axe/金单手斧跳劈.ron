@@ -1,0 +1,21 @@
+LeapMelee(
+    energy_cost: 65.0,
+    buildup_duration: 0.4,
+    movement_duration: 0.1,
+    swing_duration: 0.2,
+    recover_duration: 0.8,
+    base_damage: 30,
+    base_poise_damage: 50,
+    knockback: 8.0,
+    range: 5.0,
+    max_angle: 50.0,
+    forward_leap_strength: 20.0,
+    vertical_leap_strength: 8.0,
+    damage_kind: Slashing,
+    damage_effect: Some(Buff((
+        kind: Crippled,
+        dur_secs: 3.0,
+        strength: Value(0.05),
+        chance: 0.5,
+    ))),
+)

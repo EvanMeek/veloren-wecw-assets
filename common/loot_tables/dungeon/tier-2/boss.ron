@@ -5,6 +5,8 @@
     (0.01, Item("common.items.WECW.旭日击破者")),
     // 冰风暴
     (0.01, Item("common.items.WECW.冰风暴")),
+    // 翠晶锤
+    (0.05, Item("common.items.WECW.单手武器.锤子.翠晶锤")),
     // 祝福
     (0.05, Item("common.items.WECW.neck.highneck")),
     // 守护

@@ -1,0 +1,21 @@
+ItemDef(
+    name: "精锻斧",
+    description: "千锤百炼之大成",
+    kind: Tool((
+        kind: Axe,
+        hands: One,
+        stats: Direct((
+            equip_time_secs: 0.2,
+            power: 2.4,
+            effect_power: 1.8,
+            speed: 1.3,
+            crit_chance: 0.37,
+            range: 1.1,
+            energy_efficiency: 1.0,
+            buff_strength: 1.0,
+        )),
+    )),
+    quality: Epic,
+    ability_spec: Some(Custom("紫单手斧技能组")),
+    tags: [],
+)
