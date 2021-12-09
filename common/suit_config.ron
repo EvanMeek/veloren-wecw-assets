@@ -3,14 +3,19 @@
         // 绿板甲
         Suit(
             // Additional energy cost for successfully blocking long-range attacks.
+            // 成功格挡远程攻击的额外耗蓝
             energy_cost: 4.5,
-            // Rebound damage
+            // Rebound damage.
+            // 反弹的基础伤害
             base_damage: 5.0,
-            // Armor protection damage bonus
+            // Armor protection damage bonus.
+            // 护甲伤害加成
             armor_damage_bonus: 0.6,
-            // Probability of successfully blocking the rebound damage
+            // Probability of successfully blocking the rebound damage.
+            // 成功盾反的机率
             chance: 0.30,
-            // Players must wear the following equipment to have the effects of rebound damage and block long-range damage
+            // Players must wear the following equipment to have the effects of rebound damage and block long-range damage.
+            // 玩家必须穿戴以下指定装备才能有盾反和格挡远程。
             required_suit: [
                 Item("common.items.armor.mail.steel.foot"),
                 Item("common.items.armor.mail.steel.hand"),
@@ -76,6 +81,6 @@
                 Item("common.items.WECW.套装.灵魂风暴.skullhand"),
                 Item("common.items.WECW.套装.灵魂风暴.skullchest"),
             ],
-        )
+        ),
     ]
 )
