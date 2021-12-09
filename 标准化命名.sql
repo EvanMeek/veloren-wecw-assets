@@ -40,13 +40,13 @@ UPDATE item SET item_definition_id="common.items.boss_drops.无敌药水" WHERE 
 UPDATE item SET item_definition_id="common.items.armor.misc.back.背包仓库" WHERE item_definition_id="common.items.armor.misc.back.backpack";
 
 -- 暗影邪教徒套
-UPDATE item SET item_definition_id="common.items.WECW.套装.邪教.back" WHERE item_definition_id="common.items.WECW.warloard.back";
-UPDATE item SET item_definition_id="common.items.WECW.套装.邪教.belt" WHERE item_definition_id="common.items.WECW.warloard.belt";
-UPDATE item SET item_definition_id="common.items.WECW.套装.邪教.chest" WHERE item_definition_id="common.items.WECW.warloard.chest";
-UPDATE item SET item_definition_id="common.items.WECW.套装.邪教.foot" WHERE item_definition_id="common.items.WECW.warloard.foot";
-UPDATE item SET item_definition_id="common.items.WECW.套装.邪教.hand" WHERE item_definition_id="common.items.WECW.warloard.hand";
-UPDATE item SET item_definition_id="common.items.WECW.套装.邪教.pants" WHERE item_definition_id="common.items.WECW.warloard.pants";
-UPDATE item SET item_definition_id="common.items.WECW.套装.邪教.shoulder" WHERE item_definition_id="common.items.WECW.warloard.shoulder";
+UPDATE item SET item_definition_id="common.items.WECW.套装.邪教.back" WHERE item_definition_id="common.items.WECW.warlord.back";
+UPDATE item SET item_definition_id="common.items.WECW.套装.邪教.belt" WHERE item_definition_id="common.items.WECW.warlord.belt";
+UPDATE item SET item_definition_id="common.items.WECW.套装.邪教.chest" WHERE item_definition_id="common.items.WECW.warlord.chest";
+UPDATE item SET item_definition_id="common.items.WECW.套装.邪教.foot" WHERE item_definition_id="common.items.WECW.warlord.foot";
+UPDATE item SET item_definition_id="common.items.WECW.套装.邪教.hand" WHERE item_definition_id="common.items.WECW.warlord.hand";
+UPDATE item SET item_definition_id="common.items.WECW.套装.邪教.pants" WHERE item_definition_id="common.items.WECW.warlord.pants";
+UPDATE item SET item_definition_id="common.items.WECW.套装.邪教.shoulder" WHERE item_definition_id="common.items.WECW.warlord.shoulder";
 
 -- 奥拉西斯;
 UPDATE item SET item_definition_id="common.items.WECW.套装.奥拉西斯.back" WHERE item_definition_id="common.items.WECW.velorite.back";
