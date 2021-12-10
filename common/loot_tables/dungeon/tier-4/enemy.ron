@@ -1,5 +1,6 @@
 [
     (0.002, Item("common.items.WECW.金符文")),
+    (0.01, Item("common.items.armor.misc.back.背包仓库-70")),
     (0.1, LootTable("common.loot_tables.weapons.tier-4")),
     (0.15, LootTable("common.loot_tables.food.wild_ingredients")),
     (0.5, Item("common.items.armor.misc.ring.gold")),
