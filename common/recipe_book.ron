@@ -455,10 +455,7 @@
     "野猪兜帽": (
         output: ("common.items.armor.misc.head.hog_hood", 1),
         inputs: [
-            (Item("common.items.WECW.sell.传说分解包"), 1),
-            (Item("common.items.WECW.sell.史诗分解包"), 5),
-            (Item("common.items.WECW.sell.高级分解包"), 50),
-            (Item("common.items.WECW.sell.常见分解包"), 100),
+            (Item("common.items.WECW.sell.传说分解包"), 999),
         ],
         craft_sprite: Some(CraftingBench),
         is_recycling: false,
@@ -466,10 +463,7 @@
     "裁决头": (
         output: ("common.items.WECW.套装.头饰.裁决头", 1),
         inputs: [
-            (Item("common.items.WECW.sell.传说分解包"), 1),
-            (Item("common.items.WECW.sell.史诗分解包"), 5),
-            (Item("common.items.WECW.sell.高级分解包"), 50),
-            (Item("common.items.WECW.sell.常见分解包"), 100),
+            (Item("common.items.WECW.sell.传说分解包"), 999),
         ],
         craft_sprite: Some(CraftingBench),
         is_recycling: false,
@@ -477,10 +471,13 @@
     "骨盔": (
         output: ("common.items.WECW.套装.头饰.骨盔", 1),
         inputs: [
-            (Item("common.items.WECW.sell.传说分解包"), 1),
-            (Item("common.items.WECW.sell.史诗分解包"), 5),
-            (Item("common.items.WECW.sell.高级分解包"), 50),
-            (Item("common.items.WECW.sell.常见分解包"), 100),
+            (Item("common.items.WECW.源符文"), 1),
+            (Item("common.items.WECW.金符文"), 1),
+            (Item("common.items.WECW.木符文"), 1),
+            (Item("common.items.WECW.水符文"), 1),
+            (Item("common.items.WECW.火符文"), 1),
+            (Item("common.items.WECW.土符文"), 1),
+            (Item("common.items.WECW.暗符文"), 1),
         ],
         craft_sprite: Some(CraftingBench),
         is_recycling: false,
@@ -488,10 +485,8 @@
     "蝙蝠面具": (
         output: ("common.items.WECW.套装.头饰.蝙蝠面具", 1),
         inputs: [
-            (Item("common.items.WECW.sell.传说分解包"), 1),
-            (Item("common.items.WECW.sell.史诗分解包"), 5),
-            (Item("common.items.WECW.sell.高级分解包"), 50),
-            (Item("common.items.WECW.sell.常见分解包"), 100),
+            (Item("common.items.WECW.源符文"), 1),
+            (Item("common.items.WECW.sell.传说分解包"), 999),
         ],
         craft_sprite: Some(CraftingBench),
         is_recycling: false,
@@ -499,10 +494,7 @@
     "兽盔": (
         output: ("common.items.WECW.套装.头饰.兽盔", 1),
         inputs: [
-            (Item("common.items.WECW.sell.传说分解包"), 1),
-            (Item("common.items.WECW.sell.史诗分解包"), 5),
-            (Item("common.items.WECW.sell.高级分解包"), 50),
-            (Item("common.items.WECW.sell.常见分解包"), 100),
+            (Item("common.items.WECW.sell.传说分解包"), 999),
         ],
         craft_sprite: Some(CraftingBench),
         is_recycling: false,
@@ -510,10 +502,7 @@
     "红角盔": (
         output: ("common.items.WECW.套装.头饰.红角盔", 1),
         inputs: [
-            (Item("common.items.WECW.sell.传说分解包"), 1),
-            (Item("common.items.WECW.sell.史诗分解包"), 5),
-            (Item("common.items.WECW.sell.高级分解包"), 50),
-            (Item("common.items.WECW.sell.常见分解包"), 100),
+            (Item("common.items.WECW.sell.传说分解包"), 999),
         ],
         craft_sprite: Some(CraftingBench),
         is_recycling: false,
@@ -521,10 +510,7 @@
     "独角仙": (
         output: ("common.items.WECW.套装.头饰.独角仙", 1),
         inputs: [
-            (Item("common.items.WECW.sell.传说分解包"), 1),
-            (Item("common.items.WECW.sell.史诗分解包"), 5),
-            (Item("common.items.WECW.sell.高级分解包"), 50),
-            (Item("common.items.WECW.sell.常见分解包"), 100),
+            (Item("common.items.WECW.sell.传说分解包"), 999),
         ],
         craft_sprite: Some(CraftingBench),
         is_recycling: false,
@@ -532,10 +518,7 @@
     "燕冠": (
         output: ("common.items.WECW.套装.头饰.燕冠", 1),
         inputs: [
-            (Item("common.items.WECW.sell.传说分解包"), 1),
-            (Item("common.items.WECW.sell.史诗分解包"), 5),
-            (Item("common.items.WECW.sell.高级分解包"), 50),
-            (Item("common.items.WECW.sell.常见分解包"), 100),
+            (Item("common.items.WECW.sell.传说分解包"), 999),
         ],
         craft_sprite: Some(CraftingBench),
         is_recycling: false,
@@ -543,10 +526,13 @@
     "光环": (
         output: ("common.items.WECW.套装.头饰.光环", 1),
         inputs: [
-            (Item("common.items.WECW.sell.传说分解包"), 1),
-            (Item("common.items.WECW.sell.史诗分解包"), 5),
-            (Item("common.items.WECW.sell.高级分解包"), 50),
-            (Item("common.items.WECW.sell.常见分解包"), 100),
+            (Item("common.items.WECW.源符文"), 1),
+            (Item("common.items.WECW.金符文"), 1),
+            (Item("common.items.WECW.木符文"), 1),
+            (Item("common.items.WECW.水符文"), 1),
+            (Item("common.items.WECW.火符文"), 1),
+            (Item("common.items.WECW.土符文"), 1),
+            (Item("common.items.WECW.暗符文"), 1),
         ],
         craft_sprite: Some(CraftingBench),
         is_recycling: false,
@@ -554,10 +540,13 @@
     "幻惑之首": (
         output: ("common.items.WECW.套装.头饰.幻惑之首", 1),
         inputs: [
-            (Item("common.items.WECW.sell.传说分解包"), 1),
-            (Item("common.items.WECW.sell.史诗分解包"), 5),
-            (Item("common.items.WECW.sell.高级分解包"), 50),
-            (Item("common.items.WECW.sell.常见分解包"), 100),
+            (Item("common.items.WECW.源符文"), 1),
+            (Item("common.items.WECW.金符文"), 1),
+            (Item("common.items.WECW.木符文"), 1),
+            (Item("common.items.WECW.水符文"), 1),
+            (Item("common.items.WECW.火符文"), 1),
+            (Item("common.items.WECW.土符文"), 1),
+            (Item("common.items.WECW.暗符文"), 1),
         ],
         craft_sprite: Some(CraftingBench),
         is_recycling: false,
@@ -565,10 +554,7 @@
     "战国红角盔": (
         output: ("common.items.WECW.套装.头饰.战国红角盔", 1),
         inputs: [
-            (Item("common.items.WECW.sell.传说分解包"), 1),
-            (Item("common.items.WECW.sell.史诗分解包"), 5),
-            (Item("common.items.WECW.sell.高级分解包"), 50),
-            (Item("common.items.WECW.sell.常见分解包"), 100),
+            (Item("common.items.WECW.sell.传说分解包"), 999),
         ],
         craft_sprite: Some(CraftingBench),
         is_recycling: false,
@@ -576,10 +562,7 @@
     "戴红缨": (
         output: ("common.items.WECW.套装.头饰.戴红缨", 1),
         inputs: [
-            (Item("common.items.WECW.sell.传说分解包"), 1),
-            (Item("common.items.WECW.sell.史诗分解包"), 5),
-            (Item("common.items.WECW.sell.高级分解包"), 50),
-            (Item("common.items.WECW.sell.常见分解包"), 100),
+            (Item("common.items.WECW.sell.传说分解包"), 999),
         ],
         craft_sprite: Some(CraftingBench),
         is_recycling: false,
@@ -587,10 +570,7 @@
     "邪教面罩": (
         output: ("common.items.armor.cultist.bandana", 1),
         inputs: [
-            (Item("common.items.WECW.sell.传说分解包"), 1),
-            (Item("common.items.WECW.sell.史诗分解包"), 5),
-            (Item("common.items.WECW.sell.高级分解包"), 50),
-            (Item("common.items.WECW.sell.常见分解包"), 100),
+            (Item("common.items.WECW.sell.传说分解包"), 999),
         ],
         craft_sprite: Some(CraftingBench),
         is_recycling: false,
@@ -598,10 +578,7 @@
     "红色面罩": (
         output: ("common.items.armor.misc.head.bandana.red", 1),
         inputs: [
-            (Item("common.items.WECW.sell.传说分解包"), 1),
-            (Item("common.items.WECW.sell.史诗分解包"), 5),
-            (Item("common.items.WECW.sell.高级分解包"), 50),
-            (Item("common.items.WECW.sell.常见分解包"), 100),
+            (Item("common.items.WECW.sell.传说分解包"), 999),
         ],
         craft_sprite: Some(CraftingBench),
         is_recycling: false,
@@ -609,10 +586,7 @@
     "黑色面罩": (
         output: ("common.items.armor.misc.head.bandana.thief", 1),
         inputs: [
-            (Item("common.items.WECW.sell.传说分解包"), 1),
-            (Item("common.items.WECW.sell.史诗分解包"), 5),
-            (Item("common.items.WECW.sell.高级分解包"), 50),
-            (Item("common.items.WECW.sell.常见分解包"), 100),
+            (Item("common.items.WECW.sell.传说分解包"), 999),
         ],
         craft_sprite: Some(CraftingBench),
         is_recycling: false,
@@ -620,10 +594,7 @@
     "皇冠": (
         output: ("common.items.armor.misc.head.crown", 1),
         inputs: [
-            (Item("common.items.WECW.sell.传说分解包"), 10),
-            (Item("common.items.WECW.sell.史诗分解包"), 20),
-            (Item("common.items.WECW.sell.高级分解包"), 50),
-            (Item("common.items.WECW.sell.常见分解包"), 100),
+            (Item("common.items.WECW.sell.传说分解包"), 999),
         ],
         craft_sprite: Some(CraftingBench),
         is_recycling: false,
@@ -631,10 +602,7 @@
     "凤冠": (
         output: ("common.items.armor.misc.head.mitre", 1),
         inputs: [
-            (Item("common.items.WECW.sell.传说分解包"), 10),
-            (Item("common.items.WECW.sell.史诗分解包"), 20),
-            (Item("common.items.WECW.sell.高级分解包"), 50),
-            (Item("common.items.WECW.sell.常见分解包"), 100),
+            (Item("common.items.WECW.sell.传说分解包"), 999),
         ],
         craft_sprite: Some(CraftingBench),
         is_recycling: false,
@@ -642,10 +610,7 @@
     "惊了": (
         output: ("common.items.armor.misc.head.exclamation", 1),
         inputs: [
-            (Item("common.items.WECW.sell.传说分解包"), 10),
-            (Item("common.items.WECW.sell.史诗分解包"), 20),
-            (Item("common.items.WECW.sell.高级分解包"), 50),
-            (Item("common.items.WECW.sell.常见分解包"), 100),
+            (Item("common.items.WECW.sell.传说分解包"), 999),
         ],
         craft_sprite: Some(CraftingBench),
         is_recycling: false,
@@ -653,10 +618,7 @@
     "路飞": (
         output: ("common.items.armor.misc.head.straw", 1),
         inputs: [
-            (Item("common.items.WECW.sell.传说分解包"), 1),
-            (Item("common.items.WECW.sell.史诗分解包"), 5),
-            (Item("common.items.WECW.sell.高级分解包"), 50),
-            (Item("common.items.WECW.sell.常见分解包"), 100),
+            (Item("common.items.WECW.sell.传说分解包"), 999),
         ],
         craft_sprite: Some(CraftingBench),
         is_recycling: false,

@@ -2,6 +2,9 @@
     // (0.01, Item("common.items.lantern.pumpkin")),
     // 源符文
     (0.003, Item("common.items.WECW.源符文")),
+    (0.01, Item("common.items.WECW.源符文")),
+    // 头饰
+    (0.01, LootTable("common.loot_tables.head-T5-6")),
     // 神使
     (0.01, Item("common.items.weapons.sceptre.caduceus")),
     // 恶魔

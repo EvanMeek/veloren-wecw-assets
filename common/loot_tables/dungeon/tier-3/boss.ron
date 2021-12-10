@@ -1,6 +1,8 @@
 [
     // 源符文
     (0.003, Item("common.items.WECW.源符文")),
+    // 头饰
+    (0.01, LootTable("common.loot_tables.head-T3-4")),
     // 风暴大剑
     (0.01, Item("common.items.WECW.风暴大剑")),
     // 翠晶锤

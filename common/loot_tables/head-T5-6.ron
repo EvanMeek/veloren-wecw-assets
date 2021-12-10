@@ -1,0 +1,8 @@
+[
+    // 凤冠
+    (1.0, Item("common.items.armor.misc.head.straw")),
+    // 凤冠
+    (1.0, Item("common.items.armor.misc.head.mitre")),
+    // 王冠
+    (1.0, Item("common.items.armor.misc.head.crown")),
+]

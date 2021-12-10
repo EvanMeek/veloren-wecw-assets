@@ -1,6 +1,6 @@
 ItemDef(
-    name: "皇冠",
-    description: "纪念物品——活动奖励",
+    name: "王冠",
+    description: "King of Veloren！\nT5-T6地牢掉落。",
     kind: Armor((
         kind: Head("Crown"),
         stats: (

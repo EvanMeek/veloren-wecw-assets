@@ -1,0 +1,5 @@
+[
+    (1.0, Item("common.items.armor.misc.head.spikeguard")),
+    (1.0, Item("common.items.armor.misc.head.bandana.red")),
+    (1.0, Item("common.items.armor.misc.head.bandana.thief")),
+]

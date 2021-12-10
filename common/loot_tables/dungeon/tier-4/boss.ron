@@ -1,6 +1,8 @@
 [
     // 源符文
     (0.003, Item("common.items.WECW.源符文")),
+    // 头饰
+    (0.01, LootTable("common.loot_tables.head-T5-6")),
     // 暗金冲击锤
     (0.01, Item("common.items.WECW.暗金冲击锤")),
     // 遗忘战斧

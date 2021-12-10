@@ -1,6 +1,6 @@
 ItemDef(
     name: "蝙蝠面具",
-    description: "纪念物品——活动奖励",
+    description: "哥谭守护者。\nT3-T4地牢掉落",
     kind: Armor((
         kind: Head("蝙蝠面具"),
         stats: (

@@ -1,4 +1,5 @@
 [
+    (0.01, LootTable("common.loot_tables.head-T1-2")),
     // 祝福项链
     (0.01, Item("common.items.WECW.neck.highneck")),
     // 守护项链

@@ -1,6 +1,6 @@
 ItemDef(
     name: "路飞的草帽",
-    description: "我可是要成为海贼王的男人！\n纪念物品——活动奖励。",
+    description: "我可是要成为海贼王的男人！\nT5-T6地牢掉落。",
     kind: Armor((
         kind: Head("Straw"),
         stats: (
