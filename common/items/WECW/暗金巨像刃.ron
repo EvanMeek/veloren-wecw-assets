@@ -16,6 +16,6 @@ ItemDef(
         )),
     )),
     quality: Legendary,
-    tags: [SalvageInto(LegendarySell),],
+    tags: [],
     ability_spec: Some(Custom("金单双手剑技能组")),
 )
