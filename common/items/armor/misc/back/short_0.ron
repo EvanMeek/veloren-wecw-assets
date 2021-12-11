@@ -1,6 +1,6 @@
 ItemDef(
     name: "冒险者皮披风",
-    description: "可能是最好的皮革做的.",
+    description: "可能是最好的皮革做的.\n请按c打开合成表，利用一个奶酪合成一个新手卷轴。",
     kind: Armor((
         kind: Back("Short0"),
         stats: (

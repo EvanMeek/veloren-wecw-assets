@@ -1,6 +1,6 @@
 ItemDef(
     name: "冒险者的粗犷衬衫",
-    description: "散发着冒险的气息.",
+    description: "散发着冒险的气息.\n请按c打开合成表，利用一个奶酪合成一个新手卷轴。",
     kind: Armor((
         kind: Chest("Rugged"),
         stats: (

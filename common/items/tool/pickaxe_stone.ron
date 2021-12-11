@@ -1,6 +1,6 @@
 ItemDef(
     name: "石镐",
-    description: "挖穿地球！在地图上的矿洞区域用于挖掘洞内的水晶矿石.",
+    description: "(萌新必备)挖穿地球！在地图上的矿洞区域用于挖掘洞内的水晶矿石.",
     kind: Tool((
         kind: Pick,
         hands: Two,
