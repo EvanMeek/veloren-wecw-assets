@@ -1,6 +1,6 @@
 ItemDef(
-    name: "Iron Cloak",
-    description: "Sturdy and unyielding, across ages of war.",
+    name: "坚韧 | 披风",
+    description: "坚韧不屈，经历过战争。",
     kind: Armor((
         kind: Back("Iron"),
         stats: (

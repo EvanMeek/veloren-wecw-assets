@@ -1,6 +1,6 @@
 ItemDef(
-    name: "Iron Footguards",
-    description: "Sturdy and unyielding, across ages of war.",
+    name: "坚韧 | 护足",
+    description: "坚韧不屈，经历过战争。",
     kind: Armor((
         kind: Foot("Iron"),
         stats: (

@@ -1,6 +1,6 @@
 ItemDef(
-    name: "Leather Gloves",
-    description: "Swift like the wind.",
+    name: "兽皮 | 护手",
+    description: "疾如风.",
     kind: Armor((
         kind: Hand("Leather"),
         stats: (

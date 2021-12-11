@@ -1,6 +1,6 @@
 ItemDef(
-    name: "Leather Cloak",
-    description: "Swift like the wind.",
+    name: "兽皮 | 披风",
+    description: "疾如风.",
     kind: Armor((
         kind: Back("Leather"),
         stats: (

@@ -1,6 +1,6 @@
 ItemDef(
-    name: "Leather Pants",
-    description: "Swift like the wind.",
+    name: "兽皮 | 护腿",
+    description: "疾如风.",
     kind: Armor((
         kind: Pants("Leather"),
         stats: (

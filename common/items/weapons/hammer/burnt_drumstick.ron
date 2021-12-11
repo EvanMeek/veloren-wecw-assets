@@ -1,6 +1,6 @@
 ItemDef(
-    name: "Burnt Drumstick",
-    description: "Might need more practice...",
+    name: "烧焦的火腿",
+    description: "可能还需要练...",
     kind: Tool((
         kind: Hammer,
         hands: Two,

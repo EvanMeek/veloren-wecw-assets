@@ -1,6 +1,6 @@
 ItemDef(
-    name: "Rawhide Belt",
-    description: "'Tightly packed pieces of leather to endure all weather.'",
+    name: "原革 | 腰带",
+    description: "能适应天气多变的Veloren世界。",
     kind: Armor((
         kind: Belt("Rawhide"),
         stats: (

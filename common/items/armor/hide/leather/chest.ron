@@ -1,6 +1,6 @@
 ItemDef(
-    name: "Leather Chestpiece",
-    description: "Swift like the wind.",
+    name: "兽皮 | 胸甲",
+    description: "疾如风.",
     kind: Armor((
         kind: Chest("Leather"),
         stats: (

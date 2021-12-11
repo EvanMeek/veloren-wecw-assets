@@ -1,6 +1,6 @@
 ItemDef(
-    name: "Bronze Girdle",
-    description: "'Heavy and dull, but it can take a punch.'",
+    name: "青铜 | 腰带",
+    description: "十分沉重，但抗击打性不错。",
     kind: Armor((
         kind: Belt("Bronze"),
         stats: (
