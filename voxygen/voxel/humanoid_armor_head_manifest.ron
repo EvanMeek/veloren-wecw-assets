@@ -161,7 +161,7 @@
             color: None
         ),
         (Elf, Male, "独角仙"): (
-            vox_spec: ("armor.warlordG.独角仙", (-1.0, -8.0, -2.0)),
+            vox_spec: ("armor.warlordG.独角仙", (0.0, -2.0, -3.0)),
             color: None
         ),
         (Elf, Female, "独角仙"): (
@@ -264,7 +264,7 @@
             color: None
         ),
         (Elf, Male, "骨盔"): (
-            vox_spec: ("armor.warlordG.骨盔", (1.0, -3.0, -2.0)),
+            vox_spec: ("armor.warlordG.骨盔", (0.0, -2.0, -2.0)),
             color: None
         ),
         (Orc, Female, "骨盔"): (
