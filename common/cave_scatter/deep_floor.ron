@@ -1,6 +1,6 @@
 [
-    (10, Velorite),
-    (10, VeloriteFrag),
+    (20, Velorite),
+    (20, VeloriteFrag),
     (10, CaveMushroom),
     (10, Mushroom),
     (10, AmethystSmall),
@@ -8,7 +8,7 @@
     (10, SapphireSmall),
     (10, CrystalLow),
     (10, EmeraldSmall),
-    (10, Coal),
-    (10, Iron),
+    (20, Coal),
+    (20, Iron),
     (10, RubySmall),
 ]
