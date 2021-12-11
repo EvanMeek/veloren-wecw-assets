@@ -1091,6 +1091,14 @@
         craft_sprite: None,
         is_recycling: true,
     ),
+    "史诗回收2": (
+        output: ("common.items.crafting_ing.mindflayer_bag_damaged", 1),
+        inputs: [
+            (Item("common.items.WECW.sell.史诗分解包"),3),
+        ],
+        craft_sprite: None,
+        is_recycling: true,
+    ),
     "高级回收": (
         output: ("common.items.WECW.蓝金币", 5),
         inputs: [
