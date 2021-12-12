@@ -1,6 +1,6 @@
 ItemDef(
-    name: "高尔夫",
-    description: "农民起义,反城市化,思想危机？什么时候会发生",
+    name: "高尔夫球杆",
+    description: "无头苍蝇般的农民，激烈的反对城市化。气候危机，那是啥？",
     kind: Tool((
         kind: Hammer,
         hands: Two,
