@@ -1,6 +1,6 @@
 ItemDef(
-    name: "Fanged Bow",
-    description: "There are over a dozen small fangs attached to the bow limbs",
+    name: "尖牙弓",
+    description: "弓身上有很多小尖牙。",
     kind: Tool((
         kind: Bow,
         hands: Two,

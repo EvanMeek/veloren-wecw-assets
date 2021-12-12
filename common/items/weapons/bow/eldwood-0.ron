@@ -1,6 +1,6 @@
 ItemDef(
-    name: "Eldwood Bow",
-    description: "The wood feels old, yet still alive",
+    name: "艾德木弓",
+    description: "老旧的木炳，却又蕴含生命。",
     kind: Tool((
         kind: Bow,
         hands: Two,

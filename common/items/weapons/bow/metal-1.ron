@@ -1,6 +1,6 @@
 ItemDef(
-    name: "Enchanted Longbow",
-    description: "You feel a faint magical aura emanating from the bow",
+    name: "魔力长弓",
+    description: "你可以从这把弓感受到微弱的魔法。",
     kind: Tool((
         kind: Bow,
         hands: Two,

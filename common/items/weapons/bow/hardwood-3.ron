@@ -1,6 +1,6 @@
 ItemDef(
-    name: "Horse Bow",
-    description: "Perfect for mounted archery",
+    name: "骏马弓",
+    description: "十分适合骑射",
     kind: Tool((
         kind: Bow,
         hands: Two,

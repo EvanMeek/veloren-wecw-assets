@@ -1,6 +1,6 @@
 ItemDef(
-    name: "Lunar Bow",
-    description: "Glows under the light of the moon",
+    name: "银月弓",
+    description: "月光照映着它..",
     kind: Tool((
         kind: Bow,
         hands: Two,

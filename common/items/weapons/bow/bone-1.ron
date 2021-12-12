@@ -1,6 +1,6 @@
 ItemDef(
-    name: "Horn Bow",
-    description: "The horns aren't from any creature you know",
+    name: "号角弓",
+    description: "谁也不知道此号角是用生物的角做的。",
     kind: Tool((
         kind: Bow,
         hands: Two,

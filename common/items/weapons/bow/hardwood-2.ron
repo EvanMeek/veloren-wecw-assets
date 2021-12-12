@@ -1,6 +1,6 @@
 ItemDef(
-    name: "Elven Longbow",
-    description: "Made with exquisite craftsmanship",
+    name: "精灵长弓",
+    description: "以精湛的工艺打造",
     kind: Tool((
         kind: Bow,
         hands: Two,

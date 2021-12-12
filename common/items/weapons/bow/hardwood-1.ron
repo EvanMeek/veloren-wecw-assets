@@ -1,6 +1,6 @@
 ItemDef(
-    name: "Composite Bow",
-    description: "It has a heavy draw weight",
+    name: "复合弓",
+    description: "高拉力！",
     kind: Tool((
         kind: Bow,
         hands: Two,

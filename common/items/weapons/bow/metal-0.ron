@@ -1,6 +1,6 @@
 ItemDef(
-    name: "Beetlehorn Bow",
-    description: "Made from the horns of a small beetle",
+    name: "甲虫弓",
+    description: "由甲虫角制作而成。",
     kind: Tool((
         kind: Bow,
         hands: Two,
