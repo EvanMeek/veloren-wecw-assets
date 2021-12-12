@@ -19,12 +19,12 @@ SpawnEntry (
         ),
         Pack(
             groups: [
-                (1, (3, 6, "common.entity.wild.aggressive.tiger")),
-                (1, (3, 6, "common.entity.wild.aggressive.maneater")),
+                (1, (2, 4, "common.entity.wild.aggressive.tiger")),
+                (1, (2, 4, "common.entity.wild.aggressive.maneater")),
                 (1, (1, 3, "common.entity.wild.aggressive.cockatrice")),
-                (1, (1, 3, "common.entity.dungeon.tier-0.spear")),
-                (1, (1, 3, "common.entity.dungeon.tier-0.bow")),
-                (1, (1, 3, "common.entity.dungeon.tier-0.staff")),
+                (1, (1, 2, "common.entity.dungeon.tier-0.spear")),
+                (1, (1, 2, "common.entity.dungeon.tier-0.bow")),
+                (1, (1, 2, "common.entity.dungeon.tier-0.staff")),
             ],
             is_underwater: false,
             day_period: [Night],
