@@ -4,9 +4,9 @@ BasicRanged(
     recover_duration: 0.3,
     projectile: Fireball(
         min_falloff: 0.5,
-        damage: 10.5,
+        damage: 20.5,
         radius: 5.0,
-        energy_regen: 15.0,
+        energy_regen: 17.0,
     ),
     projectile_body: Object(BoltFire),
     projectile_speed: 60.0,
