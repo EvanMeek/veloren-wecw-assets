@@ -1,6 +1,6 @@
 ItemDef(
-    name: "Fishing Rod",
-    description: "Smells of fish.",
+    name: "鱼竿",
+    description: "鱼腥味",
     kind: Tool((
         kind: Farming,
         hands: Two,

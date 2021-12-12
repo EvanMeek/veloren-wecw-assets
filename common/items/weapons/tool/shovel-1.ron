@@ -1,6 +1,6 @@
 ItemDef(
-    name: "Shovel",
-    description: "It's been recently cleaned.",
+    name: "铲子",
+    description: "最近打扫过了",
     kind: Tool((
         kind: Farming,
         hands: Two,

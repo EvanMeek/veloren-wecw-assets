@@ -1,6 +1,6 @@
 ItemDef(
-    name: "Shovel",
-    description: "It's covered in manure.",
+    name: "铲子",
+    description: "它被粪肥覆盖着",
     kind: Tool((
         kind: Farming,
         hands: Two,

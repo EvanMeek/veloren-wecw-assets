@@ -1,6 +1,6 @@
 ItemDef(
-    name: "Hoe",
-    description: "It's stained with dirt.",
+    name: "锄头",
+    description: "看起来脏兮兮的",
     kind: Tool((
         kind: Farming,
         hands: Two,
