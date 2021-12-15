@@ -1176,7 +1176,7 @@
     "金矿": (
         output: ("common.items.WECW.白金币", 1),
         inputs: [
-            (Item("common.items.mineral.ore.gold"), 0),
+            (Item("common.items.mineral.ore.gold"), 1),
         ],
         craft_sprite: None,
         is_recycling: true,
@@ -1184,7 +1184,7 @@
     "银矿": (
         output: ("common.items.WECW.白金币", 1),
         inputs: [
-            (Item("common.items.mineral.ore.silver"), 0),
+            (Item("common.items.mineral.ore.silver"), 1),
         ],
         craft_sprite: None,
         is_recycling: true,
@@ -1192,7 +1192,7 @@
     "血石矿": (
         output: ("common.items.WECW.白金币", 1),
         inputs: [
-            (Item("common.items.mineral.ore.bloodstone"), 0),
+            (Item("common.items.mineral.ore.bloodstone"), 1),
         ],
         craft_sprite: None,
         is_recycling: true,
@@ -1200,7 +1200,7 @@
     "钴矿": (
         output: ("common.items.utility.coins", 300),
         inputs: [
-            (Item("common.items.mineral.ore.cobalt"), 0),
+            (Item("common.items.mineral.ore.cobalt"), 1),
         ],
         craft_sprite: None,
         is_recycling: true,
@@ -1208,7 +1208,7 @@
     "铁矿": (
         output: ("common.items.utility.coins", 150),
         inputs: [
-            (Item("common.items.mineral.ore.iron"), 0),
+            (Item("common.items.mineral.ore.iron"), 1),
         ],
         craft_sprite: None,
         is_recycling: true,
@@ -1216,7 +1216,7 @@
     "钻石": (
         output: ("common.items.WECW.白金币", 1),
         inputs: [
-            (Item("common.items.mineral.gem.diamond"), 0),
+            (Item("common.items.mineral.gem.diamond"), 1),
         ],
         craft_sprite: None,
         is_recycling: true,
@@ -1224,7 +1224,7 @@
     "红宝石": (
         output: ("common.items.utility.coins", 300),
         inputs: [
-            (Item("common.items.mineral.gem.ruby"), 0),
+            (Item("common.items.mineral.gem.ruby"), 1),
         ],
         craft_sprite: None,
         is_recycling: true
@@ -1232,7 +1232,7 @@
     "翡翠": (
         output: ("common.items.utility.coins", 200),
         inputs: [
-            (Item("common.items.mineral.gem.emerald"), 0),
+            (Item("common.items.mineral.gem.emerald"), 1),
         ],
         craft_sprite: None,
         is_recycling: true,
@@ -1240,7 +1240,7 @@
     "蓝宝石": (
         output: ("common.items.utility.coins", 100),
         inputs: [
-            (Item("common.items.mineral.gem.sapphire"), 0),
+            (Item("common.items.mineral.gem.sapphire"), 1),
         ],
         craft_sprite: None,
         is_recycling: true,
@@ -1248,7 +1248,7 @@
     "紫水晶": (
         output: ("common.items.utility.coins", 50),
         inputs: [
-            (Item("common.items.mineral.gem.amethyst"), 0),
+            (Item("common.items.mineral.gem.amethyst"), 1),
         ],
         craft_sprite: None,
         is_recycling: true,
@@ -1256,7 +1256,7 @@
     "黄宝石": (
         output: ("common.items.utility.coins", 50),
         inputs: [
-            (Item("common.items.mineral.gem.topaz"), 0),
+            (Item("common.items.mineral.gem.topaz"), 1),
         ],
         craft_sprite: None,
         is_recycling: true,
