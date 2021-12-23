@@ -1,10 +1,8 @@
 [
-    (0, Velorite),
-    (0, VeloriteFrag),
-    (15, Cobalt),
-    (15, Bloodstone),
-    (15, Silver),
-    (15, Gold),
-    (15, DiamondSmall),
-    (15, Bloodstone),
+    (5, Cobalt),
+    (5, Bloodstone),
+    (5, Silver),
+    (5, Gold),
+    (5, DiamondSmall),
+    (5, Bloodstone),
 ]

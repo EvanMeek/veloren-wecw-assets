@@ -1,6 +1,8 @@
 [
     // 源符文
     (0.003, Item("common.items.WECW.源符文")),
+    // 头饰
+    (0.01, LootTable("common.loot_tables.head-T5-6")),
     // 暗金冲击锤
     (0.01, Item("common.items.WECW.暗金冲击锤")),
     // 遗忘战斧
@@ -28,5 +30,5 @@
     // 无敌药水
     (0.3, ItemQuantity("common.items.boss_drops.无敌药水",1,5)),
     // 白金币
-    (1.0, ItemQuantity("common.items.WECW.白金币", 75, 120)),
+    (1.0, ItemQuantity("common.items.WECW.白金币", 20, 120)),
 ]

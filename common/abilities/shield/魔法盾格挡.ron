@@ -3,5 +3,5 @@ BasicBlock(
     recover_duration: 0.01,
     max_angle: 70.0,
     block_strength: 0.1,
-    energy_cost: 7.0,
+    energy_cost: 12.0,
 )

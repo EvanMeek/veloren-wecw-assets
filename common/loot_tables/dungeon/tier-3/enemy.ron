@@ -1,5 +1,6 @@
 [
     (0.001, Item("common.items.WECW.土符文")),
+    (0.01, Item("common.items.armor.misc.back.背包仓库-70")),
     (0.15, LootTable("common.loot_tables.weapons.tier-4")),
     (0.25, LootTable("common.loot_tables.weapons.tier-3")),
     (0.5, LootTable("common.loot_tables.humanoids")),

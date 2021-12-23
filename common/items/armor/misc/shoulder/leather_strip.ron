@@ -1,6 +1,6 @@
 ItemDef(
     name: "冒险者皮条护肩",
-    description: "鞣制的动物皮条，形成松散的垫肩.",
+    description: "鞣制的动物皮条，形成松散的垫肩.\n请按c打开合成表，利用一个奶酪合成一个新手卷轴。",
     kind: Armor((
         kind: Shoulder("LeatherStrip"),
         stats: (

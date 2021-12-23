@@ -1,6 +1,6 @@
 ItemDef(
-    name: "Leather Shoulderpads",
-    description: "Swift like the wind.",
+    name: "兽皮 | 护肩",
+    description: "疾如风.",
     kind: Armor((
         kind: Shoulder("Leather"),
         stats: (

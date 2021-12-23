@@ -1,5 +1,7 @@
 [
     (0.01, Item("common.items.WECW.木符文")),
+    // 头饰
+    (0.01, LootTable("common.loot_tables.head-T1-2")),
     // 蓝色武器系列
     (0.25, LootTable("common.loot_tables.weapons.tier-5")),
     // 普通蓝色武器系列
@@ -9,5 +11,5 @@
     // 绿色葡萄糖
     (0.8, ItemQuantity("common.items.crafting_ing.animal_misc.lively_vine", 5, 10)),
     // 白金币
-    (1.0, ItemQuantity("common.items.WECW.白金币", 5, 10)),
+    (1.0, ItemQuantity("common.items.WECW.白金币", 1, 5)),
 ]

@@ -1,0 +1,6 @@
+[
+    (1.0, Item("common.items.WECW.套装.头饰.戴红缨")),
+    (1.0, Item("common.items.WECW.套装.头饰.蝙蝠面具")),
+    //野猪兜帽
+    (1.0, Item("common.items.armor.misc.head.hog_hood")),
+]

@@ -10,6 +10,8 @@
     Armor(Ring1): Item("common.items.armor.misc.ring.scratched"),
     Armor(Ring2): Item("common.items.armor.misc.ring.scratched"),
     Armor(Bag1): Item("common.items.armor.misc.bag.tiny_leather_pouch"),
-    Armor(Bag2): Item("common.items.armor.misc.bag.knitted_red_pouch"),
+    Armor(Bag2): Item("common.items.armor.misc.bag.tiny_leather_pouch"),
+    Armor(Bag3): Item("common.items.armor.misc.bag.tiny_leather_pouch"),
+    Armor(Bag4): Item("common.items.armor.misc.bag.tiny_leather_pouch"),
     Glider: Item("common.items.glider.glider_cloverleaf"),
 })

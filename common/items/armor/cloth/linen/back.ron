@@ -1,6 +1,6 @@
 ItemDef(
-    name: "Linen Shawl",
-    description: "Roughly stitched, but it seems to hold.",
+    name: "亚麻布 | 披风",
+    description: "粗糙的缝线技术, 但还挺坚挺的。",
     kind: Armor((
         kind: Back("Linen"),
         stats: (

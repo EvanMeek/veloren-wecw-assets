@@ -1,6 +1,6 @@
 ItemDef(
-    name: "Ritual Bow",
-    description: "A ceremonial weapon",
+    name: "祭奠弓",
+    description: "一把庄重的武器。",
     kind: Tool((
         kind: Bow,
         hands: Two,

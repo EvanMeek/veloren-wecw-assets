@@ -1,6 +1,6 @@
 ItemDef(
     name: "戴红缨",
-    description: "纪念物品——活动奖励",
+    description: "枪出入龙!\nT3-T4地牢掉落",
     kind: Armor((
         kind: Head("戴红缨"),
         stats: (

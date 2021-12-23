@@ -1,6 +1,6 @@
 ItemDef(
     name: "野猪兜帽",
-    description: "穿上你杀死的大猪的饰品，这样才算尊重它的牺牲。",
+    description: "穿上你杀死的大猪的饰品，这样才算尊重它的牺牲。\nT3-T4地牢掉落",
     kind: Armor((
         kind: Head("HogHood"),
         stats: (

@@ -1,12 +1,12 @@
 ItemDef(
-    name: "Elven Shortbow",
-    description: "Made with exquisite craftsmanship",
+    name: "精灵短弓",
+    description: "以精湛的工艺打造。",
     kind: Tool((
         kind: Bow,
         hands: Two,
         stats: Direct((
             equip_time_secs: 0.4,
-            power: 0.9,
+            power: 1.4,
             effect_power: 0.8,
             speed: 0.9,
             crit_chance: 0.0625,

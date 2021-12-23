@@ -5,13 +5,13 @@ BasicAura(
     targets: InGroup,
     aura: (
         kind: Regeneration,
-        strength: 0.9,
+        strength: 0.6,
         duration: Some(6.0),
         category: Magical,
     ),
     aura_duration: 1.0,
     range: 25.0,
-    energy_cost: 100.0,
+    energy_cost: 65.0,
     scales_with_combo: true,
     specifier: HealingAura,
 )

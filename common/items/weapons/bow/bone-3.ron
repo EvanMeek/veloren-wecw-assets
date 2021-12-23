@@ -1,6 +1,6 @@
 ItemDef(
-    name: "Spinal Bow",
-    description: "Made with bones",
+    name: "骨脊弓",
+    description: "使用骨头打造而成。",
     kind: Tool((
         kind: Bow,
         hands: Two,

@@ -1,6 +1,6 @@
 ItemDef(
-    name: "Pitchfork",
-    description: "One of the prongs is broken.",
+    name: "干草叉",
+    description: "一个尖头断了。",
     kind: Tool((
         kind: Farming,
         hands: Two,

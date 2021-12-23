@@ -1,6 +1,6 @@
 ItemDef(
-    name: "Eagle Bow",
-    description: "The design is reminiscent of a spread eagle's wings",
+    name: "鹰弓",
+    description: "这让我联想到绽开翅膀高飞的鹰。",
     kind: Tool((
         kind: Bow,
         hands: Two,

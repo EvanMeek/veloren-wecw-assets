@@ -3,7 +3,7 @@ BasicBeam(
     recover_duration: 0.40,
     beam_duration: 1.0,
     damage: 30.5,
-    tick_rate: 1.0,
+    tick_rate: 2.0,
     range: 30.0,
     max_angle: 45.0,
     damage_effect: Some(Buff((

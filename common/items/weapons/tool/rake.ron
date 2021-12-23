@@ -1,6 +1,6 @@
 ItemDef(
-    name: "Rake",
-    description: "Held together with twine.",
+    name: "耙",
+    description: "用绳子固定在一起",
     kind: Tool((
         kind: Farming,
         hands: Two,

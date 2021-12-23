@@ -1,6 +1,6 @@
 ItemDef(
-    name: "Bramblewood Bow",
-    description: "Some loose brambles are still attached",
+    name: "黑莓木弓",
+    description: "黑莓木荆棘附着在弓身上",
     kind: Tool((
         kind: Bow,
         hands: Two,

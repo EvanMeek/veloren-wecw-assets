@@ -1,6 +1,6 @@
 ItemDef(
-    name: "Stag Bow",
-    description: "Made from the antlers of a stag",
+    name: "鹿弓",
+    description: "由鹿角制成",
     kind: Tool((
         kind: Bow,
         hands: Two,

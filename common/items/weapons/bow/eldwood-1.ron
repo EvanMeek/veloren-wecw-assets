@@ -1,6 +1,6 @@
 ItemDef(
-    name: "Topaz Warbow",
-    description: "Inset with topaz",
+    name: "黄玉战弓",
+    description: "镶嵌了黄玉",
     kind: Tool((
         kind: Bow,
         hands: Two,

@@ -1,6 +1,6 @@
 ItemDef(
-    name: "Soldier's Bow",
-    description: "Reinforced with iron",
+    name: "战士弓",
+    description: "使用了铁进行强化。",
     kind: Tool((
         kind: Bow,
         hands: Two,

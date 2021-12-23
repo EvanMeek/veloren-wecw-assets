@@ -1,6 +1,6 @@
 ItemDef(
-    name: "Pickaxe",
-    description: "It has a chipped edge.",
+    name: "鹤嘴锄",
+    description: "它的边缘有缺口。",
     kind: Tool((
         kind: Farming,
         hands: Two,

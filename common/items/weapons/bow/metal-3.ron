@@ -1,6 +1,6 @@
 ItemDef(
-    name: "Metal Warbow",
-    description: "Its appearance is intimidating",
+    name: "金属战弓",
+    description: "令人生畏的外观",
     kind: Tool((
         kind: Bow,
         hands: Two,

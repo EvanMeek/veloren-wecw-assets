@@ -14,5 +14,5 @@ ChargedRanged(
     projectile_light: None,
     initial_projectile_speed: 100.0,
     scaled_projectile_speed: 125.0,
-    move_speed: 0.2,
+    move_speed: 0.65,
 )

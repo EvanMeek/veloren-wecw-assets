@@ -1,12 +1,12 @@
 ItemDef(
-    name: "Sprig Bow",
-    description: "It was only recently collected",
+    name: "树枝弓",
+    description: "随意制作。",
     kind: Tool((
         kind: Bow,
         hands: Two,
         stats: Direct((
             equip_time_secs: 0.4,
-            power: 0.6,
+            power: 1.1,
             effect_power: 0.8,
             speed: 1.0,
             crit_chance: 0.083333336,

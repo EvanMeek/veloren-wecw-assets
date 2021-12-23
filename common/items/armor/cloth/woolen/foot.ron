@@ -1,8 +1,8 @@
 ItemDef(
-    name: "Woolen Boots",
-    description: "Thick and ready for the snow.",
+    name: "绒毛 | 长靴",
+    description: "厚厚的，不惧风雪。",
     kind: Armor((
-        kind: Foot("Woolen"),
+        kind: Foot("绒毛"),
         stats: (
             protection: Normal(3.0),
             poise_resilience: Normal(-4.0),

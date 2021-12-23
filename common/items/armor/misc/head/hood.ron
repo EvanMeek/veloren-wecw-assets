@@ -1,15 +1,15 @@
 ItemDef(
-    name: "Hood",
-    description: "Become one with the treetops.",
+    name: "绿兜帽",
+    description: "与草原合二为一。",
     kind: Armor((
         kind: Head("Hood"),
         stats: (
-            protection: Normal(20.0),
+            protection: Normal(0.0),
             poise_resilience: Normal(0.0),
             energy_max: 0,
             energy_reward: 0.0,
             crit_power: 0.0,
-            stealth: 0.12,
+            stealth: 0.0,
         ),
     )),
     quality: Common,

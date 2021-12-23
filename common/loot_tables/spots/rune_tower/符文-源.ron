@@ -6,6 +6,6 @@
     (0.03, Item("common.items.WECW.水符文")),
     (0.03, Item("common.items.WECW.火符文")),
     (0.03, Item("common.items.WECW.土符文")),
-    (0.2, Item("common.items.WECW.符文碎片")),
-    (2.0, ItemQuantity("common.items.WECW.白金币", 50, 320)),
+    (0.1, Item("common.items.WECW.符文碎片")),
+    (2.0, ItemQuantity("common.items.WECW.白金币", 40, 150)),
 ]

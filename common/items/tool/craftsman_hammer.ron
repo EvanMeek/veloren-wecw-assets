@@ -1,6 +1,6 @@
 ItemDef(
     name: "锻造锤",
-    description: "用于在锻造台打造一些物品.",
+    description: "(萌新必备)用于在锻造台打造一些物品.",
     kind: Tool((
         kind: Hammer,
         hands: One,

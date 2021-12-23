@@ -1,0 +1,18 @@
+ItemDef(
+    name: "背包仓库-120格",
+    description: "仓库小号再也不需要用那么多背包啦！",
+    kind: Armor((
+        kind: Back("Backpack"),
+        stats: (
+            protection: Normal(-999.0),
+            poise_resilience: Normal(-999.0),
+            energy_max: -999,
+            energy_reward: -999.0,
+            crit_power: 0.0,
+            stealth: -2000.0,
+        ),
+    )),
+    quality: High,
+    tags: [Bag],
+    slots: 120,
+)

@@ -1,6 +1,6 @@
 ItemDef(
-    name: "Bronze Gauntlets",
-    description: "'Heavy and dull, but it can take a punch.'",
+    name: "青铜 护手",
+    description: "十分沉重，但抗击打性不错。",
     kind: Armor((
         kind: Hand("Bronze"),
         stats: (

@@ -1,6 +1,6 @@
 ItemDef(
     name: "冒险者的凉鞋",
-    description: "忠诚的伙伴（你确定不是“破旧的凉鞋”）.",
+    description: "忠诚的伙伴（你确定不是“破旧的凉鞋”）.\n请按c打开合成表，利用一个奶酪合成一个新手卷轴。",
     kind: Armor((
         kind: Foot("Sandal"),
         stats: (

@@ -1,6 +1,6 @@
 ItemDef(
-    name: "Rawhide Cloak",
-    description: "'Tightly packed pieces of leather to endure all weather.'",
+    name: "原革 | 披风",
+    description: "能适应天气多变的Veloren世界。",
     kind: Armor((
         kind: Back("Rawhide"),
         stats: (

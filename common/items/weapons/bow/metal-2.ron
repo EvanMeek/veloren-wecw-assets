@@ -1,6 +1,6 @@
 ItemDef(
-    name: "Iron Longbow",
-    description: "Forged from iron",
+    name: "长铁弓",
+    description: "由铁锻造。",
     kind: Tool((
         kind: Bow,
         hands: Two,

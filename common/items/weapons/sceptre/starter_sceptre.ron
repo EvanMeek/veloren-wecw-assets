@@ -1,6 +1,6 @@
 ItemDef(
-    name: "Naturalist Walking Stick",
-    description: "Heals your allies with the power of nature.",
+    name: "自然之力",
+    description: "用自然之力治愈他们吧！",
     kind: Tool((
         kind: Sceptre,
         hands: Two,

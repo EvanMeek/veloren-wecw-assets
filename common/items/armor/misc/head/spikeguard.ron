@@ -1,6 +1,6 @@
 ItemDef(
-    name: "Spiked Faceguard",
-    description: "Introvert headgear.",
+    name: "尖刺面甲",
+    description: "异形\nT1-T2地牢掉落",
     kind: Armor((
         kind: Head("Spikeguard"),
         stats: (

@@ -1,6 +1,6 @@
 ItemDef(
-    name: "Linen Shoulders",
-    description: "Roughly stitched, but it seems to hold.",
+    name: "亚麻布 | 披肩",
+    description: "粗糙的缝线技术, 但还挺坚挺的。",
     kind: Armor((
         kind: Shoulder("Linen"),
         stats: (
